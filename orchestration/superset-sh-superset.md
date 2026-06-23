@@ -27,49 +27,50 @@ Orchestration · MCP · AI/ML · Frontend · DevTools
 
 ### English
 
-**Project Summary:**
-Superset is an open-source code editor designed for the AI Agents Era, allowing users to run multiple AI agents, such as Claude and Codex, on their machine. It helps turn isolated prompts and tools into repeatable agent workflows, making it a valuable tool for coordinating multi-agent workflows and standardizing agent memory. With a high production readiness score and strong adoption, Superset is a promising candidate for serious pilot projects.
+Here's a brief summary and explanation of the project:
 
-**Value:**
-The primary value proposition of Superset lies in its ability to help users manage and orchestrate multiple AI agents, turning isolated prompts and tools into repeatable workflows. This enables users to coordinate complex multi-agent workflows, standardize agent memory, and create tool-use pipelines, making it a valuable asset for AI and ML development.
+**Summary:** Superset is an open-source code editor designed for the AI agents era, enabling users to run multiple AI agents, such as Claude and Codex, on their machine and coordinate their workflows. This project helps standardize agent memory and turn isolated prompts and tools into repeatable agent workflows. With its high production readiness and strong ecosystem signals, Superset is a promising option for serious pilots.
 
-**Practical Adoption Path:**
-To adopt Superset, users can start by evaluating its API, SDK, and CLI implementation signals. They can then explore its language metadata and focused topics to understand its capabilities. With a straightforward integration process, users can begin integrating Superset into their existing workflows and pipelines. As they gain experience with Superset, they can standardize agent memory and create more complex multi-agent workflows.
+**Value:** The primary value proposition of Superset lies in its ability to streamline and standardize the workflow of multiple AI agents. By exposing API/SDK/CLI implementation signals, language metadata, and focused topics, Superset helps users integrate these agents into a cohesive system. This enables the development of more complex and efficient AI-powered workflows.
 
-**Production Readiness:**
-Superset has a high production readiness score, indicating that it is ready
+**Practical Adoption Path:** To adopt Superset, users can start by evaluating its implementation signals and integrating the API/SDK/CLI into their existing workflows. As a TypeScript-based project, users familiar with the language will find it easier to adapt. The project's recent activity, adoption, and ecosystem signals suggest that it is a viable option for serious pilots. However, users should conduct a final review of the license, security posture, and active maintainers before committing to production deployment.
+
+**Production Readiness
 
 ### Русский
 
-Резюме: 
+Резюме проекта superset-sh/superset:
 
-Superset - это мощный кодовый редактор для эры агентов искусственного интеллекта, позволяющий запускать армии агентов, таких как Claude Code и Codex, на вашем компьютере. Это решение предназначено для координации многоагентных потоков, добавления пайплайнов использования инструментов и стандартизации памяти агентов. Superset готов к внедрению в production, поскольку имеет высокий уровень готовности (90/100), активную поддержку (обновлено 23 июня 2026 года), а также сильную экосистему и адопцию (12041 GitHub звезда).
+Superset-sh/superset - это кодовый редактор для эпохи агентов искусственного интеллекта, который позволяет запускать армии агентов Claude Code, Codex и т. д. на своем компьютере. Этот проект помогает превратить изолированные запросы и инструменты в повторяемые шаблоны агентских потоков, позволяя координировать многомодульные потоки, добавлять пайплайны использования инструментов и стандартизировать память агентов. Проект находится на высоком уровне готовности к production, с 12041 GitHub-звездами, 1027 фолками и активной деятельностью с 2026 года.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-superset-sh/superset 是一款开源代码编辑器，专为 AI 代理时代设计。它可以让您在本地运行 Claude 代码、Codex 等 AI 代理，协调多个代理的工作流程，添加工具使用管道，并标准化代理内存。
+superset-sh/superset 是一款开源项目，旨在为 AI 代理的时代提供一个代码编辑器。它可以让用户在自己的机器上运行 Claude 代码、Codex 等 AI 代理，实现多个代理之间的协调工作。
 
 **价值**
 
-superset-sh/superset 的价值在于，它可以将孤立的提示和工具转化为可重复的代理工作流程，使得 AI 代理的协调和管理变得更加容易。
+superset-sh/superset 的主要价值在于，它可以帮助将孤立的提示和工具转换为可重复的代理工作流。通过使用 superset-sh/superset，用户可以：
+
+* 协调多个代理之间的工作流
+* 添加工具使用的管道
+* 标准化代理内存
 
 **典型接入方式**
 
-superset-sh/superset 可以通过以下方式接入：
+superset-sh/superset 提供了多种接入方式，包括：
 
-* API/SDK：通过 API 或 SDK 接入 superset-sh/superset 的功能。
-* CLI：通过命令行界面接入 superset-sh/superset 的功能。
-* 语言元数据：通过语言元数据接入 superset-sh/superset 的功能。
+* API：通过 API 调用 superset-sh/superset 的功能
+* SDK：通过 SDK 集成 superset-sh/superset 的功能
+* CLI：通过命令行接口使用 superset-sh/superset 的功能
 
 **生产可用性**
 
 superset-sh/superset 的生产可用性非常高，主要原因是：
 
-* 最近活动：项目最近有活跃的开发和维护。
-* 采用：项目已被广泛采用。
-* 生态系统信号：项目有强
+* 最近的活动：项目最近有更新
+* 采用情况：项目有大量的 GitHub
 
 ## 🧭 Practical evaluation
 
@@ -88,7 +89,7 @@ superset-sh/superset 的生产可用性非常高，主要原因是：
 **Quality signals**
 
 - 12041 GitHub stars
-- 1028 forks
+- 1027 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics

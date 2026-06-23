@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 📁 **Categories** | **14** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,17 +18,16 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
@@ -39,15 +38,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.7k | Mcp |
-| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.8k | Mcp |
-| 3 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
-| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.2k | Mcp |
-| 5 | [ToolJet/ToolJet](./automation/tooljet-tooljet.md) | ⭐ 38.1k | Automation |
-| 6 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 3.9k | Mcp |
-| 7 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.7k | Orchestration |
-| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
-| 10 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24k | Orchestration |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 47.9k | Orchestration |
+| 3 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 38.4k | Mcp |
+| 4 | [kreuzberg-dev/kreuzberg](./mcp/kreuzberg-dev-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.3k | Mcp |
+| 6 | [mksglu/context-mode](./orchestration/mksglu-context-mode.md) | ⭐ 18k | Orchestration |
+| 7 | [D4Vinci/Scrapling](./mcp/d4vinci-scrapling.md) | ⭐ 65.7k | Mcp |
+| 8 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 3.9k | Mcp |
+| 9 | [FlorianBruniaux/claude-code-ultimate-guide](./orchestration/florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 5.2k | Orchestration |
+| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
 
 ## 🚀 How it works
 

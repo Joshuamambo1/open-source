@@ -28,58 +28,60 @@ Orchestration · Automation · AI/ML · Frontend · Data
 ### English
 
 **Project Summary:**
-Flyte is an open-source, dynamic AI orchestration platform that enables the coordination of data, models, and compute resources to build repeatable AI workflows. It helps turn isolated prompts and tools into standardized agent workflows, making it an ideal solution for coordinating multi-agent workflows and standardizing agent memory. Flyte's recent activity, adoption, and strong ecosystem signals make it a highly production-ready candidate.
+Flyte is an open-source, dynamic AI orchestration project that enables users to build and manage AI workflows by coordinating data, models, and compute resources. It helps turn isolated tools and prompts into repeatable workflows, making it easier to automate and standardize complex tasks. With its strong adoption and ecosystem signals, Flyte is production-ready for serious pilots.
 
-**Value:**
-The value proposition of Flyte lies in its ability to turn isolated tools and prompts into repeatable workflows, making it easier to standardize and automate AI-related tasks. This can lead to increased efficiency, reduced errors, and improved collaboration among teams.
+**Value Proposition:**
+Flyte's primary value lies in its ability to simplify AI workflow management, making it easier to build, execute, and maintain complex tasks. By standardizing agent memory and allowing for the coordination of multi-agent workflows, Flyte helps users to:
+
+* Automate repetitive tasks and workflows
+* Standardize and improve data management and processing
+* Enhance the scalability and reliability of AI models
 
 **Practical Adoption Path:**
-To adopt Flyte, start with a small proof of concept to evaluate its feasibility and understand its integration requirements. Review the README documentation and explore the project's GitHub repository to get familiar with its architecture and components. Once you have a clear understanding of Flyte's capabilities and limitations, you can begin integrating it into your existing workflows and tools.
+To adopt Flyte, users can start by:
+
+1. Evaluating the project through a small proof of concept and a review of the README documentation.
+2. Assessing the feasibility of integrating Flyte into their existing workflows and tools.
+3. Starting with a small pilot project to test the capabilities and limitations of Flyte.
+4. Scaling up the adoption of Flyte as needed, based on the results of the pilot project.
 
 **Production Readiness:**
-Flyte is highly production-ready due to its recent activity, strong adoption, and positive ecosystem signals. With over 7,000 GitHub stars and 837 forks, Flyte has a large and engaged community of
+Flyte
 
 ### Русский
 
-Резюме проекта flyteorg/flyte:
+Резюме:
 
-Проект flyteorg/flyte представляет собой динамическую и устойчивую систему оркестрации AI, которая позволяет координировать данные, модели и вычислительные ресурсы при построении AI-работflows. Он помогает превратить изолированные команды и инструменты в повторяемые агентные потоки. flyteorg/flyte готов к serious пилоту в production, поскольку проект имеет сильные сигналы об использовании, активность и экосистемные сигналы.
+Flyte - это динамический и устойчивый инструмент оркестрации AI, который позволяет координировать данные, модели и вычислительные ресурсы для построения рабочих процессов AI.
 
-Типовой сценарий внедрения flyteorg/flyte включает в себя координацию многозадачных потоков, добавление инструментов-ленточных линий и стандартизацию агентной памяти. Проект подходит для проектов, требующих сложных AI-работflows и координации различных инструментов и данных.
+Flyte предназначен для преобразования изолированных команд и инструментов в повторяемые агентные рабочие процессы. Типовым сценарием внедрения является координация мультиагентных рабочих процессов, добавление инструментальных пайплайнов и стандартизация агентной памяти.
+
+Flyte готов к производственной эксплуатации на высоком уровне, thanks to recent activity, adoption и сильные сигналы экосистемы.
 
 ### 中文
 
-**Flyte项目简介**
+**Flyte 开源项目简介**
 
-Flyte是一个开源项目，用于动态、可靠的AI调度。它可以协调数据、模型和计算资源，以便构建AI工作流程。Flyte的价值在于，它可以将孤立的提示和工具转换为可重复的代理工作流程。
+Flyte 是一个动态、可靠的 AI 调度系统，用于协调数据、模型和计算资源，以构建 AI 工作流。它可以帮助将孤立的提示和工具转化为可重复的代理工作流。
 
 **价值**
 
-Flyte的价值在于：
-
-* 将多代理工作流程协调起来
-* 添加工具使用管道
-* 标准化代理内存
+Flyte 的价值在于，它可以帮助开发者将多个代理之间的工作流协调起来，添加工具使用的管道，并标准化代理的内存。通过使用 Flyte，开发者可以更轻松地构建和管理复杂的 AI 工作流。
 
 **典型接入方式**
 
-Flyte的接入方式包括：
+Flyte 的接入方式包括：
 
-* 评估小的POC（Proof of Concept）和README检查
-* 开始小规模的生产环境部署
+1. 评估 Flyte 的可行性，阅读 README 文件，进行小规模的 PoC（proof of concept）测试。
+2. 集成 Flyte 到现有的系统中，使用 Flyte 来协调多个代理之间的工作流。
+3. 使用 Flyte 来标准化代理的内存，提高工作流的可靠性和可维护性。
 
 **生产可用性**
 
-Flyte的生产可用性很高，主要原因是：
+Flyte 的生产可用性很高，主要原因是其：
 
-* 近期活动和采用度较高
-* 生态系统信号强大
-* 代码更新频繁（2026-06-23）
-* 主要语言是Go，20个讨论话题
-
-**注意**
-
-Flyte项目仍然需要进一步的审查，特别是关于许可、安全态势和活跃维护者的情况。
+1.  有活跃的社区和维护者。
+2.
 
 ## 🧭 Practical evaluation
 
@@ -97,7 +99,7 @@ Flyte项目仍然需要进一步的审查，特别是关于许可、安全态势
 
 **Quality signals**
 
-- 7105 GitHub stars
+- 7106 GitHub stars
 - 837 forks
 - updated 2026-06-23
 - primary language: Go

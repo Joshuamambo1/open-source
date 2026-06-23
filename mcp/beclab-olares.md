@@ -27,50 +27,50 @@ MCP · Automation · AI/ML · Backend · Data
 
 ### English
 
-Here's a brief summary of the open-source project beclab/Olares:
+Here's a summary of the beclab/Olares project:
 
-Olares is an open-source personal cloud that enables users to reclaim their data and connect AI assistants to real tools and data through a standard protocol. This project offers a straightforward integration path, exposing implementation signals such as API/SDK/CLI, making it accessible for developers to connect AI agents to tools. With a high production readiness score, Olares is suitable for serious pilots due to its recent activity, adoption, and strong ecosystem signals.
+Olares is an open-source personal cloud that enables users to reclaim their data and connect AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This project offers a practical adoption path for developers, allowing them to ship MCP servers and standardize integrations with AI agents and tools. With high production readiness, strong adoption, and recent activity, Olares is a promising candidate for serious pilots.
 
-As for the value, Olares provides a standardized protocol for connecting AI assistants to real tools and data, enabling users to integrate their AI agents with a wide range of applications. This standardization facilitates the development of more sophisticated AI-powered workflows and automations.
+In terms of value, the project's standard protocol (MCP) provides a unified interface for integrating AI assistants with real tools and data, making it easier for developers to build connected applications. The practical adoption path involves:
 
-The practical adoption path for Olares involves evaluating its implementation signals, such as API/SDK/CLI, to determine the best approach for integrating AI agents with specific tools. Developers can then use Olares to ship Model Context Protocol servers and standardize integrations.
+1. Evaluating the project's simplicity and ease of use, as indicated by the straightforward integration notes.
+2. Shipping MCP servers to connect AI agents to tools and data.
+3. Standardizing integrations with other applications and services using the MCP protocol.
 
-In terms of production readiness, Olares has a high score due to its recent activity, adoption, and strong ecosystem signals. With 4914 GitHub stars and 292 forks, the project demonstrates a significant level of community engagement and interest
+As for production readiness, the project has received strong adoption (4913 GitHub stars and 292 forks) and has a high level of activity, with recent updates (2026-06-23). The primary language is Go, and the project covers 14 topics. However, it's essential to conduct
 
 ### Русский
 
-Резюме проекта beclab/Olares:
+Резюме:
 
-beclab/Olares представляет собой открытый исходный код проект, который позволяет соединять интеллектуальные ассистенты с реальными инструментами и данными через стандартный протокол. Этот проект может помочь вам внедрить стандартные интеграции и подключить агентов AI к инструментам, что делает его идеальным решением для автоматизации и управления данными. Проект готов к сериозному пилотному проекту, с сильными сигналами для адоптации и экосистемы, что делает его высокорейсовым к production.
+Олаres - это открытый источник персонального облака, позволяющего вернуть контроль над данными. Проект предназначен для соединения интеллектуальных помощников с реальными инструментами и данными посредством стандартизированного протокола. beclab/Olares готов к внедрению в производство, так как имеет высокий уровень активности, адоптации и сигналов экосистемы, что делает его подходящим кандидатом для серьезного пилота.
 
 ### 中文
 
-**Olares介绍**
+**Olares 介绍**
 
-Olares是一个开源的个人云数据平台，旨在让用户重新掌控自己的数据。通过标准协议连接AI助手和真实工具，Olares带来了一体化的数据管理体验。
+Olares 是一款开源个人云存储系统，旨在帮助用户重拾自己的数据。它通过标准协议连接 AI 助手和真实工具，提供了连接 AI 代理到工具、部署 Model Context Protocol 服务器以及标准化集成的功能。
 
 **价值**
 
-Olares的价值在于，它帮助连接AI助手和真实工具，标准化数据集成，提高数据管理效率。
+Olares 的价值在于，它帮助连接 AI 助手和真实工具，提供了更高效的数据管理和协同工作体验。通过 Olares，用户可以轻松地连接 AI 代理到工具，实现数据共享和协同工作。
 
 **典型接入方式**
 
-Olares支持多种接入方式，包括：
+Olares 支持多种接入方式，包括：
 
-* API接入：通过API接口连接AI助手和工具。
-* SDK接入：通过SDK接口集成Olares功能到自己的应用中。
-* CLI接入：通过命令行界面操作Olares。
+* API：通过 API 接口连接 AI 助手和工具
+* SDK：通过 SDK 接口集成 Olares 到自己的应用中
+* CLI：通过命令行接口管理 Olares
 
 **生产可用性**
 
-Olares的生产可用性很高，主要原因是：
+Olares 的生产可用性较高，主要因为其：
 
-* 有强烈的社区支持和活跃维护者。
-* 有足够的GitHub星星（4914）和forks（292）。
-* 主要语言是Go，具有强大的性能和可维护性。
-* 有14个主题，涵盖了数据管理、AI助手和工具集成等领域。
-
-总的来说，Olares是一个
+* 有近 5 万的 GitHub 星星和 292 个分支
+* 最近的活动和采用率强
+* 有足够的生态系统信号支持
+* 使用
 
 ## 🧭 Practical evaluation
 
@@ -88,7 +88,7 @@ Olares的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 4914 GitHub stars
+- 4913 GitHub stars
 - 292 forks
 - updated 2026-06-23
 - primary language: Go

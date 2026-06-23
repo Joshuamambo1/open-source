@@ -27,54 +27,41 @@ AI/ML · Frontend · DevTools · Database
 
 ### English
 
-**Project Summary**
+**Summary:** 
+KiloCode is an open-source, all-in-one agentic engineering platform that enables developers to build, ship, and iterate faster with AI capabilities. It allows users to prototype AI features, build RAG or agent workflows, and evaluate model tooling, making it an ideal solution for teams looking to add AI capabilities without starting from scratch. With a high production readiness score and strong ecosystem signals, KiloCode is a promising candidate for serious pilots.
 
-KiloCode is an open-source, all-in-one agentic engineering platform that enables users to build, ship, and iterate on AI capabilities faster. This platform helps developers add AI capabilities without starting from scratch, making it an ideal solution for prototyping AI features, building RAG or agent workflows, and evaluating model tooling. With its high production readiness and strong ecosystem signals, KiloCode is suitable for serious pilots and real-world adoption.
+**Value:**
+The primary value proposition of KiloCode lies in its ability to help developers add AI capabilities to their projects without having to build a model stack from scratch. This makes it an attractive solution for teams looking to prototype AI features, build agent workflows, or evaluate model tooling.
 
-**Value Proposition**
+**Practical Adoption Path:**
+The adoption path for KiloCode appears to be straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics. This makes it easy for developers to evaluate and integrate KiloCode into their existing workflows.
 
-The primary value proposition of KiloCode lies in its ability to streamline the development of AI capabilities. By providing an all-in-one platform, it saves developers time and effort in building, shipping, and iterating on AI features. This makes it an attractive solution for organizations looking to integrate AI into their products or services without the need for extensive infrastructure setup.
-
-**Practical Adoption Path**
-
-To adopt KiloCode, developers can follow these steps:
-
-1. Evaluate the platform's API/SDK/CLI and language metadata to understand its capabilities.
-2. Explore the platform's documentation and community resources to get familiar with its features and best practices.
-3. Integrate KiloCode into their existing development workflow by using its SDK or CLI.
-4. Start building and iterating on AI features using KiloCode's agentic engineering
+**Production Readiness:**
+KiloCode has a high production readiness score of 86/100, indicating that it is well-suited for serious pilots. The project has recent activity, strong adoption, and a healthy ecosystem, with 24,128
 
 ### Русский
 
 Резюме проекта Kilo-Org/kilocode:
 
-Kilo-Org/kilocode - всеобъемлющий платформа для агентного инженерного процесса. Она позволяет быстро создавать, развертывать и совершенствовать код с помощью популярного открытое исходный код агента. Платформа особенно полезна для добавления функций AI без необходимости начинать с нуля.
+Kilo - всеобъемлющий агентный платформы для инженеров, позволяющий быстро разрабатывать, развертывать и совершенствовать код. С помощью Kilo можно добавить функции AI без создания новой модели стека. typовой сценарий внедрения проекта - прототипирование функций AI, создание рабочих процессов RAG или агента, оценка инструментов моделирования. Проект готов к production на высоком уровне, с сильными сигналами активности, приема и экосистемы.
 
 ### 中文
 
-**简短介绍**
+**Kilo-Org/kilocode 简介**
 
-Kilo-Org/kilocode 是一个全面的智能工程平台，提供了 build、ship 和 iterate 的功能。它是最受欢迎的开源编码代理，可以帮助您快速构建、部署和迭代 AI 能力。
+Kilo-Org/kilocode 是一个全能的工程平台，提供了建造、部署和迭代的功能，帮助开发者快速构建和部署 AI 项目。
 
 **价值**
 
-Kilo-Org/kilocode 的价值在于，它可以帮助您在不从头开始构建模型堆栈的情况下，添加 AI 能力。它适用于以下场景：
-
-* 快速 prototype AI 特性
-* 构建 RAG 或代理工作流
-* 评估模型工具
+Kilo-Org/kilocode 的价值在于，它可以帮助开发者在不从头开始构建模型堆栈的情况下，添加 AI 能力。它可以用于多种场景，包括快速 prototyping AI 特性、构建 RAG 或代理工作流、评估模型工具。
 
 **典型接入方式**
 
-Kilo-Org/kilocode 提供了 API、SDK 和 CLI 等接入方式，方便开发者快速接入。它还提供了语言元数据和专门话题，帮助开发者快速了解和使用。
+Kilo-Org/kilocode 提供了多种接入方式，包括 API、SDK 和 CLI 等。它还提供了语言元数据和专注话题的接入点，方便开发者快速接入和评估。
 
 **生产可用性**
 
-Kilo-Org/kilocode 的生产可用性很高，原因如下：
-
-* 近期活跃度：最近活跃度强，表明项目仍然活跃开发中。
-* Adoption：项目的采用度很高，表明它在开发社区中受欢迎。
-* Ecosystem signals
+Kilo-Org/kilocode 在生产环境中有较高的可用性，主要原因是其最近的活跃度、采用率和生态信号都较强。GitHub 上的 star 数和 fork 数也非常高，表明了其在开发者社区中的受欢迎程度。
 
 ## 🧭 Practical evaluation
 
@@ -92,8 +79,8 @@ Kilo-Org/kilocode 的生产可用性很高，原因如下：
 
 **Quality signals**
 
-- 24100 GitHub stars
-- 2775 forks
+- 24128 GitHub stars
+- 2776 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 12 topics

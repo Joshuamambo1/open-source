@@ -29,43 +29,51 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 **Project Summary**
 
-ggozad/haiku.rag is an open-source, opinionated agentic RAG (Reactor, Agent, Gateway) project that enables AI assistants to connect with real tools and data through a standard protocol. This project utilizes LanceDB, Pydantic AI, and Docling to facilitate seamless integrations. It has a strong adoption potential and is suitable for serious pilots.
+The open-source project ggozad/haiku.rag is an opinionated Agentic RAG (Reasoning and Argumentation Framework) powered by LanceDB, Pydantic AI, and Docling. It enables AI assistants to connect to real tools and data through a standard protocol, facilitating integrations and standardization. With a high production readiness score, this project is suitable for serious piloting and adoption.
 
 **Value Proposition**
 
-The value of ggozad/haiku.rag lies in its ability to standardize integrations between AI assistants and real tools and data. This standard protocol enables developers to connect AI agents to various tools, ship Model Context Protocol servers, and simplify the integration process.
+The primary value of ggozad/haiku.rag lies in its ability to standardize integrations between AI assistants and real tools and data. This enables seamless communication and collaboration between different AI systems, making it an essential tool for various industries and applications. By using this protocol, developers can connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations.
 
 **Practical Adoption Path**
 
-To adopt ggozad/haiku.rag, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process and strong adoption potential make it an attractive choice for those looking to standardize integrations. Additionally, the project's recent activity, adoption, and ecosystem signals indicate a high level of production readiness.
+To adopt ggozad/haiku.rag, developers can follow these steps:
 
-**Production Readiness**
-
-ggozad/haiku.rag has a high production readiness score, with recent activity, adoption, and ecosystem signals that are
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
+2. Review the project's documentation and codebase to understand its architecture and functionality.
+3. Integrate the project with existing AI assistants and tools, following the standard protocol.
+4. Test and refine the integration
 
 ### Русский
 
 Резюме проекта ggozad/haiku.rag:
 
-Проект ggozad/haiku.rag представляет собой агентное RAG (Reasoning And Generation), которое помогает подключать интеллектуальные помощники к реальным инструментам и данным через стандартный протокол. Этот проект может быть полезен в сценариях, когда необходимо интегрировать AI-агентов с другими системами, например, для создания Model Context Protocol серверов или стандартизации интеграций. Проект готов к использованию в production, поскольку имеет сильные сигналы активности, приёма и экосистемы, а также высокий уровень готовности.
+Этот проект представляет собой агентное RAG (Retrieval-Augmented Generation), которое обеспечивает стандартный протокол для подключения AI-ассистентов к реальным инструментам и данным. Он может помочь организациям внедрить интеграцию между AI-агентами и различными инструментами, обеспечивая централизованное управление и стандартизацию протоколов. Проект готов к сериозному пилоту, поскольку имеет высокий уровень готовности к production, обширную базу пользователей и регулярную поддержку.
 
 ### 中文
 
-**简短介绍**
+**项目介绍**
 
-ggozad/haiku.rag 是一个开源项目，基于 LanceDB、Pydantic AI 和 Docling 等技术。它提供了一个标准的协议，帮助连接 AI 助手与真实工具和数据。
+ggozad/haiku.rag 是一个基于 LanceDB、Pydantic AI 和 Docling 的 Opinionated agentic RAG（Rapid Application Generation）项目。它通过标准协议连接 AI 助手到真实工具和数据。
 
 **价值**
 
-ggozad/haiku.rag 的价值在于，它帮助连接 AI 助手与真实工具和数据，标准化了整合。它可以用于连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化整合。
+该项目的价值在于帮助连接 AI 助手到真实工具和数据，标准化集成，并提供 Model Context Protocol 服务器。它适用于连接 AI 代理到工具、部署 Model Context Protocol 服务器、标准化集成等场景。
 
 **典型接入方式**
 
-该项目提供了 API/SDK/CLI 等接入信号，可以方便地评估和接入。用户可以根据自己的需求选择适合的接入方式。
+该项目的接入方式包括：
+
+1. 连接 AI 代理到工具：通过 API、SDK 或 CLI 等接口与 AI 代理进行交互。
+2. 部署 Model Context Protocol 服务器：使用该项目提供的标准协议部署 Model Context Protocol 服务器。
+3. 标准化集成：使用该项目提供的标准化集成接口与其他工具和系统进行集成。
 
 **生产可用性**
 
-ggozad/haiku.rag 的生产可用性很高，最近有活跃的更新，采用者和生态系统信号也很强。它适合作为一个严肃的试验项目。
+该项目的生产可用性高，主要原因包括：
+
+1. 近期活动：最近有活动的GitHub项目表明该项目仍然活跃。
+2. 采用率：
 
 ## 🧭 Practical evaluation
 

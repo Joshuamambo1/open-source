@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [earendil-works/pi](./earendil-works-pi.md) | ⭐ 65k | TypeScript | 89/100 |
-| 2 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 88/100 |
-| 3 | [OpenHands/OpenHands](./openhands-openhands.md) | ⭐ 78.1k | Python | 88/100 |
+| 1 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 88/100 |
+| 2 | [OpenHands/OpenHands](./openhands-openhands.md) | ⭐ 78.1k | Python | 88/100 |
+| 3 | [mvanhorn/cli-printing-press](./mvanhorn-cli-printing-press.md) | ⭐ 3.7k | Go | 87/100 |
 | 4 | [Kilo-Org/kilocode](./kilo-org-kilocode.md) | ⭐ 24.2k | TypeScript | 86/100 |
 | 5 | [langgenius/dify](./langgenius-dify.md) | ⭐ 138.6k | TypeScript | 85/100 |
 | 6 | [MCPJam/inspector](./mcpjam-inspector.md) | ⭐ 1.9k | TypeScript | 80/100 |

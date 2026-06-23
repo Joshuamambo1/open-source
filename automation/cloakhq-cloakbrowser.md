@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26.9k |
+| ⭐ **Stars** | 27k |
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
@@ -27,50 +27,58 @@ Automation · AI/ML · Backend · DevTools
 
 ### English
 
-Here's a brief summary of the CloakHQ/CloakBrowser project:
+**Project Summary:**
 
-CloakHQ/CloakBrowser is an open-source, drop-in replacement for Playwright that provides stealth capabilities to pass bot detection tests. This project offers a significant value proposition by automating repetitive tasks and workflows, allowing users to remove manual operations and connect tools into repeatable flows. With its high production readiness and strong ecosystem signals, CloakHQ/CloakBrowser is poised for serious adoption.
+CloakHQ/CloakBrowser is an open-source project that provides a stealth Chromium browser, designed to evade bot detection and pass all relevant tests. This project offers a drop-in replacement for Playwright, allowing for streamlined automation workflows. With its high production readiness and strong adoption, it's an attractive solution for removing repetitive manual operations from workflows.
 
 **Value:**
-The primary value of CloakHQ/CloakBrowser lies in its ability to automate repetitive tasks and workflows, freeing users from manual operations and enabling them to focus on more strategic tasks. By connecting tools into repeatable flows, users can streamline their workflows and improve efficiency.
+
+The primary value proposition of CloakHQ/CloakBrowser lies in its ability to automate repetitive tasks, freeing up time and resources for more strategic activities. By connecting tools into repeatable flows and scheduling operational tasks, users can increase efficiency and reduce manual work.
 
 **Practical Adoption Path:**
-The adoption path for CloakHQ/CloakBrowser appears straightforward. Users can integrate the project into their existing workflows by exposing implementation signals such as API/SDK/CLI, language metadata, or focused topics. With its Python implementation and 20 topics, users can easily evaluate and evaluate the project's feasibility for their specific use cases.
 
-**Production Readiness:**
-CloakHQ/CloakBrowser demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for
+To adopt CloakHQ/CloakBrowser, users can follow these steps:
+
+1. Evaluate the project's implementation signals, such as its API, SDK, CLI, and language metadata.
+2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
+3. Review the project's quality signals, including its GitHub stars, forks, and updated date.
+4. Evaluate the project's risks, such as its license, security posture, and active maintainers.
+5. Integrate the project into existing workflows, using its drop-in replacement for Playwright.
+
+**Production Readiness:
 
 ### Русский
 
-Резюме:
+Резюме проекта CloakHQ/CloakBrowser:
 
-CloakHQ/CloakBrowser — это открытое исходное проект, основанное на Chromium, которое обеспечивает высокий уровень анонимности и успешно проходит все тесты обнаружения ботов. Этот проект может заменить Playwright и обеспечить более надежную автоматизацию. CloakHQ/CloakBrowser идеально подходит для удаления повторяющихся ручных операций из рабочего процесса, соединения инструментов в повторяющиеся потоки и планирования операционных задач.
+CloakHQ/CloakBrowser - это мощный инструмент, позволяющий автоматизировать повторяющиеся операции в рабочем процессе. Он предназначен для замены Playwright и предлагает инновационную возможность обхода ботовых детектирований с помощью level-уровня фильтров отпечатков исходного кода. 
 
-Внедрение CloakHQ/CloakBrowser может состоять в следующем: сначала необходимо оценить проект и убедиться, что он соответствует требованиям, а затем заменить Playwright на CloakBrowser в существующей автоматизации. После этого можно соединить инструменты в повторяющиеся потоки и запланировать операционные задачи.
-
-Проект CloakHQ/CloakBrowser готов к производству на высоком уровне, поскольку он имеет сильные сигналы приема, активных пользователей и обновлений. Однако необходимо провести дополнительный анализ лицензии, безопасности и активности разработчиков перед внедрением
+Проект готов к внедрению в production, получив высокую оценку за активность, адопцию и сигналы экосистемы. Он уже используется в более чем 26974 проектах на GitHub и поддерживается активными разработчиками.
 
 ### 中文
 
-**简短介绍**
+**CloakHQ/CloakBrowser 简介**
 
-CloakHQ/CloakBrowser 是一个开源项目，基于 Chromium 构建的隐形浏览器，能够通过各种机器人检测测试。它可以作为 Playwright 的替代品，提供了源级别的指纹修补。该项目已通过 30 个测试，得分 86/100。
+CloakHQ/CloakBrowser 是一个开源项目，基于 Chromium 构建的浏览器，专为自动化测试和机器学习应用而设计。它通过源级别的指纹修补，能够通过所有 bot 检测测试。
 
 **价值**
 
-CloakHQ/CloakBrowser 可以帮助您免去重复的 manual 操作，从而提高工作效率。它可以用于连接工具，建立可重复的工作流程，并且可以用于调度操作任务。
+CloakHQ/CloakBrowser 的主要价值在于帮助用户移除重复的手动操作，从而提高工作效率。它可以帮助用户将工具连接到可重复的流程中， schedule 操作任务，从而简化工作流程。
 
 **典型接入方式**
 
-该项目提供了多种接入方式，包括 API、SDK 和 CLI。您可以根据自己的需求选择合适的接入方式。
+CloakHQ/CloakBrowser 支持多种接入方式，包括：
+
+* API/SDK：提供 RESTful API 和 SDK，使开发者能够轻松接入。
+* CLI：提供命令行接口，使用户能够通过命令行操作。
+* Language metadata：支持多种编程语言，使开发者能够选择合适的语言进行开发。
 
 **生产可用性**
 
-CloakHQ/CloakBrowser 的生产可用性很高，因为它具有以下特点：
+CloakHQ/CloakBrowser 的生产可用性较高，主要原因包括：
 
-* 最近活动：最近有活跃的更新。
-* 适度采用：有足够的采用率和生态系统信号。
-* 高质量信号：GitHub星球数为26906，分支数为2119，更新时间为2026-06-23，主要语言为
+* 近期活动：项目最近有活跃的开发和维护。
+* 适度采用：
 
 ## 🧭 Practical evaluation
 
@@ -88,8 +96,8 @@ CloakHQ/CloakBrowser 的生产可用性很高，因为它具有以下特点：
 
 **Quality signals**
 
-- 26906 GitHub stars
-- 2119 forks
+- 26974 GitHub stars
+- 2129 forks
 - updated 2026-06-23
 - primary language: Python
 - 20 topics

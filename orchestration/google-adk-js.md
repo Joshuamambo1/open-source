@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 162 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,41 +27,51 @@ Orchestration · Automation · AI/ML · Frontend
 
 ### English
 
-**Summary:** Google/adk-js is an open-source toolkit that enables developers to create, evaluate, and deploy sophisticated AI agents with flexibility and control. This Typescript-based tool helps integrate isolated prompts and tools into repeatable workflows, streamlining agent development and deployment. With its high production readiness and strong ecosystem signals, it's an attractive candidate for serious pilots.
+**Project Summary:**
 
-**Value Proposition:** The primary value of Google/adk-js lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This allows developers to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, making it easier to build and deploy AI agents.
+google/adk-js is an open-source, code-first Typescript toolkit that enables developers to build, evaluate, and deploy sophisticated AI agents with flexibility and control. This project helps turn isolated prompts and tools into repeatable agent workflows, making it a valuable tool for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. With its high production readiness and strong ecosystem signals, google/adk-js is a promising candidate for serious pilots.
 
-**Practical Adoption Path:** To adopt Google/adk-js, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore its use cases, such as coordinating multi-agent workflows and standardizing agent memory. With its straightforward integration and strong ecosystem signals, developers can quickly get started with the toolkit.
+**Value:**
 
-**Production Readiness:** Google/adk-js has a high production readiness score, indicating that it's suitable for serious pilots. Its recent activity, adoption, and ecosystem signals are strong, suggesting a stable and maintainable project. However, a final review of its license, security
+The primary value proposition of google/adk-js lies in its ability to help developers turn isolated tools and prompts into repeatable agent workflows. This enables organizations to standardize agent memory, coordinate multi-agent workflows, and add tool-use pipelines, making it easier to build and maintain sophisticated AI agents.
+
+**Practical Adoption Path:**
+
+To adopt google/adk-js, developers can start by evaluating the toolkit's API, SDK, and CLI to understand its implementation signals. They can then explore the project's language metadata, focused topics, and GitHub repository to assess its quality signals. With a clear understanding of the toolkit's capabilities and limitations, developers can begin incorporating google/adk-js into their projects, starting with small-scale pilots and gradually scaling up to more complex deployments.
+
+**Production Readiness:**
+
+google/adk
 
 ### Русский
 
-Резюме:
+Резюме проекта google/adk-js:
 
-google/adk-js - это открытый, код-ориентированный инструментарий на TypeScript для создания, оценки и развертывания сложных агентов AI с гибкостью и контролем. Этот инструментарий позволяет превратить изолированные команды и инструменты в повторяемые потоки агентов, что делает его идеальным решением для координации многоагентных потоков и стандартизации памяти агентов. google/adk-js готов к пилотному производству, поскольку имеет высокий уровень готовности к production, недавнюю активность, широкое адоптирование и сильные сигналы экосистемы.
+google/adk-js — это открытое кодовое инструментарий на основе TypeScript, предназначенное для построения, оценки и развертывания сложных агентов AI с гибкостью и контролем. Этот проект позволяет превратить изолированные команды и инструменты в повторяемые потоки агентов, упрощая процесс координации и стандартизации агентной памяти. google/adk-js готов к масштабному внедрению, с высоким уровнем готовности к production и сильными сигналами экосистемы, что делает его подходящим кандидатом для серьезного пилота.
 
 ### 中文
 
-**google/adk-js 介绍**
+**google/adk-js 简介**
 
-google/adk-js 是一个开源的 Typescript 工具包，用于构建、评估和部署复杂的 AI 代理。它提供了灵活性和控制，帮助将孤立的提示和工具转换为可重复的代理工作流。
+google/adk-js 是一个开源、基于 TypeScript 的工具包，用于构建、评估和部署复杂的 AI 代理。它提供了灵活性和控制，帮助开发者将孤立的提示和工具转换为可重复的代理工作流。
 
 **价值**
 
-google/adk-js 的主要价值在于帮助开发者将孤立的提示和工具整合为可重复的代理工作流，提高工作效率和灵活性。它还可以协调多个代理工作流，添加工具使用流水线和标准化代理内存。
+google/adk-js 的主要价值在于能够将孤立的提示和工具整合为可重复的代理工作流，从而提高效率和灵活性。它还提供了多代理工作流的协调、工具使用管道的添加和代理内存标准化等功能。
 
 **典型接入方式**
 
-google/adk-js 提供了多种接入方式，包括：
+google/adk-js 可以通过以下方式接入：
 
-* API：通过 API 调用 google/adk-js 的功能。
-* SDK：通过 SDK 集成 google/adk-js 到自己的应用中。
-* CLI：通过命令行工具直接使用 google/adk-js 的功能。
+* API：通过 SDK、CLI 等接口来访问 google/adk-js 的功能。
+* 语言元数据：通过语言元数据来获取 google/adk-js 的语言支持信息。
+* 专注主题：通过专注主题来获取 google/adk-js 的特定功能或工具。
 
 **生产可用性**
 
-google/adk-js 的生产可用性非常高，最近有活跃的开发和社区支持，GitHub 上有超过 1235 个星星和 162 个 fork。它的主要语言是 Typescript，支持 16 个主题
+google/adk-js 的生产可用性较高，主要原因是：
+
+* 最近的活跃度：google/adk-js 有最近的更新记录，表
 
 ## 🧭 Practical evaluation
 
@@ -79,9 +89,9 @@ google/adk-js 的生产可用性非常高，最近有活跃的开发和社区支
 
 **Quality signals**
 
-- 1235 GitHub stars
+- 1237 GitHub stars
 - 162 forks
-- updated 2026-06-22
+- updated 2026-06-23
 - primary language: TypeScript
 - 16 topics
 

@@ -27,33 +27,44 @@ AI/ML · DevTools
 
 ### English
 
-Here's a 2-3 sentence summary of the OpenHands project:
+Here's a 2-3 sentence summary for the OpenHands project:
 
-OpenHands is an open-source project that enables developers to integrate AI capabilities into their applications without starting from scratch. It provides a foundation for prototype AI features, building RAG (Reusable Agent Graph) or agent workflows, and evaluating model tooling. With its high production readiness, strong adoption, and recent activity, OpenHands is a viable candidate for serious pilots, offering a straightforward integration path through its API/SDK/CLI.
+OpenHands is an open-source project that enables developers to easily add AI capabilities to their applications without starting from scratch. Its value proposition lies in accelerating AI-driven development through pre-built model stacks and tools, making it suitable for prototyping AI features, building RAG or agent workflows, and evaluating model tooling. With its high production readiness, recent activity, and strong ecosystem signals, OpenHands is ready for serious pilots and adoption in production environments.
 
 ### Русский
 
 Резюме OpenHands/OpenHands:
 
-OpenHands/OpenHands - это открытый проект, который помогает добавить возможности AI в существующие приложения без необходимости создания сложной инфраструктуры. Этот проект подходит для разработчиков, которые хотят прототипировать функции AI, построить поток рабочей группы или оценить инструменты моделирования. OpenHands/OpenHands готов к использованию в production, поскольку имеет высокий уровень активности, широкую адопцию и сильные сигналы экосистемы.
+OpenHands/OpenHands - это open-source проект, который позволяет добавить в ваш проект AI-вычислительные возможности без создания сложной модели с нуля. Это идеальный инструмент для разработчиков, которые хотят прототипировать AI-функции или построить рабочие процессы с помощью агентов (RAG). Проект имеет высокий уровень готовности к использованию в production,thanks к активной поддержке, большому количеству forks и сильному экосистемному потенциалу.
 
 ### 中文
 
 **OpenHands/OpenHands 简介**
 
-OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动开发的功能。它可以帮助开发者在不从零开始搭建模型堆栈的情况下，轻松添加 AI 能力。
+OpenHands/OpenHands 是一个开源项目，利用 AI 驱动开发，帮助开发者快速添加 AI 能力而无需从头开始搭建模型堆栈。它提供了一个易于评估的接口，包括 API、SDK 和 CLI 等实现信号。
 
 **价值**
 
-OpenHands/OpenHands 的主要价值在于它可以帮助开发者快速 prototyping AI 特性、构建 RAG 或 agent 工作流、评估模型工具等。它提供了一个可靠的基础设施，帮助开发者在 AI 开发中节省时间和精力。
+OpenHands/OpenHands 的价值在于它可以帮助开发者快速添加 AI 能力，适用于以下场景：
+
+* 快速 Prototyping AI 特性
+* 构建决策支持系统（RAG）或代理工作流
+* 评估模型工具
 
 **典型接入方式**
 
-OpenHands/OpenHands 提供了多种接入方式，包括 API/SDK/CLI 等。开发者可以根据自己的需求选择合适的接入方式，轻松地将 AI 能力集成到自己的项目中。
+OpenHands/OpenHands 提供了以下接入方式：
+
+* API：通过 API 可以直接调用 OpenHands/OpenHands 的功能
+* SDK：通过 SDK 可以在自己的应用程序中集成 OpenHands/OpenHands 的功能
+* CLI：通过 CLI 可以在命令行中使用 OpenHands/OpenHands 的功能
 
 **生产可用性**
 
-OpenHands/OpenHands 的生产可用性非常高。它有强大的社区支持、活跃的维护者、良好的质量信号等。它已经获得了 78119 个 GitHub 星和 9932 个分叉，表明它的受欢迎程度和可靠性。
+OpenHands/OpenHands 有很高的生产可用性，它有以下特点：
+
+* 最近活跃：最近有活跃的开发和维护
+* 广泛采用：有大量的用户和社区支持
 
 ## 🧭 Practical evaluation
 
@@ -71,7 +82,7 @@ OpenHands/OpenHands 的生产可用性非常高。它有强大的社区支持、
 
 **Quality signals**
 
-- 78119 GitHub stars
+- 78122 GitHub stars
 - 9932 forks
 - updated 2026-06-23
 - primary language: Python

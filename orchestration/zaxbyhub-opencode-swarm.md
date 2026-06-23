@@ -27,60 +27,56 @@ Orchestration · MCP · Automation · AI/ML · DevTools
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-ZaxbyHub/opencode-swarm is an open-source project that provides an architect-centric agentic swarm plugin for OpenCode, enabling hub-and-spoke orchestration with expert consultation, code generation, and QA review. This plugin helps integrate isolated prompts and tools into repeatable agent workflows, making it easier to coordinate multi-agent workflows, standardize agent memory, and add tool-use pipelines. With a high production readiness score, this project is suitable for serious pilots.
+ZaxbyHub/opencode-swarm is an open-source project that offers an architect-centric agentic swarm plugin for OpenCode. It enables hub-and-spoke orchestration, SME consultation, code generation, and QA review, turning isolated prompts and tools into repeatable agent workflows. This project is highly production-ready, with a strong adoption rate, recent activity, and a solid ecosystem.
 
-**Value Proposition:**
+**Value Proposition**
 
-The primary value of ZaxbyHub/opencode-swarm lies in its ability to transform isolated tools and prompts into repeatable workflows, streamlining development and deployment processes. By providing a standardized approach to agent memory and multi-agent workflows, this plugin helps teams increase efficiency, reduce errors, and improve overall productivity.
+The project's value lies in its ability to standardize agent memory, coordinate multi-agent workflows, and add tool-use pipelines, making it easier to manage complex workflows. By integrating with OpenCode, it provides a scalable and efficient way to manage agent workflows, making it an attractive solution for organizations looking to streamline their DevOps processes.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**
 
-To adopt ZaxbyHub/opencode-swarm, teams should start by:
+To adopt ZaxbyHub/opencode-swarm, users can follow these steps:
 
-1. Evaluating the plugin's integration signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Assessing the project's production readiness, including recent activity, adoption, and ecosystem signals.
-3. Reviewing the plugin's license, security posture, and active maintainers to ensure it meets their organization's requirements.
-4.
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for their needs.
+2. Review the project's license, security posture, and active maintainers to ensure they align with their organization's requirements.
+3. Integrate the project with their existing OpenCode setup and test its functionality.
+4. Standardize agent memory and coordinate multi-agent workflows to
 
 ### Русский
 
 Резюме проекта ZaxbyHub/opencode-swarm:
 
-Заксби Хаб представляет собой агентно-центрированный плагин для OpenCode, который обеспечивает централизованную координацию и стандартизацию агентных потоков. Этот проект позволяет превратить изолированные команды и инструменты в повторяемые агентные рабочие процессы, что упрощает координацию и автоматизацию задач.
+Проект ZaxbyHub/opencode-swarm представляет собой агентно-центричный плагин для OpenCode, который позволяет создавать повторяемые агентные потоки и координировать множество агентных рабочих процессов. Этот плагин идеально подходит для стандартизации агентной памяти и добавления инструментальных пайплайнов.
 
-Типовым сценарием внедрения является координация множества агентных потоков, добавление инструментов и стандартизация памяти агентов. Проект уже демонстрирует высокую готовность к производству (High), обусловленную активностью, принятием и сигналами экосистемы. Однако, как и любая открытая исходная кода технология, требует дополнительного анализа лицензии, безопасности и поддержки разработчиков.
+Проект уже показал свою готовность к production, с высокими показателями активности, адопции и экосистемных сигналов. Он имеет 357 GitHub звезд, 36 форов и последний обновление 23 июня 2026 года.
+
+Проект ZaxbyHub/opencode-swarm готов к serious пилоту и может быть использован для координации множества агентных рабочих процессов, стандартизации агентной памяти и добавления инструментальных пайплайнов.
 
 ### 中文
 
-**简短介绍**
+**项目简介**
 
-ZaxbyHub/opencode-swarm 是一个开源项目，提供了一个专注于架构师的自主式蜂群插件，用于 OpenCode。它通过 SME 咨询、代码生成和 QA 检查来实现中心化组织和分散式协作。
+ZaxbyHub/opencode-swarm是一个开源项目，用于为OpenCode提供架构中心的代理式群集插件。它采用了集群-星座式的编排，拥有专家咨询、代码生成和QA审查等功能。
 
 **价值**
 
-ZaxbyHub/opencode-swarm 帮助将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道和标准化代理内存。
+该项目的价值在于，它可以帮助将孤立的命令和工具转化为可重复使用的代理工作流。通过使用该项目，开发者可以更好地协调多代理工作流、添加工具使用管道以及标准化代理内存。
 
 **典型接入方式**
 
-该项目通过以下方式接入：
+该项目提供了API/SDK/CLI等实现信号，开发者可以通过这些信号来接入该项目。具体接入方式包括：
 
-* API/SDK/CLI
-* 语言元数据
-* 焦点话题
+* 使用API：通过API来调用该项目的功能和接口。
+* 使用SDK：通过SDK来集成该项目的功能和接口。
+* 使用CLI：通过命令行工具来调用该项目的功能和接口。
 
 **生产可用性**
 
-该项目具有很高的生产可用性，主要原因是：
-* 最近活动
-* 适用性
-* 生态系统信号
+该项目的生产可用性很高，主要原因是：
 
-但是，仍需要对以下方面进行最终审查：
-* 许可证
-* 安全性
-* 主要维护者
+* 最近的活跃度：该项目最近有更新，表明开发者仍然在维护和更新该
 
 ## 🧭 Practical evaluation
 

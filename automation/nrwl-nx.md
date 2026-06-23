@@ -29,62 +29,56 @@ Automation · AI/ML · Frontend · DevTools · Database
 
 **Project Summary:**
 
-nrwl/nx is an open-source monorepo platform that streamlines development workflows by automating repetitive tasks, scaling Continuous Integration (CI), and fixing failed Pull Requests (PRs) automatically. This enables developers to ship products faster, reducing development time by up to half. With its strong ecosystem signals and high production readiness, nrwl/nx is a viable solution for organizations looking to optimize their development processes.
+nrwl/nx is an open-source monorepo platform that automates repetitive tasks, optimizes builds, and scales continuous integration (CI) to help developers and AI agents work more efficiently. This platform enables users to remove manual work, connect tools into repeatable flows, and schedule operational tasks, ultimately reducing development time by half. With its high production readiness, strong adoption, and recent activity, nrwl/nx is a serious candidate for serious pilots.
 
-**Value Proposition:**
+**Value:**
 
-The primary value proposition of nrwl/nx lies in its ability to eliminate manual, repetitive work from a workflow. By automating tasks such as build optimization, CI scaling, and PR fixes, developers can focus on higher-value tasks, leading to increased productivity and faster time-to-market.
+The primary value proposition of nrwl/nx is to remove repetitive manual operations from a workflow, freeing up developers to focus on more complex and high-value tasks. By automating routine tasks, such as builds and CI, the platform helps teams ship software faster and more reliably.
 
 **Practical Adoption Path:**
 
-To adopt nrwl/nx, developers can start by:
+To adopt nrwl/nx, users can follow these steps:
 
-1. Evaluating the platform's API, SDK, and CLI to understand its implementation signals.
-2. Connecting existing tools into repeatable flows to automate tasks and reduce manual work.
-3. Scheduling operational tasks to ensure smooth workflow execution.
-4. Integrating nrwl/nx with their existing development infrastructure to leverage its benefits.
+1. Evaluate the platform by exploring its API, SDK, CLI, and language metadata.
+2. Assess the platform's integration capabilities and connect relevant tools into repeatable flows.
+3. Schedule operational tasks and automate repetitive manual operations.
+4. Monitor and adjust the platform to optimize its performance and efficiency.
 
 **Production Readiness:**
 
-nrwl/nx demonstrates high production readiness, with:
-
-1. Strong ecosystem signals, including
+nrwl/nx has a high production readiness score, indicating that it is a mature and
 
 ### Русский
 
 Резюме проекта nrwl/nx:
 
-Проект nrwl/nx представляет собой платформу монорепозитория, которая ускоряет процесс разработки и автоматизирует повторяющиеся задачи. Он оптимизирует сборки, масштабирует CI и автоматически исправляет проваленные PRs. Благодаря этому вы можете доставлять продукт в полтора раза быстрее.
+Проект nrwl/nx представляет собой платформу монорепозитория, которая ускоряет процесс разработки, масштабирует CI и автоматически исправляет сбои в PR. Он позволяет снизить время выпуска в два раза, автоматизируя повторяющиеся ручные операции в рабочем процессе.
 
-Типовым сценарием внедрения является автоматизация повторяющихся задач, например, удаление ручной работы, соединение инструментов в повторяющиеся потоки и расписание операционных задач.
+Типовым сценарием внедрения является подключение инструментов к повторяющимся потокам, чтобы автоматизировать ручную работу и расширить возможности разработки.
 
-Проект nrwl/nx готов к production на высоком уровне, поскольку имеет активную деятельность, широкое распространение и сильные сигналы экосистемы. Однако перед внедрением следует провести окончательный обзор лицензии, безопасности и активных разработчиков.
+Проект nrwl/nx имеет высокий уровень готовности к production, подтверждаемый активностью, внедрениями и сильной экосистемой, что делает его подходящей темой для серьезного пилота.
 
 ### 中文
 
-**nrwl/nx 简介**
+**nrwl/nx简介**
 
-nrwl/nx 是一个开源项目，旨在优化开发流程，帮助开发者和 AI 代理提高效率。它通过优化构建、扩展 CI 和自动修复失败的 PRs 来实现这一目标。使用 nrwl/nx，可以在半时间内完成部署。
+nrwl/nx是一款开源项目，旨在优化开发流程，帮助开发者和 AI 代理共同合作。它通过优化构建、扩展 CI 和自动修复失败的 PR 来提高开发效率。使用 nrwl/nx，可以在正常的时间内发布产品。
 
 **价值**
 
-nrwl/nx 的主要价值在于帮助开发者移除重复的手动操作，从而提高开发效率。它可以连接工具，创建可重复的流程，并schedule 运营任务。
+nrwl/nx的主要价值在于帮助减少开发流程中的重复手动操作。它能够连接工具，形成可重复的流程，并且可以调度操作任务。通过使用 nrwl/nx，开发者可以减少工作量，提高开发效率。
 
 **典型接入方式**
 
-nrwl/nx 提供了以下接入方式：
+nrwl/nx提供了多种接入方式，包括：
 
-* API/SDK：通过 API 或 SDK 接入 nrwl/nx。
-* CLI：使用 nrwl/nx 提供的 CLI 实现。
-* 语言元数据：接入 nrwl/nx 的语言元数据。
+* API/SDK：通过 API 或 SDK 接入 nrwl/nx 的功能。
+* CLI：使用命令行接口（CLI）来操作 nrwl/nx。
+* 语言元数据：通过语言元数据来接入 nrwl/nx 的功能。
 
 **生产可用性**
 
-nrwl/nx 具有高生产可用性，主要原因是：
-
-* 近期活动：nrwl/nx 有活跃的社区和开发团队。
-* 广泛采用：nrwl/nx 已经被广泛采用和使用。
-* 强大生态系统
+nrwl/nx的生产可用性很高，主要原因是其最近的活跃度、广泛的采用和强大的生态系统信号。它的
 
 ## 🧭 Practical evaluation
 
@@ -102,7 +96,7 @@ nrwl/nx 具有高生产可用性，主要原因是：
 
 **Quality signals**
 
-- 29001 GitHub stars
+- 29003 GitHub stars
 - 2749 forks
 - updated 2026-06-23
 - primary language: TypeScript

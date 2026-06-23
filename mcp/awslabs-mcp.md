@@ -27,33 +27,54 @@ MCP · Backend · DevTools
 
 ### English
 
-**Project Summary:**
-awslabs/mcp is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This project facilitates the integration of AI agents with various tools, allowing for seamless interactions and data exchange. With its high production readiness and strong ecosystem signals, awslabs/mcp is suitable for serious pilot projects.
+Here's a brief summary of the awslabs/mcp project:
 
-**Value Proposition:**
-The awslabs/mcp project offers a standardized way to connect AI assistants to real tools and data, enabling developers to build more efficient and effective AI-powered applications.
+The awslabs/mcp project provides open-source Model Context Protocol (MCP) servers for AWS, enabling the connection of AI assistants to real tools and data through a standard protocol. This project facilitates the integration of AI agents with various tools, making it a valuable resource for developers looking to standardize their integrations. With its production-ready status, high adoption, and strong ecosystem signals, awslabs/mcp is suitable for serious pilots and production environments.
+
+**Value:**
+The awslabs/mcp project offers several key benefits:
+
+* Enables the connection of AI assistants to real tools and data through a standard protocol
+* Facilitates the integration of AI agents with various tools
+* Standardizes integrations, making it easier to connect different systems
 
 **Practical Adoption Path:**
-To adopt awslabs/mcp, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore the project's use cases, such as connecting AI agents to tools and shipping Model Context Protocol servers. With its straightforward integration process and high production readiness, awslabs/mcp is an attractive choice for developers looking to standardize their integrations.
+To adopt awslabs/mcp, follow these steps:
 
-**Production Readiness:**
-awslabs/mcp has a high production readiness score, thanks to its recent activity, adoption, and ecosystem signals. With over 9,000 GitHub stars and 1,600 forks
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
+2. Review the project's license, security posture, and active maintainers to ensure it meets your requirements.
+3. Integrate the MCP servers into your existing infrastructure or develop a new application using the protocol.
+4. Test and deploy the MCP servers in
 
 ### Русский
 
 Резюме проекта awslabs/mcp:
 
-Проект awslabs/mcp представляет собой открытое исходное решение для серверов протокола Model Context (MCP), предназначенное для подключения интеллектуальных ассистентов к реальным инструментам и данным через стандартный протокол. Он позволяет легко интегрироваться с разными инструментами и данными, обеспечивая стандартную связь между ними. Проект достаточно готов к производству, с сильными сигналами активности, признанием и экосистемой, что делает его идеальным кандидатом для серьезного пилота.
+awslabs/mcp - это открытый исходный код сервер MCP для AWS, который позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол. Этот проект идеально подходит для сценария интеграции AI-агентов с инструментами, позволяя стандартизировать интеграции и облегчать обмен данными. awslabs/mcp готов к использованию в production, обладает высоким уровнем готовности (High) и имеет сильные сигналы активности, внедрения и экосистемы.
 
 ### 中文
 
-**awslabs/mcp** 是一个开源项目，旨在为 AWS 提供标准的 Model Context Protocol (MCP) 服务器。
+**awslabs/mcp 项目简介**
 
-**价值**：awslabs/mcp 帮助连接 AI 助手到真实工具和数据，通过标准协议来实现这一点。
+awslabs/mcp 是一个开源项目，提供了一个标准的协议（Model Context Protocol）来连接人工智能助手和真实的工具和数据。该项目帮助开发者通过标准化接口来连接 AI 代理和工具，提高整体的可扩展性和可维护性。
 
-**典型接入方式**：通过 API、SDK 或 CLI 来接入 awslabs/mcp 服务器，实现 AI 代理与工具的连接。
+**价值**
 
-**生产可用性**：awslabs/mcp 在生产环境中具有较高的可用性，最近有活跃的维护和采用，强大的生态系统信号，适合进行严肃的试验。
+awslabs/mcp 的价值在于，它为开发者提供了一个标准的协议来连接人工智能助手和真实的工具和数据。通过使用该协议，开发者可以轻松地连接 AI 代理和工具，提高整体的可扩展性和可维护性。
+
+**典型接入方式**
+
+典型的接入方式包括：
+
+1. 使用 awslabs/mcp 提供的 API 或 SDK 来连接 AI 代理和工具。
+2. 部署 awslabs/mcp 服务器来接收和处理来自 AI 代理的请求。
+3. 使用 awslabs/mcp 提供的 CLI 来管理和配置 AI 代理和工具的连接。
+
+**生产可用性**
+
+awslabs/mcp 项目具有高生产可用性，主要原因包括：
+
+1. 活
 
 ## 🧭 Practical evaluation
 
@@ -71,8 +92,8 @@ awslabs/mcp has a high production readiness score, thanks to its recent activity
 
 **Quality signals**
 
-- 9322 GitHub stars
-- 1593 forks
+- 9324 GitHub stars
+- 1592 forks
 - updated 2026-06-23
 - primary language: Python
 - 9 topics

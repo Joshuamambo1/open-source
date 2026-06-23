@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 69.5k |
+| ⭐ **Stars** | 69.6k |
 | 🍴 **Forks** | 7.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
@@ -28,48 +28,40 @@ Orchestration · AI/ML · Frontend · DevTools · Design
 ### English
 
 **Project Summary:**
-
-nexu-io/open-design is an open-source, local-first design alternative to Claude Design. It offers a native desktop app for creating web, desktop, and mobile prototypes, as well as exporting designs in various formats. With over 259 skills and 142 design systems, this project enables users to create repeatable agent workflows and standardize agent memory.
+nexu-io/open-design is an open-source, local-first design alternative that enables users to create repeatable workflows for multi-agent coordination. This project offers a native desktop app with various features, including 259+ skills, 142+ design systems, and support for web, desktop, and mobile prototypes. It provides a sandboxed preview and export options for HTML, PDF, PPTX, and MP4 files.
 
 **Value Proposition:**
-
-The value proposition of nexu-io/open-design lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This means that users can coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, making it an essential tool for organizations looking to streamline their design processes.
+The value proposition of nexu-io/open-design lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it easier to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory.
 
 **Practical Adoption Path:**
-
-To adopt nexu-io/open-design, users can start by exploring its features and capabilities. They can begin by creating prototypes, slides, images, and videos, and then experiment with the various skills and design systems available. As they become more comfortable with the tool, they can start to integrate it with other tools and systems, such as CLIs, to create more complex workflows. With its straightforward API and SDK, users can easily evaluate and integrate nexu-io/open-design into their existing workflows.
+To adopt nexu-io/open-design, users can start by exploring its features, such as creating prototypes, slides, images, and videos, and using its HyperFrames for sandboxed preview and export. They can also integrate it with various CLIs, including Claude Code, OpenClaw, Codex, and others. The project's recent activity, adoption, and ecosystem signals make it a strong candidate for serious pilots.
 
 **Production Readiness:**
-
-nexu-io/open-design is highly production
+nexu-io/open-design is considered production-ready due to its high score, recent activity, and strong adoption signals. With
 
 ### Русский
 
 Резюме проекта nexu-io/open-design:
 
-nexu-io/open-design - это открытый проект, позволяющий создавать repeatable agent workflows на основе локальных, первичных данных. Он предлагает альтернативу существующим решениям, такие как Claude Design, и предоставляет широкий спектр функций, включая создание прототипов, слайдов и видео, а также экспорт в HTML, PDF, PPTX и MP4. Проект готов к serious пилоту и имеет высокий уровень готовности к production, в частности, благодаря своему активному развитию, широкому внедрению и сильной экосистеме.
+nexu-io/open-design - это локальный, открытое исходное приложение для дизайна, которое позволяет создавать повторяемые агентные потоки. Это идеальный вариант для координации множества агентов, добавления инструментальных каналов и стандартизации агентной памяти. Проект готов к пилотному тестированию и имеет высокий уровень готовности к производству, обусловленный активностью, адопцией и сигналами экосистемы.
 
 ### 中文
 
-**简短介绍**
+**项目简介**
 
-nexu-io/open-design 是一个开源项目，提供了一个本地化（Local-first）的设计工具，类似于 Claude Design。它支持多种技能（259+）和设计系统（142+），并提供了沙盒式预览、多种文件导出（HTML/PDF/PPTX/MP4）等功能。
+nexu-io/open-design 是一个开源项目，旨在成为 Claude Design 的替代品。它支持本地化的设计，具有 native 桌面应用，支持多种技能和设计系统。项目提供了多种功能，包括 Web、桌面、移动原型、幻灯片、图像和视频预览，支持 HTML、PDF、PPTX 和 MP4 的导出。
 
 **价值**
 
-nexu-io/open-design 的价值在于，它可以帮助将孤立的提示和工具转化为可重复的代理工作流。它可以协调多代理工作流、添加工具使用管道以及标准化代理内存。
+nexu-io/open-design 帮助将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多代理工作流程，添加工具使用管道，标准化代理记忆。
 
 **典型接入方式**
 
-nexu-io/open-design 可以通过以下方式接入：
-
-* 使用其 CLI（命令行界面）来协调多代理工作流
-* 将其集成到现有的管道中，以添加工具使用功能
-* 使用其 API/SDK 来访问其功能和数据
+nexu-io/open-design 具有开放的 API 和 SDK，支持多种语言元数据和主题。它提供了直观的接入方式，让开发者可以轻松评估和集成该项目。
 
 **生产可用性**
 
-nexu-io/open-design 在生产环境中的可用性很高，主要原因是其最近的活跃度、采用度和生态系统信号都很强。GitHub 上的星数和分叉数也很高（69492
+nexu-io/open-design 具有高生产可用性，最新活动、采用率和生态系统信号强大到足以支持严肃的试验。该项目具有强大的 GitHub 星标和 Fork 数，最近更新于 2026 年
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +79,8 @@ nexu-io/open-design 在生产环境中的可用性很高，主要原因是其最
 
 **Quality signals**
 
-- 69492 GitHub stars
-- 7834 forks
+- 69579 GitHub stars
+- 7841 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics

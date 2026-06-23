@@ -27,57 +27,50 @@ MCP · Automation · AI/ML · Backend
 
 ### English
 
-**Project Overview: Activepieces**
+**Project Summary:**
 
-Activepieces is an open-source project that enables AI workflow automation by connecting AI agents to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This project provides a scalable solution for integrating AI assistants with various tools and data sources, making it an attractive option for developers and organizations looking to automate AI workflows.
+Activepieces is an open-source project that enables AI agents to connect with real tools and data through a standardized protocol, known as the Model Context Protocol (MCP). This allows for seamless integration and automation of AI workflows, making it easier to connect AI assistants to various tools and data sources. With its high production readiness and strong ecosystem signals, Activepieces is a promising candidate for serious pilots and production adoption.
 
 **Value Proposition:**
 
-The value of Activepieces lies in its ability to standardize integrations between AI agents and tools, making it easier to connect and automate AI workflows. This standard protocol enables developers to focus on building AI applications without worrying about the complexities of integration, thereby speeding up the development process and reducing costs.
+The primary value proposition of Activepieces lies in its ability to standardize integrations between AI agents and real tools and data. This allows developers to create more efficient and effective AI workflows, reducing the complexity and time required to integrate AI assistants with various systems. By providing a standardized protocol, Activepieces enables the creation of a more connected and automated AI ecosystem.
 
 **Practical Adoption Path:**
 
 To adopt Activepieces, developers can follow these steps:
 
-1. **Evaluate the project**: Review the project's documentation, API/SDK, and language metadata to understand its capabilities and limitations.
-2. **Choose the implementation**: Select the implementation method that best suits your needs, such as API, SDK, or CLI.
-3. **Connect AI agents**: Use the MCP protocol to connect your AI agents to the chosen tools and data sources.
-4. **Ship Model Context Protocol servers**: Deploy the MCP servers to enable AI agents to interact with the connected tools and data sources
+1. Evaluate the project's documentation and API/SDK/CLI implementations to understand its functionality and ease of use.
+2. Explore the project's GitHub repository and community activity to gauge its adoption and ecosystem signals.
+3. Review the project's license, security posture, and maintainers to ensure it meets their organization's requirements.
+4. Integrate Activepieces into their existing AI workflows and tools to test
 
 ### Русский
 
 Резюме проекта activepieces/activepieces:
 
-Проект activepieces/activepieces представляет собой платформу для автоматизации бизнес-процессов с использованием искусственного интеллекта (AI). Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что упрощает интеграцию и облегчает автоматизацию бизнес-процессов.
-
-Проект предназначен для решения типового сценария внедрения: соединения AI-ассистентов с инструментами и данными, что позволяет автоматизировать бизнес-процессы и повысить эффективность работы.
-
-Проект готов к производственному использованию (production readiness) на высоком уровне, что обусловлено его активностью, широкой адопцией и сильным экосистемным сигналом. Однако следует провести окончательный анализ лицензионной политики, безопасности и активности основных разработчиков.
+Этот открытый исходный код проект предоставляет возможность автоматизации бизнес-процессов с помощью интеграции искусственного интеллекта (AI) и моделей контекста (MCP). Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его идеальным решением для стандартизации интеграций и автоматизации бизнес-процессов. Проект готов к производственному использованию и имеет высокий уровень готовности, подтвержденный активностью, приёмом и сигналами экосистемы.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-activepieces/activepieces 是一个开源项目，旨在连接 AI 辅助器到实际工具和数据的标准协议。它提供了一个 MCP 服务器（Model Context Protocol 服务器），用于 AI 代理和工作流的自动化。
+activepieces/activepieces 是一个开源项目，提供了连接 AI 代理到真实工具和数据的标准协议。它通过 Model Context Protocol (MCP) 使 AI 代理能够与各种工具和数据进行交互。
 
 **价值**
 
-activepieces/activepieces 的价值在于，它帮助连接 AI 辅助器到实际工具和数据，标准化集成。通过使用 MCP 协议，开发者可以更轻松地接入 AI 代理和工具，实现自动化和提高效率。
+activepieces/activepieces 的价值在于它帮助连接 AI 代理到真实工具和数据，标准化了整合过程。它可以让开发者更轻松地将 AI 代理与各种工具和数据进行集成。
 
 **典型接入方式**
 
 典型的接入方式包括：
 
-* 连接 AI 代理到工具：通过 MCP 协议，开发者可以连接 AI 代理到各种工具和数据源。
-* 部署 MCP 服务器：开发者可以部署 MCP 服务器来接收和处理 AI 代理的请求。
-* 标准化集成：通过使用 MCP 协议，开发者可以标准化 AI 代理和工具的集成。
+1. 连接 AI 代理到工具：activepieces/activepieces 提供了一个标准协议，让开发者可以连接 AI 代理到各种工具。
+2. 部署 Model Context Protocol 服务器：开发者可以部署 MCP 服务器，让 AI 代理能够与之交互。
+3. 标准化整合：activepieces/activepieces 提供了一个标准化的整合过程，让开发者可以轻松地将 AI 代理与各种工具和数据进行集成。
 
 **生产可用性**
 
-activepieces/activepieces 的生产可用性很高，主要原因包括：
-
-* 近期活动：项目最近有活跃的开发和维护。
-* adoption
+activepieces/activepieces 的生产可用性很高。它最近有活跃的维护，采用率
 
 ## 🧭 Practical evaluation
 
@@ -95,7 +88,7 @@ activepieces/activepieces 的生产可用性很高，主要原因包括：
 
 **Quality signals**
 
-- 22938 GitHub stars
+- 22940 GitHub stars
 - 3842 forks
 - updated 2026-06-23
 - primary language: TypeScript

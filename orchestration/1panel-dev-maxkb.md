@@ -27,61 +27,44 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Project Summary**
+**Summary:** MaxKB is an open-source, enterprise-grade agent platform that enables the creation of repeatable workflows from isolated prompts and tools. It offers a straightforward integration path through API, SDK, CLI, and language metadata, making it suitable for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. With a high production readiness score and strong ecosystem signals, MaxKB is ready for serious pilot adoption.
 
-MaxKB is an open-source platform for building enterprise-grade agents, enabling users to turn isolated prompts and tools into repeatable workflows. This platform facilitates coordination of multi-agent workflows, addition of tool-use pipelines, and standardization of agent memory, making it a valuable tool for automation and AI/ML projects. With a high production readiness score and strong ecosystem signals, MaxKB is a viable candidate for serious pilots.
+**Value:** MaxKB's primary value proposition lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it an attractive solution for organizations seeking to streamline their automation and orchestration processes. By standardizing agent memory and enabling the coordination of multi-agent workflows, MaxKB helps reduce complexity and increase efficiency.
 
-**Value Proposition**
+**Practical Adoption Path:** To adopt MaxKB, users can start by exploring its API, SDK, and CLI interfaces, which provide a clear and straightforward integration path. The platform's language metadata and focused topics also facilitate evaluation and onboarding. As users become familiar with MaxKB, they can begin to integrate it with their existing tools and workflows, gradually building out more complex agent pipelines.
 
-The value proposition of MaxKB lies in its ability to help users streamline their agent workflows, making it easier to integrate multiple tools and systems. By standardizing agent memory and enabling the coordination of multi-agent workflows, MaxKB reduces the complexity and increases the efficiency of automation and AI/ML projects.
-
-**Practical Adoption Path**
-
-The practical adoption path for MaxKB involves:
-
-1. **Evaluation**: Assess the platform's suitability for your project by evaluating its features, documentation, and community support.
-2. **Integration**: Use the exposed implementation signals (API/SDK/CLI) to integrate MaxKB with your existing tools and systems.
-3. **Testing**: Test MaxKB in a controlled environment to ensure it meets your project's requirements.
-4. **Pilot**: Run a pilot project to validate the effectiveness of MaxKB in your specific use case.
+**Production Readiness:** MaxKB demonstrates a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and maturity. With a
 
 ### Русский
 
-Резюме проекта MaxKB:
+Резюме проекта 1Panel-dev/MaxKB:
 
-MaxKB - это мощный и простой в использовании открытый источник платформы, предназначенный для создания корпоративных агентов. Он позволяет превращать изолированные команды и инструменты в повторяемые потоки работы агентов. MaxKB подходит для координации многоагентных потоков, добавления пайплайнов для инструментов и стандартизации памяти агентов. Проект демонстрирует высокую готовность к производству, с недавним активностью, широкой адаптацией и сильными сигналами экосистемы.
+MaxKB - это открытый источник платформа для создания enterprise-граунд агентов, которая позволяет легко координировать и стандартизировать агентные рабочие процессы. Благодаря ей можно объединять изолированные запросы и инструменты в повторимые агентные потоки. MaxKB уже готов к serious пилоту и имеет высокий уровень готовности к production, подтверждаемый активностью, адопцией и сигналами экосистемы.
 
 ### 中文
 
-**MaxKB简介**
+**1Panel-dev/MaxKB 简介**
 
-MaxKB是一款开源企业级智能体平台，旨在帮助企业构建高可用、强大易用的智能体。它可以将孤立的提示和工具转化为可重复的智能体工作流。
+MaxKB 是一个开源企业级智能体平台，用于构建企业级智能体。它可以帮助将孤立的提示和工具转换为可重复的智能体工作流程。
 
 **价值**
 
-MaxKB的主要价值在于：
-
-* 将孤立的提示和工具转化为可重复的智能体工作流
-* 协调多智能体工作流
-* 添加工具使用管道
-* 标准化智能体内存
+MaxKB 的主要价值在于，它可以将多个智能体工作流程协调起来，添加工具使用管道，标准化智能体内存，从而提高智能体的可用性和可靠性。
 
 **典型接入方式**
 
-MaxKB提供了多种接入方式，包括：
-
-* API：通过 API 接口调用 MaxKB 的功能
-* SDK：通过 SDK 库集成 MaxKB 的功能
-* CLI：通过命令行接口调用 MaxKB 的功能
+MaxKB 可以通过 API、SDK 或 CLI 等方式接入。具体接入方式可以根据项目的需求进行选择。
 
 **生产可用性**
 
-MaxKB 的生产可用性非常高，主要原因是：
+MaxKB 的生产可用性较高，主要原因是：
 
-* 近期活动：MaxKB 有活跃的社区和维护者
-* 广泛的采用：MaxKB 有大量的 GitHub 明星和分支
-* 强大的生态系统：MaxKB 有 14 个主题和多种语言支持
+* 有强大的社区支持（21393 GitHub stars、2909 forks）
+* 有活跃的维护者（最近更新时间：2026-06-23）
+* 有优质的技术栈（主要语言：Python）
+* 有强大的生态系统支持
 
-总之，MaxKB 是一个强
+总的来说，MaxKB 是一个强大易用的开源企业级智能体平台，值得尝试。
 
 ## 🧭 Practical evaluation
 
@@ -99,8 +82,8 @@ MaxKB 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 21387 GitHub stars
-- 2908 forks
+- 21393 GitHub stars
+- 2909 forks
 - updated 2026-06-23
 - primary language: Python
 - 14 topics

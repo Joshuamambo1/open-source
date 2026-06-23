@@ -29,43 +29,56 @@ Automation · AI/ML · Frontend · Database · DevOps/Infra
 
 **Project Summary:**
 
-ToolJet is an open-source platform that enables the automation of repetitive manual operations in workflows, allowing users to build internal tools, dashboards, business applications, and AI agents. By connecting tools into repeatable flows and scheduling operational tasks, ToolJet helps streamline business processes and reduce manual labor. With its strong adoption and ecosystem, ToolJet is a promising candidate for serious piloting and production use.
+ToolJet is an open-source platform that enables the automation of repetitive manual operations in workflows, allowing users to connect tools into repeatable flows and schedule operational tasks. With its straightforward integration process and strong ecosystem signals, ToolJet is highly production-ready for serious pilots. By leveraging ToolJet, users can streamline their workflows and reduce manual labor.
 
-**Value and Adoption Path:**
+**Value Proposition:**
 
-The value proposition of ToolJet lies in its ability to automate repetitive tasks, freeing up resources for more strategic activities. To adopt ToolJet, users can start by evaluating its integration signals, such as API, SDK, and CLI, to assess its suitability for their specific use cases. Once evaluated, users can begin building internal tools and workflows using ToolJet's platform, which supports JavaScript and various other languages. The practical adoption path involves connecting tools, scheduling tasks, and integrating with existing systems to create efficient workflows.
+The primary value proposition of ToolJet lies in its ability to automate repetitive tasks, freeing up time and resources for more strategic activities. By removing manual work, users can increase productivity, reduce errors, and enhance overall efficiency.
+
+**Practical Adoption Path:**
+
+To adopt ToolJet, users can follow these steps:
+
+1. Evaluate the platform's integration signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Connect tools into repeatable flows using ToolJet's automation capabilities.
+3. Schedule operational tasks to automate routine processes.
+4. Monitor and refine the workflow as needed to ensure optimal performance.
 
 **Production Readiness:**
 
-ToolJet demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. With over 38,000 GitHub stars and 5,130 forks, the project has a significant following and community support. Additionally, its primary language, JavaScript, is widely adopted, and its 19 topics
+ToolJet's production readiness is high due to its recent activity, strong adoption, and robust ecosystem signals. With 38,054 GitHub stars and 5,130 forks, ToolJet has a large and engaged community of developers. Additionally, its primary language is
 
 ### Русский
 
 Резюме:
 
-ToolJet - это открытое исходное решение для платформы создания бизнес-приложений и внутренних инструментов ToolJet AI. Это платформа для автоматизации рабочих процессов, которая помогает исключить повторяющиеся ручные операции из потока работы. ToolJet готов к внедрению в production, поскольку обладает высоким уровнем активности, адоптации и эkosистемных сигналов, что делает его идеальным кандидатом для серьезного пилотного проекта.
+ToolJet - это открытый исходный код платформы для автоматизации и генерации бизнес-приложений, позволяющей исключить из процесса повторяющиеся ручные операции. Это идеальная возможность для организации, желающей автоматизировать свои рабочие процессы и сократить время на выполнение повторяющихся задач. ToolJet уже готов к широкому внедрению в production, с большой базой сторонних разработчиков, регулярными обновлениями и высокой оценкой качества.
 
 ### 中文
 
-**简短介绍**
+**ToolJet/ToolJet 简介**
 
-ToolJet 是一个开源基础项目，用于构建企业级应用生成平台 ToolJet AI。它可以帮助移除工作流中的重复手动操作，提高工作效率。
+ToolJet/ToolJet 是一个开源项目，提供了一个基础框架来生成企业级应用，包括内部工具、仪表板、业务应用、工作流和 AI 代理。它帮助减少工作流中重复的手动操作，提高生产力。
 
 **价值**
 
-ToolJet 的价值在于可以帮助移除工作流中的重复手动操作，提高工作效率。它可以连接工具，创建可重复的流程，自动化操作，减少人工干预。
+ToolJet/ToolJet 的主要价值在于帮助减少工作流中重复的手动操作，提高生产力。它可以帮助您:
+
+* 移除手动工作
+* 连接工具并创建可重复的流程
+* 计划操作任务
 
 **典型接入方式**
 
-ToolJet 支持多种接入方式，包括：
+ToolJet/ToolJet 提供了多种接入方式，包括：
 
-* API：通过 API 进行接入，使用 SDK 或 CLI 进行开发。
-* 语言元数据：支持多种编程语言，包括 JavaScript 等。
-* 焦点主题：支持多种主题，包括 Automation、AI/ML、Frontend、Database 等。
+* API/SDK：通过 API 或 SDK 接入 ToolJet/ToolJet
+* CLI：通过命令行接口（CLI）接入 ToolJet/ToolJet
+* 语言元数据：使用特定语言的元数据来接入 ToolJet/ToolJet
 
 **生产可用性**
 
-ToolJet 具有高生产可用性，受益于其强大的社区支持、活跃的维护者和稳定的代码库。它的 GitHub 星数超过 38052，fork 数超过 5130，表明其受欢迎程度。
+ToolJet/ToolJet 有很高的生产可用性，尤其是考虑到其在 GitHub 上的活跃度、采用情况和生态系统信号。它的主要语言
 
 ## 🧭 Practical evaluation
 
@@ -83,7 +96,7 @@ ToolJet 具有高生产可用性，受益于其强大的社区支持、活跃的
 
 **Quality signals**
 
-- 38052 GitHub stars
+- 38054 GitHub stars
 - 5130 forks
 - updated 2026-06-23
 - primary language: JavaScript

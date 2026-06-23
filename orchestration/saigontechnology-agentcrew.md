@@ -1,6 +1,6 @@
 # saigontechnology/AgentCrew
 
-[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saigontechnology/AgentCrew?style=flat-square&color=yellow)](https://github.com/saigontechnology/AgentCrew/stargazers) [![Forks](https://img.shields.io/github/forks/saigontechnology/AgentCrew?style=flat-square&color=blue)](https://github.com/saigontechnology/AgentCrew/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > Chat application with multi-agents system supports multi-models and MCP
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 191 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 204 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
-| 🗓️ **Last push** | 2026-05-08 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,63 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-AgentCrew is an open‑source chat platform that orchestrates multiple AI agents, allowing each participant to run on different language models and to communicate through a flexible Multi‑Channel Protocol (MCP). It provides developers with ready‑to‑use orchestration tools, model‑agnostic integration, and a modular architecture for building sophisticated, multi‑agent conversational applications.
+**Project Summary:**
+
+AgentCrew is an open-source chat application that enables the creation of multi-agent workflows, supporting various models and machine learning capabilities (MCP). This tool helps users turn isolated prompts and tools into repeatable workflows, simplifying the integration of different systems and models. By leveraging AgentCrew, users can standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows.
+
+**Value Proposition:**
+
+AgentCrew provides a unique value proposition by enabling users to:
+
+* Standardize agent memory and workflows
+* Integrate multiple tools and models into a single workflow
+* Simplify the creation of repeatable agent workflows
+
+**Practical Adoption Path:**
+
+To adopt AgentCrew, users can follow these steps:
+
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Assess the project's quality signals, including GitHub stars, forks, and recent activity.
+3. Review the project's risks, including license, security posture, and active maintainers.
+4. Integrate AgentCrew into existing workflows and tools.
+5. Customize and extend AgentCrew to meet specific use case requirements.
+
+**Production Readiness:**
+
+Based on the provided information, AgentCrew appears to be highly production
 
 ### Русский
 
-**AgentCrew** – это open‑source чат‑приложение с системой множественных агентов, позволяющее одновременно использовать разные модели ИИ и интегрировать их через MCP (Multi‑Channel Protocol). Проект упрощает оркестрацию взаимодействий между агентами, предоставляя гибкие инструменты для разработки, тестирования и масштабирования AI‑сценариев. Он подходит как для исследователей, так и для разработчиков, желающих быстро создавать сложные многомодельные решения в сфере AI/ML и DevTools.
+Резюме проекта saigontechnology/AgentCrew:
+
+Проект AgentCrew представляет собой чат-приложение с многоагентной системой, поддерживающее работу с несколькими моделями и MCP. Он позволяет превращать изолированные команды и инструменты в повторяемые агентные потоки, что упрощает координацию мультиагентных потоков и добавление инструментальных pipeline-ов.
+
+Проект готов к сериозному пилоту в production, поскольку имеет сильную поддержку, активных пользователей и сильную экосистему. Он имеет высокий уровень готовности к production, что делает его привлекательным выбором для организаций, ищущих эффективные решения для координации мультиагентных потоков и добавления инструментальных pipeline-ов.
 
 ### 中文
 
-saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**项目介绍**
+
+AgentCrew 是一个开源聊天应用，具有多代理系统，支持多模型和 MCP。它可以将孤立的提示和工具转换为可重复的代理工作流程。
+
+**价值**
+
+AgentCrew 的价值在于，它可以帮助开发者将孤立的提示和工具整合成可重复的代理工作流程，提高开发效率和工作流程的标准化。
+
+**典型接入方式**
+
+AgentCrew 支持 API、SDK 和 CLI 的接入方式，开发者可以根据自己的需求选择合适的接入方式。同时，它也提供了语言元数据和专注的主题，这使得开发者可以方便地评估和集成它。
+
+**生产可用性**
+
+AgentCrew 的生产可用性很高，最近的活跃度、采用率和生态系统信号都很强。它也具有高的质量信号，包括 204 个 GitHub 星和 40 个 fork。因此，它是一个非常值得考虑的开源项目。
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +91,13 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 191 GitHub stars
-- 35 forks
-- updated 2026-05-08
+- 204 GitHub stars
+- 40 forks
+- updated 2026-06-23
 - primary language: Python
 - 8 topics
 
@@ -66,17 +108,17 @@ saigontechnology/AgentCrew：saigontechnology/AgentCrew helps turn isolated prom
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 76/100 |
 | integration | 94/100 |
-| production | 62/100 |
-| outlook | 65/100 |
-| adoption | 46/100 |
+| production | 82/100 |
+| outlook | 87/100 |
+| adoption | 47/100 |
 | stars | 49/100 |
-| forks | 39/100 |
-| recency | 40/100 |
+| forks | 40/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/saigontechnology/AgentCrew) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/saigontechnology/AgentCrew) · [← Back to Orchestration](./README.md)</sub>

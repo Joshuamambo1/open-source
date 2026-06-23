@@ -27,48 +27,43 @@ MCP · AI/ML · Backend · DevTools · Database
 
 ### English
 
-**Summary:**
-archestra is an open-source enterprise AI platform that enables the connection of AI assistants to real tools and data through a standard protocol, Model Context Protocol (MCP). It provides a gateway, orchestrator, and MCP registry to facilitate standardized integrations. With its high production readiness, recent activity, and strong ecosystem signals, archestra is a promising candidate for serious pilots.
+Here's a brief summary and explanation of the project:
 
-**Value Proposition:**
-archestra's value lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier to connect and utilize AI in various applications. This standardization enables developers to focus on building AI-powered solutions rather than spending time on integration complexities.
+**Summary:** archestra is an open-source enterprise AI platform that enables the connection of AI assistants to real tools and data through a standard protocol, the Model Context Protocol (MCP). This platform provides a gateway, orchestrator, and MCP registry, making it a promising solution for integrating AI agents with various tools and systems.
 
-**Practical Adoption Path:**
-To adopt archestra, developers can start by evaluating its straightforward integration signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore the platform's capabilities, including its gateway, orchestrator, and MCP registry. With its TypeScript primary language and 20 topics, developers can leverage archestra's existing codebase and community support to build and deploy their AI-powered solutions.
+**Value Proposition:** The value of archestra lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier for developers to connect AI agents to various systems. This standardization can lead to faster development, reduced complexity, and improved interoperability.
 
-**Production Readiness:**
-archestra demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and engaged community.
+**Practical Adoption Path:** To adopt archestra, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can also explore the platform's features, such as the MCP registry, gateway, and orchestrator, to understand how they can be used to connect AI agents to real tools and data. Once familiar with the platform, developers can begin integrating archestra into their projects, starting with small-scale pilots and gradually scaling up to larger deployments.
+
+**Production Readiness:** archestra has a high production readiness score, indicating that it is suitable for
 
 ### Русский
 
 Резюме:
 
-Архестра - это облачная платформа AI с защитными настройками, регистром MCP, веб-шлюзом и оркестратором. Она помогает соединить интеллектуальные ассистенты с реальными инструментами и данными через стандартный протокол. Платформа готова к широкому внедрению: она имеет высокий уровень готовности к production, сильные сигналы за активность и адопцию, а также демонстрирует свою эффективность в типовом сценарии внедрения - соединение агентов AI с инструментами.
+Архестра (archestra-ai/archestra) - это облачная платформа для искусственного интеллекта, которая обеспечивает стандартный протокол для интеграции AI-ассистентов с реальными инструментами и данными. Это решение идеально подходит для сценариев, когда необходимо соединить AI-агентов с инструментами, а также для стандартизации интеграций. Платформа готова к масштабированию и уже доказала свою производственную готовность, с высокой оценкой (92/100) и активной поддержкой сообщества (3873 GitHub звезды, 1047 фолды).
 
 ### 中文
 
 **简短介绍**
 
-archestra-ai/archestra 是一个企业级 AI 平台，提供了.guardrails、MCP 注册、网关和调度器等功能。它帮助连接 AI 助手到真实的工具和数据通过标准协议。
+archestra-ai/archestra 是一个企业级 AI 平台，提供了安全边界、模型上下文注册表、网关和调度器等功能。它通过标准协议连接 AI 助手到真实工具和数据，使其成为一个强大的 AI 整合平台。
 
 **价值**
 
-archestra-ai/archestra 的价值在于，它帮助连接 AI 助手到真实的工具和数据，通过标准协议实现这一点。它可以帮助企业连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
+archestra-ai/archestra 帮助连接 AI 代理到工具，实现模型上下文协议服务器的部署以及标准化整合。它通过提供一个标准协议来连接 AI 助手到真实工具和数据，从而使其成为一个强大的 AI 整合平台。
 
 **典型接入方式**
 
-archestra-ai/archestra 提供了以下接入方式：
-
-1. API/SDK：通过 API 或 SDK 来访问 archestra-ai/archestra 的功能。
-2. CLI：通过命令行接口来操作 archestra-ai/archestra。
-3. 集成到其他工具：通过标准协议来集成到其他工具和系统。
+archestra-ai/archestra 提供了 API、SDK 和 CLI 等接入方式，使其易于评估和集成。开发者可以通过这些接口来连接 AI 代理到工具，实现模型上下文协议服务器的部署以及标准化整合。
 
 **生产可用性**
 
-archestra-ai/archestra 的生产可用性很高，原因如下：
+archestra-ai/archestra 具有高生产可用性，主要原因如下：
 
-1. 活跃维护：最近有活动的维护和更新。
-2. 大规模采用：有 3873 个 GitHub 星
+* 最近的活动和采用率强
+* 生态系统信号强
+* GitHub 星星数为 387
 
 ## 🧭 Practical evaluation
 
@@ -87,7 +82,7 @@ archestra-ai/archestra 的生产可用性很高，原因如下：
 **Quality signals**
 
 - 3873 GitHub stars
-- 1046 forks
+- 1047 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 20 topics
@@ -105,7 +100,7 @@ archestra-ai/archestra 的生产可用性很高，原因如下：
 | outlook | 94/100 |
 | adoption | 76/100 |
 | stars | 76/100 |
-| forks | 75/100 |
+| forks | 76/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

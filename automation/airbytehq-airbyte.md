@@ -27,56 +27,52 @@ Automation · AI/ML · Backend · Data · Database
 
 ### English
 
-**Project Summary:** Airbyte is an open-source data movement platform that automates the transfer of data from various sources such as APIs, databases, and files to warehouses, lakes, and AI applications. This platform helps eliminate repetitive manual operations, enabling users to connect tools into repeatable flows and schedule operational tasks. With a strong ecosystem and recent activity, Airbyte is production-ready for serious pilots.
+**Airbyte: Simplifying Data Movement for ELT Pipelines and AI Agents**
 
-**Value:** The primary value proposition of Airbyte lies in its ability to remove repetitive manual operations from a workflow, making it an attractive solution for organizations looking to streamline their data movement processes. By automating data transfer, Airbyte helps reduce manual work, increase efficiency, and improve overall productivity.
+Airbyte is an open-source data movement solution that automates the transfer of data from various sources (APIs, databases, files) to destinations (warehouses, lakes, and AI applications). By removing manual operations from workflows, Airbyte streamlines data integration and enables the creation of repeatable flows, making it easier to schedule operational tasks. With a strong ecosystem, high production readiness, and a large community, Airbyte is a viable option for serious pilots.
 
-**Adoption Path:** The practical adoption path for Airbyte involves the following steps:
+**Value:**
+Airbyte's value proposition lies in its ability to automate repetitive manual operations, reducing the time and effort required to manage data movement. This allows users to focus on higher-level tasks and improves the overall efficiency of their workflows.
 
-1. **Evaluation**: Assess Airbyte's capabilities, security posture, and maintainability through its API, SDK, CLI, and language metadata.
-2. **Implementation**: Integrate Airbyte into existing workflows, connecting tools and scheduling operational tasks as needed.
-3. **Testing**: Validate Airbyte's performance, scalability, and reliability in a non-production environment.
-4. **Production Deployment**: Deploy Airbyte in a production environment, monitoring its performance and making adjustments as necessary.
+**Practical Adoption Path:**
+To adopt Airbyte, users can start by:
 
-**Production Readiness:** Airbyte is considered production
+1. Evaluating the tool's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
+2. Assessing the tool's production readiness, including recent activity, adoption, and ecosystem signals.
+3. Reviewing the tool's license, security posture, and active maintainers to ensure it meets their organization's requirements.
+4. Configuring and testing Airbyte to integrate their tools and workflows.
 
 ### Русский
 
-Резюме проекта airbytehq/airbyte:
+Резюме:
 
-Проект airbytehq/airbyte представляет собой open-source решение для автоматизации передачи данных в ELT-пайплайнах и агентах AI. Он позволяет сократить повторяющиеся ручные операции в рабочем процессе, связывая различные инструменты в повторяющиеся потоки и расписывая операционные задачи.
-
-Типовым сценарием внедрения может стать подключение различных инструментов, таких как базы данных, файлы и API, к хранилищам данных, озёрам данных и приложениям AI, что позволит автоматизировать процесс передачи данных и сократить ручную работу.
-
-Проект airbytehq/airbyte готов к производству на высоком уровне, поскольку имеет сильные сигналы по активности, внедрению и экосистеме, а также получил высокую оценку (89/100). Однако, перед внедрением проекта необходимо провести тщательный отбор по лицензии, безопасности и активности поддержки.
+Airbyte - это open-source проект по перемещению данных для ELT-пайплайнов и агентов AI, который позволяет автоматизировать процесс передачи данных из API, баз данных и файлов в хранилища, озёра и приложения AI. Airbyte помогает снизить количество повторяющихся ручных операций в рабочем процессе, автоматизируя подключение инструментов и планирование задач. Проект имеет высокий уровень готовности к production, с сильными сигналами активности, приёма и экосистемы, что делает его подходящим вариантом для серьёзного пилота.
 
 ### 中文
 
-**Airbyte 开源项目简介**
+**Airbyte 简介**
 
-Airbyte 是一个开源数据移动项目，用于 ELT 管道和 AI 代理 - 从 API、数据库和文件到仓库、湖泊和 AI 应用程序。它提供了自主托管和云端两种选择。
+Airbyte 是一个开源的数据传输工具，用于 ELT (Extract, Load, Transform) 管道和 AI 代理。它可以从 API、数据库和文件中提取数据，并将其传输到仓库、湖泊和 AI 应用程序。Airbyte 支持自主托管和云部署。
 
 **价值**
 
-Airbyte 的主要价值在于帮助用户移除重复的手动操作，从而提高工作效率。它可以帮助用户自动化重复任务，连接工具并创建可重复的流程，定时执行操作任务。
+Airbyte 的价值在于，它可以帮助用户移除日常工作中的重复操作，提高工作效率。它可以连接工具并创建可重复的流程，自动化操作任务。
 
 **典型接入方式**
 
 Airbyte 提供了多种接入方式，包括：
 
-* API：通过 API 接口来连接数据源和目标。
-* SDK：使用 SDK 来编程接入 Airbyte。
-* CLI：通过命令行接口来管理 Airbyte。
+* API：通过 API 接口与 Airbyte 进行交互。
+* SDK：使用 Airbyte 提供的 SDK 来集成 Airbyte 功能。
+* CLI：使用命令行接口来管理 Airbyte。
 
 **生产可用性**
 
-Airbyte 的生产可用性非常高，主要原因是：
+Airbyte 的生产可用性很高，主要原因是：
 
-* 有大量的 GitHub star 和 fork 数。
-* 最近有活跃的维护和更新。
-* 强大的生态系统支持。
-
-总的来说，Airbyte 是一个强大的开源数据移动项目，提供了高效的数据移动和管理解决方案。
+* 活跃维护：Airbyte 有活跃的维护者团队。
+* 大量采用：Airbyte 有 21,512 个 GitHub 星星和 5,235 个分支。
+* 强大的
 
 ## 🧭 Practical evaluation
 
@@ -94,7 +90,7 @@ Airbyte 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 21511 GitHub stars
+- 21512 GitHub stars
 - 5235 forks
 - updated 2026-06-23
 - primary language: Python

@@ -27,57 +27,51 @@ MCP · AI/ML · Backend · Database
 
 ### English
 
-**Summary**
+**Project Summary:**
+FunASR is an open-source, industrial-grade speech recognition toolkit that enables real-time speech recognition in 50+ languages, along with speaker diarization, emotion detection, and streaming capabilities. It provides a standard protocol for connecting AI assistants to real tools and data, making it an ideal solution for integrating AI agents with various systems. With its high production readiness and strong ecosystem signals, FunASR is suitable for serious pilot projects.
 
-Modelscope/FunASR is an open-source, industrial-grade speech recognition toolkit that offers real-time speech recognition in 50+ languages, speaker diarization, emotion detection, and streaming capabilities. Its standard protocol enables the connection of AI assistants to real tools and data. With its strong ecosystem signals, recent activity, and high adoption rate, it is a production-ready candidate for serious pilots.
+**Value Proposition:**
+The primary value proposition of FunASR lies in its ability to standardize integrations between AI assistants and real tools and data. By providing a standard protocol, it enables seamless communication and connectivity between different systems, making it easier to develop and deploy AI-powered applications.
 
-**Value Proposition**
-
-The value proposition of modelscope/FunASR lies in its ability to standardize integrations between AI assistants and real tools and data through a standard protocol. This enables seamless communication and collaboration between different systems, making it a crucial tool for various industries.
-
-**Practical Adoption Path**
-
-To adopt modelscope/FunASR, follow these steps:
-
-1. Evaluate the toolkit's API, SDK, and CLI implementation signals to ensure they meet your project's requirements.
-2. Explore the language metadata and focused topics to determine the toolkit's suitability for your specific use case.
-3. Review the toolkit's documentation and community support to ensure you have the necessary resources for a successful implementation.
-4. Integrate the toolkit with your AI assistant or tool using the standard protocol.
-5. Test and deploy the integrated system to ensure seamless communication and collaboration.
-
-**Production Readiness**
-
-Models
+**Practical Adoption Path:**
+To adopt FunASR, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then assess its production readiness and quality signals, including GitHub stars, forks, and recent activity. Once satisfied with the project's stability and maintainability, developers can integrate FunASR into their applications using its Python-based API and SDK. The project's straightforward integration process and strong community support make it an attractive choice for developers looking to leverage speech recognition capabilities in
 
 ### Русский
 
 Резюме проекта modelscope/FunASR:
 
-Modelscope/FunASR - это индустриальный уровень инструментарий для распознавания речи, обеспечивающий сверхбыструю обработку (170x реального времени), поддержку более 50 языков, распознавание говорящих, распознавание эмоций, потоковую передачу и совместимость с API OpenAI. Этот проект идеально подходит для соединения интеллектуальных помощников с реальными инструментами и данными через стандартный протокол. Modelscope/FunASR готов к пилотному проекту и уже имеет высокий уровень готовности к производству (High) благодаря недавней активности, широкому адопте и сильным сигналам экосистемы.
+modelscope/FunASR - это индустриальный уровень инструментарий для распознавания речи, который обеспечивает быструю работу в режиме реального времени (170x), поддерживает более 50 языков, а также включает функции распознавания говорящих, обнаружения эмоций, потокового ввода и совместимость с API OpenAI. Этот проект позволяет подключать AI-ассистентов к реальным инструментам и данным через стандартный протокол. modelscope/FunASR готов к использованию в production, поскольку имеет высокий уровень готовности (High), recent активность, широкое распространение и сильные сигналы экосистемы.
 
 ### 中文
 
 **简短介绍**
 
-ModelScope/FunASR 是一个工业级语音识别工具包，提供实时语音识别、50+语言支持、说话人分离、情感检测、流式语音识别和 OpenAI 兼容 API 等功能。它可以帮助连接 AI 助手到真实工具和数据通过一个标准协议。
+modelscope/FunASR 是一个工业级的语音识别工具包，支持实时语音识别（170倍实时）、50+种语言、说话人分离、情感检测、流式语音识别和 OpenAI 兼容 API。它帮助连接 AI 助手到真实的工具和数据，通过标准协议。
 
 **价值**
 
-ModelScope/FunASR 的主要价值在于它可以帮助连接 AI 助手到真实工具和数据，通过一个标准协议。它可以让开发者更轻松地与 AI 系统集成，实现实时语音识别和其他语音处理功能。
+模型scope/FunASR 的主要价值在于：
+
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
 
 **典型接入方式**
 
-ModelScope/FunASR 提供了多种接入方式，包括：
+模型scope/FunASR 支持以下接入方式：
 
-* API：通过 API 接口调用语音识别和其他功能。
-* SDK：通过 SDK 集成语音识别和其他功能到自己的应用中。
-* CLI：通过命令行接口调用语音识别和其他功能。
+* API（RESTful 或 gRPC）
+* SDK（Python 或其他语言）
+* CLI（命令行接口）
+* 语言元数据（语言支持和特性）
 
 **生产可用性**
 
-ModelScope/FunASR 的生产可用性很高，主要是因为：
+模型scope/FunASR 的生产可用性非常高，主要原因是：
 
-* 近期活跃：项目最近有活跃的维护和
+* 近期的活跃度和社区参与度
+* 强大的生态系统和采用率
+* 高质量的开源代码和维护者
 
 ## 🧭 Practical evaluation
 
@@ -95,8 +89,8 @@ ModelScope/FunASR 的生产可用性很高，主要是因为：
 
 **Quality signals**
 
-- 18472 GitHub stars
-- 1877 forks
+- 18481 GitHub stars
+- 1881 forks
 - updated 2026-06-23
 - primary language: Python
 - 20 topics

@@ -27,48 +27,57 @@ Knowledge/RAG · AI/ML · DevTools · Database · Security
 
 ### English
 
-**Project Summary**
+**Project Summary:**
+promptfoo/promptfoo is an open-source tool that enables testing and evaluation of AI prompts, agents, and Retrieval-Augmented Generative Models (RAGs). It facilitates red teaming, pentesting, and vulnerability scanning for AI systems, allowing for comparison of performance across various models, including GPT, Claude, and Gemini. With simple declarative configurations and integration with CI/CD tools, promptfoo/promptfoo helps make internal knowledge searchable and usable by assistants.
 
-Promptfoo is an open-source project that enables users to test and evaluate AI agents, RAGs (Retrieval-Augmented Generation), and prompts in a controlled environment. This tool allows for red teaming, pentesting, and vulnerability scanning of AI systems, making it an essential resource for improving the performance and security of AI-powered assistants. With its simple declarative configuration and integration with command line and CI/CD pipelines, promptfoo facilitates the adoption of AI technology in various industries.
+**Value Proposition:**
+The primary value proposition of promptfoo/promptfoo lies in its ability to improve the performance and reliability of AI assistants by allowing for the indexing and searching of knowledge bases. This enables more accurate and relevant answers, making it an essential tool for organizations seeking to leverage AI for internal knowledge management.
 
-**Value Proposition**
+**Practical Adoption Path:**
+To adopt promptfoo/promptfoo, organizations can follow a straightforward path:
 
-The primary value of promptfoo lies in its ability to make internal knowledge searchable and usable by assistants. By indexing knowledge bases and improving search functionality over documents, promptfoo helps organizations to ground assistant answers and enhance the overall user experience. This is particularly useful for companies that rely on AI-powered assistants to provide accurate and relevant information to their customers or employees.
-
-**Practical Adoption Path**
-
-To adopt promptfoo in a production environment, we recommend starting with a small proof of concept and reviewing the project's README documentation. This will help you understand the tool's functionality, configuration requirements, and potential integration challenges. Once you have a clear understanding of the project's capabilities and limitations, you can begin integrating promptfoo with your existing systems and workflows. With its high production readiness score and
+1. **Evaluate and test**: Start with a small proof of concept to evaluate the tool's capabilities and potential risks.
+2. **Read and understand the documentation**: Review the project's README and documentation to ensure a clear understanding of its features and configuration.
+3. **Integrate with existing systems**: Connect promptfoo/promptfoo with existing CI/CD tools and knowledge
 
 ### Русский
 
 Резюме проекта promptfoo/promptfoo:
 
-Проект promptfoo/promptfoo предназначен для тестирования и оценки эффективности различных AI-агентов, включая GPT, Claude, Gemini и другие. Он позволяет сравнивать их производительность и использовать для поиска и организации внутренней знаний. Проект готов к внедрению в production на высоком уровне, но требует дальнейшего просмотра и проверки лицензионной и безопасности информации.
+Promptfoo/promptfoo - это open-source проект, предназначенный для тестирования и оценки функциональности различных агентов и РАГов (Reasoning and Generation). Он позволяет сравнивать производительность различных платформ, включая GPT, Claude, Gemini и DeepSeek. Этот проект может помочь сделать внутренние знания поисковыми и доступными для ассистентов.
+
+Типовой сценарий внедрения: проект может быть использован для индексации баз знаний, улучшения поиска по документам и обеспечения качественных ответов ассистентов.
+
+Проект имеет высокий уровень готовности к production, что обусловлено его активностью, широкой адопцией и сильными сигналами экосистемы. Однако перед внедрением необходимо провести тщательный отбор лицензии, оценить безопасность и проверить активность разработчиков.
 
 ### 中文
 
 **简短介绍**
-promptfoo/promptfoo 是一个开源项目，用于测试提示、智能代理和知识图谱（RAG）。它提供了评估 GPT、Claude、Gemini 等模型的性能，以及简单的声明性配置和命令行和 CI/CD 集成。该项目已被 OpenAI 和 Anthropic 采用。
+
+promptfoo/promptfoo 是一个用于测试提示、智能助手和知识图谱的开源项目。它提供了一个简单的配置文件，支持命令行和 CI/CD 集成，用于评估 GPT、Claude、Gemini 等 AI 模型的性能。该项目已被 OpenAI 和 Anthropic 采用。
 
 **价值**
-promptfoo/promptfoo 帮助内部知识库变得可搜索和可用的，赋予助手更好的回答能力。它可用于：
+
+promptfoo/promptfoo 帮助内部知识库变得可搜索和可使用，改善智能助手的回答质量。它可以用于：
 
 * 索引知识库
-* 改善文档搜索
-* 为助手提供可靠的答案
+* 提高对文档的搜索能力
+* 为智能助手提供可靠的答案
 
 **典型接入方式**
-1. 检查 README 文件和 GitHub 仓库中的信息。
-2. 运行一个小的 PoC（Proof of Concept）来评估项目的可用性和适用性。
-3. 配置项目以符合自己的需求，使用简单的声明性配置。
+
+1. 阅读 README 文档并进行小规模的 PoC (Proof of Concept) 验证
+2. 检查项目的 GitHub star、fork 数和更新时间等信号
+3. 评估项目的安全 posture 和许可证
 
 **生产可用性**
-promptfoo/promptfoo 的生产可用性较高，它具有以下特点：
 
-* 最近的活跃度
-* 广泛的采用
+promptfoo/promptfoo 的生产可用性很高，因为它有以下优势：
+
+* 近期活跃
+* 强大的采用度
 * 强大的生态系统信号
-* 高评分（85/100
+* 高质量的 GitHub star 和
 
 ## 🧭 Practical evaluation
 
@@ -86,8 +95,8 @@ promptfoo/promptfoo 的生产可用性较高，它具有以下特点：
 
 **Quality signals**
 
-- 22482 GitHub stars
-- 2001 forks
+- 22493 GitHub stars
+- 2002 forks
 - updated 2026-06-23
 - primary language: TypeScript
 - 18 topics

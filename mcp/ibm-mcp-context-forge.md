@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 716 |
+| 🍴 **Forks** | 717 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-06-22 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -28,54 +28,53 @@ MCP · AI/ML · Backend · Observability · DevOps/Infra
 ### English
 
 **Project Summary:**
+IBM/mcp-context-forge is an open-source project that provides a unified AI Gateway, registry, and proxy for connecting AI assistants to real tools and data through a standard protocol, called the Model Context Protocol (MCP). This project optimizes agent and tool calling, supports plugins, and offers centralized discovery, guardrails, and management. With its high production readiness and strong ecosystem signals, it's an attractive candidate for serious pilots.
 
-IBM/mcp-context-forge is an open-source AI Gateway that enables connection between AI assistants and real tools and data through a standard protocol. This unified endpoint provides centralized discovery, guardrails, and management, optimizing Agent & Tool calling and supporting plugins. By standardizing integrations, it simplifies the process of connecting AI agents to tools.
-
-**Value Proposition:**
-
-The value of IBM/mcp-context-forge lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier to connect AI agents to tools and ship Model Context Protocol servers. This standardization enables a unified endpoint for centralized discovery, guardrails, and management, streamlining the process of Agent & Tool calling.
+**Value:**
+The primary value proposition of IBM/mcp-context-forge lies in its ability to connect AI assistants to real tools and data through a standard protocol, making it easier to integrate AI agents with various tools and systems. This standardization enables developers to focus on building AI applications without worrying about the underlying integrations.
 
 **Practical Adoption Path:**
+To adopt IBM/mcp-context-forge, developers can follow these steps:
 
-Adopting IBM/mcp-context-forge involves the following steps:
-
-1. **Evaluation:** Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for your use case.
-2. **Integration:** Integrate the project into your existing infrastructure, taking into account its support for plugins and languages.
-3. **Testing:** Test the project to ensure it meets your requirements and integrates seamlessly with your tools and data.
-4. **Deployment:** Deploy the project
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets their requirements.
+2. Review the project's GitHub repository, which has strong adoption and ecosystem signals, including 3944 GitHub stars and 717 forks.
+3. Assess the project's production readiness, which is high due to recent activity, strong adoption, and a
 
 ### Русский
 
 Резюме проекта IBM/mcp-context-forge:
 
-IBM/mcp-context-forge - это открытое проект, предназначенное для создания единой точки доступа к различным API и сервисам (MCP, A2A, REST/gRPC), что упрощает подключение AI-ассистентов к реальным инструментам и данным. Типовой сценарий внедрения проекта - подключение AI-агентов к инструментам, развертывание серверов по протоколу Model Context Protocol и стандартизация интеграций. Проект высокого уровня готовности к production, с большим количеством звезд на GitHub и активной поддержкой сообщества.
+IBM/mcp-context-forge - это открытое исходное решение, которое позволяет соединять искусственный интеллект с реальными инструментами и данными через стандартный протокол. Этот проект представляет собой AI Gateway, реестр и прокси, который может работать перед любым MCP, A2A или REST/gRPC API, предоставляя единую точку доступа с централизованной обнаруживаемостью, ограничениями и управлением. Проект готов к внедрению в производственные среды (Production readiness: High) и уже имеет сильную базу пользователей и экосистемы (3944 GitHub звезды, 717 вилок).
 
 ### 中文
 
 **IBM/mcp-context-forge 简介**
 
-IBM/mcp-context-forge 是一个 AI Gateway、注册中心和代理服务，位于 MCP、A2A、REST/gRPC API 之前，提供统一的接口和集中化的发现、安全检查和管理功能。它优化了 Agent 和工具的调用，并支持插件的使用。
+IBM/mcp-context-forge 是一个 AI 网关、注册中心和代理，位于 MCP、A2A 或 REST/gRPC API 之前，提供一个统一的接口，具有集中式发现、安全防护和管理功能。它优化了 Agent 和工具的调用，支持插件。
 
 **价值**
 
-IBM/mcp-context-forge 的价值在于，它帮助连接 AI 助手到实际的工具和数据，通过标准协议实现这一点。
+IBM/mcp-context-forge 帮助连接 AI 助手到真实工具和数据通过标准协议。
 
 **典型接入方式**
 
-典型的接入方式包括：
-
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化集成
+连接 AI 代理到工具；部署 Model Context Protocol 服务器；标准化集成。
 
 **生产可用性**
 
-IBM/mcp-context-forge 的生产可用性较高，主要原因包括：
-* 相对稳定和活跃的社区支持
-* 强大的生态系统信号
-* 近期的更新和维护
+IBM/mcp-context-forge 的生产可用性较高，原因包括：
 
-总的来说，IBM/mcp-context-forge 是一个值得信赖的开源项目，可以帮助开发者实现 AI 代理与工具的高效连接。
+* 最近活动：项目有最新的更新和修复。
+* 归属：项目有强大的社区支持和采用。
+* 生态系统信号：项目有足够的生态系统信号，可以进行严肃的试验。
+
+**注意事项**
+
+* 许可证：需要最终审查。
+* 安全性：需要最终审查。
+* 活动维护者：需要最终审查。
+
+总的来说，IBM/mcp-context-forge 是一个强
 
 ## 🧭 Practical evaluation
 
@@ -93,9 +92,9 @@ IBM/mcp-context-forge 的生产可用性较高，主要原因包括：
 
 **Quality signals**
 
-- 3941 GitHub stars
-- 716 forks
-- updated 2026-06-22
+- 3944 GitHub stars
+- 717 forks
+- updated 2026-06-23
 - primary language: Python
 - 20 topics
 
@@ -119,4 +118,4 @@ IBM/mcp-context-forge 的生产可用性较高，主要原因包括：
 
 ---
 
-<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/IBM/mcp-context-forge) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/IBM/mcp-context-forge) · [← Back to Mcp](./README.md)</sub>

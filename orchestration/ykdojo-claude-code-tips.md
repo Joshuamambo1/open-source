@@ -27,59 +27,50 @@ Orchestration · Automation · AI/ML · DevTools · Product
 
 ### English
 
-**Summary:** ykdojo/claude-code-tips is an open-source project that provides 43 tips for maximizing the potential of Claude Code, a tool for creating repeatable agent workflows. This project offers a custom status line script, a containerized Claude Code setup, and integration with the dx plugin. By leveraging this project, users can streamline their workflows, standardize agent memory, and enhance productivity.
+**Project Summary:**
 
-**Value Proposition:** ykdojo/claude-code-tips helps users turn isolated prompts and tools into cohesive, repeatable workflows. This project empowers users to coordinate multi-agent tasks, integrate tool pipelines, and standardize agent memory, ultimately increasing efficiency and productivity.
+ykdojo/claude-code-tips is an open-source project that provides 43 actionable tips for optimizing Claude Code, a powerful tool for automating workflows. The project includes a custom status line script, Claude Code running in a container, and the dx plugin, enabling users to standardize agent memory and coordinate multi-agent workflows. With its high production readiness and strong ecosystem signals, this project is suitable for serious pilots.
 
-**Practical Adoption Path:** To adopt ykdojo/claude-code-tips, users can follow these steps:
+**Value Proposition:**
 
-1. Evaluate the project's documentation and codebase to understand its features and functionality.
-2. Assess the project's compatibility with existing tools and workflows.
-3. Integrate the project's custom status line script and containerized Claude Code setup into their workflow.
-4. Explore the dx plugin integration and its potential benefits.
-5. Continuously monitor and update the project to ensure it aligns with evolving needs and requirements.
+The value proposition of ykdojo/claude-code-tips lies in its ability to turn isolated prompts and tools into repeatable agent workflows, helping users to streamline their automation processes and increase productivity.
 
-**Production Readiness:** With 8894 GitHub stars, 685 forks, and
+**Practical Adoption Path:**
+
+To adopt this project, users can follow these steps:
+
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets their needs.
+2. Review the project's license, security posture, and active maintainers to assess the risks involved.
+3. Integrate the project's custom status line script, Claude Code running in a container, and the dx plugin into their existing workflows.
+4. Experiment with the 43 provided tips to optimize their Claude Code setup and automate their workflows.
+
+**Production Readiness:**
+
+With its
 
 ### Русский
 
 Резюме проекта ykdojo/claude-code-tips:
 
-ykdojo/claude-code-tips - это open-source проект, предлагающий 43 полезных советов для использования платформы Claude Code. Он включает в себя персонализированный скрипт для линии статуса и возможность запуска Claude Code в контейнере, а также плагин dx. Проект предназначен для объединения изолированных запросов и инструментов в повторяемые агентские потоки.
-
-ykdojo/claude-code-tips особенно полезен для координации мультиагентных потоков, добавления инструментальных линий и стандартизации агентской памяти. Проект уже имеет высокий уровень готовности к production, с сильными сигналами recent activity, adoption и экосистемы. Более того, он имеет сильную поддержку со стороны сообщества, с 8894 GitHub звездами и 685 вилками.
+ykdojo/claude-code-tips - это открытое исходное проект, предлагающий 43 полезных советов для максимального использования платформы Claude Code. Этот проект может помочь превратить изолированные команды и инструменты в повторяемые рабочие процессы агентов. Проект готов к внедрению в производственную среду, поскольку он получил высокий балл за готовность к production (86/100) и демонстрирует активность, принятие и сигналы экосистемы.
 
 ### 中文
 
 **ykdojo/claude-code-tips 简介**
 
-ykdojo/claude-code-tips 是一个开源项目，提供了 43 个关于 Claude Code 的提示和最佳实践，从基础到高级，包括自定义状态行脚本和在容器中运行 Claude Code 等功能。此外，还包括 dx 插件。该项目的价值在于帮助开发者将孤立的提示和工具转换为可重复的代理工作流。
+ykdojo/claude-code-tips 是一个开源项目，提供了 43 个使用 Claude Code 的最佳实践和技巧，从基础到高级，包括自定义状态栏脚本和在容器中运行 Claude Code。它还包含了 dx 插件。
 
 **价值**
 
-ykdojo/claude-code-tips 的价值在于帮助开发者：
-
-* 将多个代理的工作流协调起来
-* 添加工具使用的管道
-* 标准化代理内存
+ykdojo/claude-code-tips 帮助将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道以及标准化代理内存。
 
 **典型接入方式**
 
-该项目提供了以下接入方式：
-
-* API/SDK/CLI
-* 语言元数据
-* 焦点主题
+该项目提供了 API、SDK 和 CLI 等接入方式，可以方便地集成到您的系统中。
 
 **生产可用性**
 
-ykdojo/claude-code-tips 的生产可用性较高，主要原因是：
-
-* 最近的活动
-* 良好的采用率
-* 强大的生态系统信号
-
-因此，ykdojo/claude-code-tips 是一个值得考虑的开源项目。
+ykdojo/claude-code-tips 的生产可用性很高，最近有活跃的维护人员和强大的生态系统支持。它是适合进行严肃测试的开源项目。
 
 ## 🧭 Practical evaluation
 
@@ -97,7 +88,7 @@ ykdojo/claude-code-tips 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 8894 GitHub stars
+- 8895 GitHub stars
 - 685 forks
 - updated 2026-06-23
 - primary language: HTML

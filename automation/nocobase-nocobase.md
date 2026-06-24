@@ -27,45 +27,52 @@ Automation · AI/ML · Frontend · Database · DevOps/Infra
 
 ### English
 
-**Summary:** NocoBase is an open-source AI-powered no-code platform designed to rapidly build business systems, providing both speed and reliability through its AI-driven interface and production-proven infrastructure.
+**Project Summary:**
+NocoBase is an open-source AI-powered no-code platform that enables businesses to build systems quickly and reliably. By leveraging AI on top of proven infrastructure and a user-friendly interface, users can automate repetitive tasks and streamline workflows. With a strong ecosystem and recent activity, NocoBase is a promising solution for businesses seeking to reduce manual operations.
 
-**Value:** The primary value proposition of NocoBase lies in automating repetitive manual operations in workflows, allowing users to connect tools into repeatable flows and schedule operational tasks.
+**Value Proposition:**
+The primary value proposition of NocoBase lies in its ability to remove repetitive manual operations from a workflow, freeing up resources for more strategic tasks. This is achieved through the platform's AI-driven automation capabilities, which enable users to connect tools into repeatable flows and schedule operational tasks efficiently.
 
-**Practical Adoption Path:** To integrate NocoBase into a workflow, users should start with a small proof of concept and review the README documentation to evaluate its feasibility. Given its strong adoption and ecosystem signals, NocoBase is suitable for a serious pilot. However, a final review of the license, security posture, and active maintainers is necessary to ensure a smooth adoption process.
+**Practical Adoption Path:**
+To adopt NocoBase, businesses can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the platform, users can begin integrating NocoBase into their existing workflows, starting with small-scale automation tasks and gradually scaling up to more complex processes.
 
-**Production Readiness:** NocoBase exhibits high production readiness, especially considering its recent activity, strong adoption, and ecosystem signals. With over 23,000 GitHub stars and 2,700 forks, NocoBase has a significant following and a well-maintained codebase, making it a viable option for production use.
+**Production Readiness:**
+NocoBase demonstrates high production readiness, with recent activity, adoption, and strong ecosystem signals indicating a solid foundation for a serious pilot. The project's 23,061 GitHub stars, 2,697 forks, and regular updates (as of 2026
 
 ### Русский
 
 Резюме:
 
-NocoBase - это открытый исходный код платформа AI + no-code, которая позволяет быстро разрабатывать бизнес-системы. Платформа помогает автоматизировать повторяющиеся операции, облегчая работу над проектами. Внедрение NocoBase может быть полезно в сценариях, когда необходимо соединить инструменты в автоматизированные потоки и расписание операционных задач. Платформа готовна к внедрению в production, поскольку имеет высокий уровень активности, адопции и экосистемных сигналов.
+НокоБейс (NocoBase) - это открытый исходный код AI + платформа no-code для быстрого создания бизнес-систем. Это позволяет снизить количество повторяющихся ручных операций в потоке работы, повышая эффективность и продуктивность.
+
+Типовым сценарием внедрения является автоматизация мониторинга и управления операционными задачами, связывая различные инструменты в повторяющиеся потоки и расписание задач. Это особенно актуально для компаний, стремящихся повысить скорость и надежность своих бизнес-процессов.
+
+Проект демонстрирует высокий уровень готовности к production, сrecentной активностью, широкой адопцией и сильной экосистемой. Однако, перед внедрением, необходимо провести тщательный анализ лицензии, безопасности и активности maintainers.
 
 ### 中文
 
-**NocoBase 简介**
+**简短介绍**
 
-NocoBase 是一个开源的 AI + 无代码平台，用于快速构建业务系统。通过将 AI 应用于已有的生产环境和 WYSIWYG 无代码界面，NocoBase 提供了速度和可靠性的双重优势。
+NocoBase 是一个开源的 AI + 无代码平台，用于快速构建企业系统。通过 AI 在稳定基础设施和 WYSIWYG 无代码界面之上工作，既能获得速度，又能保证可靠性。
 
 **价值**
 
-NocoBase 的主要价值在于帮助用户移除工作流中的重复手动操作。它可以帮助用户连接工具，自动化重复流程，并定时执行操作任务。
+NocoBase 的价值在于帮助用户移除工作流程中的重复手动操作，从而提高工作效率和生产力。它可以帮助用户连接工具，建立可重复的流程，并安排运营任务。
 
 **典型接入方式**
 
-接入 NocoBase 可以通过以下方式：
+NocoBase 的接入方式包括：
 
-1. 移除手动工作：使用 NocoBase 的 AI 功能来自动化重复手动工作。
-2. 连接工具：将工具连接到 NocoBase 中，形成可重复的流程。
-3. 定时执行任务：使用 NocoBase 来定时执行操作任务。
+1. 移除手动工作：通过 NocoBase 来自动化重复的工作流程。
+2. 连接工具：将工具集成到可重复的流程中，提高工作效率。
+3. 计划运营任务：通过 NocoBase 来安排运营任务，确保工作的顺畅进行。
 
 **生产可用性**
 
-NocoBase 的生产可用性非常高，理由如下：
+NocoBase 的生产可用性非常高，主要原因包括：
 
-* 最近活动：NocoBase 有最近的活动，表明它仍然活跃。
-* 采用度：NocoBase 已经有很多用户采用。
-* 生态系统信号：NocoBase
+1. 近期活动：NocoBase 有最近的更新和活动。
+2. 使用人数：有 23061 个 GitHub 星和 2697 个分支，表明
 
 ## 🧭 Practical evaluation
 
@@ -83,7 +90,7 @@ NocoBase 的生产可用性非常高，理由如下：
 
 **Quality signals**
 
-- 23057 GitHub stars
+- 23061 GitHub stars
 - 2697 forks
 - updated 2026-06-24
 - primary language: TypeScript

@@ -27,53 +27,55 @@ Orchestration · MCP · Automation · AI/ML · DevTools
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-The open-source project "sickn33/antigravity-awesome-skills" is a comprehensive library of over 1,600 agentic skills for various tools, including Claude Code, Cursor, and Antigravity. It offers specialized plugins, installer CLI, bundles, workflows, and official/community skill collections, enabling users to turn isolated prompts and tools into repeatable agent workflows. With its high production readiness and strong ecosystem signals, this project is suitable for serious pilots.
+The open-source project "sickn33/antigravity-awesome-skills" is a comprehensive library of over 1,600 agentic skills for various tools, including Claude Code, Cursor, Codex CLI, Gemini CLI, and Antigravity. This library enables users to create repeatable agent workflows, standardize agent memory, and integrate tool-use pipelines. With a strong adoption rate and recent activity, it is a production-ready candidate for serious pilots.
 
-**Value Proposition:**
+**Value Proposition**
 
-The project's value lies in its ability to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, making it an essential tool for those working with AI/ML and automation. By leveraging this library, users can streamline their workflows, increase efficiency, and reduce the complexity of managing multiple tools and agents.
+The primary value proposition of this project is its ability to turn isolated prompts and tools into repeatable agent workflows. This enables users to coordinate multi-agent workflows, standardize agent memory, and integrate tool-use pipelines, making it an essential tool for automation, AI/ML, and DevTools.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**
 
-To adopt this project, users can start by exploring the library's various features, such as the installer CLI, bundles, and workflows. They can also review the official/community skill collections to find the skills that best fit their needs. As users become more familiar with the project, they can begin to integrate it into their existing workflows, experimenting with different combinations of skills and tools to achieve their desired outcomes.
+The adoption path for this project is straightforward. Users can evaluate the implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for their needs. With a strong ecosystem and recent activity, users can integrate the library into their existing workflows with confidence.
 
-**Production Read
+**Production Readiness**
+
+The project has a high production readiness score due to its recent activity, adoption, and ecosystem signals. With over 41,500 GitHub stars, 6
 
 ### Русский
 
 Резюме проекта sickn33/antigravity-awesome-skills:
 
-Проект представляет собой открытое исходное библиотеку, включающую более 1600 агентских навыков для различных платформ, таких как Claude Code, Cursor, Codex CLI и другие. Он поможет объединить изолированные команды и инструменты в повторяемые агентные потоки, что упростит координацию мульти-агентных задач, добавление цепочек инструментов и стандартизацию памяти агентов.
+Проект antigravity-awesome-skills представляет собой установочную библиотеку GitHub, содержащую более 1600 агрессивных навыков для различных платформ, включая Claude Code, Cursor, Codex CLI, Gemini CLI и другие. Это позволяет легко интегрировать различные инструменты и создавать повторяемые потоки работы для агентов.
 
-Проект готов к внедрению в production, поскольку имеет высокий уровень готовности (97/100), активное обновление (последнее обновление 24 июня 2026 года) и сильные сигналы экосистемы. Однако, как и любой открытый исходный проект, ему необходима окончательная проверка лицензионной политики, безопасности и действующих мейнтейнеров.
+Проект легко внедрить в типовой сценарий, когда требуется координировать работу нескольких агентов, добавлять пайплайны для использования инструментов или стандартизировать память агентов. Проект уже показал свою производственную готовность, имея высокий балл 97/100, 41539 GitHub звезд и 6666 форков, что делает его идеальным кандидатом для серьезного пилота.
 
 ### 中文
 
 **简短介绍**
 
-开源项目"sickn33/antigravity-awesome-skills" 是一个可安装的 GitHub 库，提供了 1,600+ 个 agentic 技能，适用于 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等工具。它还包括了专门的插件、安装器 CLI、捆绑包、工作流和官方/社区技能集合。
+sickn33/antigravity-awesome-skills 是一个开源项目，提供了 1600+ 个可安装的技能包，支持 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等工具。它包括了专门的插件、安装 CLI、包、工作流和官方社区技能集合。
 
 **价值**
 
-sickn33/antigravity-awesome-skills 的主要价值在于，它可以帮助将孤立的提示和工具转化为可重复的代理工作流，这使得多代理工作流的协调、工具使用管道的添加以及代理内存的标准化变得更加容易。
+这个项目的主要价值在于，它帮助将孤立的提示和工具转化为可重复的代理工作流。通过使用这个项目，可以协调多个代理之间的工作流、添加工具使用的管道以及标准化代理内存。
 
 **典型接入方式**
 
-典型接入方式包括：
+该项目支持多种接入方式，包括：
 
-* 安装 GitHub 库中的技能包
-* 使用安装器 CLI 来安装和配置技能
-* 将技能捆绑包添加到项目中
-* 使用工作流来协调多代理技能
+*   安装 CLI：可以通过 CLI 安装和管理技能包。
+*   API/SDK：可以通过 API 或 SDK 与技能包进行交互。
+*   语言元数据：可以通过语言元数据来访问技能包的信息。
 
 **生产可用性**
 
-该项目的生产可用性很高，主要原因包括：
+该项目的生产可用性非常高，原因有：
 
-* 近期活跃度：最近有更新
-* 广泛的采用：有 41534
+*   近期活跃：最近有更新和维护。
+*   广泛采用：有大量的 GitHub star 和 fork。
+*   强大的生
 
 ## 🧭 Practical evaluation
 
@@ -91,8 +93,8 @@ sickn33/antigravity-awesome-skills 的主要价值在于，它可以帮助将孤
 
 **Quality signals**
 
-- 41534 GitHub stars
-- 6665 forks
+- 41539 GitHub stars
+- 6666 forks
 - updated 2026-06-24
 - primary language: Python
 - 20 topics

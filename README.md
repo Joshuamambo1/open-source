@@ -18,36 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 17 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 12 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
 | 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 1 | [Browse →](./security/) |
 | 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
 | ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
 | ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.5k | Mcp |
-| 2 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 41.5k | Orchestration |
-| 3 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.8k | Mcp |
-| 4 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 48.8k | Orchestration |
-| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.3k | Orchestration |
-| 6 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.7k | Orchestration |
-| 7 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
-| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24.2k | Orchestration |
-| 9 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.7k | Orchestration |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 1 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 41.5k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.8k | Mcp |
+| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.3k | Orchestration |
+| 4 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.7k | Orchestration |
+| 5 | [farion1231/cc-switch](./mcp/farion1231-cc-switch.md) | ⭐ 107.3k | Mcp |
+| 6 | [kreuzberg-dev/kreuzberg](./mcp/kreuzberg-dev-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 3.9k | Mcp |
+| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24.2k | Orchestration |
+| 10 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.3k | Orchestration |
 
 ## 🚀 How it works
 

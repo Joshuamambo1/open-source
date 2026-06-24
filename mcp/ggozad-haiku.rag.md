@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 538 |
+| ⭐ **Stars** | 539 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,39 +27,56 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ### English
 
-Here's a brief summary of the open-source project ggozad/haiku.rag:
+**Project Summary:**
 
-**Project Summary:** ggozad/haiku.rag is an opinionated agentic RAG (Retrieval-Augmented Generation) powered by LanceDB, Pydantic AI, and Docling. It enables the connection of AI assistants to real tools and data through a standard protocol, facilitating the integration of AI agents with various tools and data sources.
+ggozad/haiku.rag is an open-source, opinionated agentic RAG (Reactive Agent) that enables AI assistants to connect with real tools and data through a standard protocol. This project, powered by LanceDB, Pydantic AI, and Docling, helps standardize integrations and facilitate the connection of AI agents to tools and Model Context Protocol servers. With a high production readiness score, ggozad/haiku.rag is suitable for serious pilots.
 
-**Value Proposition:** The project's primary value proposition is to standardize integrations between AI assistants and real tools and data, making it easier to connect AI agents to various tools and data sources. This standardization enables the creation of a unified protocol for AI integration, streamlining the development process and improving the overall efficiency of AI-powered applications.
+**Value Proposition:**
 
-**Adoption Path:** The adoption path for ggozad/haiku.rag involves connecting AI agents to tools using the standard protocol provided by the project. This can be done by implementing the Model Context Protocol (MCP) servers, which allows for the integration of AI assistants with various tools and data sources. The project's documentation and GitHub repository provide a clear guide for evaluating and integrating the project into existing applications.
+The value of ggozad/haiku.rag lies in its ability to standardize integrations and enable AI assistants to interact with real tools and data. This allows developers to focus on building AI-powered applications without worrying about the underlying complexities of integration.
 
-**Production Readiness:** The project has a high production readiness score,
+**Practical Adoption Path:**
+
+To adopt ggozad/haiku.rag, developers can follow these steps:
+
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets their needs.
+2. Review the project's documentation and examples to understand how to use it.
+3. Integrate ggozad/haiku.rag into their existing AI-powered applications or tools.
+4. Test and
 
 ### Русский
 
 Резюме проекта ggozad/haiku.rag:
 
-Проект ggozad/haiku.rag представляет собой опционированный агентный RAG, построенный на основе технологий LanceDB, Pydantic AI и Docling. Он помогает соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что упрощает интеграцию и сокращает время разработки. Проект готов к внедрению в production, имея высокий уровень готовности и активную поддержку сообщества.
+Проект ggozad/haiku.rag представляет собой Opinionated агентный RAG, построенный на основе LanceDB, Pydantic AI и Docling. Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол. Этот проект готов к serious пилоту из-за своего высокого уровня готовности к production, обусловленного последней активностью, приёмом и сигналами экосистемы. 
+
+Типовой сценарий внедрения: проект предназначен для соединения AI-агентов с инструментами и данными, что может быть полезно в различных приложениях, таких как разработка, анализ данных или автоматизация бизнес-процессов. 
+
+Проект демонстрирует следующие показатели: 539 GitHub звезд, 35 фолов, обновлен 24 июня 2026 года, основной язык - Python, 8 тем. Однако, перед внедрением проекта необходимо провести окончательный отзыв по лицензии, безопасности и активности maintainers.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-ggozad/haiku.rag 是一个开源项目，使用 LanceDB、Pydantic AI 和 Docling 等技术，提供了一种标准化的协议，让人工智能助手连接到真实的工具和数据。
+ggozad/haiku.rag 是一个开源项目，提供了一种标准协议，让人工智能助手可以连接到真实工具和数据。它使用 LanceDB、Pydantic AI 和 Docling 等技术栈。
 
 **价值**
 
-ggozad/haiku.rag 的价值在于，它帮助连接 AI 助手到真实的工具和数据，从而实现标准化的整合。它可以让开发者更容易地连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化整合。
+ggozad/haiku.rag 的价值在于，它帮助连接人工智能助手到真实工具和数据，从而实现更好的整合和协同工作。
 
 **典型接入方式**
 
-ggozad/haiku.rag 提供了 API、SDK 和 CLI 等接入方式，开发者可以根据自己的需求选择合适的接入方式。它还提供了语言元数据和专注话题的接入方式，方便开发者评估和整合。
+典型的接入方式包括：
+
+1. 连接人工智能助手到工具：通过 ggozad/haiku.rag，可以让人工智能助手连接到各种工具和服务。
+2. 部署 Model Context Protocol 服务器：ggozad/haiku.rag 可以帮助部署 Model Context Protocol 服务器，实现更好的整合和协同工作。
+3. 标准化整合：ggozad/haiku.rag 提供了一种标准协议，让不同的系统可以更好地整合。
 
 **生产可用性**
 
-ggozad/haiku.rag 的生产可用性较高，尤其是考虑到它最近的活跃度、采用率和生态系统信号。它的 Python 语言和 8 个话题的支持也使其更容易被整合到
+ggozad/haiku.rag 的生产可用性很高，主要原因是：
+
+1. 最近的活动：项目最近有
 
 ## 🧭 Practical evaluation
 
@@ -77,9 +94,9 @@ ggozad/haiku.rag 的生产可用性较高，尤其是考虑到它最近的活跃
 
 **Quality signals**
 
-- 538 GitHub stars
+- 539 GitHub stars
 - 35 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: Python
 - 8 topics
 
@@ -103,4 +120,4 @@ ggozad/haiku.rag 的生产可用性较高，尤其是考虑到它最近的活跃
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to Mcp](./README.md)</sub>

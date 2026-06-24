@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -28,46 +28,48 @@ MCP · AI/ML · Frontend · DevTools
 ### English
 
 **Project Summary:**
-Paca is an open-source, AI-native project that serves as an alternative to popular project management tools like Jira and Trello. It's designed for Scrum teams where humans and AI agents collaborate as equals, and is fully customizable via configuration and plugins. By exposing a standard protocol, Paca enables the connection of AI assistants to real tools and data.
+Paca is an open-source, AI-native project that serves as a free alternative to popular project management tools like Jira, Trello, ClickUp, and Monday. It's designed for Scrum teams to collaborate with AI agents on the same board, sprint, and goals, and is fully customizable via configuration and plugins. Paca enables the connection of AI assistants to real tools and data through a standard protocol.
 
 **Value Proposition:**
-The value of Paca lies in its ability to bridge the gap between humans and AI agents in collaborative workspaces. By providing a standardized protocol for integration, Paca makes it easier for developers to connect AI assistants to existing tools and data sources, streamlining workflows and enhancing productivity.
+The value proposition of Paca lies in its ability to connect AI agents to real tools and data, standardizing integrations and facilitating collaboration between humans and AI. This allows teams to leverage the strengths of both humans and AI, leading to more efficient and effective project management.
 
 **Practical Adoption Path:**
-To adopt Paca, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore the project's documentation and community resources to understand how to customize and integrate Paca with their existing tools and workflows. The project's recent activity, adoption, and ecosystem signals suggest that it's a viable option for serious pilots.
+Adopting Paca involves several steps. Firstly, teams need to set up Paca on their servers, which is a self-hosted solution. Once set up, teams can customize Paca to suit their needs through configuration and plugins. To connect AI agents to Paca, teams need to ship Model Context Protocol servers and standardize integrations. This requires some technical expertise, but the project's documentation and community support can help facilitate the process.
 
 **Production Readiness:**
-Paca has demonstrated high production readiness, with strong signals of recent activity, adoption, and ecosystem support. The project's GitHub metrics, including 1270
+Paca is considered production-ready, with a high
 
 ### Русский
 
 Резюме проекта Paca-AI/paca:
 
-Пака-АЙ/Пака - это бесплатный и открытый альтернативный продукт для управления проектами, конкурирующий с Jira, Trello, ClickUp и Monday. Этот продукт предназначен для команд Scrum, в которых люди и АИ-агенты сотрудничают как равные, на одной доске, в одной спринте, с одной целью. Пака-АЙ/Пака позволяет подключать АИ-ассистентов к реальным инструментам и данным через стандартный протокол.
+Пака-Ай/Пака — это бесплатный и открытое API, предназначенный для соединения искусственного интеллекта с реальными инструментами и данными. Он позволяет командам Scrum работать вместе с агентами AI в равных условиях, используя одну доску, один спринт и одну цель. Пака-Ай/Пака подходит для команд, которым необходимо подключить свои AI-ассистенты к существующим инструментам.
 
-Типовой сценарий внедрения включает в себя подключение АИ-агентов к инструментам, развертывание серверов протокола контекста модели и стандартизацию интеграций. Проект уже достиг высокого уровня готовности к производству благодаря активности, приему и сигналам экосистемы. Однако потребуется еще один разбор лицензии, безопасности и активных поддерживающих разработчиков.
+Типовой сценарий внедрения: команда Scrum, работающая с AI-агентами, использует Пака-Ай/Пака для соединения своих агентов с существующими инструментами и данными, что позволяет им работать эффективнее и продуктивнее.
+
+Уровень готовности к production: высокий. Проект имеет активную поддержку, сильную экосистему и недавнюю активность, что делает его готовым к пилотированию.
 
 ### 中文
 
 **Paca-AI/paca 简介**
 
-Paca-AI/paca 是一个开源项目，提供了一种 AI 原生的、免费的替代方案，用于项目管理和协作工具，如 Jira、Trello、ClickUp 和 Monday。它专门设计用于 Scrum 团队，人类和 AI 代理可以平等地在同一个板、同一个迭代、同一个目标下协作。
+Paca-AI/paca 是一个开源项目，提供了一个 AI-native 的替代品，用于 Scrum 团队的协作管理。它支持自主部署和完全可定制化，通过配置和插件来实现。
 
 **价值**
 
-Paca-AI/paca 的主要价值在于，它帮助连接 AI 助手与实用工具和数据之间的标准协议。这使得开发者能够更轻松地将 AI 助手接入到现有的工具和系统中。
+Paca-AI/paca 的价值在于，它通过标准协议连接 AI 代理与现有工具和数据，帮助连接人工智能和现实世界。
 
 **典型接入方式**
 
-Paca-AI/paca 提供了多种接入方式，包括：
+接入 Paca-AI/paca 的方式包括：
 
-* API/SDK：提供 API 和 SDK，让开发者能够编程式地接入 Paca-AI/paca。
-* CLI：提供命令行接口，让开发者能够通过命令行操作 Paca-AI/paca。
-* 配置和插件：提供配置和插件，让开发者能够自定义 Paca-AI/paca 的行为和功能。
+1. 连接 AI 代理到工具：通过 Paca-AI/paca 的标准协议，AI 代理可以与现有工具进行集成。
+2. 部署 Model Context Protocol 服务器：开发者可以部署自己的 Model Context Protocol 服务器，来接收和处理 AI 代理的请求。
+3. 标准化集成：通过 Paca-AI/paca，开发者可以标准化 AI 代理与现有工具的集成。
 
 **生产可用性**
 
-Paca-A
+Paca-AI/paca 的生产可用性很高，近期有活跃的开发活动，采用率和生态系统信号也非常
 
 ## 🧭 Practical evaluation
 
@@ -85,9 +87,9 @@ Paca-A
 
 **Quality signals**
 
-- 1270 GitHub stars
+- 1289 GitHub stars
 - 77 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: Go
 - 13 topics
 
@@ -111,4 +113,4 @@ Paca-A
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/Paca-AI/paca) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/Paca-AI/paca) · [← Back to Mcp](./README.md)</sub>

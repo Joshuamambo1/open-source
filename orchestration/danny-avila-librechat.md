@@ -27,42 +27,61 @@ Orchestration · MCP · AI/ML · Frontend · Backend
 
 ### English
 
-Here's a brief summary of the LibreChat project:
+**Summary:** LibreChat is an open-source project that provides an enhanced ChatGPT clone, featuring advanced capabilities such as agents, MCP, skills, and AI model switching. It enables users to turn isolated prompts and tools into repeatable agent workflows, making it a valuable tool for coordinating multi-agent workflows and standardizing agent memory. With its high production readiness and strong ecosystem signals, LibreChat is a promising choice for self-hosting.
 
-LibreChat is an open-source, enhanced ChatGPT clone that enables users to turn isolated prompts and tools into repeatable agent workflows, facilitating multi-agent coordination and standardization of agent memory. With its rich set of features, including AI model switching, message search, and secure multi-user authentication, LibreChat provides a robust platform for self-hosting and customization. Its high production readiness and strong ecosystem signals make it an attractive candidate for serious pilots and production adoption.
+**Value Proposition:** The primary value of LibreChat lies in its ability to integrate various tools and AI models into a unified platform, allowing users to create repeatable workflows and standardize agent memory. This enables more efficient and effective use of AI-powered tools, making it an attractive solution for organizations looking to streamline their workflows.
 
-The value proposition of LibreChat lies in its ability to streamline and automate workflows by integrating various tools and AI models, making it an efficient solution for organizations seeking to leverage the power of AI and machine learning. The practical adoption path involves evaluating the project's implementation signals, such as its API, SDK, and CLI, as well as reviewing its license, security posture, and maintainership.
+**Practical Adoption Path:** Adopting LibreChat involves several steps:
 
-LibreChat's production readiness is high due to its recent activity, adoption, and strong ecosystem signals. With over 39,703 GitHub stars and 8,141 forks, the project has a large and engaged community. Its primary language is TypeScript, and it has 20 topics, indicating a broad range of features and use cases. While there are some risks to consider, such as
+1. **Evaluation**: Assess the project's features, documentation, and community support to ensure it meets your needs.
+2. **Setup**: Install and configure LibreChat on your preferred platform (e.g., self-hosted or cloud-based).
+3. **Integration**: Integrate your existing tools and AI models with LibreChat using its API/SDK/CLI.
+4. **Customization**: Configure LibreChat's settings and workflows to suit your specific use cases.
+5. **
 
 ### Русский
 
 Резюме проекта danny-avila/LibreChat:
 
-danny-avila/LibreChat - это мощный, открытый чат-бот, который позволяет создавать сложные агентные потоки и интегрировать различные инструменты и технологии. Этот проект идеально подходит для координации многоагентных потоков, добавления пайплайнов для использования инструментов и стандартизации агентной памяти. С проектом можно начинать serious пилотную работу, поскольку он имеет высокий уровень готовности к production и сильные сигналы экосистемы.
+ЛибреЧат - это мощная платформа для создания кастомных чат-ботов и автоматизации бизнес-процессов. Это улучшенная версия ChatGPT, которая позволяет создавать агентов, использовать MCP, навыки, глубокие поиски и другие функции. ЛибреЧат идеально подходит для координации сложных бизнес-процессов и автоматизации повторяющихся задач.
+
+Типовым сценарием внедрения является создание чат-бота для координации работы с клиентами, автоматизации ответов на часто задаваемые вопросы и интеграции с другими бизнес-приложениями.
+
+Проект имеет высокий уровень готовности к production, подтверждаемый 39 709 звездами на GitHub, активной поддержкой и сильным экосистемным потенциалом. Однако требует дальнейшего анализа в отношении лицензии, безопасности и активности maintainers.
 
 ### 中文
 
-**简短介绍**
+**LibreChat 介绍**
 
-LibreChat是一个开源项目，基于ChatGPT的增强版本，提供了多种功能，包括代理、MCP、技能、深度搜索、Anthropic、AWS、OpenAI等。它允许用户将孤立的提示和工具整合到可重复的代理工作流中。
+LibreChat 是一个开源项目，旨在为 ChatGPT 克隆提供增强功能。它支持多种功能，包括 Agent、MCP、技能、深度搜索、Anthropic 等。LibreChat 可以帮助您将孤立的提示和工具转换为可重复的代理工作流。
 
-**价值**
+**LibreChat 的价值**
 
-LibreChat的价值在于，它能够帮助用户将孤立的提示和工具整合到可重复的代理工作流中，从而提高工作效率和生产力。它还支持多种功能，例如代理、MCP、技能、深度搜索等，满足不同用户的需求。
+LibreChat 的价值在于它可以帮助您：
+
+* 坐标多代理工作流
+* 添加工具使用管道
+* 标准化代理记忆
 
 **典型接入方式**
 
-LibreChat提供了多种接入方式，包括：
+LibreChat 可以通过以下方式接入：
 
-* API/SDK：用户可以通过API/SDK接口来调用LibreChat的功能。
-* CLI：用户可以通过命令行界面来使用LibreChat的功能。
-* 语言元数据：用户可以通过语言元数据来获取LibreChat的功能和特性。
-* 焦点话题：用户可以通过焦点话题来获取LibreChat的功能和特性。
+* API/SDK/CLI 等接口
+* 语言元数据
+* 焦点主题
 
 **生产可用性**
 
-LibreChat具有高生产
+LibreChat 的生产可用性很高，主要原因是：
+
+* 最近的活动和采用
+* 强大的生态系统信号
+* 39709 个 GitHub 星星和 8141 个 Fork
+* 最近更新于 2026-06-24
+* 主要语言为 TypeScript
+
+总体而言，LibreChat 是一个强大的开源项目，值得您考虑使用。
 
 ## 🧭 Practical evaluation
 
@@ -80,7 +99,7 @@ LibreChat具有高生产
 
 **Quality signals**
 
-- 39703 GitHub stars
+- 39709 GitHub stars
 - 8141 forks
 - updated 2026-06-24
 - primary language: TypeScript

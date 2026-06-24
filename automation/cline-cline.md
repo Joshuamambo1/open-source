@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 63.7k |
+| ⭐ **Stars** | 63.8k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,45 +27,50 @@ Automation · AI/ML · DevTools
 
 ### English
 
-**Summary:** cline/cline is an open-source project that offers an autonomous coding agent as an SDK, IDE extension, or CLI assistant. This tool helps streamline workflows by automating repetitive manual operations, allowing developers to connect tools into repeatable flows and schedule operational tasks. With a strong ecosystem and recent activity, cline/cline is a promising candidate for production adoption.
+**Project Overview: cline/cline**
 
-**Value:** The primary value proposition of cline/cline lies in its ability to remove repetitive manual operations from a workflow, freeing up developers to focus on more complex and creative tasks. By automating routine tasks, cline/cline can increase productivity, reduce errors, and improve overall developer efficiency.
+cline/cline is an open-source, autonomous coding agent that aims to automate repetitive manual operations in workflows. By integrating with tools and scheduling operational tasks, cline/cline helps developers streamline their processes and increase productivity.
 
-**Practical Adoption Path:** To adopt cline/cline, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This will help identify potential integration points and ensure that the tool aligns with their specific needs. Once the proof of concept is successful, developers can integrate cline/cline into their workflow, taking advantage of its automation capabilities to streamline their development processes.
+**Value Proposition:**
+The primary value proposition of cline/cline lies in its ability to remove repetitive manual tasks, allowing developers to focus on more complex and high-value work. This can be achieved through integrating tools into repeatable flows and scheduling operational tasks, thereby improving efficiency and reducing the risk of human error.
 
-**Production Readiness:** cline/cline demonstrates high production readiness, with strong ecosystem signals, recent activity, and a large user base (63700 GitHub stars and 6756 forks). The project's
+**Practical Adoption Path:**
+To adopt cline/cline, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once the basics are understood, users can begin integrating cline/cline with their existing tools and workflows. This can be done through the SDK, IDE extension, or CLI assistant, depending on the user's preferences.
+
+**Production Readiness:**
+cline/cline is considered production-ready due to its recent activity, strong adoption, and positive ecosystem signals. With 63,795 GitHub stars and 6,760 forks, the project has garnered significant attention from the developer community. Additionally, the project's primary language is TypeScript, and it has been updated
 
 ### Русский
 
 Резюме проекта cline/cline:
 
-cline/cline - автономный агент для кодирования, который может быть использован как SDK, расширение IDE или ассистент CLI. Этот проект может помочь автоматизировать повторяющиеся ручные операции в рабочем процессе, что делает его ценным инструментом для разработчиков. cline/cline готов к внедрению в производственную среду, обладает высоким уровнем готовности (High) и сильными сигналами экосистемы, но требует тщательного рассмотрения лицензионной и безопасности информации.
+Система автоматизации кодирования cline/cline представляет собой SDK, расширение IDE и ассистента CLI, способную автоматизировать повторяющиеся ручные операции в процессе разработки. Typical сценарий внедрения включает в себя подключение инструментов в повторяемые потоки и расписание операционных задач. Проект готов к серьезному пилоту в production, поскольку имеет высокий уровень активности, широкую адопцию и сильные экосистемные сигналы.
 
 ### 中文
 
-**cline/cline 的简短介绍**
+**简短介绍**
 
-cline/cline 是一个开源项目，提供了一个自动编码代理 SDK、IDE 扩展或 CLI 助手。它帮助用户移除工作流中的重复手动操作，提高工作效率。
+cline/cline 是一个开源项目，提供了一个自主编码代理，可以作为 SDK、IDE 扩展或 CLI 助手。它可以帮助减少工作流程中的重复手动操作。
 
 **价值**
 
-cline/cline 的价值在于，它可以帮助用户移除重复的手动操作，从而提高工作效率。它还可以连接工具来实现可重复的流程，并且可以定时执行操作任务。
+cline/cline 的价值在于，它可以帮助开发者移除工作流程中的重复手动操作，连接工具，创建可重复的流程，并定期执行操作任务。
 
 **典型接入方式**
 
-cline/cline 可以通过以下方式接入：
+cline/cline 的典型接入方式包括：
 
-* SDK：将 cline/cline 集成到自己的应用程序中。
-* IDE 扩展：将 cline/cline 集成到 IDE 中，以提供智能编码提示和自动化功能。
-* CLI 助手：使用 cline/cline 命令行工具来完成自动化任务。
+1. SDK：将 cline/cline 集成到您的应用中，作为一个自主编码代理。
+2. IDE 扩展：将 cline/cline 集成到您的 IDE 中，以便在编码过程中获得智能辅助。
+3. CLI 助手：使用 cline/cline CLI 来获得编码辅助和自动化。
 
 **生产可用性**
 
 cline/cline 的生产可用性很高，主要原因是：
 
-* 近期活动：项目最近有更新。
-* 采用率：项目有 63700 个 GitHub 星星和 6756 个 Forks。
-* 生态系统信号：项目有强烈的生态系统信号
+1. 活跃维护：项目有活跃的维护者，最近有更新。
+2. adoption：项目有较高的 adoption 率。
+3. 生态系统信号：项目有强大的生态
 
 ## 🧭 Practical evaluation
 
@@ -83,9 +88,9 @@ cline/cline 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 63700 GitHub stars
-- 6756 forks
-- updated 2026-06-23
+- 63795 GitHub stars
+- 6760 forks
+- updated 2026-06-24
 - primary language: TypeScript
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -108,4 +113,4 @@ cline/cline 的生产可用性很高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/cline/cline) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/cline/cline) · [← Back to Automation](./README.md)</sub>

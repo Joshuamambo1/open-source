@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 675 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,59 +27,56 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Project Summary**
+**Summary:** 
 
-Webiny/webiny-js is an open-source, self-hosted CMS platform built on AWS serverless technologies, leveraging TypeScript and multi-tenancy features. This project enables developers at large organizations to connect AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). With a strong ecosystem and recent activity, webiny/webiny-js is a production-ready option for developers seeking a scalable and secure CMS solution.
+Webiny/webiny-js is an open-source, self-hosted CMS platform built on AWS serverless technologies, providing a TypeScript framework with multi-tenancy, lifecycle hooks, and a GraphQL API. It also features AI-assisted development via the Model Context Protocol (MCP) server. This platform is designed for developers at large organizations and facilitates the connection of AI assistants to real tools and data.
 
-**Value Proposition**
+**Value Proposition:** 
 
-The primary value proposition of webiny/webiny-js lies in its ability to connect AI assistants to real tools and data through a standard protocol. This enables seamless integration and automation of workflows, making it an attractive solution for large organizations seeking to leverage AI and machine learning capabilities.
+The primary value proposition of webiny/webiny-js lies in its ability to connect AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This enables developers to integrate AI agents with various tools and systems, streamlining the development process and enhancing productivity.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-To adopt webiny/webiny-js, developers can follow these steps:
+To adopt webiny/webiny-js, follow these steps:
 
-1. Evaluate the project's GitHub repository and documentation to understand its features and architecture.
-2. Set up a development environment using the provided API, SDK, and CLI tools.
-3. Integrate webiny/webiny-js with existing tools and data sources using the MCP protocol.
-4. Test and refine the integration to ensure seamless communication between AI assistants and tools.
-
-**Production Readiness**
-
-Webiny/webiny-js has demonstrated high production readiness,
+1. **Evaluate the platform**: Assess the platform's features, documentation, and community support to determine its suitability for your organization.
+2. **Set up the environment**: Deploy webiny/webiny-js on your AWS serverless infrastructure, configuring the necessary services such as Lambda, DynamoDB, and S3.
+3. **Integrate AI assistants**: Use the MCP server to connect your AI assistants to the platform, enabling them to access real tools and data.
 
 ### Русский
 
-Резюме:
+Резюме проекта webiny/webiny-js:
 
-Webiny/webiny-js - это открытый исходный код CMS-платформа, построенная на основе AWS-серверных технологий (Lambda, DynamoDB, S3) и написанная на TypeScript. Эта платформа предназначена для крупных организаций и предоставляет множество функций, включая многотенантность, жизненные циклы, GraphQL-API и интеграцию с AI-ассистентами через Model Context Protocol.
+Проект webiny/webiny-js представляет собой открытое исходное кода решение для само-хостинга платформы CMS на базе AWS serverless (Lambda, DynamoDB, S3), построенной на TypeScript с поддержкой много-тенантности, жизненного цикла, GraphQL API и AI-assистированной разработки через MCP-сервер. Это решение предназначено для разработчиков в крупных организациях.
 
-Внедрение webiny/webiny-js может быть полезно для организаций, которые хотят интегрировать AI-ассистенты с реальными инструментами и данными. Типовой сценарий внедрения - это подключение AI-агентов к инструментам и стандартизация интеграций.
+Благодаря проекту webiny/webiny-js можно подключать AI-ассистентов к реальным инструментам и данным через стандартный протокол. Типовой сценарий внедрения включает в себя подключение AI-агентов к инструментам и развертывание серверов Model Context Protocol.
 
-Платформа webiny/webiny-js имеет высокий уровень готовности к производству, подтвержденный активностью, внедрениями и сигналами экосистемы. Однако перед внедрением необходимо тщательно оценить лицензию, безопасность и активность поддерживающих ее разработчиков.
+Проект webiny/webiny-js имеет высокий уровень готовности к production, подтвержденный недавним активностью, широкой адопцией и сильными сигналами экосистемы. Однако перед внедрением необходимо тщательное пересмотрить лицензию, безопасность и активность поддерживающих разработчиков.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-webiny/webiny-js 是一个开源的、自托管的 CMS 平台，基于 AWS 服务器less 架构（Lambda、DynamoDB、S3）。它使用 TypeScript 构建，支持多租户、生命周期钩子、GraphQL API 和 AI 助手开发（MCP 服务器）。这款产品主要为大型组织的开发人员设计。
+webiny/webiny-js 是一个开源的、自主托管的 CMS 平台，基于 AWS 服务器less 架构（Lambda、DynamoDB、S3）。它是一个 TypeScript 框架，支持多租户、生命周期钩子、GraphQL API 和 AI 助手开发。适合大型组织的开发人员。
 
 **价值**
 
-webiny/webiny-js 帮助连接 AI 助手到实际工具和数据的标准协议。它帮助开发人员通过标准化接口连接 AI 代理到工具中，实现更高效的开发。
+webiny/webiny-js 帮助连接 AI 助手到实际工具和数据通过标准协议。它提供了一个连接 AI 代理到工具的标准方式。
 
 **典型接入方式**
 
-典型的接入方式包括：
+连接 AI 代理到工具的标准方式包括：
 
-1. 连接 AI 代理到工具：使用 webiny/webiny-js 的 API 或 SDK 来连接 AI 代理到工具中。
-2. 部署 Model Context Protocol 服务器：使用 webiny/webiny-js 来部署 MCP 服务器，实现 AI 助手和工具之间的标准化接口。
+1. 将 Model Context Protocol (MCP) 服务器部署到 webiny/webiny-js 平台上。
+2. 使用 webiny/webiny-js 提供的 API 或 SDK 来连接 AI 代理到工具。
+3. 使用 CLI 来管理和部署 webiny/webiny-js 平台。
 
 **生产可用性**
 
-webiny/webiny-js 的生产可用性非常高，主要原因包括：
+webiny/webiny-js 的生产可用性非常高，具有以下特点：
 
-1. 最近的活动：项目有活跃的开发人员和维护者。
+1. 最近活动：最近有大量的更新和修复。
+2. 广泛采用：有 7,993 个 GitHub 星标和 675 个分叉
 
 ## 🧭 Practical evaluation
 
@@ -97,9 +94,9 @@ webiny/webiny-js 的生产可用性非常高，主要原因包括：
 
 **Quality signals**
 
-- 7992 GitHub stars
+- 7993 GitHub stars
 - 675 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: TypeScript
 - 18 topics
 
@@ -123,4 +120,4 @@ webiny/webiny-js 的生产可用性非常高，主要原因包括：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/webiny/webiny-js) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/webiny/webiny-js) · [← Back to Mcp](./README.md)</sub>

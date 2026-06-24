@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-23 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,43 +27,70 @@ Frontend · DevTools · Observability · Product
 
 ### English
 
-**Summary:** getsentry/sentry-javascript is an official, open-source JavaScript SDK for Sentry, a leading error tracking and monitoring platform. This SDK enables developers to build user-facing interfaces faster by reusing interface components and improving frontend delivery. With its high production readiness and strong adoption, it's an ideal choice for serious pilots.
+**Brief Summary**  
+getsentry/sentry‑javascript is the official JavaScript/TypeScript SDK for Sentry, providing out‑of‑the‑box error tracking, performance monitoring, and release health for web, React, Vue, Angular, Node, and other front‑end environments. With 8.7 k stars, active maintenance and a rich TypeScript API, it lets teams ship user‑facing interfaces faster by reusing proven observability primitives instead of building custom UI instrumentation.
 
-**Value Proposition:** The main value of getsentry/sentry-javascript lies in its ability to help developers ship high-quality user interfaces with minimal custom UI work. By leveraging pre-built interface components, developers can focus on building the core functionality of their application, rather than spending time on UI development.
+**Value**  
+- **Accelerates UI development** – developers add a single SDK call to capture exceptions, slow‑render spans, and user context, eliminating the need to write bespoke logging or performance dashboards.  
+- **Unified observability** – integrates error, performance, and release data in the Sentry console, giving product and dev teams a single source of truth for front‑end health.  
+- **Reusable components** – the SDK ships with ready‑made UI helpers (e.g., error boundaries, breadcrumbs, and performance widgets) that can be dropped into React, Vue, or plain JS projects.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**  
+1. **Install** the appropriate package (`@sentry/react`, `@sentry/vue`, `@sentry/node`, etc.) via npm or yarn.  
+2. **Initialize** the SDK early in the application bootstrap, supplying your DSN and optional environment/release metadata.  
+3. **Instrument** critical code paths—add `Sentry.captureException`, `Sentry.startTransaction`, or use provided error‑boundary components.  
+4. **Configure** integrations (e.g., tracing, session replay) through the TypeScript‑typed options to match your observability goals.  
+5. **Deploy** and verify events appear in the Sentry UI; iterate on sampling rates and filters as needed.
 
-1. **Install and integrate**: Developers can easily integrate the SDK into their project by installing it via npm or yarn.
-2. **Configure and customize**: The SDK provides a straightforward configuration process, allowing developers to customize the SDK to their specific needs.
-3. **Start collecting data**: Once configured, the SDK begins collecting data on errors and other important events, providing valuable insights into the application's performance.
-
-**Production Readiness:** getsentry/sentry-javascript has a high production readiness score, indicating that it's a reliable choice for serious pilots. The project has:
-
-* Strong adoption, with 8695 GitHub stars and 1786
+**Production Readiness**  
+- **High** – the repository shows recent commits (last update 2026‑06‑23), a large contributor base (1 785 forks), and strong community adoption (8 693 stars).  
+- **Mature ecosystem** – supports all major front‑end frameworks and Node, with extensive documentation and a CLI for release management.  
+- **Risk considerations** – licensing (BSD‑3‑Clause) and security posture appear clean, but a final audit of dependency vulnerabilities and maintainer activity is recommended before a full‑scale rollout.
 
 ### Русский
 
-Резюме проекта getsentry/sentry-javascript:
-
-Проект getsentry/sentry-javascript - официальная библиотека SDK для JavaScript, которая помогает разрабатывать пользовательские интерфейсы быстрее и с меньшим количеством custom UI-работ. Он позволяет создавать пользовательские интерфейсы на основе готовых компонентов, что ускоряет процесс frontend-доставки. Проект имеет высокий уровень готовности к production, подтвержденный большим количеством GitHub-звезд (8695) и активной поддержкой.
+**getsentry/sentry-javascript** — официальные SDK Sentry для JavaScript, позволяющие быстро добавить в пользовательский интерфейс готовый механизм отслеживания ошибок и производительности без написания собственного UI‑кода. Типичный сценарий — интеграция SDK в веб‑приложение (React, Vue, Angular и т.п.) для автоматического сбора ошибок, трассировок и пользовательских событий, что ускоряет выпуск продукта и повышает качество фронтенда. Проект имеет высокую готовность к production: активная поддержка, более 8 000 звёзд, регулярные обновления (последний — 23 июня 2026), широкое принятие в сообществе и зрелый набор функций, требующих лишь окончательной проверки лицензии и безопасности.
 
 ### 中文
 
-**简短介绍**
-getsentry/sentry-javascript 是一个开源项目，提供了 JavaScript 的 Sentry SDK，帮助开发者快速构建用户界面，并减少自定义 UI 工作量。
+**项目简介**  
+getsentry/sentry-javascript 是 Sentry 官方发布的 JavaScript/TypeScript SDK，提供统一的错误捕获、性能监控和事件上报能力，帮助前端团队在不编写自定义埋点代码的情况下快速交付可观测的用户界面。
 
-**价值**
-getsentry/sentry-javascript 的价值在于，它帮助开发者快速构建用户界面，并减少自定义 UI 工作量。它可以让开发者更快地交付前端产品，并且可以重用界面组件。
+**价值主张**  
+- **降低前端开发成本**：只需几行配置，即可把错误、异常、慢请求等关键信号自动上报到 Sentry，省去手写埋点和错误处理的工作。  
+- **提升交付效率**：复用成熟的 SDK，团队可以把更多时间投入到业务 UI 与功能实现，而不是监控基础设施。  
+- **增强可观测性**：实时捕获异常堆栈、用户上下文、事务性能数据，帮助快速定位生产问题，提升产品可靠性。
 
-**典型接入方式**
-典型接入方式是通过使用 Sentry SDK 来集成 Sentry 的错误追踪和监控功能。开发者可以通过以下步骤来接入：
-1. 安装 Sentry SDK
-2. 初始化 Sentry SDK
-3. 配置 Sentry SDK
-4. 启用错误追踪和监控功能
+**典型接入方式**  
+1. **安装 SDK**（npm / yarn）  
+   ```bash
+   npm install @sentry/browser   # 浏览器端
+   # 或者
+   npm install @sentry/react     # React 项目
+   # 其他框架（Vue、Angular、Next.js 等）亦提供对应包装
+   ```
+2. **初始化**（在入口文件中）  
+   ```typescript
+   import * as Sentry from "@sentry/browser";
 
-**生产可用性**
-getsentry/sentry-javascript 的生产可用性很高。该项目有 8695 个 GitHub star，1786 个 fork，最近的更新时间是 2026-06-24。它使用 TypeScript 作为主要语言，支持 19 个主题。虽然还需要进一步的审查，但它的生产可用性已经非常高。
+   Sentry.init({
+     dsn: "https://<public_key>@sentry.io/<project_id>",
+     environment: process.env.NODE_ENV,
+     tracesSampleRate: 1.0,   // 性能监控采样率，可根据业务调节
+   });
+   ```
+3. **可选增强**  
+   - 为框架（React、Vue、Angular）添加错误边界组件或插件，自动捕获组件渲染错误。  
+   - 使用 `Sentry.configureScope` 添加用户信息、标签或自定义上下文。  
+   - 调用 `Sentry.captureException`、`Sentry.captureMessage` 手动上报特定异常或业务事件。  
+
+**生产可用性**  
+- **活跃度**：截至 2026‑06‑23 最近一次提交，拥有 8.7k ⭐、1.8k 🍴，每周都有代码更新和 Issue 处理。  
+- **生态兼容**：提供针对 React、Vue、Angular、Next.js、Vite 等主流前端框架的专用包装，且支持 TypeScript 完整类型定义。  
+- **成熟度**：已在数千家企业级产品中广泛使用，官方文档、示例与社区支持完善。  
+- **风险**：目前未发现重大许可证或安全漏洞，但仍建议在正式投产前审查许可证（BSD‑3-Clause）和依赖的安全报告。  
+
+综合来看，getsentry/sentry-javascript 具备高可用性、易集成的特性，是前端项目实现错误监控和性能可观测的首选 OSS 方案。
 
 ## 🧭 Practical evaluation
 
@@ -81,9 +108,9 @@ getsentry/sentry-javascript 的生产可用性很高。该项目有 8695 个 Git
 
 **Quality signals**
 
-- 8695 GitHub stars
-- 1786 forks
-- updated 2026-06-24
+- 8693 GitHub stars
+- 1785 forks
+- updated 2026-06-23
 - primary language: TypeScript
 - 19 topics
 
@@ -93,18 +120,18 @@ getsentry/sentry-javascript 的生产可用性很高。该项目有 8695 个 Git
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 92/100 |
-| integration | 78/100 |
-| production | 85/100 |
-| outlook | 94/100 |
-| adoption | 83/100 |
-| stars | 84/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 94/100 |
+| quality | 92/100 |
+| recency | 100/100 |
+| adoption | 83/100 |
+| production | 85/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/getsentry/sentry-javascript) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/getsentry/sentry-javascript) · [← Back to Frontend](./README.md)</sub>

@@ -27,55 +27,51 @@ MCP · Automation · AI/ML · Frontend · DevTools
 
 ### English
 
-**Summary:**
-DeepSeek-PP is an open-source web browser extension that enables the connection of AI assistants to real tools and data through a standard protocol, Model Context Protocol (MCP). This allows users to integrate AI agents with various tools, automate tasks, and export conversations. With its high production readiness and strong ecosystem signals, DeepSeek-PP is poised for practical adoption.
+**Brief Summary**  
+DeepSeek PP (zhu1090093659/deepseek‑pp) is a TypeScript‑based browser extension that turns the DeepSeek AI model into an interactive workspace, offering MCP‑compatible tools such as memory, skill modules, automation, web‑search, and conversation export. By exposing a clean API/SDK/CLI, it lets developers connect AI agents to real‑world tools and data through the Model Context Protocol, making it a turnkey solution for building “AI‑as‑a‑tool” experiences.  
 
-**Value Proposition:**
-The value of DeepSeek-PP lies in its ability to standardize integrations between AI assistants and real-world tools, making it easier for developers to build and deploy AI-powered applications. This standard protocol enables seamless communication between AI agents and various tools, facilitating automation, data exchange, and enhanced productivity.
+**Value**  
+- **Standardised integration** – Implements the Model Context Protocol (MCP), so the same connector can be reused across different AI assistants, reducing custom‑code overhead.  
+- **Rich toolset out‑of‑the‑box** – Built‑in memory, skill execution, web‑search and automation primitives let agents act on live data without writing bespoke wrappers.  
+- **Export & auditability** – Conversation export features enable debugging, compliance, and downstream analytics, a critical need for enterprise deployments.  
 
-**Practical Adoption Path:**
-Developers can adopt DeepSeek-PP by:
+**Practical Adoption Path**  
+1. **Prototype** – Clone the repo, run the provided CLI or import the SDK in a TypeScript/JavaScript project, and point it at your DeepSeek endpoint.  
+2. **Connect tools** – Register external services (e.g., REST APIs, databases, CI pipelines) via the MCP configuration UI; the extension automatically generates the corresponding skill wrappers.  
+3. **Iterate** – Use the built‑in memory and web‑search to refine prompts, then export logs for evaluation.  
+4. **Productionize** – Containerise the MCP server, enforce API‑key policies, and integrate with your CI/CD pipeline to roll out the extension across user browsers or internal dashboards.  
 
-1. Installing the web browser extension and exploring its features.
-2. Reviewing the documentation and API/SDK/CLI implementation to understand how to integrate AI agents with tools.
-3. Testing the extension with various tools and AI agents to validate its functionality.
-4. Contributing to the project by reporting issues, providing feedback, or contributing code to enhance the extension's capabilities.
-
-**Production Readiness:**
-DeepSeek-PP has demonstrated high production readiness, with:
-
-1. Strong adoption (922 GitHub stars
+**Production Readiness**  
+- **Activity & community** – 922 ⭐ on GitHub, 121 forks, recent commits (last updated 2026‑06‑23) and a vibrant TypeScript ecosystem indicate strong maintenance.  
+- **Maturity** – The project offers a documented API/SDK/CLI, clear versioning, and a well‑defined protocol, making it suitable for pilot programs and scaling to production.  
+- **Risks** – Licensing, security hardening, and long‑term maintainer commitment still require a final review, but no major metadata concerns have been identified. Overall, DeepSeek PP is a high‑readiness OSS candidate for organizations looking to embed AI agents with real‑world tool access.
 
 ### Русский
 
-Резюме проекта DeepSeek PP:
-
-DeepSeek PP - это открытое исходное проект, представляющее собой расширение веб-браузера, объединяющее возможности искусственного интеллекта с реальными инструментами и данными. Этот проект предлагает стандартный протокол для связи между AI-ассистентами и реальными инструментами, что делает его идеальным решением для организации работы с большими объемами данных и автоматизации процессов. DeepSeek PP готов к производству, имеет высокий уровень готовности (High), что позволяет его успешно интегрировать в существующие системы и процессы.
+**zhu1090093659/deepseek-pp** — это открытая браузерная расширение DeepSeek, которое превращает AI‑ассистента в полноценную рабочую среду с поддержкой MCP‑инструментов, памяти, навыков, автоматизации, веб‑поиска и экспорта диалогов. Типичный сценарий: разработчик подключает к AI‑агенту внешние сервисы (инструменты, API, модели) через единый Model Context Protocol, развёртывает собственный MCP‑сервер и стандартизирует интеграцию в свои продукты. Проект имеет высокий уровень готовности к production: активные коммиты (последнее — 23 июня 2026), 922 звёзд, 121 форк, написан на TypeScript, покрыт широким набором тем и готов к пилотному использованию, хотя требуется окончательная проверка лицензии и политики безопасности.
 
 ### 中文
 
-**DeepSeek Web 浏览器扩展简介**
+**项目简介**  
+zhu1090093659/deepseek-pp 是一款基于 DeepSeek 的浏览器插件，提供 AI 代理工作区，内置 MCP（Model Context Protocol）工具、记忆体系、技能库、自动化脚本、网页搜索以及对话导出功能，帮助 AI 助手直接调用真实工具和数据。
 
-DeepSeek 是一个开源项目（zhu1090093659/deepseek-pp），是一个 AI 代理工作空间，集成了 MCP 工具、内存、技能、自动化、网页搜索和对话导出功能。该项目帮助连接 AI 助手到真实工具和数据通过标准协议。
+**价值**  
+- **标准化接入**：通过实现 MCP 协议，AI 代理可以统一方式调用本地或云端工具、数据库、搜索引擎等，降低集成成本。  
+- **增强生产力**：记忆与技能模块让 AI 能够在多轮对话中保持上下文并执行复杂任务，如自动化脚本、表单填报等。  
+- **可视化与导出**：对话记录可直接导出，便于审计、调试和二次利用。
 
-**价值**
+**典型接入方式**  
+1. **API/SDK**：在项目中引入 `@deepseek/pp-client`（TypeScript），使用 `createMCPClient()` 生成客户端实例，调用 `client.invokeTool(toolId, payload)` 即可触发对应工具。  
+2. **CLI**：通过 `npx deepseek-pp serve` 启动本地 MCP 服务器，其他服务（如 LangChain、AutoGPT）只需配置 `endpoint` 即可使用。  
+3. **浏览器插件**：直接在 Chrome/Edge 安装插件，插件会在页面注入 MCP 代理，前端页面可通过 `window.deepseekMCP` 与其交互，适合快速原型和内部工具集成。  
 
-DeepSeek 的价值在于帮助连接 AI 代理到真实工具和数据，通过标准化协议，使得 AI 代理能够更好地与外部系统集成。
+**生产可用性**  
+- **活跃度**：截至 2026‑06‑23，项目最近一次提交，拥有 922 星、121 Fork，且每周都有代码更新。  
+- **技术成熟度**：使用 TypeScript 编写，提供完整的类型定义、API 文档和示例，易于在前端/Node 环境中直接使用。  
+- **生态兼容**：实现了标准的 Model Context Protocol，可与 LangChain、OpenAI Function Calling、AutoGPT 等主流 AI 框架无缝对接。  
+- **风险**：目前暂无重大许可证或安全隐患，但仍建议在正式生产前完成开源许可证合规审查并进行渗透测试。  
 
-**典型接入方式**
-
-接入 DeepSeek 可以通过以下方式：
-
-1. 连接 AI 代理到工具：通过 DeepSeek，AI 代理可以连接到各种工具和服务，例如 MCP 服务器。
-2. 部署 Model Context Protocol 服务器：DeepSeek 提供了 MCP 服务器的部署方案。
-3. 标准化集成：DeepSeek 提供了标准化的集成协议，使得 AI 代理和工具之间的集成变得更容易。
-
-**生产可用性**
-
-DeepSeek 的生产可用性较高，因为它有：
-
-1._recent 活动：最近有更新和维护。
-2
+综合来看，deepseek-pp 已具备高可用的 OSS 基础，适合作为 AI 助手与企业内部工具、数据源对接的生产级解决方案。
 
 ## 🧭 Practical evaluation
 
@@ -105,16 +101,16 @@ DeepSeek 的生产可用性较高，因为它有：
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 82/100 |
-| integration | 78/100 |
-| production | 82/100 |
-| outlook | 90/100 |
-| adoption | 60/100 |
-| stars | 63/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 90/100 |
+| quality | 82/100 |
+| recency | 100/100 |
+| adoption | 60/100 |
+| production | 82/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---

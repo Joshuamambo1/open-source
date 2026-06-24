@@ -2,7 +2,7 @@
 
 > 
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -18,7 +18,8 @@
 | 8 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 49/100 |
 | 9 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 48/100 |
 | 10 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
-| 11 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
+| 11 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
+| 12 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
 
 ---
 

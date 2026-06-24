@@ -1,18 +1,18 @@
 # alirezarezvani/claude-skills
 
-[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-89%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&color=yellow)](https://github.com/alirezarezvani/claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alirezarezvani/claude-skills?style=flat-square&color=blue)](https://github.com/alirezarezvani/claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
-> 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+> 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.9k |
-| 🍴 **Forks** | 2.6k |
+| ⭐ **Stars** | 14.1k |
+| 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 📈 **Score** | 79/100 |
+| 🗓️ **Last push** | 2026-05-08 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,64 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools · Marketing · Product
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-**Project Summary:**
-
-The alirezarezvani/claude-skills project is an open-source repository that provides a comprehensive collection of skills, agent skills, and plugins for various coding agents, including Claude Code, Codex, and Gemini CLI. With over 337 skills and 30+ agents, it enables users to turn isolated prompts and tools into repeatable workflows, streamlining their productivity and efficiency. The project boasts a high production readiness score, strong adoption, and a robust ecosystem.
-
-**Value Proposition:**
-
-The alirezarezvani/claude-skills project offers significant value by providing a centralized repository of skills and workflows that can be easily integrated with various coding agents. This enables users to:
-
-* Coordinate multi-agent workflows
-* Add tool-use pipelines
-* Standardize agent memory
-
-By providing a standardized set of skills and workflows, the project helps users to:
-
-* Increase productivity and efficiency
-* Reduce the complexity of managing multiple agents and tools
-* Improve collaboration and knowledge sharing among team members
-
-**Practical Adoption Path:**
-
-To adopt the alirezarezvani/claude-skills project, users can follow these steps:
-
-1. Explore the repository and its documentation to understand the available skills and workflows.
-2. Identify the coding agents and tools they want to
+The **Claude‑Skills** repository offers a curated collection of over 230 ready‑to‑use “skills” and agent plugins that extend Claude Code, Codex, Gemini CLI, Cursor, and a dozen other coding assistants. These modular components cover a wide range of use‑cases—from engineering and product development to marketing, compliance, and C‑level advisory—enabling developers to orchestrate sophisticated AI‑driven workflows across multiple platforms.
 
 ### Русский
 
-Резюме проекта alirezarezvani/claude-skills:
-
-Проект alirezarezvani/claude-skills представляет собой коллекцию из более чем 300 кастомных навыков и агентских навыков для различных кодингових агентов, позволяющих упростить процесс автоматизации и оркестровки задач. Это позволяет пользователям объединять отдельные команды и инструменты в повторяемые потоки работы, повышая эффективность и производительность.
-
-Типовой сценарий внедрения проекта заключается в интеграции навыков и агентов в существующие процессы разработки, маркетинга и управления бизнесом, что позволяет координировать сложные потоки работы, добавлять новые инструменты в существующие пайплайны и стандартизировать память агентов.
-
-Проект готов к производственному использованию на высоком уровне, подтверждается его высокой оценкой (89/100), сильными сигналами активности и признанием в GitHub (18948 звезд и 2610 вложений). Однако все же требует окончательного обзора в отношении лицензии
+Проект **alirezarezvani/claude-skills** предоставляет более 230 готовых навыков и плагинов‑агентов для Claude Code, Codex, Gemini CLI, Cursor и восьми других кодирующих ассистентов, покрывающих задачи инженерии, маркетинга, продуктового управления, комплаенса и стратегических консультаций на уровне C‑level. Он упрощает оркестрацию и интеграцию AI‑моделей в процессы разработки, позволяя быстро расширять функциональность DevTools без написания собственного кода.
 
 ### 中文
 
-**简短介绍**
-
-alirezarezvani/claude-skills 是一个开源项目，提供了 337 个 Claude 代码技能、代理技能和插件（包括 30+ 个代理、70+ 个自定义命令和 330+ 个技能），可用于 Claude 代码、Codex、Gemini CLI、Cursor 和其他 8 个编码代理。它旨在帮助工程师、营销人员、产品经理、合规专家、C 级顾问、研究人员、商业运营人员和财务人员提高日常生产力。
-
-**价值**
-
-alirezarezvani/claude-skills 的主要价值在于帮助将孤立的提示和工具转化为可重复的代理工作流。它可以帮助用户协调多代理工作流、添加工具使用管道和标准化代理记忆。
-
-**典型接入方式**
-
-该项目提供了 API/SDK/CLI 等实现信号，方便用户评估和接入。用户可以根据自己的需求选择合适的接入方式。
-
-**生产可用性**
-
-该项目具有高的生产可用性，主要原因是其最近的活跃度、采用率和生态系统
+alirezarezvani/claude-skills：alirezarezvani/claude-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -92,13 +49,13 @@ alirezarezvani/claude-skills 的主要价值在于帮助将孤立的提示和工
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 18948 GitHub stars
-- 2610 forks
-- updated 2026-06-24
+- 14142 GitHub stars
+- 1899 forks
+- updated 2026-05-08
 - primary language: Python
 - 20 topics
 
@@ -109,17 +66,17 @@ alirezarezvani/claude-skills 的主要价值在于帮助将孤立的提示和工
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 95/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 86/100 |
-| outlook | 95/100 |
-| adoption | 89/100 |
-| stars | 91/100 |
-| forks | 85/100 |
-| recency | 100/100 |
+| production | 66/100 |
+| outlook | 74/100 |
+| adoption | 87/100 |
+| stars | 88/100 |
+| forks | 82/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/alirezarezvani/claude-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-08 · [View on GitHub](https://github.com/alirezarezvani/claude-skills) · [← Back to Orchestration](./README.md)</sub>

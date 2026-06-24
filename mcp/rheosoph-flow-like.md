@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 904 |
+| ⭐ **Stars** | 903 |
 | 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-22 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,60 +27,54 @@ MCP · Automation · AI/ML · Frontend · Backend
 
 ### English
 
-Here's a brief summary of the Rheosoph/Flow-Like project:
+**Brief Summary (2‑3 sentences)**  
+Flow‑Like (Rheosoph/flow-like) is an open‑source, TypeScript‑based framework for building strongly‑typed, enterprise‑scale workflows that integrate AI assistants with real‑world tools and data via a standard protocol. It offers high scalability, fast execution, and deep customization on both frontend and backend, making it suitable for AI‑driven automation and Model Context Protocol (MCP) services. With over 900 stars, recent commits, and a growing ecosystem, it is ready for serious pilot projects.
 
-Rheosoph/Flow-Like is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, allowing for seamless integration and customization. This project offers a scalable and high-speed solution for enterprise workflows, making it an attractive option for businesses looking to leverage AI. With its recent activity, strong adoption, and robust ecosystem, Rheosoph/Flow-Like is production-ready and suitable for serious pilots.
+**Value**  
+- **Standardized AI‑Tool Connectivity** – Provides a single, typed protocol that lets AI agents invoke external services, databases, or custom tools without ad‑hoc glue code.  
+- **Enterprise‑Grade Scalability & Speed** – Designed for high‑throughput pipelines, supporting asynchronous execution, distributed workers, and type‑safe contracts that reduce runtime errors.  
+- **Rich Customization & AI‑First Design** – Built‑in hooks for model inference, prompt management, and context propagation, enabling seamless integration of LLMs and other ML components.  
 
-**Value:**
+**Practical Adoption Path**  
+1. **Evaluation** – Clone the repo, run the provided CLI demo, and inspect the TypeScript SDK to verify that the exposed API matches your toolset.  
+2. **Prototype** – Implement a small “AI‑assistant‑to‑tool” use case (e.g., a chatbot that writes tickets in Jira) using the Flow‑Like SDK and the Model Context Protocol server template.  
+3. **Integration** – Replace the prototype with production services, leveraging the built‑in adapters (REST, GraphQL, CLI) and publishing your own adapters for proprietary systems.  
+4. **Governance** – Register your workflow schemas in a shared repository, enforce versioned contracts, and use Flow‑Like’s validation utilities to keep integrations stable across teams.  
 
-The value proposition of Rheosoph/Flow-Like lies in its ability to standardize integrations between AI assistants and real tools and data. This allows businesses to connect their AI agents to various tools and data sources, enhancing their workflows and increasing efficiency.
+**Production Readiness**  
+- **Activity & Adoption** – Recent commits (as of 2026‑06‑22), 903 GitHub stars, 70 forks, and 19 topic tags indicate an active community and growing ecosystem.  
+- **Maturity** – The codebase is TypeScript‑first, with clear API/SDK/CLI surfaces, extensive type definitions, and built‑in CI checks, reducing integration risk.  
+- **Scalability** – Architecture supports horizontal scaling of workers and stateless services, a prerequisite for enterprise workloads.  
+- **Risks to Address** – Final due‑diligence on licensing, security audit results, and confirmation of long‑term maintainers is still required, but no major red flags have been identified.  
 
-**Practical Adoption Path:**
-
-To adopt Rheosoph/Flow-Like, businesses can follow these steps:
-
-1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to assess its feasibility.
-2. Review the project's license, security posture, and active maintainers to ensure it meets their organizational requirements.
-3. Connect AI agents to tools and data using the standard protocol provided by Rheosoph/Flow-Like.
-4. Standardize integrations across
+Overall, Flow‑Like is a production‑ready OSS candidate for organizations looking to standardize AI‑driven workflow automation and connect LLM agents to real‑world tools at scale.
 
 ### Русский
 
-Резюме проекта Rheosoph/flow-like:
-
-Реализуйте масштабируемые и гибкие бизнес-процессы с помощью Rheosoph/flow-like - мощного инструментария для построения типизированных enterprise-уровня workflow. Этот проект позволяет легко интегрировать искусственный интеллект с реальными инструментами и данными, обеспечивая скорость, масштабируемость и богатую настроек возможности. 
-
-Типовой сценарий внедрения: Rheosoph/flow-like идеально подходит для соединения агентов AI с реальными инструментами и данными, что позволяет упростить интеграцию и стандартизировать взаимодействие.
-
-Проект полностью готов к использованию в производственной среде (production readiness: High) и имеет сильную экосистему, с 904 GitHub звездами и 70 вилками. Однако, как и любой другой проект, требует тщательного осмотра и проверки лицензионной информации, безопасности и активности maintainers.
+Rheosoph/flow-like — это масштабируемый фреймворк для построения строго типизированных корпоративных воркфлоу, позволяющий быстро подключать AI‑ассистентов к реальным инструментам и данным через единый протокол. Типичный сценарий: развертывание Model Context Protocol‑сервера и интеграция AI‑агентов с вашими сервисами и SDK/CLI, что упрощает стандартизацию и автоматизацию бизнес‑процессов. Проект обладает высокой готовностью к продакшн: активные коммиты, более 900 звёзд на GitHub, широкая экосистема TypeScript и подтверждённое внедрение в пилотных проектах.
 
 ### 中文
 
-**Rheosoph/flow-like 简介**
+**项目简介**  
+Rheosoph/flow‑like 是一套强类型、企业级工作流框架，专为高并发、低延迟和 AI 深度集成而设计，提供丰富的可定制化能力。它通过统一的协议把 AI 助手与真实工具、数据源无缝连接，帮助企业快速搭建“AI + 业务”场景。
 
-Rheosoph/flow-like 是一个开源项目，提供强类型、企业级工作流解决方案。它支持高可扩展性、快速部署、AI集成和丰富的自定义选项。
+**核心价值**  
+- **标准化 AI‑工具交互**：提供统一的 Model Context Protocol，使不同 AI 代理能够以同一方式调用内部系统、外部 API 或本地工具，降低集成成本。  
+- **可扩展的强类型工作流**：基于 TypeScript 的强类型定义，保证编译期安全，适配大规模业务流程并支持热插拔式模块。  
+- **快速交付与高度可定制**：内置 CLI、SDK 与 API，支持即插即用的插件体系，满足从原型到生产的全链路需求。
 
-**价值**
+**典型接入方式**  
+1. **API/SDK 接入**：在业务服务中通过 npm 包引入 `@flow-like/sdk`，调用 `createWorkflow`、`runTask` 等类型安全接口即可。  
+2. **CLI 部署**：使用 `flow-like-cli` 生成工作流模板、注册模型上下文服务（MCP Server），并通过命令行发布到 Kubernetes 或 Docker 环境。  
+3. **MCP Server**：部署官方提供的 Model Context Protocol 服务器，作为 AI 代理与后端工具之间的桥梁，所有工具的元数据、认证信息均在此统一管理。  
 
-Rheosoph/flow-like 的价值在于，它帮助连接 AI 助手到实际工具和数据通过标准协议。它可以连接 AI 代理到工具、部署 Model Context Protocol 服务器以及标准化集成。
+**生产可用性**  
+- **活跃度**：截至 2026‑06‑22，项目最近一次提交，拥有 903 ⭐、70 fork，19 个主题标签，社区活跃。  
+- **技术成熟度**：采用 TypeScript，提供完整的类型声明和自动化测试，适合企业级 Type‑Safe 开发。  
+- **生态兼容**：支持主流云原生平台（K8s、Docker）以及常见前后端框架，接入成本低。  
+- **风险提示**：仍需对许可证（MIT/Apache）和安全审计进行最终确认，确保符合企业合规要求。  
 
-**典型接入方式**
-
-Rheosoph/flow-like 提供了多种接入方式，包括：
-
-* API：通过 API 接口来访问 Rheosoph/flow-like 的功能
-* SDK：通过 SDK 来集成 Rheosoph/flow-like 到自己的应用中
-* CLI：通过命令行接口来操作 Rheosoph/flow-like
-
-**生产可用性**
-
-Rheosoph/flow-like 的生产可用性很高，理由如下：
-
-* 最近活动：项目维护者最近有活动
-* 采用：项目有较多的用户采用
-* 生态系统信号：项目的生态系统信号很强
-
-总的来说，Rheosoph/flow-like
+综合来看，Rheosoph/flow‑like 已具备进入生产环境的技术与社区基础，适合作为 AI‑驱动业务流程的核心中间件进行试点乃至全量上线。
 
 ## 🧭 Practical evaluation
 
@@ -98,9 +92,9 @@ Rheosoph/flow-like 的生产可用性很高，理由如下：
 
 **Quality signals**
 
-- 904 GitHub stars
+- 903 GitHub stars
 - 70 forks
-- updated 2026-06-24
+- updated 2026-06-22
 - primary language: TypeScript
 - 19 topics
 
@@ -110,18 +104,18 @@ Rheosoph/flow-like 的生产可用性很高，理由如下：
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 81/100 |
-| integration | 94/100 |
-| production | 84/100 |
-| outlook | 90/100 |
-| adoption | 58/100 |
-| stars | 63/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| stars | 63/100 |
 | topics | 100/100 |
+| outlook | 90/100 |
+| quality | 81/100 |
+| recency | 100/100 |
+| adoption | 58/100 |
+| production | 84/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>

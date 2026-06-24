@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.5k |
-| 🍴 **Forks** | 502 |
+| 🍴 **Forks** | 503 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -29,51 +29,55 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 **Project Summary:**
 
-Kreuzberg is an open-source, polyglot document intelligence framework with a Rust core, capable of extracting text, metadata, images, and structured information from over 97 file formats. This framework provides a standard protocol for connecting AI assistants to real tools and data, facilitating integrations across various programming languages and technologies. With its high production readiness and strong ecosystem signals, Kreuzberg is a promising candidate for serious pilot adoption.
+Kreuzberg is an open-source, polyglot document intelligence framework with a Rust core, capable of extracting text, metadata, images, and structured information from over 97 file formats. This framework offers a standardized protocol for connecting AI assistants to real tools and data, facilitating integrations across various programming languages and platforms. With its high production readiness, strong adoption, and recent activity, Kreuzberg is an attractive choice for organizations looking to standardize their integrations and connect AI agents to tools.
 
 **Value Proposition:**
 
-The value proposition of Kreuzberg lies in its ability to standardize integrations between AI agents and tools, enabling seamless connectivity and data exchange. This framework helps bridge the gap between AI assistants and real-world data, making it an essential component for various use cases, including connecting AI agents to tools and shipping Model Context Protocol servers.
+Kreuzberg's value lies in its ability to standardize integrations across different tools and AI assistants, making it easier to connect and exchange data between various systems. This framework enables organizations to:
+
+* Connect AI agents to tools and systems
+* Standardize integrations across different platforms and languages
+* Leverage a wide range of file formats and data sources
 
 **Practical Adoption Path:**
 
-To adopt Kreuzberg, developers can start by evaluating its implementation signals, such as its API/SDK/CLI, language metadata, and focused topics. Kreuzberg offers a straightforward evaluation process, making it easy for developers to assess its suitability for their projects. Once evaluated, developers can integrate Kreuzberg into their workflows using its REST API, MCP server, or CLI. With its strong ecosystem signals and recent activity, Kreuzberg is a
+To adopt Kreuzberg, organizations can follow these steps:
+
+1. Evaluate the framework's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Assess the production readiness, including recent activity, adoption, and ecosystem signals.
+3. Review the license, security posture, and active maintainers to ensure they
 
 ### Русский
 
 Резюме проекта kreuzberg-dev/kreuzberg:
 
-Проект kreuzberg-dev/kreuzberg представляет собой многоязычный фреймворк для интеллектуальной обработки документов с ядром на Rust. Он позволяет извлекать текст, метаданные, изображения и структурированные данные из PDF, офисных документов, изображений и 97+ форматов. Проект готов к использованию в различных языках программирования, включая Rust, Python, Ruby, Java и другие.
+Креузберг - это полиглотный фреймворк для интеллектуального анализа документов на основе Rust. Он позволяет извлекать текст, метаданные, изображения и структурированную информацию из PDF, офисных документов, изображений и более 97 форматов. Благодаря этому проект может помочь подключить AI-ассистентов к реальным инструментам и данным через стандартный протокол.
 
-Внедрение проекта kreuzberg-dev/kreuzberg может быть полезно для организаций, которая хотят подключить свои AI-ассистенты к реальным инструментам и данным через стандартный протокол. Типовой сценарий внедрения - это подключение AI-агентов к инструментам, развертывание серверов по протоколу Model Context, а также стандартизация интеграций.
+Типовой сценарий внедрения: проект может быть использован для подключения AI-агентов к инструментам, развертывания серверов протокола Model Context, стандартизации интеграций.
 
-Проект готов к производству (High), имея недавнюю активность, адопцию и сигналы экосистемы, что позволяет seriously начать пилотный проект.
+Проект готов к производству на высоком уровне, что подтверждается активностью, адопцией и экосистемными сигналами. Однако перед внедрением необходимо провести окончательный обзор лицензии, безопасности и наличия активных maintainer.
 
 ### 中文
 
-**kreuzberg-dev/kreuzberg 简介**
+**简短介绍**
 
-kreuzberg-dev/kreuzberg 是一个多语言文档智能框架，其核心基于 Rust。它可以从 PDF、Office 文档、图片和 97+ 格式的文件中提取文本、元数据、图片和结构化信息。它支持多种语言的接入，包括 Rust、Python、Ruby、Java、Go、PHP、Elixir、C#、R、C 和 TypeScript。
+kreuzberg 是一个多语言文档智能框架，核心基于 Rust。它可以从 PDF、Office 文档、图像和 97+ 格式中提取文本、元数据、图像和结构化信息。可用于 Rust、Python、Ruby、Java、Go、PHP、Elixir、C#、R、C 和 TypeScript 等语言，或者通过 CLI、REST API 或 MCP 服务器使用。
 
 **价值**
 
-kreuzberg-dev/kreuzberg 的价值在于，它可以帮助连接人工智能助手到真正的工具和数据，通过标准协议进行通信。它可以让开发者更容易地将 AI 助手与其他系统集成。
+kreuzberg 帮助连接 AI 助手到真实的工具和数据通过标准协议。它使得开发人员能够轻松连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化集成。
 
 **典型接入方式**
 
-kreuzberg-dev/kreuzberg 可以通过以下方式接入：
+kreuzberg 提供多种接入方式，包括：
 
-* CLI（命令行接口）
-* REST API（RESTful API）
-* MCP 服务器（Model Context Protocol 服务器）
+* CLI：命令行接口
+* REST API：RESTful API 接口
+* MCP 服务器：Model Context Protocol 服务器接口
 
 **生产可用性**
 
-kreuzberg-dev/kreuzberg 的生产可用性很高，因为它有以下特点：
-
-* 近期活跃度高
-* 广泛的采用和生态系统信号
-* 强
+kreuzberg 的生产可用性很高，最近有活动，采用率高，生态系统信号强。GitHub 上有 8539 个星标和 503 个分支，最新更新时间为 2026-06-24。主要
 
 ## 🧭 Practical evaluation
 
@@ -91,8 +95,8 @@ kreuzberg-dev/kreuzberg 的生产可用性很高，因为它有以下特点：
 
 **Quality signals**
 
-- 8536 GitHub stars
-- 502 forks
+- 8539 GitHub stars
+- 503 forks
 - updated 2026-06-24
 - primary language: Rust
 - 20 topics

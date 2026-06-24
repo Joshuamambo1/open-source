@@ -27,63 +27,51 @@ MCP · Automation · AI/ML · Frontend · DevTools
 
 ### English
 
-**Project Summary:**
+Here's a brief summary of the callstack/agent-device project:
 
-callstack/agent-device is an open-source CLI that enables AI agents to control iOS and Android devices, facilitating seamless integration with various tools and data through a standardized protocol. This project has a high production readiness score due to its recent activity, strong adoption, and robust ecosystem. By leveraging this CLI, developers can connect AI assistants to real-world tools and data, standardizing integrations and expanding the potential applications of AI.
+The callstack/agent-device project is an open-source CLI that enables the control of iOS and Android devices for AI agents, allowing them to connect to real tools and data through a standard protocol. This standardization facilitates the integration of AI assistants with various tools, making it easier to develop and deploy AI-powered applications. With a high production readiness score, this project is suitable for serious pilots due to its strong ecosystem signals, recent activity, and adoption.
 
-**Value:**
+The value proposition of this project lies in its ability to standardize integrations between AI agents and real tools, making it easier to develop and deploy AI-powered applications. This is achieved through a standard protocol that enables AI assistants to connect to various tools and data sources.
 
-The value proposition of callstack/agent-device lies in its ability to connect AI assistants to real tools and data through a standard protocol. This enables AI agents to interact with the physical world, unlocking new use cases and applications in areas such as automation, IoT, and more.
+The practical adoption path for this project involves:
 
-**Practical Adoption Path:**
-
-To adopt callstack/agent-device, developers can follow these steps:
-
-1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Review the project's license, security posture, and active maintainers to ensure it meets their needs.
-3. Integrate the CLI with their AI agents and tools, following the project's documentation and guidelines.
-4. Explore the project's use cases, such as connecting AI agents to tools and shipping Model Context Protocol servers.
-
-**
+1. **Connecting AI agents to tools**: Developers can use the CLI to connect their AI agents to various tools, such as sensors, cameras, or other devices.
+2. **Shipping Model Context Protocol servers**: The project allows developers to ship Model Context Protocol servers, which are essential for integrating AI agents with various tools.
+3. **Standardizing integrations**: The standard protocol provided by the project enables developers to standardize integrations between AI agents and tools, making it
 
 ### Русский
 
 Резюме проекта callstack/agent-device:
 
-callstack/agent-device — это открытое исходное кода решение, позволяющее контролировать iOS и Android устройства для агентов AI. Это утилита командной строки, которая помогает подключать помощников AI к реальным инструментам и данным посредством стандартной протокола. callstack/agent-device готово к внедрению в production, поскольку имеет сильные сигналы активности, приема и экосистемы, что делает его подходящим кандидатом для серьезного пилота.
+callstack/agent-device - это открытый источник проект, который предоставляет CLI-инструмент для управления iOS и Android устройствами для агентов AI. Он помогает соединять агентов AI с реальными инструментами и данными посредством стандартизированного протокола. Проект готов к серьезному пилоту благодаря своей высокой производственной готовности, активности, адопции и сильным сигналам экосистемы.
 
 ### 中文
 
-**项目简介**
+**项目介绍**
 
-项目名称：callstack/agent-device
-描述：一个用于控制 iOS 和 Android 设备的 CLI 工具，用于连接 AI 代理到实际工具和数据。
+callstack/agent-device 是一个开源项目，旨在通过标准协议连接人工智能助手（AI agents）到真实的工具和数据。它提供了一个 CLI 工具，用于控制 iOS 和 Android 设备。
 
 **价值**
 
-该项目的价值在于，它帮助连接 AI 辅助工具到标准协议上，从而使 AI 辅助工具能够与实际工具和数据进行交互。通过使用该项目，开发者可以轻松地连接 AI 辅助工具到各种设备和服务。
+callstack/agent-device 帮助连接 AI 助手到真实的工具和数据，通过标准协议提供了统一的接入方式。它可以帮助开发者连接 AI 代理到各种工具和服务。
 
 **典型接入方式**
 
-该项目可以通过以下方式接入：
+开发者可以通过以下方式接入 callstack/agent-device：
 
-* 使用 CLI 工具控制 iOS 和 Android 设备
-* 部署 Model Context Protocol 服务器
-* 标准化集成
+1. 使用 CLI 工具控制 iOS 和 Android 设备。
+2. 部署 Model Context Protocol 服务器。
+3. 标准化集成，通过标准协议连接 AI 代理到各种工具和服务。
 
 **生产可用性**
 
-该项目的生产可用性很高，主要原因是：
+callstack/agent-device 的生产可用性很高，主要原因是：
 
-* 近期活跃开发
-* 强大的采用和生态系统信号
-* 高评分（87/100）
+1. 近期活动：项目最近有更新。
+2. 广泛采用：项目有 2893 个 GitHub 星标和 162 个 forks。
+3. 强大生态系统：项目有 17 个主题和强大语言支持（TypeScript）。
 
-但是，仍然需要仔细审查以下风险：
-
-* 许可证
-* 安全性
-* 主维护者
+但是，仍需要进一步审查项目的许
 
 ## 🧭 Practical evaluation
 

@@ -27,50 +27,50 @@ Orchestration · AI/ML · Backend · DevTools · DevOps/Infra
 
 ### English
 
-**Summary**
+**Summary:** 
+Mirrord is an open-source project that enables users to run any process, on their local machine or in an AI agent's environment, as if it were a pod in a Kubernetes cluster. This allows for the creation of repeatable agent workflows by turning isolated prompts and tools into standardized pipelines. By providing a real environment, DNS, network, and traffic, Mirrord facilitates multi-agent coordination and tool-use pipelines.
 
-Mirrord is an open-source project that enables running any process as if it were a pod in a Kubernetes cluster, providing a real environment, DNS, network, and traffic. This allows for the creation of repeatable agent workflows by transforming isolated prompts and tools into standardized pipelines. With its strong ecosystem signals, recent activity, and high production readiness, Mirrord is a viable solution for coordinating multi-agent workflows and standardizing agent memory.
+**Value Proposition:** 
+The value of Mirrord lies in its ability to standardize agent memory and enable the creation of complex workflows by integrating various tools and processes. This results in increased efficiency and productivity, as users can now easily coordinate multiple agents and tools to achieve complex tasks.
 
-**Value Proposition**
+**Practical Adoption Path:**
+To adopt Mirrord, users can follow these steps:
 
-The value of Mirrord lies in its ability to standardize and streamline workflows by integrating tools and processes into a Kubernetes-like environment. This enables developers to create repeatable and scalable workflows, making it easier to manage complex agent interactions.
-
-**Practical Adoption Path**
-
-To adopt Mirrord, developers can start by evaluating its API, SDK, and CLI to understand how it fits into their existing workflow. They can then begin by integrating Mirrord into their existing tools and processes, starting with small-scale pilot projects. As they gain experience and confidence, they can scale up their adoption to more complex workflows and larger-scale deployments.
-
-**Production Readiness**
-
-Mirrord has a high production readiness score, indicating that it is a stable and reliable solution. With 5149 GitHub stars, 199 forks, and recent activity
+1. **Evaluate the API/SDK/CLI**: Assess the Mirrord API, SDK, and CLI to understand how to integrate it with their existing workflows and tools.
+2. **Choose a programming language**: Mirrord is written in Rust, but users can integrate it with their preferred language using the provided API.
+3. **Set up the environment**: Configure the Mirrord environment to match the user's requirements, including DNS, network, and traffic settings.
+4
 
 ### Русский
 
 Резюме проекта metalbear-co/mirrord:
 
-Проект metalbear-co/mirrord позволяет запускать любые процессы как если бы они были виртуальными контейнерами в Kubernetes кластере, обеспечивая им реальные переменные окружения, DNS, сетевые подключения и трафик. Это особенно полезно для координации сложных многоагентных потоков и стандартизации памяти агентов. Проект готов к широкой эксплуатации и имеет высокий уровень готовности к production, что делает его перспективным кандидатом для serious пилота.
+metalbear-co/mirrord - утилитарный проект, который позволяет запускать любые процессы на вашем компьютере или в окружении AI-агента, как если бы это было контейнер в вашем кластере Kubernetes. Это позволяет координировать сложные потоки задач и стандартизировать работу агентов. metalbear-co/mirrord готов к использованию в production, поскольку имеет высокий уровень готовности, недавнюю активность и сильный экосистемный потенциал.
 
 ### 中文
 
 **简短介绍**
-metalbear-co/mirrord 是一个开源项目，允许在你的机器或 AI 代理环境中运行任何进程，就像它是在 Kubernetes 集群中运行一样：真实的环境变量、DNS、网络、流量。
+
+metalbear-co/mirrord 是一个开源项目，允许在 Kubernetes集群中运行任何进程，仿真真实环境变量、DNS、网络和流量。它帮助将孤立的提示工具转换为可重复的代理工作流程。
 
 **价值**
-metalbear-co/mirrord 帮助将隔离的提示和工具转换为可重复的代理工作流程。它可以协调多代理工作流程、添加工具使用管道、标准化代理内存等。
+
+metalbear-co/mirrord 的主要价值在于，它可以协调多代理工作流程、添加工具使用流水线以及标准化代理内存。通过这种方式，可以提高代理的利用率和效率。
 
 **典型接入方式**
-该项目提供了 API、SDK 和 CLI 等接口，可以方便地评估和接入。它支持各种语言和主题，并且有强大的生态系统支持。
+
+该项目提供了 API、SDK 和 CLI 等接入方式，方便开发人员进行评估和集成。开发人员可以根据具体需求选择适合的接入方式。
 
 **生产可用性**
-该项目的生产可用性很高，具有以下特点：
 
-* 近期活跃
-* 强大的采用
-* 强大的生态系统支持
-* 高评分（88/100）
-* 有 5149 个 GitHub Star 和 199 个分支
+metalbear-co/mirrord 的生产可用性很高，主要原因是：
 
-**注意**
-虽然该项目的生产可用性很高，但仍需要仔细评估其许可证、安全性和维护者的活跃度
+* 最近活动：项目最近更新（2026-06-24）。
+* 采用率：项目有 5149 个 GitHub star 和 199 个 fork。
+* 生态系统信号：项目有强大的生态系统支持。
+* 稳定性：项目的主要语言是 Rust，稳定性较高。
+
+总的来说
 
 ## 🧭 Practical evaluation
 

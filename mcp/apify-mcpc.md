@@ -27,53 +27,46 @@ MCP · AI/ML · Backend · DevTools · Security
 
 ### English
 
-**Project Summary:** 
+Here's a brief summary and an explanation of the value, adoption path, and production readiness of the apify/mcpc project:
 
-The apify/mcpc project is an open-source, universal CLI client for MCP (Model Context Protocol), enabling seamless connections between AI assistants and real tools and data through a standard protocol. This client supports various features, including persistent sessions, proxy for AI sandboxes, and JSON output for code mode. With a high production readiness score, it is suitable for a serious pilot.
+**Summary:** 
+apify/mcpc is an open-source, universal CLI client for the Model Context Protocol (MCP), enabling seamless connections between AI assistants and real tools and data through a standard protocol. This project boasts a high production readiness score, with strong adoption and ecosystem signals. It supports various features, including persistent sessions, OAuth 2.1, and proxy support for AI sandboxes.
 
 **Value Proposition:** 
-The value of apify/mcpc lies in its ability to facilitate integrations between AI agents and tools, standardize connections, and enable the shipping of Model Context Protocol servers. This standard protocol allows developers to connect their AI assistants to a wide range of tools and data sources, making it easier to build and deploy AI-powered applications.
+The apify/mcpc project provides significant value by offering a standardized protocol for integrating AI assistants with real tools and data. This enables developers to connect AI agents to various tools, standardize integrations, and ship Model Context Protocol servers. By providing a unified interface, apify/mcpc streamlines the process of connecting AI systems to the world of tools and data.
 
 **Practical Adoption Path:** 
-To adopt apify/mcpc, developers can follow these steps:
-
-1. Evaluate the project's documentation and codebase to understand its features and implementation.
-2. Integrate the CLI client into their existing projects or tools, utilizing its API/SDK/CLI interface.
-3. Test and validate the integration to ensure seamless communication between AI agents and tools.
-4. Contribute to the project by reporting issues, suggesting improvements, or enhancing its features.
-
-**Production Readiness:** 
-The project demonstrates high
+To adopt apify/mcpc, developers can start by exploring its features, such as persistent sessions, OAuth 2.1, and proxy support. They can then integrate the CLI client into their existing projects, leveraging its standard protocol to connect AI assistants to real tools and data. The project's straightforward integration signals make it
 
 ### Русский
 
 Резюме проекта apify/mcpc:
 
-Проект apify/mcpc представляет собой универсальный клиентский интерфейс для MCP (Model Context Protocol), который позволяет подключать искусственные интеллектовые агенты к реальным инструментам и данным через стандартный протокол. Этот проект идеально подходит для сценария подключения AI-агентов к инструментам, а также для.standardизации интеграций. Проект готов к production на высоком уровне, с активной деятельностью, широкой адопцией и сильными экосистемными сигналами.
+Проект apify/mcpc представляет собой универсальный клиент командной строки для протокола MCP, который позволяет соединять искусственные интеллектовые ассистенты с реальными инструментами и данными. Он поддерживает постоянные сессии, стандартный ввод/вывод, аутентификацию OAuth 2.1 и другие функции. Проект готов к масштабному внедрению, поскольку имеет высокий уровень готовности к production, недавнюю активность, широкое использование и сильное экосистемное влияние.
 
 ### 中文
 
 **简短介绍**
 
-apify/mcpc 是一个通用的 CLI 客户端，支持 MCP 协议。它提供了持久会话、stdio/HTTP 支持、OAuth 2.1 等功能。通过 apify/mcpc，可以连接 AI 代理到工具和数据，标准化集成。
+apify/mcpc 是一个通用的 CLI 客户端，支持 MCP 协议。它提供了持久会话、stdio/HTTP 支持、OAuth 2.1 等功能，适合于连接 AI 助手到实用工具和数据。
 
 **价值**
 
-apify/mcpc 的价值在于，它帮助连接 AI 代理到实用的工具和数据，通过标准化的协议。这样可以让开发者更方便地接入 AI 代理，实现更好的 AI 集成。
+apify/mcpc 帮助连接 AI 助手到实用工具和数据，通过标准协议实现。
 
 **典型接入方式**
 
-典型的接入方式包括：
-
-1. 连接 AI 代理到工具：通过 apify/mcpc，可以连接 AI 代理到各种工具，例如数据分析工具、机器学习工具等。
-2. 部署 Model Context Protocol 服务器：apify/mcpc 支持部署 MCP 服务器，方便其他应用接入。
-3. 标准化集成：通过 apify/mcpc，可以标准化 AI 代理和工具的集成，方便开发者使用。
+1. 连接 AI 代理到工具：使用 apify/mcpc 可以轻松连接 AI 代理到工具。
+2. 部署 Model Context Protocol 服务器：apify/mcpc 支持部署 MCP 服务器。
+3. 标准化集成：使用 apify/mcpc 可以标准化集成，减少开发成本。
 
 **生产可用性**
 
-apify/mcpc 的生产可用性非常高。它有：
-
-1. 强
+apify/mcpc 的生产可用性较高，主要原因是：
+* 近期活动：最近有活跃的更新。
+* 采用率：有 692 个 GitHub 星星和 64 个分支。
+* 生态系统信号：强大的生态系统信号。
+* TypeScript 语言：使用 TypeScript 语言，具有强大的类型安全和
 
 ## 🧭 Practical evaluation
 

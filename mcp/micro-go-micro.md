@@ -27,48 +27,49 @@ MCP · AI/ML · Backend
 
 ### English
 
-**Project Summary:** micro/go-micro is an open-source Go framework that enables the connection of AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This framework helps standardize integrations and facilitates the development of AI-powered applications. With its high production readiness and strong ecosystem signals, micro/go-micro is an ideal choice for building scalable and reliable AI-powered systems.
+Here's a brief summary of the micro/go-micro project:
 
-**Value Proposition:** The primary value of micro/go-micro lies in its ability to connect AI assistants to real tools and data, enabling developers to build more sophisticated and integrated AI-powered applications. This standardization of integrations also makes it easier for developers to switch between different AI assistants and tools, promoting interoperability and reducing vendor lock-in.
+**Summary:** micro/go-micro is an open-source Go agent harness and service framework that enables the connection of AI assistants to real tools and data through a standard protocol, facilitating standardized integrations and seamless interactions.
 
-**Practical Adoption Path:**
+**Value:** The value proposition of micro/go-micro lies in its ability to connect AI agents to various tools and data sources, standardizing integrations and making it easier to develop and deploy AI-powered applications.
 
-1. **Evaluate the framework:** Assess the code quality, documentation, and community support to ensure that micro/go-micro meets your project's requirements.
-2. **Integrate with AI assistants:** Use the framework to connect your AI assistants to real tools and data, following the standard protocol defined by the Model Context Protocol (MCP).
-3. **Develop and deploy applications:** Build and deploy AI-powered applications using micro/go-micro, leveraging its scalability and reliability features.
-4. **Monitor and maintain:**
+**Practical Adoption Path:** To adopt micro/go-micro, developers can start by evaluating its API, SDK, and CLI implementation signals, as well as its language metadata and focused topics. They can then integrate the framework into their existing projects, leveraging its standard protocol to connect AI assistants to real tools and data.
+
+**Production Readiness:** With recent activity, strong adoption, and a robust ecosystem, micro/go-micro is considered highly production-ready for a serious pilot. Its 22,813 GitHub stars, 2,406 forks, and regular updates (as of June 2026) indicate a healthy and active community, making it a reliable choice for production environments.
 
 ### Русский
 
-Резюме: 
-Микро/Go-Майкро — это открытое исходное проект, предназначенный для соединения интеллектуальных ассистентов с реальными инструментами и данными через стандартный протокол. Этот проект идеально подходит для типового сценария внедрения, когда необходимо соединить AI-агента с реальными инструментами, что позволяет получить доступ к необходимым данным и функциям. Проект готов к производственной эксплуатации, обладает высокими показателями активности, приёма и экосистемных сигналов.
+Резюме проекта micro/go-micro:
+
+micro/go-micro - это открытое-source решение для создания и интеграции сервисов на основе протокола Model Context Protocol (MCP). Это позволяет соединить AI-ассистентов с реальными инструментами и данными, упрощая процесс интеграции и обмена данными. Проект готов к промышленной эксплуатации, имеет сильную базу сторонних разработчиков и регулярно обновляется, что делает его надежным выбором для serious пилотов.
 
 ### 中文
 
-**项目简介**
+**项目简介：** 
 
-micro/go-micro 是一个 Go 语言的微服务框架和代理工具，用于连接 AI 助手与真实的工具和数据。它提供了一种标准的协议，使得开发者可以轻松地接入 AI 代理和工具。
+micro/go-micro 是一个用于连接人工智能助手和真实工具和数据的标准协议的 Go 语言实现。
 
-**价值**
+**价值：** 
 
-micro/go-micro 的主要价值在于，它能够帮助开发者连接 AI 代理与真实的工具和数据，从而实现 AI 代理与工具的标准化集成。它还可以帮助开发者部署和管理 Model Context Protocol 服务器。
+该项目的价值在于，它帮助连接人工智能助手和真实工具和数据，标准化了整合过程，方便开发者使用。
 
-**典型接入方式**
+**典型接入方式：** 
 
-micro/go-micro 提供了多种接入方式，包括：
+该项目可以通过以下方式接入：
 
-* API：通过 API 接口来访问微服务
-* SDK：通过 SDK 来访问微服务
-* CLI：通过命令行接口来访问微服务
-* 语言元数据：通过语言元数据来访问微服务
-* 焦点主题：通过特定的主题来访问微服务
+* 连接人工智能助手到工具
+* 部署 Model Context Protocol 服务器
+* 标准化整合
 
-**生产可用性**
+**生产可用性：** 
 
-micro/go-micro 在生产环境中具有很高的可用性，主要原因是：
+该项目的生产可用性很高，原因如下：
 
-* 活跃的社区：有 22,811 个 GitHub-star 和 2,406 个 fork
-* Recent 活跃度
+* 有 22813 个 GitHub 星标和 2406 个分支
+* 最近的更新时间为 2026-06-24
+* 主要语言是 Go
+* 有 8 个话题
+* 但是，仍然需要对许可、安全和维护者进行最终的审查。
 
 ## 🧭 Practical evaluation
 
@@ -86,7 +87,7 @@ micro/go-micro 在生产环境中具有很高的可用性，主要原因是：
 
 **Quality signals**
 
-- 22811 GitHub stars
+- 22813 GitHub stars
 - 2406 forks
 - updated 2026-06-24
 - primary language: Go

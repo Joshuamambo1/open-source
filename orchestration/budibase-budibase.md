@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,65 +27,68 @@ Orchestration · Automation · AI/ML · Frontend · Backend
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-Budibase is an open-source platform that enables users to create AI agents, automations, and apps to streamline their operations. By turning isolated tools and prompts into repeatable workflows, Budibase simplifies complex tasks and increases productivity. This model-agnostic platform provides a flexible solution for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory.
+Budibase is an open-source project that enables users to create AI agents, automations, and apps to streamline their operations. Its model-agnostic approach allows for the integration of various tools and workflows, making it a versatile solution for automating complex processes. With its high production readiness and strong adoption, Budibase is an attractive option for organizations looking to automate their operations.
 
-**Value Proposition:**
+**Value Proposition**
 
-The value of Budibase lies in its ability to unify disparate tools and workflows, making it easier to automate repetitive tasks and improve operational efficiency. By leveraging Budibase, users can:
+The value proposition of Budibase lies in its ability to turn isolated prompts and tools into repeatable agent workflows. This enables users to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, making it easier to manage and automate complex operations.
 
-* Simplify complex tasks by breaking them down into manageable workflows
-* Increase productivity by automating routine tasks
-* Enhance collaboration by standardizing agent memory and workflows
+**Practical Adoption Path**
 
-**Practical Adoption Path:**
+The practical adoption path for Budibase involves the following steps:
 
-To adopt Budibase, users can follow these steps:
-
-1. **Evaluate**: Assess Budibase's features, documentation, and community support to determine its suitability for their needs.
-2. **Integrate**: Connect Budibase with existing tools and systems using APIs, SDKs, or CLI.
-3. **Configure**: Set up workflows and automations using Budibase's intuitive interface.
-4. **Test**: Validate Budibase's performance and accuracy in a controlled environment.
-5. **Deploy**: Roll out
+1. Evaluate the project's implementation signals, such as its API, SDK, CLI, language metadata, and focused topics.
+2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
+3. Review the project's license, security posture, and active maintainers to ensure they meet your organization's requirements.
+4. Explore the project's use cases and determine how Budibase can be applied to your specific operational needs.
+5. Develop a proof-of-concept or pilot project to test Budibase's
 
 ### Русский
 
 Резюме проекта Budibase/budibase:
 
-Будibase/budibase — это бесплатный и открытое проект, который позволяет автоматизировать бизнес-процессы с помощью агентов и приложений. Он предназначен для объединения изолированных команд и инструментов в повторяющиеся потоки действий. 
+Проект Budibase/budibase представляет собой набор инструментов для автоматизации и управления бизнес-процессами с помощью AI-агентов и моделей. Он позволяет превратить отдельные команды и инструменты в повторяемые потоки задач, повышая эффективность и сокращая время затраченное на выполнение задач.
 
-Типовой сценарий внедрения проекта — координация сложных потоков действий, интеграция различных инструментов и стандартизация памяти агентов. 
+Типовым сценарием внедрения является координация мульти-агентных потоков задач, добавление в поток задач инструментов и стандартизация памяти агентов. Это позволяет бизнесам оптимизировать свои процессы и повысить производительность.
 
-Проект демонстрирует высокий уровень готовности к production, обусловленный его активной деятельностью, широкой адопцией и сильными признаками экосистемы.
+Проект имеет высокий уровень готовности к production, подтверждаемый 28 056 GitHub-звездами, активной деятельностью разработчиков и сильным экосистемным потенциалом. Однако перед внедрением проекта необходимо тщательно проверить лицензию, безопасность и активность maintainers.
 
 ### 中文
 
-**Budibase/budibase 简介**
+**项目简介**
 
-Budibase/budibase 是一个开源项目，提供了 AI 代理、自动化和应用程序，以管理您的运营。它支持多种模型，不受特定模型的限制。
+Budibase/budibase 是一个开源项目，提供了 AI 代理、自动化和应用程序，以运行您的运营。它支持多种模型，具有高生产力。
 
 **价值**
 
-Budibase/budibase 的主要价值在于帮助将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用的管道以及标准化代理内存。
+Budibase/budibase 帮助您将孤立的提示和工具转换为可重复的代理工作流程，使您能够更有效地协调多个代理工作流程、添加工具使用管道以及标准化代理记忆。
 
 **典型接入方式**
 
-Budibase/budibase 支持多种接入方式，包括：
+该项目提供了以下接入方式：
 
-* API：通过 API 接口调用 Budibase/budibase 的功能。
-* SDK：使用提供的 SDK 来集成 Budibase/budibase 的功能。
-* CLI：使用命令行接口来管理和配置 Budibase/budibase。
+* API
+* SDK
+* CLI
+* 语言元数据
+* 焦点主题
 
 **生产可用性**
 
-Budibase/budibase 的生产可用性很高，主要原因是：
+该项目具有高生产力，适合用于生产环境。它具有以下特点：
 
-* 有活跃的社区和维护者。
-* 有强大的生态系统支持。
-* 有大量的 GitHub 星星和 fork。
+* 近期活动
+* 强大的采用
+* 强大的生态系统信号
+* 高评分（89/100）
+* 28056 GitHub 星星
+* 2168 forks
+* 主要语言：TypeScript
+* 19 个主题
 
-但是，仍然需要对其许可、安全体征和活跃维护
+需要注意的是，项目的许可、安全态势和活跃维护者仍需要进一步审查。
 
 ## 🧭 Practical evaluation
 
@@ -103,9 +106,9 @@ Budibase/budibase 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 28051 GitHub stars
+- 28056 GitHub stars
 - 2168 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: TypeScript
 - 19 topics
 
@@ -129,4 +132,4 @@ Budibase/budibase 的生产可用性很高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/Budibase/budibase) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/Budibase/budibase) · [← Back to Orchestration](./README.md)</sub>

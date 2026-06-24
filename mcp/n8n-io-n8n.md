@@ -27,54 +27,49 @@ MCP · Automation · AI/ML · Frontend · Backend
 
 ### English
 
-**Project Summary**
+**Summary:**
+n8n is an open-source workflow automation platform that enables users to connect AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol. With a user-friendly interface and native AI capabilities, n8n allows users to combine visual building with custom code, providing 400+ integrations. The platform is highly production-ready, with strong adoption and ecosystem signals.
 
-n8n is an open-source workflow automation platform that integrates AI capabilities, allowing users to connect AI assistants to real tools and data through a standard protocol. With its visual building and custom code capabilities, 400+ integrations, and support for self-hosting or cloud deployment, n8n offers a flexible solution for automation needs. This platform has gained significant traction with 193,877 GitHub stars and 58,802 forks, indicating a strong community and adoption.
+**Value Proposition:**
+The value proposition of n8n lies in its ability to standardize integrations between AI assistants and real tools and data. This enables seamless communication and automation between different systems, making it easier to build and deploy AI-powered applications.
 
-**Value Proposition**
+**Practical Adoption Path:**
+To adopt n8n, users can start by exploring the platform's 400+ integrations and choosing the ones that best suit their needs. They can then use the visual building interface to create workflows, or write custom code to extend the platform's functionality. Users can also self-host n8n or use a cloud-based solution, making it a flexible and adaptable platform.
 
-The primary value of n8n lies in its ability to standardize integrations between AI assistants and real tools and data, making it easier for developers to connect these disparate systems. This standardization enables the creation of more seamless and efficient workflows, ultimately enhancing productivity and reducing complexity.
-
-**Practical Adoption Path**
-
-To adopt n8n, users can follow these steps:
-
-1. **Explore the platform**: Visit the n8n GitHub page to learn more about its features, integrations, and community.
-2. **Choose a deployment option**: Decide whether to self-host n8n or use a cloud-based deployment.
-3. **Set up the platform**: Follow the documentation to configure and set up n8n.
-4. **Integrate AI assistants**: Connect AI agents to real tools
+**Production Readiness:**
+n8n is highly production-ready, with strong adoption and ecosystem signals. The platform has recently seen significant activity, and its recent update on June 24, 2026, indicates that the
 
 ### Русский
 
 Резюме проекта n8n:
 
-n8n - это платформа автоматизации рабочих процессов, которая обеспечивает встроенные возможности искусственного интеллекта. Благодаря ей вы можете объединять визуальное создание потока работы с собственным кодом, а также развертывать ее как на собственном сервере, так и в облаке. Платформа поддерживает более 400 интеграций и позволяет стандартизировать подключения к различным инструментам и данным.
+n8n - платформа автоматизации рабочих процессов с встроенными возможностями искусственного интеллекта. Это уникальное решение, позволяющее объединять визуальное проектирование с личным кодом, что делает его идеальным выбором для подключения ИИ-ассистентов к реальным инструментам и данным.
 
-Типовой сценарий внедрения n8n: вы хотите подключить искусственных интеллектуальных агентов к реальным инструментам и данным. Платформа позволяет вам легко интегрировать AI-ассистентов с различными сервисами и системами.
+Платформа n8n идеально подходит для следующей типовой сценарии: подключение ИИ-агентов к инструментам, развертывание серверов Model Context Protocol и стандартизация интеграций. 
 
-Уровень готовности к production: высокий. Проект n8n демонстрирует активность, широкое распространение и сильную экосистему. Это делает его подходящей кандидатурой для серьезного пилотного проекта.
+Проект n8n готов к производству на высоком уровне, благодаря его активной разработке, широкой адоптеции и сильному экосистемному потенциалу. Это подтверждается 193888 GitHub звездами и 58802 фиксами, а также последней актуализацией 24 июня 2026 года.
 
 ### 中文
 
-**简短介绍**
+**n8n.io/n8n 简介**
 
-n8n 是一个开源的工作流自动化平台，具有原生 AI 能力。它可以将可视化的构建与自定义代码结合起来，支持自主部署或云部署，整合了 400 多个服务。
+n8n.io/n8n 是一个开源的工作流自动化平台，具有native AI能力。它允许用户通过可视化的方式结合自定义代码，支持自主托管和云部署，集成400+种服务。
 
 **价值**
 
-n8n 的价值在于，它帮助连接 AI 助手到实际的工具和数据通过一个标准协议，使得开发者可以更轻松地将 AI 能力与现有的系统整合。
+n8n.io/n8n 的价值在于，它帮助连接 AI 助手到真正的工具和数据通过标准协议。
 
 **典型接入方式**
 
-n8n 支持多种接入方式，包括：
+n8n.io/n8n 的典型接入方式包括：
 
-* API（程序接口）：通过 API，可以将 n8n 与其他系统进行交互。
-* SDK（软件开发工具包）：通过 SDK，可以将 n8n 的功能整合到自己的应用程序中。
-* CLI（命令行接口）：通过 CLI，可以直接在命令行中使用 n8n 的功能。
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
 
 **生产可用性**
 
-n8n 的生产可用性非常高，得分为 97/100。它有强大的社区支持、活跃的维护者和稳定的代码基础。它也是一个开源项目，任何人都可以参与到其开发中。
+n8n.io/n8n 的生产可用性很高，特别是考虑到它是开源软件。最近的活动、采用率和生态系统信号都足以支撑一个严肃的试验。
 
 ## 🧭 Practical evaluation
 
@@ -92,7 +87,7 @@ n8n 的生产可用性非常高，得分为 97/100。它有强大的社区支持
 
 **Quality signals**
 
-- 193877 GitHub stars
+- 193888 GitHub stars
 - 58802 forks
 - updated 2026-06-24
 - primary language: TypeScript

@@ -27,41 +27,44 @@ AI/ML · DevTools
 
 ### English
 
-Here's a brief summary:
+**OpenHands: AI-Driven Development**
 
-OpenHands is an open-source project that enables developers to add AI capabilities to their applications without starting from scratch. It provides a foundation for prototyping AI features, building robust agent workflows, and evaluating model tooling, making it an ideal choice for those looking to integrate AI into their projects. With its high production readiness, strong adoption, and recent activity, OpenHands is a reliable choice for serious pilots and production deployments.
-
-The value of OpenHands lies in its ability to accelerate AI development by providing a pre-built model stack, allowing developers to focus on higher-level tasks rather than building everything from scratch. The practical adoption path involves evaluating the project's API, SDK, or CLI, and selecting the implementation signals that best suit the project's needs. Once adopted, OpenHands can be integrated into various applications, enabling the development of AI-powered features and workflows.
-
-In terms of production readiness, OpenHands has demonstrated a high level of maturity, with strong adoption, recent activity, and a robust ecosystem. Its 78,158 GitHub stars and 9,937 forks indicate a significant community backing, and its Python primary language ensures a wide range of potential integrations. However, it's essential to conduct a final review of the project's license, security posture, and maintainers
+OpenHands is an open-source project that empowers developers to easily integrate AI capabilities into their applications without starting from scratch. It provides a robust framework for prototyping AI features, building robust agent workflows, and evaluating model tooling, making it an ideal choice for those looking to leverage AI in their projects. With its high production readiness, strong adoption, and active maintainers, OpenHands is an excellent candidate for serious pilots and large-scale deployments.
 
 ### Русский
 
 Резюме OpenHands/OpenHands:
 
-OpenHands/OpenHands - это открытый проект, который позволяет добавить в разработку искусственный интеллект без создания новой модели стека. Это означает, что разработчики могут быстро и легко внедрить AI-функции в свои приложения, используя уже готовые решения. Проект готов к выпуску в production, поскольку имеет высокий уровень активности, адопции и сильные сигналы экосистемы.
+OpenHands/OpenHands - это открытый проект, который позволяет добавлять в свои приложения функции искусственного интеллекта без необходимости создания собственного стека моделей. Это идеальный инструмент для разработчиков, которые хотят прототипировать функции AI или построить рабочие процессы с агентами. Проект готов к внедрению в production, имея высокий уровень активности, широкое распространение и сильную экосистему, что делает его идеальным кандидатом для серьезного пилотного проекта.
 
 ### 中文
 
 **OpenHands/OpenHands 简介**
 
-OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动开发的解决方案。它的价值在于可以帮助开发者快速添加 AI 能力，而不需要从零开始构建模型堆栈。
+OpenHands/OpenHands 是一个基于 AI 的开发工具，帮助开发者轻松添加 AI 能力而无需从头开始构建模型堆栈。该项目提供了一个强大的 AI 开发平台，适合 prototyping AI 特性、构建 RAG 或代理工作流、评估模型工具等场景。
+
+**价值**
+
+OpenHands/OpenHands 的主要价值在于：
+
+* 无需从头开始构建模型堆栈，节省开发时间和成本
+* 提供了一个强大的 AI 开发平台，适合多种场景
+* 支持 prototyping、RAG 或代理工作流、模型工具评估等功能
 
 **典型接入方式**
 
-OpenHands/OpenHands 支持多种接入方式，包括：
+OpenHands/OpenHands 可以通过以下方式接入：
 
-* API：通过 API 来接入 OpenHands/OpenHands 的功能和服务。
-* SDK：通过 SDK 来集成 OpenHands/OpenHands 的功能和服务。
-* CLI：通过命令行接口来使用 OpenHands/OpenHands 的功能和服务。
+* API/SDK：通过 API 或 SDK 接入 OpenHands/OpenHands 的功能
+* CLI：通过命令行工具接入 OpenHands/OpenHands 的功能
+* 语言metadata：支持多种编程语言的 metadata 接入
 
 **生产可用性**
 
-OpenHands/OpenHands 在生产环境中的可用性非常高，主要原因是：
+OpenHands/OpenHands 的生产可用性非常高，主要原因是：
 
-* 活跃维护：项目最近有活跃的维护和更新。
-* 广泛采用：项目有大量的用户和社区支持。
-* 强大的生态系统：项目有强大的生态系统支持。
+* 近期活跃：最近有较多的提交和更新
+*
 
 ## 🧭 Practical evaluation
 
@@ -79,8 +82,8 @@ OpenHands/OpenHands 在生产环境中的可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 78158 GitHub stars
-- 9937 forks
+- 78170 GitHub stars
+- 9938 forks
 - updated 2026-06-24
 - primary language: Python
 - 9 topics

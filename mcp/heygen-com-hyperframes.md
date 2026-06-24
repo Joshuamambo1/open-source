@@ -29,41 +29,48 @@ MCP · AI/ML · Frontend
 
 Here's a brief summary of the open-source project:
 
-**Project Summary:** heygen-com/hyperframes is an open-source project that enables seamless connections between AI assistants and real tools and data through a standard protocol, making it easier to integrate AI agents with various applications. Its straightforward evaluation process, high production readiness, and strong adoption signals make it a suitable candidate for serious pilots. With over 30,000 GitHub stars and recent updates, the project is poised for practical adoption and production deployment.
+**Project Summary:**
+heygen-com/hyperframes is an open-source project that enables AI assistants to connect with real tools and data through a standard protocol, making it easier to integrate AI agents with various applications. This project provides a straightforward integration process, exposing implementation signals such as API/SDK/CLI, and has strong production readiness due to its recent activity, adoption, and ecosystem signals. With over 30,000 GitHub stars and a high-quality codebase, it's suitable for serious pilots.
 
-**Value Proposition:** The primary value of heygen-com/hyperframes lies in its ability to standardize integrations between AI assistants and various tools and data sources, simplifying the process of connecting AI agents to real-world applications.
+**Value:**
+The value proposition of heygen-com/hyperframes lies in its ability to standardize integrations between AI assistants and various tools, making it easier to develop and deploy AI-powered applications. This project helps to bridge the gap between AI agents and real-world tools, enabling more efficient and effective AI decision-making.
 
-**Practical Adoption Path:** To adopt heygen-com/hyperframes, developers can start by evaluating the project's implementation signals, such as its API, SDK, and CLI, and review its language metadata and focused topics. With a clear understanding of the project's capabilities and limitations, developers can then integrate the project into their existing AI assistant infrastructure, taking advantage of its standard protocol to connect with various tools and data sources.
-
-**Production Readiness:** heygen-com/hyperframes has demonstrated high production readiness, with recent activity, strong adoption signals, and a well-maint
+**Practical Adoption Path:**
+To adopt heygen-com/hyperframes, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, to understand how to integrate it with their existing applications. They can then follow the project's documentation and examples to set up a Model Context Protocol server and connect their AI agents to real tools and data. With a strong community and recent activity,
 
 ### Русский
 
-Резюме проекта heygen-com/hyperframes:
+Резюме:
 
-heygen-com/hyperframes — открытый проект, который позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартную протокол. Это может быть полезно для компаний, которые хотят интегрировать свои AI-ассистенты с различными инструментами и сервисами. Проект готов к production, поскольку он имеет высокую степень готовности (High), недавнюю активность, широкое распространение и сильные сигналы экосистемы.
+Проект heygen-com/hyperframes представляет собой уникальное решение для соединения искусственных интеллекта с реальными инструментами и данными через стандартный протокол. Это позволяет агентам-ассистентам взаимодействовать с различными системами и приложениями. Проект готов к использованию в production, имея высокий уровень готовности (High) и сильные сигналы адопции и экосистемы.
+
+Типовой сценарий внедрения проекта включает в себя подключение AI-агентов к инструментам, развертывание серверов Model Context Protocol и стандартизацию интеграций.
 
 ### 中文
 
 **简短介绍**
-heygen-com/hyperframes 是一个开源项目，用于连接 AI 助手到真实工具和数据的标准协议。它可以帮助连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化集成。
+
+heygen-com/hyperframes 是一个开源项目，旨在连接 AI 代理与真实工具和数据。它提供了一种标准协议，使 AI 代理能够与外部工具进行交互。
 
 **价值**
-heygen-com/hyperframes 的价值在于，它帮助连接 AI 助手到真实工具和数据的标准协议，方便开发者构建更高效的 AI 应用。
+
+heygen-com/hyperframes 的价值在于，它帮助连接 AI 代理与真实工具和数据，从而实现更好的协同工作。它可以用于连接 AI 代理到工具、部署 Model Context Protocol 服务器以及标准化集成。
 
 **典型接入方式**
-典型接入方式包括：
 
-1. 连接 AI 代理到工具
-2. 部署 Model Context Protocol 服务器
-3. 标准化集成
+heygen-com/hyperframes 支持多种接入方式，包括：
+
+* API：通过 API 接口来访问 heygen-com/hyperframes 的功能。
+* SDK：通过 SDK 来集成 heygen-com/hyperframes 的功能到自己的应用中。
+* CLI：通过命令行接口来访问 heygen-com/hyperframes 的功能。
 
 **生产可用性**
-heygen-com/hyperframes 的生产可用性高，主要原因包括：
 
-1. 近期活跃开发
-2. 强大的采用和生态系统信号
-3. 高质量的代码和维护者
+heygen-com/hyperframes 的生产可用性很高，理由如下：
+
+* 近期活跃：最近有活跃的开发和维护。
+* 强大的采用：有超过 30,000 个 GitHub Star 和 2,876 个分支。
+* 强大的生态系统
 
 ## 🧭 Practical evaluation
 
@@ -81,8 +88,8 @@ heygen-com/hyperframes 的生产可用性高，主要原因包括：
 
 **Quality signals**
 
-- 30703 GitHub stars
-- 2870 forks
+- 30737 GitHub stars
+- 2876 forks
 - updated 2026-06-24
 - primary language: TypeScript
 - 11 topics
@@ -99,7 +106,7 @@ heygen-com/hyperframes 的生产可用性高，主要原因包括：
 | production | 85/100 |
 | outlook | 96/100 |
 | adoption | 93/100 |
-| stars | 95/100 |
+| stars | 96/100 |
 | forks | 86/100 |
 | recency | 100/100 |
 | topics | 100/100 |

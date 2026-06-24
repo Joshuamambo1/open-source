@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13.1k |
-| 🍴 **Forks** | 959 |
+| ⭐ **Stars** | 13.3k |
+| 🍴 **Forks** | 974 |
 | 💻 **Language** | C |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,48 +27,49 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ### English
 
-Here's a brief summary of the DeusData/codebase-memory-mcp project:
+**Project Overview: DeusData/codebase-memory-mcp**
 
-DeusData/codebase-memory-mcp is an open-source, high-performance Code Intelligence MCP server that indexes codebases into a persistent knowledge graph, enabling fast and efficient querying of codebases across 158 languages. This project offers a standard protocol for connecting AI assistants to real tools and data, allowing for seamless integrations and streamlined workflows. With its single static binary, zero dependencies, and recent activity, adoption, and ecosystem signals, it is highly production-ready for serious pilots.
+DeusData/codebase-memory-mcp is an open-source, high-performance code intelligence server that indexes codebases into a persistent knowledge graph, enabling fast and efficient queries across 158 languages. This server facilitates connections between AI assistants and real tools and data through the Model Context Protocol (MCP), standardizing integrations and empowering developers to build more effective AI-powered tools.
 
-**Value Proposition:**
-The value of DeusData/codebase-memory-mcp lies in its ability to standardize integrations and connect AI assistants to real tools and data through a unified protocol. This enables developers to build more efficient and effective workflows, leveraging the power of AI to enhance their development experience.
+**Value Proposition**
 
-**Practical Adoption Path:**
-To adopt DeusData/codebase-memory-mcp, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate the MCP server into their existing infrastructure, leveraging its high-performance capabilities to query codebases across 158 languages. With its straightforward evaluation process and strong ecosystem signals, developers can confidently pilot the project in their production environments.
+The value proposition lies in its ability to connect AI agents to tools, enabling developers to build more effective AI-powered tools. By standardizing integrations through the MCP, this server helps bridge the gap between AI assistants and real-world applications.
 
-**
+**Practical Adoption Path**
+
+The adoption path appears straightforward, with the server exposing implementation signals such as API/SDK/CLI, language metadata, and focused topics. To get started, developers can evaluate the server by exploring its API documentation and implementing a basic integration with their AI agent or tool.
+
+**Production Readiness**
+
+The production readiness of DeusData/codebase-memory-mcp is high, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. With 13,294 GitHub stars, 974 forks, and regular updates, this project has demonstrated a significant level of community engagement and
 
 ### Русский
 
 Резюме проекта DeusData/codebase-memory-mcp:
 
-Проект представляет собой высокопроизводительный сервер интеллектуальной кодовой базы, позволяющий индексировать кодовые базы в постоянную знакоподобную графу на уровне миллисекунд. Это позволяет соединять агентов AI с реальными инструментами и данными через стандартный протокол. Проект готов к сериозному испытанию в производстве, имея высокую степень готовности, активность и признание в сообществе разработчиков.
+Проект DeusData/codebase-memory-mcp представляет собой высокопроизводительный сервер интеллектуальной поддержки кода, который индексирует кодовые базы в постоянную граф знаний, обеспечивая быструю и эффективную работу. Он может обрабатывать репозитории за несколько миллисекунд, поддерживает 158 языков и обеспечивает быстрые запросы в миллисекунды.
+
+Проект предназначен для соединения агентов AI с реальными инструментами и данными через стандартный протокол. Типовой сценарий внедрения — подключение агентов AI к инструментам, развертывание серверов протокола Model Context, стандартизация интеграций.
+
+Проект готов к производственной эксплуатации на высоком уровне (High) из-за сильного присутствия в сообществе, активности разработчиков и положительных сигналов из экосистемы. Однако требует дополнительного рассмотрения лицензионной и безопасности информации, а также активности поддержки.
 
 ### 中文
 
 **DeusData/codebase-memory-mcp 简介**
 
-DeusData/codebase-memory-mcp 是一个高性能的代码智能 MCP 服务器，能够快速索引代码库并构建持久的知识图谱。它支持 158 种语言，平均查询时间为毫秒级，减少了 99% 的 token。
+DeusData/codebase-memory-mcp 是一个高性能的代码智能 MCP 服务器。它能够快速索引代码库，并将其存储在一个持久的知识图中。该项目支持 158 种语言，能够在毫秒级内处理查询，且在 token 处理上比传统方法少了 99%。
 
 **价值**
 
-DeusData/codebase-memory-mcp 帮助连接 AI 辅助器到真正的工具和数据通过一个标准协议。它可以连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
+DeusData/codebase-memory-mcp 的价值在于它能够连接 AI 代理到现实中的工具和数据。通过标准协议，AI 代理能够访问丰富的代码库和工具，从而更好地完成任务。
 
 **典型接入方式**
 
-DeusData/codebase-memory-mcp 可以通过以下方式接入：
-
-* API/SDK/CLI：暴露实现信号，如 API、SDK 或 CLI。
-* 语言元数据：支持多种语言的元数据。
-* 焦点话题：针对特定话题的集成。
+DeusData/codebase-memory-mcp 支持通过 API、SDK 和 CLI 的接入方式。开发者可以通过这些接口将 AI 代理连接到代码库和工具中。
 
 **生产可用性**
 
-DeusData/codebase-memory-mcp 的生产可用性很高，理由如下：
-
-* 近期活动：最近有活跃的维护和更新。
-* 采用度：有 13145 个 GitHub 星和 959 个分支。
+DeusData/codebase-memory-mcp 在生产环境中具有高可用性。它拥有强大的社区支持，最近的活动和采用率都很高。该项目的主要语言是 C，支持 20 个不同的主题。总共拥有 13,294 个 GitHub 星标和 974 个分
 
 ## 🧭 Practical evaluation
 
@@ -86,8 +87,8 @@ DeusData/codebase-memory-mcp 的生产可用性很高，理由如下：
 
 **Quality signals**
 
-- 13145 GitHub stars
-- 959 forks
+- 13294 GitHub stars
+- 974 forks
 - updated 2026-06-24
 - primary language: C
 - 20 topics

@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 708 |
+| ⭐ **Stars** | 713 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,58 +27,56 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ### English
 
-**Summary:** 
-zzet/gortex is an open-source, high-performance code-intelligence engine that supports 257 languages and multiple repositories. It enables AI agents and Integrated Development Environments (IDEs) to access a standard protocol, cutting token usage up to 50x. This engine is available through CLI, MCP Server, and API.
+**Project Summary:**
+zzet/gortex is an open-source, high-performance code-intelligence engine that enables AI agents and Integrated Development Environments (IDEs) to access information from 257 languages across multiple repositories. This engine exposes only the necessary information, reducing token usage by up to 50 times, and provides access via CLI, MCP Server, and API. Its 100% local architecture makes it a reliable solution for connecting AI assistants to real tools and data.
 
-**Value Proposition:** 
-The value proposition of zzet/gortex lies in its ability to connect AI assistants to real tools and data through a standard protocol. This facilitates seamless integration and interaction between AI agents, IDEs, and other tools, making it an essential component for developers and AI researchers.
+**Value:**
+The value proposition of zzet/gortex lies in its ability to standardize integrations between AI agents and tools, making it easier to connect AI assistants to real tools and data. This standardization enables developers to focus on their core tasks while leveraging the power of AI.
 
-**Practical Adoption Path:** 
-Developers and organizations can adopt zzet/gortex by following these steps:
+**Practical Adoption Path:**
+To adopt zzet/gortex, developers can follow these steps:
 
-1. **Evaluate the Engine:** Assess the engine's capabilities, performance, and compatibility with existing tools and frameworks.
-2. **Integrate with AI Agents:** Connect AI assistants to zzet/gortex using the provided APIs, SDKs, or CLI.
-3. **Implement Model Context Protocol (MCP) Servers:** Set up MCP servers to enable communication between AI agents and zzet/gortex.
-4. **Standardize Integrations:** Leverage zzet/gortex's standard protocol to integrate with other tools and frameworks.
-
-**Production Readiness:**
+1. **Evaluate the project**: Review the project's documentation, code quality, and community engagement to ensure it meets their needs.
+2. **Set up the engine**: Install and configure the zzet/gortex engine to access the required information.
+3. **Integrate with AI agents**: Connect the zzet/gortex engine to AI agents, such as chatbots or virtual assistants, to enable them to access the necessary data.
+4
 
 ### Русский
 
 Резюме проекта zzet/gortex:
 
-Проект zzet/gortex представляет собой высокопроизводительный движок кодовой интеллигенции для агентов AI и IDE, поддерживающий 257 языков и множество репозиториев на основе графа. Он обеспечивает доступ через CLI, сервер MCP и API. Благодаря этому разработчики могут сократить использование токенов в 50 раз и повысить эффективность своей работы.
+Проект zzet/gortex представляет собой высокопроизводительный движок для интеллектуальной поддержки кода, который позволяет AI-агентам и IDE работать с 257 языками программирования, поддерживает работу с несколькими репозиториями и использует графовую структуру для доступа к информации. Это позволяет сократить использование токенов в 50 раз, обеспечивая 100%-ую локальную работу.
 
-Проект zzet/gortex предназначен для подключения агентов AI к реальным инструментам и данным через стандартный протокол. Типовой сценарий внедрения включает в себя подключение агентов AI к инструментам, развертывание серверов Model Context Protocol и стандартизацию интеграций.
+Проект идеально подходит для сценария внедрения, когда нужно подключить AI-агента к реальным инструментам и данным через стандартный протокол. Это может быть полезно в случаях, когда необходимо автоматизировать определенные задачи или улучшить опыт пользователя.
 
-Проект zzet/gortex готов к производственной эксплуатации на высоком уровне, благодаря активности разработчиков, адопции и сигналам экосистемы. Однако требует дополнительного обзора в отношении лицензии, безопасности и активности maintainers.
+Проект zzet/gortex готов к production на высоком уровне, что подтверждается его активной деятельностью, широкой адоптацией и сильными сигналами экосистемы. Однако, как и любой открытый-source проект, он требует тщательного обзора лицензионной политики, безопасности и активности основных разработчиков.
 
 ### 中文
 
-**简短介绍**
+**zzet/gortex 简介**
 
-zzet/gortex 是一个高性能的代码智能引擎，支持 257 个语言，适用于 AI 代理和 IDE，基于图形结构，提供 CLI、MCP 服务器和 API 等访问方式。该引擎可以帮助连接 AI 助手到真实工具和数据，减少 token 使用量，实现 100% 本地化。
+ zzet/gortex 是一个高性能的代码智能引擎，支持 257 种语言，适用于 AI 代理和 IDE，通过图形结构进行多仓库支持，提供 CLI、MCP 服务器和 API 访问。它可以帮助连接 AI 插件到实际工具和数据，通过标准协议进行接入。
 
 **价值**
 
-zzet/gortex 的价值在于，它可以帮助连接 AI 助手到真实工具和数据，标准化集成，提高开发效率。
+ zzet/gortex 的价值在于，它可以帮助连接 AI 插件到实际工具和数据，通过标准协议进行接入。它可以提供高效的代码智能服务，帮助开发者提高生产力。
 
 **典型接入方式**
 
-zzet/gortex 支持多种接入方式，包括：
+ zzet/gortex 支持以下接入方式：
 
-* CLI（命令行接口）
-* MCP 服务器（Model Context Protocol 服务器）
-* API（应用编程接口）
+*   CLI（命令行界面）
+*   MCP 服务器（Model Context Protocol 服务器）
+*   API（应用程序编程接口）
 
 **生产可用性**
 
-zzet/gortex 的生产可用性非常高，理由如下：
+ zzet/gortex 的生产可用性很高，主要原因包括：
 
-* 近期活动：最近有更新和维护活动。
-* 采用：有足够的采用和生态系统信号，足够进行严肃的试验。
-* GitHub 星数：有 708 个 GitHub 星星，表明项目非常受欢迎。
-* 主要语言：Go 语言，表
+*   近期活动：项目最近有更新和维护。
+*   Adoption：项目有很多用户和采用者。
+*   代码质量：项目的代码质量很高，使用 Go 语言编写，支持 20 个主题。
+*   社区
 
 ## 🧭 Practical evaluation
 
@@ -96,9 +94,9 @@ zzet/gortex 的生产可用性非常高，理由如下：
 
 **Quality signals**
 
-- 708 GitHub stars
+- 713 GitHub stars
 - 55 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: Go
 - 20 topics
 
@@ -122,4 +120,4 @@ zzet/gortex 的生产可用性非常高，理由如下：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>

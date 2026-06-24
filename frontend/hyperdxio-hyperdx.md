@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 415 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,54 +27,41 @@ Frontend · DevTools · Data · Database · Observability
 
 ### English
 
-**Project Summary:**
-hyperdx is an open-source observability platform that simplifies production issue resolution by unifying session replays, logs, metrics, traces, and errors. This platform, powered by ClickHouse and OpenTelemetry, enables developers to ship user-facing interfaces faster with less custom UI work. By reusing interface components and improving frontend delivery, hyperdx helps developers build product UI faster.
+**HyperDX: A Comprehensive Observability Platform**
 
-**Value Proposition:**
-The value proposition of hyperdx lies in its ability to streamline the development process by reducing custom UI work, allowing developers to focus on building product UI faster. This is achieved through the reuse of interface components and improved frontend delivery.
+HyperDX is an open-source observability platform that resolves production issues quickly by unifying session replays, logs, metrics, traces, and errors. This platform, powered by ClickHouse and OpenTelemetry, helps developers ship user-facing interfaces faster with less custom UI work.
 
-**Practical Adoption Path:**
-To adopt hyperdx, developers can follow these steps:
+**Value Proposition and Practical Adoption Path**
 
-1. Evaluate the platform's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
-2. Assess the production readiness of the platform, considering recent activity, adoption, and ecosystem signals.
-3. Review the platform's quality signals, including GitHub stars, forks, and updates.
-4. Conduct a final review of the platform's license, security posture, and active maintainers.
+The value proposition of HyperDX lies in its ability to streamline the development process by reducing custom UI work and improving frontend delivery. The practical adoption path involves evaluating the platform's straightforward integration signals, such as API/SDK/CLI, language metadata, or focused topics. By leveraging HyperDX, developers can build product UI faster, reuse interface components, and improve their overall frontend delivery.
 
-**Production Readiness:**
-hyperdx has a high production readiness score, with recent activity, adoption, and ecosystem signals that are strong enough for
+**Production Readiness**
+
+HyperDX exhibits high production readiness, with recent activity, adoption, and ecosystem signals that are strong enough for a serious pilot. With 9623 GitHub stars, 415 forks, and regular updates, the platform demonstrates a robust community and active maintainers. However, a final review of the license, security posture, and maintainers is still necessary to ensure its production readiness.
 
 ### Русский
 
 Резюме проекта hyperdxio/hyperdx:
 
-Hyperdx - это открытый исходный код платформа наблюдаемости, которая объединяет сессионные записи, журналы, метрики, трейсы и ошибки, позволяя быстро решать производительные проблемы. Это решение идеально подходит для компаний, которые хотят быстро развивать пользовательские интерфейсы и сокращать время настраиваемых UI-компонентов. Платформа готова к использованию в производстве, поскольку имеет сильные сигналы по активности, адопции и экосистеме, что делает ее идеальным кандидатом для серьезного пилота.
+Hyperdx - это открытая платформа наблюдения, которая объединяет сессионные записи, логи, метрики, трейсы и ошибки, построенная на ClickHouse и OpenTelemetry. Эта платформа позволяет быстро решать производственные проблемы и помогает разрабатывать пользовательские интерфейсы с минимальным количеством ручной работы. Hyperdx готов к внедрению в production (с оценкой High) и имеет сильные сигналы о своей готовности, включая активность, приём и экосистемные сигналы.
 
 ### 中文
 
-**项目简介**
+**项目介绍**
 
-hyperdxio/hyperdx 是一个开源的可观察性平台，集成了会话回放、日志、指标、追踪和错误等功能，基于 ClickHouse 和 OpenTelemetry 构建。它旨在快速解决生产问题。
+hyperdxio/hyperdx 是一个开源可观察性平台，集成会话重放、日志、指标、跟踪和错误等功能，使用 ClickHouse 和 OpenTelemetry 构建。它可以帮助开发者快速解决生产问题。
 
 **价值**
 
-hyperdxio/hyperdx 帮助开发者快速构建用户界面，减少自定义 UI 工作量。它可以帮助开发者快速交付前端应用程序，重用界面组件，并改善前端交付效率。
+hyperdxio/hyperdx 帮助开发者快速构建用户界面，减少自定义 UI 工作量。它还可以帮助开发者重用界面组件，改进前端交付。
 
 **典型接入方式**
 
-hyperdxio/hyperdx 可以通过以下方式接入：
-
-* API：通过 API 接口，集成到项目中。
-* SDK：使用 SDK，集成到项目中。
-* CLI：使用命令行接口，集成到项目中。
+hyperdxio/hyperdx 支持多种接入方式，包括 API、SDK 和 CLI。它暴露了实现信号，例如语言元数据和专注话题。开发者可以根据自己的需求选择合适的接入方式。
 
 **生产可用性**
 
-hyperdxio/hyperdx 的生产可用性很高，因为它有：
-
-* 近期活动：最近更新于 2026-06-23。
-* 强大的社区支持：有 9621 个 GitHub 星和 415 个分支。
-* 稳定的生态系统：有 19 个主题和强大的
+hyperdxio/hyperdx 在生产环境中已经有了较高的可用性。它有活跃的社区，近期的活动和采用率都很强。GitHub 上的星数和分支数也表明了其受欢迎程度。目前，开发者可以考虑将其用于生产环境。
 
 ## 🧭 Practical evaluation
 
@@ -92,9 +79,9 @@ hyperdxio/hyperdx 的生产可用性很高，因为它有：
 
 **Quality signals**
 
-- 9621 GitHub stars
+- 9623 GitHub stars
 - 415 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: TypeScript
 - 19 topics
 

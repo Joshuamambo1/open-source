@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 14.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 98/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,48 +27,59 @@ MCP · AI/ML · Backend · DevTools
 
 ### English
 
-**Project Summary:**
+**Gemini-cli Project Summary:**
 
-Google Gemini's gemini-cli is an open-source AI agent that enables the integration of AI assistants with real tools and data through a standard protocol, called the Model Context Protocol (MCP). This project offers a straightforward integration path, allowing developers to connect AI agents to various tools and standardize integrations. With a high production readiness score, recent activity, and a large community, gemini-cli is a viable candidate for serious pilots.
+Gemini-cli is an open-source AI agent that enables seamless integration of AI assistants with real tools and data through a standard protocol. This project empowers developers to connect AI agents to various tools, standardize integrations, and ship Model Context Protocol servers. With its high production readiness, strong ecosystem signals, and large user base, Gemini-cli is poised for wide adoption in the AI and ML community.
 
 **Value:**
 
-The value proposition of gemini-cli lies in its ability to connect AI assistants to real tools and data through a standard protocol. This enables developers to integrate AI agents with various applications, tools, and services, making AI more accessible and practical in real-world scenarios.
+The primary value proposition of Gemini-cli lies in its ability to connect AI assistants to real tools and data through a standard protocol. This enables developers to integrate AI agents with various systems, tools, and data sources, making it easier to build and deploy AI-powered applications.
 
 **Practical Adoption Path:**
 
-The adoption path for gemini-cli is relatively straightforward:
+Developers can adopt Gemini-cli by following these steps:
 
-1. **Evaluate the project**: Review the codebase, documentation, and community activity to ensure it meets your project's requirements.
-2. **Integrate with your tools**: Use the gemini-cli API/SDK/CLI to connect your AI agents to real tools and data.
-3. **Ship Model Context Protocol servers**: Implement the MCP servers to enable communication between AI agents and tools.
-4. **Standardize integrations**: Use the standard protocol to integrate AI agents
+1. **Evaluation**: Evaluate the project's codebase, documentation, and community support to ensure it meets their needs.
+2. **Integration**: Integrate Gemini-cli with their existing tools and data sources using the provided API, SDK, or CLI.
+3. **Testing**: Test the integration to ensure seamless communication between Gemini-cli and their tools/data sources.
+4. **Deployment**: Deploy the integrated system and monitor its performance.
+
+**Production Readiness:**
+
+Gemini-cli is considered production
 
 ### Русский
 
-Резюме проекта google-gemini/gemini-cli:
-
-google-gemini/gemini-cli - это открытый исходный проект, который позволяет соединять искусственный интеллект с реальными инструментами и данными через стандартный протокол. Этот проект особенно полезен для подключения агентов AI к инструментам, развертывания серверов протокола Model Context Protocol и стандартизации интеграций. Проект находится в высокой степени готовности к production, что делает его подходящим кандидатом для серьезного пилотного проекта.
+Резюме: 
+google-gemini/gemini-cli - это открытый исходный проект, который обеспечивает прямой доступ к мощностям Gemini AI-агента в терминал. 
+Этот проект позволяет соединять AI-ассистентов с реальными инструментами и данными посредством стандартного протокола, что делает его идеальным решением для интеграции AI-агентов с различными приложениями. 
+Проект готов к промышленному внедрению на высоком уровне, с сильными адопцией и экосистемными сигналами, что делает его привлекательным выбором для serious пилотов.
 
 ### 中文
 
-**简短介绍**
+**Google Gemini CLI 简介**
 
-google-gemini/gemini-cli 是一个开源 AI 代理，直接将 Gemini 的能力带入您的终端。它通过标准协议连接 AI 助手与实用工具和数据。
+Google Gemini CLI 是一个开源 AI 代理，直接将 Gemini 的功能引入到你的终端中。它通过标准协议连接 AI 助手到实用的工具和数据。
 
 **价值**
 
-google-gemini/gemini-cli 帮助连接 AI 助手与实用工具和数据，通过标准协议实现这一点。它可以连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
+Google Gemini CLI 帮助连接 AI 助手到实用的工具和数据，通过标准协议实现这一点。它可以用来连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
 
 **典型接入方式**
 
-1. 连接 AI 代理到工具：通过标准协议接入 AI 代理，实现与工具的高效集成。
-2. 部署 Model Context Protocol 服务器：部署 MCP 服务器，实现 AI 代理与工具之间的标准化通信。
-3. 标准化集成：使用标准协议标准化 AI 代理与工具之间的集成。
+Google Gemini CLI expose API/SDK/CLI 等实现信号，使其看起来很容易评估。具体来说，它提供了以下接入方式：
+
+* API：通过 API 接口与 Gemini CLI 进行通信
+* SDK：使用 Gemini CLI SDK 在你的应用中集成 Gemini 功能
+* CLI：直接在终端中使用 Gemini CLI 命令
 
 **生产可用性**
 
-google-gemini/gemini-cli 在生产环境中具有较高的可用性。其 GitHub 星星数量高达 105511，fork 数量高达 14153，更新时间为 2026-06-23。其主要语言为 TypeScript，支持 7 个主题。虽然
+Google Gemini CLI 的生产可用性很高，主要原因是：
+
+* 最近活跃：最近有活跃的维护和更新
+* 广泛采用：有 105517 个 GitHub 星标和 14154 个分叉
+* 强大生态系统：有 7 个主题
 
 ## 🧭 Practical evaluation
 
@@ -86,9 +97,9 @@ google-gemini/gemini-cli 在生产环境中具有较高的可用性。其 GitHub
 
 **Quality signals**
 
-- 105511 GitHub stars
-- 14153 forks
-- updated 2026-06-23
+- 105517 GitHub stars
+- 14154 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 7 topics
 
@@ -112,4 +123,4 @@ google-gemini/gemini-cli 在生产环境中具有较高的可用性。其 GitHub
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/google-gemini/gemini-cli) · [← Back to Mcp](./README.md)</sub>

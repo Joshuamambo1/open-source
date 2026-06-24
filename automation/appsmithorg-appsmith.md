@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,56 +27,57 @@ Automation · Frontend · Backend · DevTools · Data
 
 ### English
 
-**Appsmith: A Powerful Open-Source Platform for Building Custom Admin Panels and Internal Tools**
+**Project Summary:**
 
-Appsmith is an open-source platform that enables developers to build custom admin panels, internal tools, and dashboards by integrating with over 25 databases and any API. By automating repetitive manual operations, Appsmith helps streamline workflows and reduce manual labor, making it an ideal solution for teams looking to increase productivity and efficiency.
+Appsmith is an open-source platform that enables users to build custom admin panels, internal tools, and dashboards by integrating with over 25 databases and any API. This platform helps streamline workflows by automating repetitive manual operations, allowing users to connect tools into repeatable flows and schedule operational tasks. With its high production readiness, Appsmith is a viable solution for organizations seeking to optimize their workflow efficiency.
 
-**Value Proposition and Adoption Path**
+**Value Proposition:**
 
-The value proposition of Appsmith lies in its ability to eliminate repetitive manual tasks, connect tools into repeatable flows, and schedule operational tasks. To adopt Appsmith, developers can follow a straightforward evaluation process, which includes evaluating the platform's API, SDK, and CLI implementation signals. Once evaluated, developers can integrate Appsmith with their existing tools and databases, and start building custom admin panels and internal tools. The adoption path is made easier by Appsmith's high production readiness, recent activity, and strong ecosystem signals.
+The primary value proposition of Appsmith lies in its ability to remove repetitive manual operations from a workflow, thereby increasing productivity and reducing the likelihood of human error. By automating routine tasks, users can focus on more strategic and high-value activities, leading to improved overall efficiency.
 
-**Production Readiness**
+**Practical Adoption Path:**
 
-Appsmith has a high production readiness score of 90/100, indicating that it is well-suited for serious pilots and production environments. The platform has a strong track record of recent activity, with regular updates and a large community of adopters and contributors. Additionally, Appsmith has a high number of GitHub
+Adopting Appsmith involves the following steps:
+
+1. **Evaluation:** Assess Appsmith's capabilities and compatibility with your existing infrastructure and tools.
+2. **Integration:** Connect your databases and APIs to Appsmith, and configure the platform to meet your specific needs.
+3. **Development:** Build custom admin panels, internal tools, and dashboards using Appsmith's intuitive interface and API-driven architecture.
+4. **Deployment:** Deploy your Appsmith applications to production, and monitor their performance and scalability.
+
+**Production Readiness:**
+
+Appsmith boasts
 
 ### Русский
 
-Резюме:
+Резюме проекта appsmithorg/appsmith:
 
-AppSmith - это платформа для создания админ-панелей, внутренних инструментов и дашбордов, которая интегрируется с более чем 25 базами данных и любым API. Благодаря ей можно автоматизировать повторяющиеся ручные операции, что существенно повышает эффективность работы. AppSmith готов к внедрению в производство на высоком уровне, обладает сильной экосистемой и регулярно обновляется, что делает его отличным выбором для серьезных проектов.
+Платформа appsmithorg/appsmith позволяет развивать админ-панели, внутренние инструменты и дашборды с интеграцией с более чем 25 базами данных и любым API. Этот проект помогает избавиться от повторяющихся ручных операций в workflow, что делает его идеальным решением для автоматизации повторяющихся задач и создания повторяемых потоков работы. Проект готов к использованию в production, с высоким уровнем готовности и сильной экосистемой, но требует дальнейшего обзора лицензии, безопасности и активности разработчиков.
 
 ### 中文
 
-**AppSmith项目简介**
+**AppSmith 介绍**
 
-AppSmith是一个开源平台，用于构建管理面板、内部工具和仪表板。该平台支持与25+种数据库和任何API的集成。
+AppSmith 是一个开源项目，允许您快速构建管理面板、内部工具和仪表板。它集成了 25+ 个数据库和任何 API。
 
 **价值**
 
-AppSmith的价值在于帮助减少工作流程中的重复手动操作。它可以帮助您:
-
-* 移除手动工作
-* 将工具连接到可重复的流程中
-* 定时执行操作任务
+AppSmith 的主要价值在于帮助您移除工作流程中的重复手动操作，提高效率和生产力。
 
 **典型接入方式**
 
-AppSmith支持以下接入方式：
+典型接入方式包括：
 
-* API/SDK：通过API或软件开发工具包（SDK）接入AppSmith
-* CLI：通过命令行接口（CLI）接入AppSmith
-* 语言元数据：通过语言元数据接入AppSmith
-* 焦点主题：通过特定主题接入AppSmith
+1. 连接数据库和 API：AppSmith 支持连接 25+ 个数据库和任何 API，方便集成其他系统。
+2. 构建管理面板和仪表板：AppSmith 提供了丰富的 UI 组件和可定制的布局选项，帮助您快速构建管理面板和仪表板。
+3. 自动化工作流程：AppSmith 允许您自动化重复的操作，提高工作效率和生产力。
 
 **生产可用性**
 
-AppSmith的生产可用性很高，理由如下：
+AppSmith 有很高的生产可用性，适合用于生产环境。它具有以下特点：
 
-* 最近活跃：最近有活跃的开发和维护
-* 采用率：有强大的采用率和生态系统信号
-* GitHub星标数：有超过40,000个GitHub星标数
-* 主要语言：TypeScript
-*
+1. 活跃维护者：AppSmith 有活跃的维护者团队，确保项目保持最新和安全。
+2. 强大的社区支持
 
 ## 🧭 Practical evaluation
 
@@ -96,7 +97,7 @@ AppSmith的生产可用性很高，理由如下：
 
 - 40140 GitHub stars
 - 4620 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: TypeScript
 - 20 topics
 
@@ -120,4 +121,4 @@ AppSmith的生产可用性很高，理由如下：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/appsmithorg/appsmith) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/appsmithorg/appsmith) · [← Back to Automation](./README.md)</sub>

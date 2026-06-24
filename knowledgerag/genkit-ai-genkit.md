@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.1k |
-| 🍴 **Forks** | 771 |
+| 🍴 **Forks** | 772 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,45 +27,52 @@ Knowledge/RAG · AI/ML · Frontend · Data · Database
 
 ### English
 
-**Project Summary:**
+**Summary:** 
 
-Genkit is an open-source framework for building AI-powered apps in JavaScript, Go, and Python, developed and used in production by Google. It helps make internal knowledge searchable and usable by assistants, enabling users to index knowledge bases, improve search over documents, and ground assistant answers. With a strong ecosystem and recent activity, genkit is a high-production-readiness open-source candidate.
+Genkit is an open-source framework for building AI-powered applications, allowing developers to index knowledge bases, improve search functionality, and ground assistant answers. As a production-ready framework, Genkit offers a high level of quality and stability, making it suitable for serious pilots and implementation in production environments. With its strong adoption and recent activity, Genkit is an attractive choice for developers seeking to integrate AI capabilities into their applications.
 
-**Value:**
+**Value Proposition:** 
 
-The primary value proposition of genkit is its ability to make internal knowledge searchable and usable by assistants, which can greatly enhance the efficiency and effectiveness of AI-powered applications. By leveraging genkit, developers can build apps that can index knowledge bases, improve search over documents, and provide more accurate and relevant answers to users.
+The primary value proposition of Genkit lies in its ability to make internal knowledge searchable and usable by assistants, providing a seamless and efficient way to access and utilize information. This enables developers to create more effective AI-powered applications, improving user experience and overall performance.
 
-**Practical Adoption Path:**
+**Practical Adoption Path:** 
 
-To adopt genkit, developers can start by evaluating the framework through a small proof of concept and reviewing the README documentation. This will help them understand the framework's capabilities and limitations. Once they have a basic understanding of genkit, they can begin integrating it into their existing applications. With a strong ecosystem and recent activity, genkit is a feasible choice for developers looking to build AI-powered apps.
+To adopt Genkit, developers can start with a small proof of concept, carefully evaluating the framework's feasibility and compatibility with their specific requirements. A thorough review of the README documentation and existing codebase is essential to ensure a smooth integration process. With its recent activity and strong adoption, Genkit offers a stable foundation for building AI-powered applications, making it an attractive choice for developers.
 
-**Production Readiness:**
+**Production Readiness:** 
 
-Genkit has a high production readiness score of 86/100, indicating that it is a mature
+Genkit exhibits high production readiness, boasting recent activity, strong adoption, and a robust ecosystem. With 6,138 GitHub stars and
 
 ### Русский
 
-Резюме:
+Резюме проекта genkit-ai/genkit:
 
-Genkit - это open-source фреймворк для построения приложений с искусственным интеллектом на JavaScript, Go и Python, созданный и используемый в производстве компанией Google. Это мощный инструмент, который позволяет сделать внутреннюю знания поисковыми и доступными для ассистентов. Genkit идеально подходит для индексации баз знаний, улучшения поиска по документам и обеспечения основания для ответов ассистентов. Проект имеет высокий уровень готовности к производству, с большим количеством GitHub-звезд (6137) и активной поддержкой, что делает его достойным вариантом для серьезного пилота.
+Genkit - это открытый фреймворк для создания приложений с искусственным интеллектом на JavaScript, Go и Python, разработанный и используемый в производстве Google. Эта платформа помогает сделать внутренние знания поисковыми и доступными для ассистентов, что может улучшить поиск в документах и предоставить точные ответы. Проект имеет высокий уровень готовности к производству, обусловленный активной деятельностью, широкой адопцией и сильными сигналами экосистемы.
 
 ### 中文
 
-**简短介绍**
+**项目介绍**
 
-genkit-ai/genkit 是一个开源框架，用于在 JavaScript、Go 和 Python 中构建 AI 功能强大的应用。它是 Google 在生产环境中使用和构建的，帮助内部知识变得可搜索和可用的。
+genkit-ai/genkit 是一个开源框架，用于在 JavaScript、Go 和 Python 中构建 AI 功能强大的应用。该项目由 Google 构建和使用，目前已获得 6138 个 GitHub star 和 772 个 fork。
 
 **价值**
 
-genkit-ai/genkit 的价值在于，它可以帮助内部知识变得可搜索和可用，进而使得助手能够更好地回答问题。它还可以用于索引知识库、改善文档搜索、以及为助手提供答案。
+genkit-ai/genkit 帮助企业内部知识库变得可搜索和可使用，提高助手回答的准确性和效率。它适用于以下场景：
+
+* 索引知识库
+* 提高对文档的搜索效率
+* 为助手提供可靠的答案来源
 
 **典型接入方式**
 
-为了接入 genkit-ai/genkit，建议从小范围的验证开始（小的证明概念）并检查 README 文档。虽然整合看起来是可行的，但需要仔细评估。
+接入 genkit-ai/genkit 需要从小规模的 PoC (Proof of Concept) 开始，并检查 README 文档。目前，该项目的生产可用性较高，适合进行严肃的试验。
 
 **生产可用性**
 
-genkit-ai/genkit 的生产可用性非常高，因为它有活跃的维护者、强大的生态系统信号和最近的活动。它适合用于严肃的试验和生产环境。
+生产可用性：高
+原因：近期活跃度、采用率和生态系统信号强大 enough，足以进行严肃的试验。
+
+请注意，仍需要对许可证、安全态势和活跃维护者进行最终审查。
 
 ## 🧭 Practical evaluation
 
@@ -83,8 +90,8 @@ genkit-ai/genkit 的生产可用性非常高，因为它有活跃的维护者、
 
 **Quality signals**
 
-- 6137 GitHub stars
-- 771 forks
+- 6138 GitHub stars
+- 772 forks
 - updated 2026-06-24
 - primary language: TypeScript
 - 8 topics

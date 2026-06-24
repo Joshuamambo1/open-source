@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,35 +29,35 @@ Trading · AI/ML · Frontend · Backend · Database
 
 **Project Summary:**
 
-Quantumlib/Cirq is an open-source Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits. This framework helps research and automate market workflows, enabling users to research trading systems, backtest strategies, and monitor market workflows. With a high production readiness score, Quantumlib/Cirq is suitable for serious pilots.
+Quantumlib/Cirq is an open-source Python framework for creating, editing, and running Noisy Intermediate-Scale Quantum (NISQ) circuits. This project helps research and automate market workflows, enabling users to research trading systems, backtest strategies, and monitor market workflows. With its strong adoption and ecosystem signals, Cirq is production-ready for serious pilots.
 
 **Value Proposition:**
 
-The value proposition of Quantumlib/Cirq lies in its ability to facilitate research and automation of market workflows. By utilizing this framework, users can gain insights into trading systems, backtest strategies, and monitor market workflows, ultimately making more informed decisions.
+The primary value proposition of Quantumlib/Cirq lies in its ability to facilitate research and automation of market workflows. By providing a framework for creating and running NISQ circuits, Cirq enables users to develop and test trading strategies, backtest their performance, and monitor market workflows in a more efficient and effective manner.
 
 **Practical Adoption Path:**
 
-To adopt Quantumlib/Cirq, users can start by exploring the framework's documentation and API/SDK/CLI. They can also leverage the project's GitHub repository to evaluate its recent activity, adoption, and ecosystem signals. With a strong focus on Python, users can integrate the framework into their existing workflow, starting with small-scale pilots and gradually scaling up to larger production environments.
+To adopt Quantumlib/Cirq, users can follow these steps:
 
-**Production Readiness:**
-
-Quantumlib/Cirq has a high production readiness score, indicating that it is suitable for serious pilots. The project's recent activity, adoption, and ecosystem signals are strong, with 4994 GitHub
+1. **Familiarize themselves with the framework**: Start by exploring the Cirq documentation and tutorials to understand its features and capabilities.
+2. **Choose a use case**: Select a specific use case, such as research trading systems or backtesting strategies, and determine how Cirq can help achieve that goal.
+3. **Integrate Cirq with existing tools**: Evaluate how Cirq can be integrated with existing tools and systems, such as databases or APIs, to streamline
 
 ### Русский
 
-Резюме:
+Резюме проекта quantumlib/Cirq:
 
-Quantumlib/Cirq - это открытое исходное ПО, которое предоставляет фреймворк на Python для создания, редактирования и выполнения квантовых схем с помехами (NISQ). Это помогает исследователям автоматизировать торговые потоки и оптимизировать стратегии. Проект готов к серьезной пилотной установке, имея высокий уровень готовности к производству, активную поддержку и сильную экосистему.
+quantumlib/Cirq - это открытый исходный код фреймворк на Python для создания, редактирования и выполнения квантумных схем (NISQ). Этот фреймворк помогает исследователям и автоматизирует рыночные потоки, позволяя исследовать торговые системы, тестировать стратегии и мониторить рыночные потоки. quantumlib/Cirq готов к производственной эксплуатации и имеет высокий уровень готовности (High), подтверждаемый активностью, адопцией и экосистемными сигналами.
 
 ### 中文
 
-**quantumlib/Cirq 简介**
+**项目简介**
 
-quantumlib/Cirq 是一个用于创建、编辑和运行脏中间量子 (Noisy Intermediate-Scale Quantum, NISQ) 电路的 Python 框架。它帮助研究人员和开发人员优化和自动化市场工作流。
+quantumlib/Cirq 是一个用于创建、编辑和运行嘈杂中间规模量子 (Noisy Intermediate-Scale Quantum, NISQ) 圈路的 Python 框架。它帮助研究和自动化市场工作流。
 
 **价值**
 
-quantumlib/Cirq 的价值在于它可以帮助研究人员和开发人员：
+quantumlib/Cirq 的价值在于它可以帮助研究和自动化市场工作流。其用例包括：
 
 * 研究交易系统
 * 回测策略
@@ -65,18 +65,11 @@ quantumlib/Cirq 的价值在于它可以帮助研究人员和开发人员：
 
 **典型接入方式**
 
-quantumlib/Cirq exposing API/SDK/CLI，语言元数据，或者专注于特定主题的信号。因此，它的接入方式看起来很直接。
+该项目提供了 API、SDK 和 CLI 等接口，使得开发者可以方便地接入和使用它。它主要使用 Python 语言，适合于各种后端和数据库集成。
 
 **生产可用性**
 
-quantumlib/Cirq 的生产可用性很高，因为它有：
-
-* 强大的社区支持（4994 GitHub 星星，1233 个分叉）
-* 活跃的维护者
-* 强大的生态系统信号
-* 高的更新频率（最近更新于 2026-06-23）
-
-总的来说，quantumlib/Cirq 是一个强大而可靠的 Python 框架，适合用于研究和开发量子
+quantumlib/Cirq 的生产可用性非常高。其 GitHub 星数达到 4994，fork 数达到 1234，最近更新日期为 2026-06-24。它的主要语言是 Python，支持 20 个主题。虽然它存在一些风险（如许可证、安全态势和活跃维护者），但总体而言，它是一个值得信赖的开源项目。
 
 ## 🧭 Practical evaluation
 
@@ -95,8 +88,8 @@ quantumlib/Cirq 的生产可用性很高，因为它有：
 **Quality signals**
 
 - 4994 GitHub stars
-- 1233 forks
-- updated 2026-06-23
+- 1234 forks
+- updated 2026-06-24
 - primary language: Python
 - 20 topics
 
@@ -120,4 +113,4 @@ quantumlib/Cirq 的生产可用性很高，因为它有：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/quantumlib/Cirq) · [← Back to Trading](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/quantumlib/Cirq) · [← Back to Trading](./README.md)</sub>

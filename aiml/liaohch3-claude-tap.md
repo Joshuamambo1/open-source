@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.9k |
-| 🍴 **Forks** | 200 |
+| ⭐ **Stars** | 2k |
+| 🍴 **Forks** | 201 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,60 +27,54 @@ AI/ML · Backend · DevTools · Observability
 
 ### English
 
-**Summary:** 
-Claude-Tap is an open-source project that intercepts and inspects Coding Agent API traffic from various AI and code-related tools, providing a local trace viewer for developers to prototype AI features, build workflows, and evaluate model tooling.
+**Project Summary:**
 
-**Value Proposition:** 
-The value of Claude-Tap lies in its ability to add AI capability without requiring a blank model stack, making it an attractive option for developers looking to integrate AI features into their projects. This is particularly useful for prototyping, building RAG (Relevant Action Graph) or agent workflows, and evaluating model tooling.
+Claude-Tap is an open-source project that allows developers to intercept and inspect Coding Agent API traffic from various AI tools, providing a local trace viewer for AI capability prototyping and evaluation. This project offers a value proposition of adding AI capabilities without starting from a blank model stack, making it suitable for use cases such as building RAG or agent workflows and evaluating model tooling. With a high production readiness score and a strong ecosystem, Claude-Tap is a promising candidate for a serious pilot.
 
-**Practical Adoption Path:** 
-To adopt Claude-Tap, developers can follow these steps:
+**Value Proposition:**
 
-1. Evaluate the project's implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics.
-2. Review the project's GitHub repository, which has 1939 stars and 200 forks, indicating strong adoption and community support.
-3. Assess the project's production readiness, which is high due to recent activity, strong ecosystem signals, and a primary language of Python.
-4. Conduct a final review of the project's license, security posture, and active maintainers to ensure it meets the project's requirements.
+The value of Claude-Tap lies in its ability to simplify the process of adding AI capabilities to existing applications without requiring a deep understanding of AI model stacks. By providing a local trace viewer for Coding Agent API traffic, developers can prototype AI features, build RAG or agent workflows, and evaluate model tooling in a seamless and efficient manner.
 
-**Production Readiness:** 
-Claude-Tap has strong
+**Practical Adoption Path:**
+
+To adopt Claude-Tap, developers can integrate it into their existing workflows by following these steps:
+
+1. Install the project using the provided instructions.
+2. Configure the project to intercept and inspect Coding Agent API traffic from the desired AI tools.
+3. Use the local trace viewer to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
+
+**Production Read
 
 ### Русский
 
 Резюме проекта liaohch3/claude-tap:
 
-Проект liaohch3/claude-tap позволяет интерceptar и анализировать трафик API Coding Agent с помощью локального просмотрщика, что упрощает добавление функциональности AI без создания новой модели.typical сценарий внедрения — это прототипирование функций AI, создание RAG или агентских потоков, оценка инструментов моделирования. Проект готов к использованию в production, поскольку он имеет высокий уровень готовности, обновления и активных пользователей.
+Проект liaohch3/claude-tap позволяет легко добавлять функциональность AI в существующие проекты, не начиная с нуля. Он позволяет прототипировать функции AI, создавать RAG или агентные потоки, а также оценивать инструменты моделирования. Проект демонстрирует высокий уровень готовности к производственной эксплуатации, с сильными метаданными, активными сообществом и регулярной поддержкой.
 
 ### 中文
 
 **简短介绍**
 
-liaohch3/claude-tap 是一个开源项目，允许在本地追踪 Coding Agent API 流量，支持 Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode 等多个 AI 平台。它为开发者提供了一个观察性工具，帮助评估模型工具和构建 RAG 或代理工作流。
+liaohch3/claude-tap 是一个开源项目，用于拦截和检查 Claude Code、Codex CLI、Gemini CLI、Cursor CLI、OpenCode、Kimi/Kimi Code、Pi 和 Hermes 等编码代理 API 流量的本地跟踪查看器。它使开发者能够快速添加 AI 能力而不需要从头开始构建模型堆栈。
 
 **价值**
 
-liaohch3/claude-tap 帮助开发者在不从零开始构建模型堆栈的情况下添加 AI 能力。它适用于以下场景：
-
-* 原型 AI 特性
-* 构建 RAG 或代理工作流
-* 评估模型工具
+liaohch3/claude-tap 的价值在于，它帮助开发者快速添加 AI 能力， prototyping AI 特性、构建 RAG 或代理工作流、评估模型工具等场景中都有其应用。
 
 **典型接入方式**
 
-liaohch3/claude-tap 支持多种接入方式，包括：
+开发者可以通过以下方式接入liaohch3/claude-tap：
 
-* API/SDK/CLI
-* 语言元数据
-* 焦点主题
+1. 将项目添加到自己的代码库中
+2. 使用 Python 来构建自己的 CLI 或 SDK
+3. 将 liaohch3/claude-tap 与其他工具或服务集成
 
 **生产可用性**
 
-liaohch3/claude-tap 具有高生产可用性，主要原因包括：
+liaohch3/claude-tap 的生产可用性较高，主要原因是：
 
-* 近期活跃度
-* 广泛采用
-* 强大的生态系统信号
-
-同时，需要注意的是，项目的许可、安全
+1. 近期活跃度高
+2. 适度的采用和生态
 
 ## 🧭 Practical evaluation
 
@@ -98,9 +92,9 @@ liaohch3/claude-tap 具有高生产可用性，主要原因包括：
 
 **Quality signals**
 
-- 1939 GitHub stars
-- 200 forks
-- updated 2026-06-23
+- 1960 GitHub stars
+- 201 forks
+- updated 2026-06-24
 - primary language: Python
 - 20 topics
 
@@ -115,7 +109,7 @@ liaohch3/claude-tap 具有高生产可用性，主要原因包括：
 | integration | 78/100 |
 | production | 83/100 |
 | outlook | 92/100 |
-| adoption | 66/100 |
+| adoption | 67/100 |
 | stars | 70/100 |
 | forks | 58/100 |
 | recency | 100/100 |
@@ -124,4 +118,4 @@ liaohch3/claude-tap 具有高生产可用性，主要原因包括：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/liaohch3/claude-tap) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/liaohch3/claude-tap) · [← Back to AI/ML](./README.md)</sub>

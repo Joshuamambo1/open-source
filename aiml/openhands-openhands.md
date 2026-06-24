@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 78.1k |
+| ⭐ **Stars** | 78.2k |
 | 🍴 **Forks** | 9.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
@@ -27,47 +27,41 @@ AI/ML · DevTools
 
 ### English
 
-Here's a brief summary and explanation:
+Here's a brief summary:
 
-**Summary:** OpenHands is an open-source project that enables developers to add AI capabilities to their applications without starting from scratch. It provides a pre-built AI model stack that can be used to prototype AI features, build agent workflows, and evaluate model tooling. With its high production readiness, strong ecosystem signals, and recent activity, OpenHands is suitable for serious pilots.
+OpenHands is an open-source project that enables developers to add AI capabilities to their applications without starting from scratch. It provides a foundation for prototyping AI features, building robust agent workflows, and evaluating model tooling, making it an ideal choice for those looking to integrate AI into their projects. With its high production readiness, strong adoption, and recent activity, OpenHands is a reliable choice for serious pilots and production deployments.
 
-**Value:** The value proposition of OpenHands lies in its ability to accelerate AI development by providing a pre-built model stack. This allows developers to focus on integrating AI capabilities into their applications rather than building the underlying infrastructure. OpenHands can be used to prototype AI features, build complex agent workflows, and evaluate model tooling, making it a versatile tool for developers.
+The value of OpenHands lies in its ability to accelerate AI development by providing a pre-built model stack, allowing developers to focus on higher-level tasks rather than building everything from scratch. The practical adoption path involves evaluating the project's API, SDK, or CLI, and selecting the implementation signals that best suit the project's needs. Once adopted, OpenHands can be integrated into various applications, enabling the development of AI-powered features and workflows.
 
-**Practical Adoption Path:** To adopt OpenHands, developers can follow these steps:
-
-1. Evaluate the project's GitHub repository, including its code, documentation, and community engagement.
-2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
-3. Review the project's license, security posture, and maintainers to ensure they meet your project's requirements.
-4. Integrate OpenHands into your application using its API, SDK, or CLI.
-5. Experiment with OpenHands to prototype
+In terms of production readiness, OpenHands has demonstrated a high level of maturity, with strong adoption, recent activity, and a robust ecosystem. Its 78,158 GitHub stars and 9,937 forks indicate a significant community backing, and its Python primary language ensures a wide range of potential integrations. However, it's essential to conduct a final review of the project's license, security posture, and maintainers
 
 ### Русский
 
 Резюме OpenHands/OpenHands:
 
-OpenHands/OpenHands - это open-source проект, предоставляющий возможность добавить в свои приложения функции искусственного интеллекта без необходимости начинать с нуля. Этот проект идеально подходит для разработчиков, которые хотят быстро протестировать и внедрить AI-функции в своих приложениях, например, для создания прототипов, построения рабочих процессов или оценки инструментов моделирования. OpenHands/OpenHands уже готов к пилотному внедрению, поскольку имеет высокий уровень готовности к production, recent активность, широкую адопцию и сильную экосистему.
+OpenHands/OpenHands - это открытый проект, который позволяет добавить в разработку искусственный интеллект без создания новой модели стека. Это означает, что разработчики могут быстро и легко внедрить AI-функции в свои приложения, используя уже готовые решения. Проект готов к выпуску в production, поскольку имеет высокий уровень активности, адопции и сильные сигналы экосистемы.
 
 ### 中文
 
-OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动的开发工具。它的价值在于能够帮助开发者快速添加 AI 能力，而不需要从头开始构建模型栈。使用 OpenHands/OpenHands，开发者可以轻松实现以下功能：
+**OpenHands/OpenHands 简介**
 
-* 快速 prototyping AI 特性
-* 构建 RAG 或代理工作流
-* 评估模型工具
+OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动开发的解决方案。它的价值在于可以帮助开发者快速添加 AI 能力，而不需要从零开始构建模型堆栈。
 
-典型的接入方式包括：
+**典型接入方式**
 
-* API/SDK：通过 API 或 SDK 接入 OpenHands/OpenHands 的功能
-* CLI：使用命令行工具接入 OpenHands/OpenHands 的功能
-* 语言元数据：使用特定的语言元数据接入 OpenHands/OpenHands 的功能
+OpenHands/OpenHands 支持多种接入方式，包括：
 
-OpenHands/OpenHands 的生产可用性很高，主要原因是：
+* API：通过 API 来接入 OpenHands/OpenHands 的功能和服务。
+* SDK：通过 SDK 来集成 OpenHands/OpenHands 的功能和服务。
+* CLI：通过命令行接口来使用 OpenHands/OpenHands 的功能和服务。
 
-* 最近的活动和采用率很强
-* 生态系统信号很强
-* GitHub 上有大量的星星和 fork 次数（78145 个星星，9937 个 fork）
+**生产可用性**
 
-但是，需要注意的是，OpenHands/OpenHands 的许可协议、安全状态和维护人员仍然需要进一步的审查。
+OpenHands/OpenHands 在生产环境中的可用性非常高，主要原因是：
+
+* 活跃维护：项目最近有活跃的维护和更新。
+* 广泛采用：项目有大量的用户和社区支持。
+* 强大的生态系统：项目有强大的生态系统支持。
 
 ## 🧭 Practical evaluation
 
@@ -85,7 +79,7 @@ OpenHands/OpenHands 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 78145 GitHub stars
+- 78158 GitHub stars
 - 9937 forks
 - updated 2026-06-24
 - primary language: Python

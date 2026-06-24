@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,57 +27,48 @@ Knowledge/RAG · AI/ML · DevTools · Database · Security
 
 ### English
 
-**Project Summary:**
-promptfoo/promptfoo is an open-source tool that enables testing and evaluation of AI prompts, agents, and Retrieval-Augmented Generative Models (RAGs). It facilitates red teaming, pentesting, and vulnerability scanning for AI systems, allowing for comparison of performance across various models, including GPT, Claude, and Gemini. With simple declarative configurations and integration with CI/CD tools, promptfoo/promptfoo helps make internal knowledge searchable and usable by assistants.
+**Summary:** 
+Promptfoo is an open-source project that enables testing and evaluation of prompts, agents, and Retrieval-Augmented Generative (RAG) models for artificial intelligence. It allows for comparison of various AI models, such as GPT, Claude, Gemini, and DeepSeek, and provides a simple declarative configuration for command-line and CI/CD integration. Used by prominent AI companies like OpenAI and Anthropic, promptfoo is a valuable tool for making internal knowledge searchable and usable by assistants.
 
-**Value Proposition:**
-The primary value proposition of promptfoo/promptfoo lies in its ability to improve the performance and reliability of AI assistants by allowing for the indexing and searching of knowledge bases. This enables more accurate and relevant answers, making it an essential tool for organizations seeking to leverage AI for internal knowledge management.
+**Value Proposition:** 
+The primary value proposition of promptfoo lies in its ability to index knowledge bases, improve search over documents, and ground assistant answers. This allows organizations to utilize their internal knowledge more effectively, making it a valuable asset for companies looking to enhance their AI-powered assistant capabilities.
 
-**Practical Adoption Path:**
-To adopt promptfoo/promptfoo, organizations can follow a straightforward path:
+**Practical Adoption Path:** 
+To adopt promptfoo, organizations can start by evaluating its feasibility through a small proof of concept. A thorough review of the README documentation is also recommended to understand the project's configuration and integration requirements. Given its recent activity, adoption, and strong ecosystem signals, promptfoo is considered production-ready, making it an ideal candidate for serious pilots.
 
-1. **Evaluate and test**: Start with a small proof of concept to evaluate the tool's capabilities and potential risks.
-2. **Read and understand the documentation**: Review the project's README and documentation to ensure a clear understanding of its features and configuration.
-3. **Integrate with existing systems**: Connect promptfoo/promptfoo with existing CI/CD tools and knowledge
+**Production Readiness:** 
+Promptfoo exhibits high production readiness, with 22,520 GitHub stars, 2,002
 
 ### Русский
 
 Резюме проекта promptfoo/promptfoo:
 
-Promptfoo/promptfoo - это open-source проект, предназначенный для тестирования и оценки функциональности различных агентов и РАГов (Reasoning and Generation). Он позволяет сравнивать производительность различных платформ, включая GPT, Claude, Gemini и DeepSeek. Этот проект может помочь сделать внутренние знания поисковыми и доступными для ассистентов.
+Promptfoo/promptfoo - это открытый исходный код проект, который позволяет тестировать запросы, агентов и RAGs, а также выполнять красную команду, пентесты и сканирование уязвимостей для искусственного интеллекта. Этот проект особенно полезен для создания поиска по внутренним знаниям и их использования ассистентами. Проект уже используется компаниями OpenAI и Anthropic, а его готовность к производству оценивается на высоком уровне.
 
-Типовой сценарий внедрения: проект может быть использован для индексации баз знаний, улучшения поиска по документам и обеспечения качественных ответов ассистентов.
+Типовой сценарий внедрения проекта включает в себя индексирование баз данных знаний, улучшение поиска по документам и обоснование ответов ассистентов. Для интеграции проекта с существующей инфраструктурой рекомендуется начать с небольшого эксперимента и проверки README.
 
-Проект имеет высокий уровень готовности к production, что обусловлено его активностью, широкой адопцией и сильными сигналами экосистемы. Однако перед внедрением необходимо провести тщательный отбор лицензии, оценить безопасность и проверить активность разработчиков.
+Проект promptfoo/promptfoo демонстрирует высокую готовность к производству, обусловленную recent активностью, широкой адопцией и сильными сигналами экосистемы.
 
 ### 中文
 
 **简短介绍**
 
-promptfoo/promptfoo 是一个用于测试提示、智能助手和知识图谱的开源项目。它提供了一个简单的配置文件，支持命令行和 CI/CD 集成，用于评估 GPT、Claude、Gemini 等 AI 模型的性能。该项目已被 OpenAI 和 Anthropic 采用。
+promptfoo/promptfoo 是一个开源项目，用于测试提示、代理和 RAG（Retrieve-Augment-Generate）模型的性能。它提供了一个简单的声明性配置系统，支持命令行和 CI/CD 整合。该项目已被 OpenAI 和 Anthropic 采用。
 
 **价值**
 
-promptfoo/promptfoo 帮助内部知识库变得可搜索和可使用，改善智能助手的回答质量。它可以用于：
+promptfoo/promptfoo 帮助内部知识库变得可搜索和可用给助手使用。它的价值在于：
 
-* 索引知识库
-* 提高对文档的搜索能力
-* 为智能助手提供可靠的答案
+* 索引知识库：通过使用 RAG 模型，promptfoo/promptfoo 可以帮助索引内部知识库，从而使得助手可以更好地回答用户的问题。
+* 提高搜索精度：promptfoo/promptfoo 可以帮助改善对文档的搜索，减少不必要的信息。
+* 提供可靠的答案：通过 ground assistant answers，promptfoo/promptfoo 可以帮助确保助手的答案是可靠的和准确的。
 
 **典型接入方式**
 
-1. 阅读 README 文档并进行小规模的 PoC (Proof of Concept) 验证
-2. 检查项目的 GitHub star、fork 数和更新时间等信号
-3. 评估项目的安全 posture 和许可证
+promptfoo/promptfoo 主要通过以下方式接入：
 
-**生产可用性**
-
-promptfoo/promptfoo 的生产可用性很高，因为它有以下优势：
-
-* 近期活跃
-* 强大的采用度
-* 强大的生态系统信号
-* 高质量的 GitHub star 和
+* 命令行接入：通过命令行界面，可以轻松地配置和测试 RAG 模型。
+* CI/CD 接
 
 ## 🧭 Practical evaluation
 
@@ -95,9 +86,9 @@ promptfoo/promptfoo 的生产可用性很高，因为它有以下优势：
 
 **Quality signals**
 
-- 22493 GitHub stars
+- 22520 GitHub stars
 - 2002 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: TypeScript
 - 18 topics
 
@@ -121,4 +112,4 @@ promptfoo/promptfoo 的生产可用性很高，因为它有以下优势：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/promptfoo/promptfoo) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/promptfoo/promptfoo) · [← Back to Knowledgerag](./README.md)</sub>

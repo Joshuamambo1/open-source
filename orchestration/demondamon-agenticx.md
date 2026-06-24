@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
+| ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 26 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
@@ -27,42 +27,40 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Summary:** AgenticX is an open-source, production-ready multi-agent platform that enables the creation of repeatable agent workflows by orchestrating isolated prompts and tools. With its unified architecture and extensive features, AgenticX simplifies the process of automating tasks, standardizing agent memory, and integrating various tools and services.
+Here's a brief summary of the DemonDamon/AgenticX project:
 
-**Value Proposition:** The primary value of AgenticX lies in its ability to streamline complex workflows and automate repetitive tasks by integrating various tools, services, and Large Language Models (LLMs). This enables organizations to increase productivity, reduce manual labor, and enhance overall efficiency.
+AgenticX is an open-source, production-ready multi-agent platform that enables users to orchestrate workflows, integrate various tools, and standardize agent memory, making it easier to turn isolated prompts and tools into repeatable agent workflows. This platform offers a unified solution with a Python SDK, CLI, Studio server, and Machi desktop app, providing features such as Meta-Agent orchestration, LLM providers, and safety sandbox. With its high production readiness and strong ecosystem signals, AgenticX is suitable for serious pilots and adoption.
+
+**Value Proposition:**
+The value proposition of AgenticX lies in its ability to facilitate the creation of repeatable agent workflows by integrating various tools and standardizing agent memory. This enables users to coordinate multi-agent workflows, add tool-use pipelines, and streamline their processes.
 
 **Practical Adoption Path:**
-
-1. **Evaluation**: Evaluate AgenticX by reviewing its documentation, exploring its features, and assessing its compatibility with existing tools and services.
-2. **Pilot Project**: Choose a specific use case or workflow to pilot AgenticX, focusing on its core features and benefits.
-3. **Integration**: Integrate AgenticX with existing tools and services, starting with a minimal viable product (MVP) and gradually expanding its capabilities.
-4. **Scaling**: Once the initial pilot is successful, scale AgenticX to accommodate more users, workflows, and services, ensuring a smooth and seamless experience.
-
-**Production Readiness:** AgenticX demonstrates high production readiness due
+To adopt AgenticX, users can start by evaluating its features and implementation signals, such as its API, SDK, CLI, and language metadata. The platform's straightforward integration process and strong ecosystem signals make it an attractive option for users looking to integrate multiple tools and agents. Once adopted, users can leverage AgenticX's features to standardize agent memory, add tool-use pipelines,
 
 ### Русский
 
 Резюме проекта DemonDamon/AgenticX:
 
-AgenticX — это унифицированная, готовая к использованию платформа для управления многоагентными системами, которая позволяет объединять изолированные команды и инструменты в повторяемые агентные потоки. Внедрение AgenticX может включать в себя координацию многоагентных потоков, добавление пайплайнов использования инструментов и стандартизацию агентной памяти. Платформа имеет высокий уровень готовности к production, подтвержденный активностью, принятием и экосистемными сигналами.
+AgenticX — это унифицированная, готовая к производству платформа мульти-агентов, которая позволяет объединять изолированные команды и инструменты в повторяющиеся агентные потоки. Благодаря ей можно координировать мульти-агентные потоки, добавлять пайплайны использования инструментов и стандартизировать агентную память. Платформа готова к производству (High) и обладает сильными признаками активности, адопции и экосистемных сигналов, что делает ее подходящей для серьезного пилотного проекта.
 
 ### 中文
 
 **简短介绍**
 
-DemonDamon/AgenticX 是一个功能齐全的多智能体平台，它提供了 Python SDK、CLI（agx）、Studio 服务器和Machi 桌面应用等功能。它支持元智能体编排、15+ 语言模型供应商、MCP Hub、层次化记忆、虚拟人和群组聊天、技能生态系统、安全沙盒和即时通讯网关（Feishu/WeChat）。
+DemonDamon/AgenticX 是一个统一的、生产就绪的多智能体平台，提供 Python SDK、CLI、Studio 服务器和Machi 桌面应用。它支持元智能体编排、15+ LLM 提供商、MCP 门户、层次结构内存、头像和群聊、技能生态系统、安全沙盒和 IM 网关等功能。
 
 **价值**
 
-DemonDamon/AgenticX 帮助将孤立的提示和工具转化为可重复的智能体工作流程。它可以协调多智能体工作流程、添加工具使用管道和标准化智能体记忆。
+DemonDamon/AgenticX 帮助将孤立的提示和工具转化为可重复执行的智能体工作流程。它可以协调多智能体工作流程、添加工具使用管道和标准化智能体内存。
 
 **典型接入方式**
 
-DemonDamon/AgenticX 提供了 API/SDK/CLI 等接入方式，用户可以根据自己的需求选择合适的接入方式。
+DemonDamon/AgenticX 提供了多种接入方式，包括：
 
-**生产可用性**
-
-DemonDamon/AgenticX 在生产环境下的可用性较高，最近有活跃的维护和采用，它的生态信号也强大到足以进行严肃的试验。
+* Python SDK：提供了 Python 语言的 API 接口，方便开发者编写智能体应用。
+* CLI：提供了命令行接口，方便开发者管理和操作智能体。
+* Studio 服务器：提供了一个 Web 服务器，方便开发者管理和操作智能体。
+* Machi 桌面应用：提供了一个桌面应用，方便
 
 ## 🧭 Practical evaluation
 
@@ -80,7 +78,7 @@ DemonDamon/AgenticX 在生产环境下的可用性较高，最近有活跃的维
 
 **Quality signals**
 
-- 163 GitHub stars
+- 164 GitHub stars
 - 26 forks
 - updated 2026-06-24
 - primary language: Python

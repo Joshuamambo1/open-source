@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41.4k |
+| ⭐ **Stars** | 41.5k |
 | 🍴 **Forks** | 6.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,62 +27,63 @@ Orchestration · MCP · Automation · AI/ML · DevTools
 
 ### English
 
-**Project Summary:** 
-The open-source project "sickn33/antigravity-awesome-skills" is a comprehensive library of over 1,600 agentic skills for various tools, including Claude Code, Cursor, Codex CLI, Gemini CLI, and Antigravity. This library simplifies the process of creating repeatable workflows by integrating specialized plugins, installer CLI, bundles, and workflows. With a high production readiness score, it is suitable for serious pilots.
+**Project Summary:**
 
-**Value Proposition:** 
-The primary value proposition of this project is its ability to transform isolated prompts and tools into repeatable agent workflows. By providing a wide range of agentic skills, it enables users to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory.
+The open-source project "sickn33/antigravity-awesome-skills" offers a comprehensive library of over 1,600 agentic skills for various AI tools, including Claude Code, Cursor, and Antigravity. This library enables users to create repeatable agent workflows, standardize agent memory, and integrate multiple tools into pipelines. With its high production readiness and strong ecosystem signals, this project is poised for serious adoption and pilot implementation.
 
-**Practical Adoption Path:** 
-To adopt this project, users can start by:
+**Value Proposition:**
 
-1. Reviewing the library's documentation and API/SDK/CLI implementation.
-2. Evaluating the language metadata and focused topics to determine compatibility with their existing tools and workflows.
-3. Integrating the specialized plugins, installer CLI, bundles, and workflows into their current setup.
-4. Testing and refining the workflows to suit their specific needs.
+The project's value lies in its ability to transform isolated prompts and tools into cohesive workflows, streamlining the process of agent coordination and tool integration. This enables users to automate tasks, standardize agent memory, and create repeatable and scalable pipelines.
 
-**Production Readiness:** 
-The project has a high production readiness score due to its recent activity, adoption,
+**Practical Adoption Path:**
+
+To adopt this project, users can start by exploring the library of agentic skills and selecting the tools and workflows that best fit their needs. The project's installer CLI and bundles make it easy to integrate the skills into existing workflows. Users can then experiment with different combinations of skills and tools to create customized pipelines and workflows.
+
+**Production Readiness:**
+
+The project exhibits high production readiness due to its recent activity, strong adoption, and robust ecosystem signals. With over 41,000 GitHub stars and 6,600 forks
 
 ### Русский
 
-Резюме проекта sickn33/antigravity-awesome-skills:
+Резюме проекта:
 
-Проект sickn33/antigravity-awesome-skills представляет собой открытое библиотеку, содержащую более 1,600 агентских навыков для различных платформ, включая Claude Code, Cursor, Codex CLI и другие. Он позволяет координировать многоагентные потоки работы, добавлять функции использования инструментов и стандартизировать агентное память.
+"Antigravity-Awesome-Skills" - это открытый исходный проект, который предоставляет библиотеку агентских навыков для различных инструментов, таких как Claude Code, Cursor, Codex CLI и другие. Он включает в себя специализированные плагины, инсталлятор CLI, наборы, рабочие процессы и официальные/общинные коллекции навыков.
 
-Проект предназначен для внедрения в среде DevOps и AI/МЛ, где требуется автоматизация и оркестрация различных агентских навыков. Типовой сценарий внедрения включает создание повторяемых агентных потоков, которые могут выполнять комплексные задачи.
+Проект предназначен для облегчения создания повторяющихся агентных рабочих процессов, объединяя изолированные команды и инструменты. Типовая сценария внедрения - это координация многоагентных рабочих процессов, добавление потоков использования инструментов и стандартизация агентной памяти.
 
-Проект готов к производству на высоком уровне (High), поскольку в нём наблюдается recent activity, adoption и сильные сигналы экосистемы. Однако требуются дополнительные проверки по вопросам лицензирования, безопасности и активности поддерживающих разработчиков.
+Проект демонстрирует высокий уровень готовности к производству, с большим количеством GitHub-звезд (41523) и активной поддержкой (обновлено 24 июня 2026 года). Однако требует дальнейшего обзора по вопросам лицензии, безопасности и активных поддерживающих разработчиков.
 
 ### 中文
 
 **项目简介**
 
-sickn33/antigravity-awesome-skills 是一个开源项目，提供了 1,600 多个可安装的 GitHub 库，支持 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等多个工具。它包括专门的插件、安装 CLI、捆绑包、工作流程和官方/社区技能集合。
+sickn33/antigravity-awesome-skills 是一个开源项目，提供了 1,600+ 个可安装的技能包，支持 Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravity 等工具。它还包括专门的插件、安装器 CLI、包、工作流和官方/社区技能集合。
 
 **价值**
 
-sickn33/antigravity-awesome-skills 帮助将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多代理工作流程、添加工具使用管道和标准化代理记忆。
+该项目的价值在于，它可以帮助将孤立的提示和工具转化为可重复的代理工作流。它可以协调多代理工作流、添加工具使用流水线和标准化代理内存。
 
-**接入方式**
+**典型接入方式**
 
-该项目提供了以下接入方式：
+该项目支持多种接入方式，包括：
 
-* API/SDK/CLI 等接口
+* 终端命令（CLI）
+* API/SDK
 * 语言元数据
-* 专注于特定主题的接口
+* 专门的插件
 
 **生产可用性**
 
-该项目的生产可用性评分为高（97/100），主要原因是：
+该项目的生产可用性很高，主要原因是：
+* 近期活跃
+* 适用性
+* 生态系统信号强大
+* 41523 GitHub 星星
+* 6666 forks
+* 最近更新于 2026-06-24
+* 主要语言：Python
 
-* 最近的活动和采用度强
-* 强大的生态系统信号
-* 优质的代码质量信号（41436 GitHub star、6653 fork 等）
-
-**风险**
-
-虽然该项目没有发现重大
+但是，仍然需要进一步的审
 
 ## 🧭 Practical evaluation
 
@@ -100,9 +101,9 @@ sickn33/antigravity-awesome-skills 帮助将孤立的提示和工具转换为可
 
 **Quality signals**
 
-- 41436 GitHub stars
-- 6653 forks
-- updated 2026-06-23
+- 41523 GitHub stars
+- 6666 forks
+- updated 2026-06-24
 - primary language: Python
 - 20 topics
 
@@ -126,4 +127,4 @@ sickn33/antigravity-awesome-skills 帮助将孤立的提示和工具转换为可
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/sickn33/antigravity-awesome-skills) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/sickn33/antigravity-awesome-skills) · [← Back to Orchestration](./README.md)</sub>

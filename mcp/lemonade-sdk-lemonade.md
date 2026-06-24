@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 359 |
+| 🍴 **Forks** | 360 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,41 +27,53 @@ MCP · AI/ML · Backend
 
 ### English
 
-Here's a brief summary of the Lemonade project:
+**Project Summary:**
 
-Lemonade is an open-source project that enables users to discover and run local AI applications by optimizing Large Language Models (LLMs) on their own GPUs and NPUs. This platform helps connect AI assistants to real tools and data through a standard protocol, making it easier to integrate AI agents with various tools and data sources. With a strong adoption rate and recent activity, Lemonade is production-ready for serious pilots, offering a high-value proposition for developers and organizations looking to leverage AI capabilities.
+Lemonade is an open-source project that enables users to discover and run local AI applications by serving optimized Large Language Models (LLMs) directly from their own GPUs and NPUs. This standard protocol helps connect AI assistants to real tools and data, facilitating seamless integrations and standardizing interactions. With its recent activity, strong adoption, and robust ecosystem, Lemonade is highly production-ready for serious pilots.
 
-As for the practical adoption path, Lemonade provides a straightforward evaluation process, exposing implementation signals such as API/SDK/CLI, language metadata, and focused topics. This makes it easier for developers to assess and integrate Lemonade into their existing workflows. The platform's standard protocol and open-source nature also facilitate collaboration and innovation within the AI community.
+**Value Proposition:**
 
-Regarding production readiness, Lemonade has demonstrated strong ecosystem signals, including recent activity, adoption, and a large user base (4595 GitHub stars and 359 forks). The project's primary language, C++, and 19 topics indicate a well-structured and maintainable codebase. However, as with any open-source project, it's essential to conduct a final review of the license, security posture, and active
+The value of Lemonade lies in its ability to bridge the gap between AI assistants and real-world tools and data, making it easier to integrate AI agents with various applications. This standard protocol ensures consistency and ease of use, enabling developers to focus on building innovative applications rather than worrying about complex integrations.
+
+**Practical Adoption Path:**
+
+To adopt Lemonade, developers can start by evaluating its API, SDK, and CLI implementations, as well as its language metadata and focused topics. The project provides a straightforward integration process, making it accessible to a wide range of developers. Once integrated, developers can leverage Lemonade's optimized LLMs to power their AI applications, connecting them to real tools and data.
+
+**Production Readiness:**
+
+Lemonade's production readiness is high, thanks to its recent activity, strong adoption, and robust ecosystem signals
 
 ### Русский
 
-Резюме:
+Резюме проекта lemonade-sdk/lemonade:
 
-Лемонейд (Lemonade) - открытый источник проект, который позволяет пользователям обнаруживать и запускать локальные приложения AI, оптимизируя LLMs прямо на их собственных GPU и NPU. Этот проект помогает связать AI-ассистентов с реальными инструментами и данными через стандартную протокол. Проект в высокой готовности для использования в production, с ежемесячной активностью, адопцией и сильным экосистемным сигналом.
+Лемонейд (Lemonade) - это открытый источник проект, который позволяет пользователям обнаруживать и запускать локальные приложения АИ, используя оптимизированные LLM прямо на их собственных GPU и NPU. 
+
+Проект предлагает стандартный протокол для подключения АИ-ассистентов к реальным инструментам и данным. Типовой сценарий внедрения - это подключение АИ-агентов к инструментам, развертывание серверов по протоколу Model Context Protocol и стандартизация интеграций. 
+
+Проект демонстрирует высокий уровень готовности к production, с последней активностью в 2026 году, сильной адопцией и экосистемными сигналами.
 
 ### 中文
 
-**Lemonade SDK简介**
+**简短介绍**
 
-Lemonade SDK（lemonade-sdk/lemonade）是一款开源项目，帮助用户发现和运行本地 AI 应用程序，通过优化 LLMs 直接在本地 GPU 和 NPU 上运行。它通过提供一个标准协议，连接 AI 代理到实用工具和数据。
+Lemonade 是一个开源项目，旨在帮助用户发现和运行本地 AI 应用程序。它通过将优化的 LLM 直接部署在用户自己的 GPU 和 NPU 上，提供了一个高效的 AI 应用程序执行环境。
 
 **价值**
 
-Lemonade SDK 的价值在于，它帮助连接 AI 代理到实用工具和数据，通过标准协议实现这一点。它使得 AI 应用程序能够与其他系统和工具进行高效的集成。
+Lemonade 的价值在于，它帮助连接 AI 助手与真实的工具和数据，通过标准协议实现这一点。它使得 AI 代理能够与各种工具和数据源进行集成，提高 AI 应用程序的实用性和可用性。
 
 **典型接入方式**
 
-典型的接入方式包括：
+Lemonade 提供了多种接入方式，包括：
 
-* 连接 AI 代理到工具：通过 Lemonade SDK，AI 代理可以连接到实用工具，例如数据分析工具或机器学习库。
-* 部署 Model Context Protocol 服务器：Lemonade SDK 提供了部署 Model Context Protocol 服务器的能力，这使得 AI 应用程序能够与其他系统进行通信。
-* 标准化集成：Lemonade SDK 提供了一个标准化的接入协议，简化了 AI 应用程序与其他系统的集成。
+* 连接 AI 代理到工具：通过 Lemonade SDK，可以轻松连接 AI 代理到各种工具和数据源。
+* 部署 Model Context Protocol 服务器：Lemonade 支持部署 Model Context Protocol 服务器，方便 AI 代理与其他系统进行通信。
+* 标准化集成：Lemonade 提供了一套标准化的接口，方便开发者集成 AI 代理到各种系统中。
 
 **生产可用性**
 
-Lemonade
+Lemonade 的生产可用性非常高，因为它具有
 
 ## 🧭 Practical evaluation
 
@@ -79,9 +91,9 @@ Lemonade
 
 **Quality signals**
 
-- 4595 GitHub stars
-- 359 forks
-- updated 2026-06-23
+- 4606 GitHub stars
+- 360 forks
+- updated 2026-06-24
 - primary language: C++
 - 19 topics
 
@@ -105,4 +117,4 @@ Lemonade
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>

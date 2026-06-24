@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,40 +27,47 @@ AI/ML · DevTools
 
 ### English
 
-Here's a brief summary of the OpenHands project:
+Here's a brief summary and explanation:
 
-OpenHands is an open-source AI-driven development project that enables users to add AI capabilities without starting from scratch. It offers a practical adoption path for prototype AI features, building RAG or agent workflows, and evaluating model tooling, making it suitable for a wide range of use cases. With high production readiness, recent activity, and a strong ecosystem, OpenHands is a viable candidate for serious pilots, backed by a large community with over 78,000 GitHub stars.
+**Summary:** OpenHands is an open-source project that enables developers to add AI capabilities to their applications without starting from scratch. It provides a pre-built AI model stack that can be used to prototype AI features, build agent workflows, and evaluate model tooling. With its high production readiness, strong ecosystem signals, and recent activity, OpenHands is suitable for serious pilots.
+
+**Value:** The value proposition of OpenHands lies in its ability to accelerate AI development by providing a pre-built model stack. This allows developers to focus on integrating AI capabilities into their applications rather than building the underlying infrastructure. OpenHands can be used to prototype AI features, build complex agent workflows, and evaluate model tooling, making it a versatile tool for developers.
+
+**Practical Adoption Path:** To adopt OpenHands, developers can follow these steps:
+
+1. Evaluate the project's GitHub repository, including its code, documentation, and community engagement.
+2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
+3. Review the project's license, security posture, and maintainers to ensure they meet your project's requirements.
+4. Integrate OpenHands into your application using its API, SDK, or CLI.
+5. Experiment with OpenHands to prototype
 
 ### Русский
 
 Резюме OpenHands/OpenHands:
 
-OpenHands/OpenHands - открытый проект, который позволяет добавлять возможности искусственного интеллекта без создания новой модели стека. Он подходит для создания прототипов AI-признаков, построения рабочих процессов RAG или агентских потоков, а также оценки инструментов моделирования. Проект готов к пилотному использованию, поскольку имеет высокий уровень готовности к production (High) и сильные признаки активности, учета и экосистемы.
+OpenHands/OpenHands - это open-source проект, предоставляющий возможность добавить в свои приложения функции искусственного интеллекта без необходимости начинать с нуля. Этот проект идеально подходит для разработчиков, которые хотят быстро протестировать и внедрить AI-функции в своих приложениях, например, для создания прототипов, построения рабочих процессов или оценки инструментов моделирования. OpenHands/OpenHands уже готов к пилотному внедрению, поскольку имеет высокий уровень готовности к production, recent активность, широкую адопцию и сильную экосистему.
 
 ### 中文
 
-**OpenHands/OpenHands 简介**
+OpenHands/OpenHands 是一个开源项目，提供了 AI 驱动的开发工具。它的价值在于能够帮助开发者快速添加 AI 能力，而不需要从头开始构建模型栈。使用 OpenHands/OpenHands，开发者可以轻松实现以下功能：
 
-OpenHands/OpenHands 是一个基于 AI 的开源开发工具，帮助开发者快速添加 AI 能力而无需从零开始构建模型堆栈。它支持多种用例，包括快速试验 AI 特性、构建 RAG 或代理工作流、评估模型工具。
+* 快速 prototyping AI 特性
+* 构建 RAG 或代理工作流
+* 评估模型工具
 
-**价值**
+典型的接入方式包括：
 
-OpenHands/OpenHands 的价值在于它提供了一个易于接入的 AI 能力，帮助开发者快速构建 AI 相关功能。它还支持多种用例和接入方式，包括 API、SDK、CLI 等。
+* API/SDK：通过 API 或 SDK 接入 OpenHands/OpenHands 的功能
+* CLI：使用命令行工具接入 OpenHands/OpenHands 的功能
+* 语言元数据：使用特定的语言元数据接入 OpenHands/OpenHands 的功能
 
-**典型接入方式**
+OpenHands/OpenHands 的生产可用性很高，主要原因是：
 
-OpenHands/OpenHands 支持多种接入方式，包括：
+* 最近的活动和采用率很强
+* 生态系统信号很强
+* GitHub 上有大量的星星和 fork 次数（78145 个星星，9937 个 fork）
 
-* API：通过 API 接口调用 OpenHands/OpenHands 的功能。
-* SDK：通过 SDK 库集成 OpenHands/OpenHands 的功能。
-* CLI：通过命令行接口使用 OpenHands/OpenHands 的功能。
-
-**生产可用性**
-
-OpenHands/OpenHands 具有高生产可用性，主要原因包括：
-
-* 近期活动：OpenHands/OpenHands 项目有活跃的维护社区。
-* 适度：OpenHands/OpenHands 已经有较多的采用和生态系统信
+但是，需要注意的是，OpenHands/OpenHands 的许可协议、安全状态和维护人员仍然需要进一步的审查。
 
 ## 🧭 Practical evaluation
 
@@ -78,9 +85,9 @@ OpenHands/OpenHands 具有高生产可用性，主要原因包括：
 
 **Quality signals**
 
-- 78128 GitHub stars
-- 9934 forks
-- updated 2026-06-23
+- 78145 GitHub stars
+- 9937 forks
+- updated 2026-06-24
 - primary language: Python
 - 9 topics
 
@@ -104,4 +111,4 @@ OpenHands/OpenHands 具有高生产可用性，主要原因包括：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/OpenHands/OpenHands) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/OpenHands/OpenHands) · [← Back to AI/ML](./README.md)</sub>

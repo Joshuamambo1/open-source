@@ -18,11 +18,11 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 57 | [Browse →](./aiml/) |
 | 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
 | 📊 **Data** | 9 | [Browse →](./data/) |
 | ⚙️ **Backend** | 9 | [Browse →](./backend/) |
 | 📱 **Mobile** | 7 | [Browse →](./mobile/) |
@@ -39,15 +39,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.8k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 48.4k | Orchestration |
+| 2 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
 | 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.3k | Orchestration |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.8k | Mcp |
-| 5 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 142.8k | Mcp |
-| 6 | [kreuzberg-dev/kreuzberg](./mcp/kreuzberg-dev-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 7 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.7k | Orchestration |
-| 8 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 3.9k | Mcp |
-| 9 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 4 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 142.8k | Mcp |
+| 5 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
+| 6 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.3k | Orchestration |
+| 7 | [davepoon/buildwithclaude](./mcp/davepoon-buildwithclaude.md) | ⭐ 3.1k | Mcp |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 10 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 18.3k | AI/ML |
 
 ## 🚀 How it works
 

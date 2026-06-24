@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [appsmithorg/appsmith](./appsmithorg-appsmith.md) | ⭐ 40.1k | TypeScript | 90/100 |
-| 2 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.1k | Go | 87/100 |
+| 1 | [PipedreamHQ/pipedream](./pipedreamhq-pipedream.md) | ⭐ 11.5k | JavaScript | 96/100 |
+| 2 | [airbytehq/airbyte](./airbytehq-airbyte.md) | ⭐ 21.5k | Python | 89/100 |
 | 3 | [Skyvern-AI/skyvern](./skyvern-ai-skyvern.md) | ⭐ 22k | Python | 86/100 |
 
 ---

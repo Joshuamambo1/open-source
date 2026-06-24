@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,55 +27,49 @@ Automation · Backend · DevTools · Data · Database
 
 ### English
 
-**Project Summary**
+**Project Summary:**
 
-Pipedream is an open-source automation tool that enables developers to connect APIs quickly and efficiently, free of charge. It helps streamline workflows by removing repetitive manual operations, allowing users to connect tools into repeatable flows and schedule operational tasks. With its robust ecosystem and recent activity, Pipedream is considered production-ready for serious pilots.
+Pipedream is an open-source automation platform that enables developers to connect APIs quickly and efficiently, free of charge. It streamlines workflows by removing repetitive manual operations, allowing users to connect tools into repeatable flows and schedule operational tasks. With its high production readiness and strong adoption, Pipedream is an attractive choice for developers looking to automate their workflows.
 
-**Value Proposition**
+**Value:**
 
-The value of Pipedream lies in its ability to automate manual operations, freeing developers from tedious tasks and allowing them to focus on more complex and high-value work. By connecting APIs and tools into repeatable flows, users can create efficient workflows that save time and increase productivity.
+Pipedream's primary value proposition lies in its ability to automate repetitive tasks, saving developers time and effort. By connecting APIs, users can create workflows that run automatically, eliminating the need for manual intervention. This automation enables developers to focus on higher-level tasks, increasing productivity and efficiency.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-To adopt Pipedream, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once familiar with the tool, users can begin connecting their APIs and tools into repeatable flows, and schedule operational tasks. As users become more comfortable with Pipedream, they can explore its features and integrations to further automate their workflows.
+Adopting Pipedream is a relatively straightforward process. Users can start by evaluating the platform's API/SDK/CLI, language metadata, and focused topics. Once familiar with the platform, developers can begin creating workflows by connecting APIs and scheduling operational tasks. The platform's user-friendly interface and extensive documentation make it easy to get started, even for developers without extensive automation experience.
 
-**Production Readiness**
+**Production Readiness:**
 
-Pipedream has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With over 11,000 GitHub stars and 5,700 forks, Pipedream has a
+Pipedream's high production readiness is evident in its recent activity, strong adoption, and robust ecosystem signals. With over 11,000 GitHub stars and 5,
 
 ### Русский
 
 Резюме проекта PipedreamHQ/pipedream:
 
-Проект PipedreamHQ/pipedream представляет собой инструмент для автоматизации API-интерфейсов, позволяющий разработчикам избавиться от повторяющихся ручных операций в потоках работы. Это бесплатное решение, которое может быть использовано для удаления ручного труда, соединения инструментов в повторяющиеся потоки и планирования операционных задач. Проект готов к использованию в продакшен-окружении (Production readiness: High), что делает его привлекательным вариантом дляserious pilot.
+ПipedreamHQ/pipedream - это бесплатный для разработчиков проект, позволяющий автоматизировать связь между API, что заметно ускоряет workflow. Проект особенно полезен для удаления повторяющихся ручных операций из процесса, что позволяет разработчикам сосредоточиться на более сложных задачах. Проект готов к production и имеет высокий уровень готовности, подтвержденный активностью, внедрениями и сильной экосистемой.
 
 ### 中文
 
-**简短介绍**
+**PipedreamHQ/pipedream 简介**
 
-PipedreamHQ/pipedream 是一个开源项目，帮助开发者快速连接 API，免费使用。它可以自动化重复的任务，提高工作效率。
+PipedreamHQ/pipedream 是一个强大的开源项目，帮助开发者快速连接 API 并自动化重复任务。它提供了一个易于使用的平台，让开发者可以轻松构建可重复的流程和调度操作性任务。
 
 **价值**
 
-PipedreamHQ/pipedream 的价值在于，它可以帮助开发者移除工作流中重复的手动操作，提高生产力。它可以连接工具，建立可重复的流程，自动化运营任务。
+PipedreamHQ/pipedream 的主要价值在于帮助开发者移除工作流中重复的手动操作，提高效率和生产力。它可以连接工具和服务，创建可重复的流程，减少人工干预。
 
 **典型接入方式**
 
-PipedreamHQ/pipedream 支持多种接入方式，包括：
+PipedreamHQ/pipedream 提供了多种接入方式，包括：
 
-* API：通过 API 可以连接到 PipedreamHQ/pipedream，建立流程。
-* SDK：通过 SDK 可以在代码中使用 PipedreamHQ/pipedream 的功能。
-* CLI：通过 CLI 可以在命令行中使用 PipedreamHQ/pipedream 的功能。
+* API：通过 API 可以连接各种服务和工具
+* SDK：提供 SDK 让开发者可以在自己的应用中集成 PipedreamHQ/pipedream
+* CLI：提供命令行接口让开发者可以轻松管理流程和任务
 
 **生产可用性**
 
-PipedreamHQ/pipedream 的生产可用性很高，具有以下特点：
-
-* 有活跃的社区和维护者。
-* 有强大的生态系统支持。
-* 有较好的质量信号，例如 GitHub 的星星数和 fork 数。
-
-总之，PipedreamHQ/pipedream 是
+PipedreamHQ/pipedream 的生产可用性非常高。它拥有强大的社区支持，近 12 万的 GitHub 星，5705 个分支，最近的更新时间为 202
 
 ## 🧭 Practical evaluation
 
@@ -93,9 +87,9 @@ PipedreamHQ/pipedream 的生产可用性很高，具有以下特点：
 
 **Quality signals**
 
-- 11495 GitHub stars
+- 11496 GitHub stars
 - 5705 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: JavaScript
 - 19 topics
 
@@ -119,4 +113,4 @@ PipedreamHQ/pipedream 的生产可用性很高，具有以下特点：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Automation](./README.md)</sub>

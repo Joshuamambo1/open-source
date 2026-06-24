@@ -2,7 +2,7 @@
 
 > Blockchain, Web3, DeFi, wallets, smart contracts
 
-**377 projects** in this category.
+**378 projects** in this category.
 
 ## Projects
 
@@ -62,9 +62,9 @@
 | 52 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 939 | Python | 72/100 |
 | 53 | [rust-nostr/nostr](./rust-nostr-nostr.md) | ⭐ 627 | Rust | 72/100 |
 | 54 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 137 | Shell | 72/100 |
-| 55 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 55 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
 | 56 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
-| 57 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
+| 57 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
 | 58 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 59 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
 | 60 | [besoeasy/yantr](./besoeasy-yantr.md) | ⭐ 127 | Vue | 71/100 |
@@ -106,8 +106,8 @@
 | 96 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 97 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 98 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 99 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
-| 100 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 99 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 100 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
 | 101 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 102 | [eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework](./eu-digital-identity-wallet-eudi-doc-architecture-and-reference-framework.md) | ⭐ 723 | Python | 66/100 |
 | 103 | [otter-sec/anchor](./otter-sec-anchor.md) | ⭐ 5.1k | Rust | 66/100 |
@@ -381,10 +381,11 @@
 | 371 | [worldcoin/world-chain](./worldcoin-world-chain.md) | ⭐ 108 | Rust | 43/100 |
 | 372 | [RustCrypto/SSH](./rustcrypto-ssh.md) | ⭐ 225 | Rust | 43/100 |
 | 373 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 42/100 |
-| 374 | [erabytse/CryptoLogin](./erabytse-cryptologin.md) | ⭐ — | — | 41/100 |
-| 375 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 41/100 |
-| 376 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
-| 377 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
+| 374 | [Les-Senters/ZKP-Vault-](./les-senters-zkp-vault-.md) | ⭐ — | — | 41/100 |
+| 375 | [erabytse/CryptoLogin](./erabytse-cryptologin.md) | ⭐ — | — | 41/100 |
+| 376 | [VeilusDigital/PhantomChatCrypto](./veilusdigital-phantomchatcrypto.md) | ⭐ — | — | 41/100 |
+| 377 | [C2SP/wycheproof](./c2sp-wycheproof.md) | ⭐ — | — | 41/100 |
+| 378 | [leanEthereum/leanMultisig](./leanethereum-leanmultisig.md) | ⭐ 112 | Rust | 41/100 |
 
 ---
 

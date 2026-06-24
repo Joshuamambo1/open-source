@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 27.4k |
-| 🍴 **Forks** | 2.2k |
+| 🍴 **Forks** | 2.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,58 +27,50 @@ Frontend · Data · Database · Observability
 
 ### English
 
-Here's a brief summary of the SigNoz project:
+**Summary:** SigNoz is an open-source observability platform that integrates logs, traces, and metrics in a single application, offering a native OpenTelemetry solution. It serves as a cost-effective alternative to commercial tools like DataDog and NewRelic. SigNoz aims to simplify Application Performance Monitoring (APM) and Observability, allowing developers to build product UI faster with less custom UI work.
 
-SigNoz is an open-source observability platform that integrates logs, traces, and metrics into a single application, offering a cost-effective alternative to commercial solutions like DataDog and NewRelic. This platform helps developers build user-facing interfaces faster and with less custom UI work by reusing interface components and improving frontend delivery. With its high production readiness, strong community adoption, and recent updates, SigNoz is a viable option for serious pilots.
-
-**Value:**
-The value proposition of SigNoz lies in its ability to simplify the development process by reducing custom UI work, allowing developers to focus on other crucial aspects of their project. This, in turn, enables faster product delivery and improved frontend performance.
+**Value Proposition:** SigNoz helps developers streamline their workflow by reducing the time and effort required to build user-facing interfaces. By reusing interface components and improving frontend delivery, developers can focus on core product development.
 
 **Practical Adoption Path:**
-To adopt SigNoz, start with a small proof of concept and thoroughly review the README documentation. This will give you a clear understanding of the platform's capabilities and potential integration challenges. Once you're satisfied with the results, you can proceed with a full-scale implementation, leveraging the platform's features to enhance your observability and frontend delivery.
 
-**Production Readiness:**
-SigNoz has demonstrated high production readiness, with recent activity, strong community adoption, and a robust ecosystem supporting its development. The
+1. **Evaluation:** Start with a small proof of concept to assess SigNoz's feasibility and evaluate its features through the README documentation.
+2. **Integration:** Integrate SigNoz with your existing infrastructure, beginning with a small-scale pilot to test its performance and stability.
+3. **Customization:** Leverage SigNoz's open-source nature to customize the platform according to your specific needs and requirements.
+
+**Production Readiness:** SigNoz exhibits high production readiness due to its:
+
+* Recent activity and adoption
+* Strong ecosystem signals
+* High GitHub star count (27447) and fork count (2251)
+* Regular
 
 ### Русский
 
-Резюме проекта SigNoz/signoz:
+Резюме SigNoz/signoz:
 
-SigNoz/signoz - это открытая платформа наблюдения, которая объединяет логи, трейсы и метрики в одной приложении, созданную с использованием OpenTelemetry. Эта платформа позволяет разработчикам быстрее разрабатывать пользовательские интерфейсы, снижая необходимость в личном вёрстке UI и повторном использовании компонентов интерфейса.
+SigNoz/signoz - это открытое исходное решение для платформы наблюдения за работой системы, объединяющее логи, трейсы и метрики в одной приложении. Это альтернатива коммерческим решениям, таким как DataDog и NewRelic. SigNoz/signoz позволяет быстро развивать пользовательские интерфейсы и повторно использовать компоненты интерфейса.
 
-Внедрение SigNoz/signoz может быть полезно для команд разработки, которые стремятся улучшить производительность и наблюдаемость своих приложений. Типовой сценарий внедрения включает в себя развертывание SigNoz/signoz в Production, что можно сделать с высокой степенью готовности, поскольку проект активно поддерживается, имеет сильную экосистему и обширную базу пользователей (27442 GitHub звезды, 2247 фолов).
+Типовой сценарий внедрения SigNoz/signoz - это построение пользовательского интерфейса быстрее и с минимальным количеством индивидуальной разработки UI. При этом SigNoz/signoz может помочь улучшить доставку frontend-приложений.
 
-Проект имеет высокий уровень готовности к Production, что делает его привлекательным вариантом для serious пилота. Однако, как и в любом проекте, есть риск, который необходимо рассмотреть, включая лицензию
+Уровень готовности SigNoz/signoz к production высок, учитывая недавнюю активность, широкое распространение и сильные сигналы экосистемы. Однако необходимо провести тщательный анализ лицензии, безопасности и активности maintainers перед внедрением в производство.
 
 ### 中文
 
-**简介**
+**简短介绍**
 
-SigNoz 是一个开源观察性平台，native 于 OpenTelemetry，集成日志、追踪和指标在一个应用中。它是一种开源的替代品，类似于 DataDog、NewRelic 等。
+SigNoz 是一个开源的可观察性平台，native 支持 OpenTelemetry，集成日志、追踪和指标在一个应用中。它是 DataDog、NewRelic 等产品的开源替代品。SigNoz 是一款开源的应用性能监控（APM）和可观察性工具。
 
 **价值**
 
-SigNoz 帮助开发人员快速构建用户界面，减少自定义 UI 工作量。它可以帮助开发人员:
-
-* 快速构建产品 UI
-* 重用界面组件
-* 改进前端交付
+SigNoz 的价值在于帮助开发者快速构建产品 UI，减少自定义 UI 工作量。它可以帮助开发者快速构建产品 UI，重用界面组件，改善前端交付。
 
 **典型接入方式**
 
-SigNoz 的接入方式包括:
-
-* 评估：评估SigNoz的功能和性能
-* 小型试验：在一个小规模的项目中尝试使用SigNoz
-* README 检查：检查SigNoz的README文件以了解更多信息
+SigNoz 支持 OpenTelemetry，开发者可以通过 OpenTelemetry SDK 集成到应用中。具体接入方式可以参考 README 文档。
 
 **生产可用性**
 
-SigNoz 的生产可用性很高，主要原因是:
-
-* 最近的活跃度：SigNoz 有活跃的社区和开发团队
-* 广泛的采用：SigNoz 已经有 27442 个 GitHub 星标和 2247 个分支
-*
+SigNoz 在生产环境中具有高可用性。它的活跃度、采用率和生态信号强大 enough，适合进行严肃的试验。SigNoz 在 GitHub 上拥有 27447 个星标和 2251 个分支，最近更新时间为 2026-06-24。
 
 ## 🧭 Practical evaluation
 
@@ -96,9 +88,9 @@ SigNoz 的生产可用性很高，主要原因是:
 
 **Quality signals**
 
-- 27442 GitHub stars
-- 2247 forks
-- updated 2026-06-23
+- 27447 GitHub stars
+- 2251 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 20 topics
 
@@ -122,4 +114,4 @@ SigNoz 的生产可用性很高，主要原因是:
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/SigNoz/signoz) · [← Back to Frontend](./README.md)</sub>

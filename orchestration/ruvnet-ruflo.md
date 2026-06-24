@@ -27,44 +27,50 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-Here's a brief summary and explanation of the project's value, adoption path, and production readiness:
+**Project Summary:**
 
-**Summary:** 
-ruflo is an open-source project that offers a meta-harness for Claude, enabling the deployment of intelligent multi-agent swarms, coordination of autonomous workflows, and the creation of conversational AI systems. It features adaptive memory, self-learning swarm intelligence, and integration with RAG and Claude Code/Codex. With a high production readiness score, ruflo is suitable for serious pilots.
+Ruflo is an open-source, leading agent meta-harness for Claude that enables the deployment of intelligent multi-agent swarms, coordination of autonomous workflows, and construction of conversational AI systems. Its features include adaptive memory, self-learning swarm intelligence, and integrations with RAG and Claude Code/Codex. This project helps turn isolated prompts and tools into repeatable agent workflows.
 
-**Value:** 
-The primary value proposition of ruflo lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it an essential tool for organizations seeking to streamline their conversational AI systems. By providing a meta-harness for Claude, ruflo enables the creation of complex workflows, standardizes agent memory, and facilitates the integration of various tools and technologies.
+**Value Proposition:**
 
-**Adoption Path:**
-The adoption path for ruflo is relatively straightforward, thanks to its clear documentation and signals of implementation, such as API/SDK/CLI, language metadata, and focused topics. To adopt ruflo, users can start by evaluating its features, reading the documentation, and exploring the GitHub repository. With a strong ecosystem and recent activity, ruflo is an
+Ruflo's value lies in its ability to streamline the process of building and managing complex AI systems by providing a unified platform for coordinating multiple agents and workflows. This enables developers to create more sophisticated and efficient AI applications with reduced complexity and increased scalability.
+
+**Practical Adoption Path:**
+
+Adopting Ruflo involves several steps:
+
+1. **Evaluation**: Assess Ruflo's features, integrations, and documentation to ensure it aligns with your project's requirements.
+2. **Integration**: Integrate Ruflo with your existing tools and infrastructure, such as Claude, RAG, and other relevant services.
+3. **Development**: Use Ruflo to build and deploy your AI workflows, leveraging its adaptive memory and self-learning swarm intelligence features.
+4. **Testing and Refining**: Test and refine your AI workflows to ensure they meet your project's goals and requirements.
 
 ### Русский
 
 Резюме проекта ruvnet/ruflo:
 
-ruflo - это лидирующий агентный мета-харнесс для Claude, который позволяет создавать умные мульти-агентные стайки, координировать автономные потоки работы и строить конверсационные системы ИИ. Этот проект помогает превратить изолированные запросы и инструменты в повторяющиеся агентные потоки работы, позволяя внедрить его в типовой сценарий координации мульти-агентных потоков работы. ruflo готов к внедрению в производственный режим, поскольку он имеет высокий уровень готовности, недавнюю активность, широкую адопцию и сильные сигналы экосистемы.
+Проект ruvnet/ruflo представляет собой мощный агент-мета-гарнитуру для Claude, позволяющую развертывать интеллектуальные мульти-агентные сети, координировать автономные потоки работы и создавать конверсационные системы AI. Этот проект может помочь превратить изолированные команды и инструменты в повторяемые агентные потоки.
+
+Типовой сценарий внедрения ruvnet/ruflo включает в себя координацию мульти-агентных потоков, добавление пайплайнов использования инструментов и стандартизацию агентного памяти.
+
+Проект имеет высокий уровень готовности к production, что делает его подходящим кандидатом для серьезного пилота, учитывая его недавнюю активность, степень адопции и сильные сигналы экосистемы.
 
 ### 中文
 
-**ruvnet/ruflo 简介**
+**项目介绍**
 
-ruvnet/ruflo 是一个开源项目，旨在为 Claude 提供一个元代理工具，能够部署智能多代理云，协调自动化工作流程，并构建对话式人工智能系统。它提供了可自适应的内存、自我学习的群体智能、RAG 集成以及原生 Claude Code / Codex 集成。
+ruvnet/ruflo 是一个开源项目，提供了对 Claude 的元调度器，允许部署智能多代理群、协调自动化工作流和构建对话式 AI 系统。它具备自适应内存、自我学习群智、RAG 集成以及原生 Claude Code / Codex 集成等特性。
 
 **价值**
 
-ruvnet/ruflo 的主要价值在于，它能够帮助将孤立的提示和工具转换成可重复的代理工作流程，使得开发者能够更轻松地协调多代理工作流程、添加工具使用管道以及标准化代理内存。
+ruvnet/ruflo 帮助将孤立的提示和工具转变为可重复的代理工作流。它可以协调多代理工作流、添加工具使用管道以及标准化代理内存。
 
 **典型接入方式**
 
-ruvnet/ruflo expose API/SDK/CLI 等实现信号，方便开发者评估和接入。主要语言为 TypeScript，支持 20 个主题。
+该项目提供了 API / SDK / CLI 等接入方式，用户可以根据自己的需要选择合适的接入方式。
 
 **生产可用性**
 
-ruvnet/ruflo 的生产可用性较高，主要原因是：
-
-* 最近有活动
-* 有较强的采用度和生态系统信号
-* GitHub 上有 61,153 个星和
+ruvnet/ruflo 的生产可用性很高，最近有活跃的更新，采用率和生态系统信号也很强，适合进行严肃的试验。
 
 ## 🧭 Practical evaluation
 
@@ -82,8 +88,8 @@ ruvnet/ruflo 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 61153 GitHub stars
-- 7108 forks
+- 61166 GitHub stars
+- 7109 forks
 - updated 2026-06-24
 - primary language: TypeScript
 - 20 topics

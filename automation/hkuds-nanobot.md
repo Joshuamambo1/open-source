@@ -27,56 +27,56 @@ Automation · AI/ML · DevTools
 
 ### English
 
-**HKUDS/nanobot Project Summary**
+Here's a brief summary of the HKUDS/nanobot project:
 
-HKUDS/nanobot is a lightweight, open-source AI agent that automates repetitive manual operations in workflows, enabling users to streamline their tools, chats, and processes. This project offers a practical adoption path by exposing implementation signals through APIs, SDKs, and CLI tools, making it straightforward to integrate into existing systems. With a high production readiness score, strong recent activity, and a large community of users, HKUDS/nanobot is suitable for serious pilot projects.
+HKUDS/nanobot is a lightweight, open-source AI agent that automates workflows by removing repetitive manual operations, enabling users to connect tools into repeatable flows and schedule operational tasks. This project offers significant value by streamlining workflows, freeing up time and resources for more strategic activities. With its high production readiness and strong ecosystem signals, HKUDS/nanobot is an attractive candidate for serious pilot adoption.
 
-**Value**
+**Value:** HKUDS/nanobot helps automate workflows, reducing manual labor and increasing efficiency. By connecting tools and scheduling tasks, it enables users to focus on higher-value tasks.
 
-The primary value proposition of HKUDS/nanobot lies in its ability to automate repetitive tasks, freeing users from manual work and enabling them to focus on more strategic tasks. By connecting tools into repeatable flows and scheduling operational tasks, users can improve efficiency and productivity.
+**Practical Adoption Path:**
 
-**Practical Adoption Path**
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Assess the project's production readiness, including recent activity, adoption, and ecosystem signals.
+3. Review the project's quality signals, including GitHub stars, forks, and updates.
+4. Conduct a final review of the project's risks, including license, security posture, and active maintainers.
 
-To adopt HKUDS/nanobot, users can follow these steps:
-
-1. Evaluate the project's API/SDK/CLI tools to determine the best integration method for their workflow.
-2. Review the project's language metadata and focused topics to ensure compatibility with their existing systems.
-3. Integrate HKUDS/nanobot into their workflow using the chosen implementation method.
-4. Configure and schedule operational tasks to automate repetitive operations.
-
-**Production Readiness
+**Production Readiness:** HKUDS/nanobot has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
 
 ### Русский
 
-Резюме проекта HKUDS/nanobot:
+Резюме HKUDS/nanobot:
 
-HKUDS/nanobot - это лёгкое и открытый AI-агент, который помогает автоматизировать задачи и уменьшить трату времени на повторяющиеся операции. Типовой сценарий внедрения: удаление ручного труда, соединение инструментов в повторяющиеся потоки и планирование операционных задач. Проект готов к производственной эксплуатации (High) и демонстрирует сильные сигналы адопции и экосистемы, но требует дополнительного анализа в отношении лицензии, безопасности и активности maintainers.
+HKUDS/nanobot - это лёгкий, открытый исходный код AI-агент, который помогает автоматизировать повторяющиеся ручные операции в рабочих процессах. Это идеальный вариант для сценария, когда необходимо автоматизировать повторяющиеся задачи, такие как запуск инструментов в определённом порядке или расписание задач. Проект готов к внедрению в production, поскольку имеет высокий уровень активности, широкую адопцию и сильную экосистему.
 
 ### 中文
 
 **HKUDS/nanobot 简介**
 
-HKUDS/nanobot 是一个轻量级的开源 AI 代理，用于自动化工具、聊天和工作流程。它可以帮助减少重复的手动操作，从而提高工作效率。
+HKUDS/nanobot 是一个轻量级的开源 AI 代理，用于自动化工具、聊天和工作流程。它可以帮助减少工作流程中的重复手动操作，提高效率和生产力。
 
 **价值**
 
-HKUDS/nanobot 的主要价值在于，它可以帮助用户移除重复的手动操作，连接工具形成可重复的流程，自动化日常任务。
+HKUDS/nanobot 的价值在于：
+
+* 移除工作流程中的重复手动操作
+* 连接工具形成可重复的流程
+* 安排运营任务
 
 **典型接入方式**
 
-HKUDS/nanobot 支持多种接入方式，包括：
+HKUDS/nanobot 提供多种接入方式，包括：
 
-* API：通过 API 调用接入 HKUDS/nanobot。
-* SDK：通过 SDK 集成 HKUDS/nanobot 到自己的应用中。
-* CLI：通过命令行接口（CLI）直接操作 HKUDS/nanobot。
+* API
+* SDK
+* CLI
 
 **生产可用性**
 
 HKUDS/nanobot 的生产可用性非常高，主要原因是：
 
-* 44652 GitHub star 和 7883 fork，表明其受欢迎程度。
-* 最近的更新时间（2026-06-24），表明其仍然活跃开发中。
-* 强大的社区支持和生态系统信
+* 最近的活动和采用度非常强
+* 强大的生态系统信号
+* 高星数和活跃的维护者
 
 ## 🧭 Practical evaluation
 
@@ -94,8 +94,8 @@ HKUDS/nanobot 的生产可用性非常高，主要原因是：
 
 **Quality signals**
 
-- 44652 GitHub stars
-- 7883 forks
+- 44682 GitHub stars
+- 7882 forks
 - updated 2026-06-24
 - primary language: Python
 - 13 topics

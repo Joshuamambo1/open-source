@@ -27,58 +27,45 @@ Orchestration · MCP · Automation · AI/ML · Backend
 
 ### English
 
-**Summary:** 
-RuleGo is an open-source, high-performance rule engine framework for Go that enables the creation of repeatable agent workflows by coordinating multi-agent tasks and standardizing agent memory. This framework helps organizations turn isolated tools and prompts into efficient, automated pipelines. With its recent activity and strong ecosystem signals, RuleGo is production-ready for serious pilots.
+**Project Summary:**
+RuleGo is an open-source, high-performance rule engine framework for Go that enables the creation of repeatable agent workflows by coordinating multi-agent tasks and standardizing agent memory. This framework facilitates the integration of isolated tools and prompts into streamlined pipelines, promoting automation and efficiency. With its strong adoption and ecosystem signals, RuleGo is production-ready for serious pilots.
 
-**Value:** 
-The primary value proposition of RuleGo lies in its ability to transform isolated tools and prompts into repeatable workflows, allowing organizations to automate and standardize complex tasks. This leads to increased efficiency, reduced manual errors, and improved productivity.
+**Value:**
+The primary value proposition of RuleGo lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it an ideal solution for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. By leveraging RuleGo, users can automate and streamline their workflows, reducing the complexity and increasing the efficiency of their operations.
 
 **Practical Adoption Path:**
-To adopt RuleGo, organizations can start by:
+To adopt RuleGo, users can start by evaluating the framework's API, SDK, CLI, and language metadata. They can then explore the various use cases and integration notes provided to determine the best approach for their specific needs. With a strong focus on high-performance and embedded orchestration, RuleGo is suitable for a wide range of applications, from automation and AI/ML to backend services.
 
-1. Evaluating the framework's API, SDK, and CLI to determine its suitability for their specific needs.
-2. Assessing the language metadata and focused topics to ensure alignment with their existing technology stack.
-3. Integrating RuleGo into their existing workflows and pipelines to automate repetitive tasks.
-4. Monitoring and refining the framework to meet their specific requirements.
-
-**Production Readiness:** 
-RuleGo has demonstrated strong production readiness, with:
-
-1. Recent activity, indicating ongoing maintenance and updates.
-2. Strong adoption, as evident from its 1548 GitHub stars and 148 forks.
-3. A robust ecosystem
+**Production Readiness:**
+RuleGo has demonstrated strong production readiness due to its recent activity, adoption, and ecosystem signals. With
 
 ### Русский
 
 Резюме проекта rulego/rulego:
 
-RuleGo - это лёгкое, высокопроизводительное, встраиваемое и следующего поколения компонентное оркестрация правилное движок-рамка для Go. Он позволяет объединять изолированные команды и инструменты в повторимые агентные потоки, что упрощает координацию многоагентных потоков, добавление инструментальных линий и стандартизацию агентного хранилища. Проект готов к serious-пилоту в production, поскольку имеет высокий уровень готовности, недавнюю активность, широкое внедрение и сильную экосистему.
+RuleGo - это lightweight, высокопроизводительный и встраиваемый компонентный оркестровочный движок правил на основе Go. Это позволяет превращать изолированные команды и инструменты в повторяемые агентные потоки. rulego/rulego особенно полезно для координации мульти-агентных потоков, добавления воронок использования инструментов и стандартизации агентной памяти. Проект готов к серьезному пилоту production и демонстрирует высокий уровень готовности к использованию, несмотря на необходимость окончательной проверки лицензии, безопасности и активностиmaintainerов.
 
 ### 中文
 
-**RuleGo简介**
-
-RuleGo是一款轻量级、高性能、嵌入式的下一代组件协调规则引擎框架，专为Go语言开发。它可以帮助将孤立的命令和工具转换为可重复的代理工作流。
+**简短介绍**
+RuleGo 是一个轻量级、高性能、嵌入式的下一代组件协调规则引擎框架，适用于 Go 语言开发。它可以帮助将孤立的提示和工具转换为可重复的代理工作流。
 
 **价值**
-
-RuleGo的价值在于，它可以帮助协调多个代理的工作流程、添加工具使用的管道、标准化代理内存等。通过使用RuleGo，可以提高工作效率和可维护性。
+RuleGo 的主要价值在于，它可以帮助开发人员将孤立的提示和工具整合成可重复的代理工作流，从而提高工作效率和可靠性。
 
 **典型接入方式**
+RuleGo 可以通过以下方式接入：
 
-RuleGo提供了多种接入方式，包括：
-
-1. API/SDK：提供程序化接口，方便开发者集成RuleGo。
-2. CLI：提供命令行接口，方便开发者直接使用RuleGo。
-3. 语言metadata：提供语言相关的元数据，方便开发者理解和使用RuleGo。
+* API：通过 RESTful API 或 SDK 接入 RuleGo 的功能。
+* CLI：通过命令行接口（CLI）直接操作 RuleGo。
+* 语言元数据：通过语言元数据接入 RuleGo 的功能。
 
 **生产可用性**
+RuleGo 的生产可用性较高，主要原因是：
 
-RuleGo的生产可用性非常高，主要原因是：
-
-1. 近期活动：RuleGo最近有较多的更新和修复。
-2. 广泛采用：RuleGo已经有较多的用户和社区支持。
-3. 强大的生态系统
+* 近期活动：RuleGo 有活跃的维护者和社区。
+* 采用：RuleGo 已经被许多开发者采用。
+* 生态系统信号：RuleGo 有强大的生态系统支持。
 
 ## 🧭 Practical evaluation
 

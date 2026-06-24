@@ -28,46 +28,54 @@ Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 ### English
 
 **Project Summary:**
-
-MARM-Systems is an open-source project that enables seamless integration and management of multiple AI agents, providing persistent memory, cross-agent context sharing, and a live web dashboard for efficient workflow coordination. With its ability to connect with major Large Language Models (LLMs) and support for various tools, MARM-Systems facilitates the creation of repeatable agent workflows. This solution is ideal for coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory.
+MARM-Systems is an open-source project that enables the creation of repeatable agent workflows by providing persistent memory, cross-agent context sharing, and other features. This allows users to streamline multi-agent workflows, add tool-use pipelines, and standardize agent memory. With its live web dashboard and support for major LLMs, MARM-Systems helps to turn isolated prompts and tools into efficient workflows.
 
 **Value Proposition:**
+The value of MARM-Systems lies in its ability to simplify and standardize AI workflows, making it easier to manage complex tasks and integrate multiple tools and agents. By providing a persistent memory and cross-agent context sharing, users can reduce the need for redundant explanations and repetitive tasks, increasing productivity and efficiency.
 
-The primary value proposition of MARM-Systems lies in its ability to turn isolated prompts and tools into repeatable agent workflows. By providing a centralized platform for managing memories, logs, and sessions, MARM-Systems enables users to streamline their AI workflows, improve efficiency, and reduce the need for repetitive explanations.
+**Adoption Path:**
+The practical adoption path for MARM-Systems involves the following steps:
 
-**Practical Adoption Path:**
-
-To adopt MARM-Systems, users can follow these steps:
-
-1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Review the project's documentation and tutorials to understand its capabilities and limitations.
-3. Integrate MARM-Systems with their existing AI tools and workflows.
-4. Configure the live web dashboard to manage memories, logs, and sessions.
-5. Test
+1. **Evaluation**: Assess the project's features, documentation, and community support to determine its suitability for your use case.
+2. **Setup**: Install and configure MARM-Systems, which includes setting up the live web dashboard and integrating it with your preferred LLMs and tools.
+3. **Integration**: Integrate MARM-Systems with your existing workflows and tools to leverage its features and benefits.
+4. **Testing**: Test and
 
 ### Русский
 
 Резюме проекта Lyellr88/MARM-Systems:
 
-Проект MARM представляет собой решение для управления агентами искусственного интеллекта, позволяющее создавать повторяемые рабочие процессы и координировать взаимодействие между разными агентами. Это может быть полезно для организаций, которые используют несколько агентов AI для выполнения задач и хотят упростить их взаимодействие. Проект уже готов к использованию в продакшене и имеет сильную базу адоптации и экосистемы.
+МАРМ (MARM-Systems) - это open-source проект, предназначенный для решения проблемы повторного объяснения своих действий в системах AI. Он обеспечивает функции, такие как постоянная память, общение между агентами, очереди записей и настройки для работы в сети. Это позволяет создавать повторяемые потоки работы между агентами и стандартизировать работу с памятью.
+
+Типовой сценарий внедрения: МАРМ может быть использован для координации сложных потоков работы между несколькими агентами, добавления функций использования инструментов и стандартизации работы с памятью.
+
+Уровень готовности к production: Проект демонстрирует высокий уровень готовности к production, поскольку он имеет сильные сигналы активности, приема и экосистемы, что делает его подходящим кандидатом для серьезного пилотного проекта.
 
 ### 中文
 
-**简短介绍**
+**项目介绍**
 
-MARM-Systems 是一个开源项目，旨在提高 AI 互动的效率和可靠性。它提供了持久性记忆、跨代理上下文共享、写入队列、集群准备预设和压缩功能，以便于清晰地回忆。项目包括一个实时 web 控制台，用于管理记忆、日志和会话。MARM-Systems 支持主要的 LLM 模型，如 Claude、Codex、Grok、Gemini 和其他模型。
+Lyellr88/MARM-Systems 是一个开源项目，旨在解决 AI 交流中重复解释的问题。它提供了一系列功能，包括持久记忆、跨代理上下文共享、写入队列、群组准备预设和压缩清理。该项目还包括一个实时 Web 控制台，用于管理记忆、日志和会话。
 
 **价值**
 
-Lyellr88/MARM-Systems 帮助将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多代理工作流程、添加工具使用管道和标准化代理记忆。
+该项目的价值在于，它帮助将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道和标准化代理记忆。
 
 **典型接入方式**
 
-MARM-Systems 支持 HTTP 和 STDIO 的连接，工作与主要的 LLM 模型。接入方式包括：
+该项目可以通过以下方式接入：
 
-* API：通过 HTTP 接口访问 MARM-Systems 的功能。
-* SDK：使用提供的 SDK 来集成 MARM-Systems 到自己的应用中。
-* CLI：使用命令行界面来管理 MARM-Systems。
+* 使用 HTTP 和 STDIO 连接 MCP
+* 与主要的 LLM（如 Claude、Codex、Grok、Gemini 等）模型集成
+
+**生产可用性**
+
+该项目的生产可用性非常高，原因包括：
+* 近期活跃度
+* 强大的采用率
+* 强大的生态系统信号
+* GitHub 星星数为 305，分支数为 57
+* 最近更新时间为
 
 ## 🧭 Practical evaluation
 

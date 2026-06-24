@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -28,50 +28,47 @@ MCP · Knowledge/RAG · AI/ML · Backend · Mobile
 ### English
 
 **Project Summary:**
-
-Serena is an open-source Model Context Protocol (MCP) toolkit that enables developers to connect AI assistants to real tools and data through a standard protocol. By providing semantic retrieval and editing capabilities, Serena serves as an Integrated Development Environment (IDE) for AI agents. Its high production readiness and strong ecosystem signals make it a suitable candidate for serious pilots.
+Serena is an open-source Model Context Protocol (MCP) toolkit that enables seamless connections between AI assistants and real tools and data through a standardized protocol. This powerful MCP toolkit provides semantic retrieval and editing capabilities, making it an ideal Integrated Development Environment (IDE) for AI agents. With its high production readiness and strong ecosystem signals, Serena is poised for serious adoption and integration.
 
 **Value Proposition:**
-
-The value of Serena lies in its ability to standardize integrations between AI assistants and real tools and data. This allows developers to create more powerful and connected AI experiences. By using Serena, developers can easily connect their AI agents to various tools and data sources, making it easier to build and deploy AI-powered applications.
+The primary value of Serena lies in its ability to connect AI assistants to real tools and data, standardizing integrations and facilitating the development of more intelligent and autonomous systems. By providing a standardized protocol, Serena enables the creation of more robust and efficient AI agents that can interact with various tools and data sources.
 
 **Practical Adoption Path:**
+To adopt Serena, developers can follow these steps:
 
-To adopt Serena, developers can start by evaluating its implementation signals, such as its API, SDK, and CLI. They can then explore its language metadata and focused topics to understand its capabilities and limitations. With a strong ecosystem and recent activity, Serena is a good candidate for serious pilots. Developers can start by connecting their AI agents to Serena, and then explore its features and capabilities to build more connected AI experiences.
-
-**Production Readiness:**
-
-Serena has a high production readiness score, indicating that it is a mature and stable project. Its recent activity
+1. **Explore the documentation**: Familiarize yourself with Serena's API, SDK, and CLI, as well as its language metadata and focused topics.
+2. **Evaluate the toolkit**: Assess Serena's capabilities and limitations based on its implementation signals.
+3. **Integrate with AI agents**: Use Serena to connect AI assistants to real tools and data, leveraging its semantic retrieval and editing capabilities.
+4. **Ship Model Context Protocol servers**: Deploy Serena servers to enable standardized integrations and
 
 ### Русский
 
 Резюме проекта oraios/serena:
 
-Ориентированный на открытое программное обеспечение проект oraios/serena предлагает мощный набор инструментов MCP (Model Context Protocol) для разработки, предоставляющий семантическую возможность извлечения и редактирования. Этот инструмент идеально подходит для внедрения в сценарии, когда необходимо соединить искусственный интеллект с реальными инструментами и данными посредством стандартизированного протокола. Проект уже готов для серьезного пилотного проекта, обладает высоким уровнем готовности к производству и получил поддержку в размере 25701 GitHub звезд.
+Ораиос/Серена - мощный инструментарий для разработки MCP, предоставляющий семантическое поиск и редактирование функциональности, идеальный вариант для агентов AI. Этот проект помогает соединить помощников AI с реальными инструментами и данными посредством стандартного протокола, что позволяет подключать агентов AI к инструментам и стандартизировать интеграции. Проект готов к продакшену на высоком уровне, с сильными сигналами активности, адопции и экосистемы, что делает его подходящей базой для серьезной пилотной версии.
 
 ### 中文
 
 **简短介绍**
 
-oraios/serena 是一个强大的 MCP 工具包，提供语义检索和编辑能力，为 AI 代理提供了一个 IDE。该项目帮助连接 AI 助手到真实工具和数据通过标准协议。
+oraios/serena 是一个强大的 MCP 工具包，提供语义检索和编辑能力，帮助连接 AI 助手与真实工具和数据。它通过标准协议帮助 AI 代理连接工具，实现模型上下文协议服务器的部署和标准化集成。
 
 **价值**
 
-oraios/serena 的价值在于它帮助连接 AI 代理到工具和数据，标准化集成，提高了 AI 应用的可靠性和效率。
+oraios/serena 的主要价值在于帮助连接 AI 代理与真实工具和数据，通过标准协议实现集成，简化 AI 代理的开发和部署。
 
 **典型接入方式**
 
-典型的接入方式包括：
-
-1. 连接 AI 代理到工具：通过或aios/serena，AI 代理可以连接到各种工具和服务，从而提高其功能和能力。
-2. 部署 Model Context Protocol 服务器：或aios/serena 提供了 Model Context Protocol 服务器的接口，方便开发者部署和管理自己的服务器。
-3. 标准化集成：或aios/serena 提供了标准化的接口，使得开发者可以轻松地集成 AI 代理到各种工具和服务中。
+oraios/serena 提供了 API、SDK 和 CLI 等接入方式，开发者可以根据需求选择合适的接入方式来连接 AI 代理与工具。
 
 **生产可用性**
 
-oraios/serena 的生产可用性很高，主要原因是：
+oraios/serena 的生产可用性较高，具有以下特点：
 
-1. 近期活跃：
+* 近期活动：最近有活动和更新。
+* 广泛采用：拥有 25722 个 GitHub 星和 1716 个 fork。
+* 强大生态系统：有 12 个主题和 Python 为主要语言。
+* 高风险：虽然没有发现重大元数据风险，但仍需要进一步审查许可、安全和维护人员。
 
 ## 🧭 Practical evaluation
 
@@ -89,9 +86,9 @@ oraios/serena 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 25701 GitHub stars
+- 25722 GitHub stars
 - 1716 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: Python
 - 12 topics
 

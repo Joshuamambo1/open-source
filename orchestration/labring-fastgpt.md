@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 7.2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,46 +27,45 @@ Orchestration · MCP · Knowledge/RAG · Automation · AI/ML
 
 ### English
 
-**Summary:** FastGPT is an open-source platform that enables the development and deployment of complex question-answering systems with ease, leveraging a comprehensive suite of capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration. This platform helps turn isolated prompts and tools into repeatable agent workflows, making it an ideal solution for coordinating multi-agent workflows and standardizing agent memory. With a strong ecosystem and recent activity, FastGPT is production-ready for serious pilots.
+**Summary:** 
+FastGPT is an open-source, knowledge-based platform built on Large Language Models (LLMs) that enables users to develop and deploy complex question-answering systems without extensive setup or configuration. It offers a comprehensive suite of capabilities, including data processing, RAG retrieval, and visual AI workflow orchestration. This platform helps turn isolated prompts and tools into repeatable agent workflows.
 
-**Value:** The primary value proposition of FastGPT lies in its ability to simplify the development and deployment of complex question-answering systems. By providing a comprehensive suite of out-of-the-box capabilities, FastGPT enables users to easily integrate data processing, RAG retrieval, and visual AI workflow orchestration, making it an attractive solution for organizations looking to streamline their AI and ML workflows.
+**Value Proposition:**
+The primary value of FastGPT lies in its ability to streamline the development and deployment of complex question-answering systems, allowing users to easily coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory. This enables users to create more efficient and effective AI-powered systems.
 
-**Practical Adoption Path:** To adopt FastGPT, users can start by exploring the platform's API, SDK, and CLI implementation signals. They can also review the language metadata and focused topics to ensure compatibility with their existing tools and workflows. Additionally, users can leverage the platform's documentation and community resources to get started with integrating data processing, RAG retrieval, and visual AI workflow orchestration into their workflows
+**Practical Adoption Path:**
+To adopt FastGPT, users can start by evaluating its implementation signals, such as its API, SDK, CLI, and language metadata. They can then assess its suitability for their specific use cases and integrate it into their existing workflows. With its recent activity, adoption, and strong ecosystem signals, FastGPT is production-ready for serious pilots.
+
+**Production Readiness:**
+FastGPT has demonstrated high production readiness due to its recent activity, strong adoption, and robust ecosystem signals. With over 28,000 GitHub stars, 7
 
 ### Русский
 
-Резюме проекта labring/FastGPT:
+Резюме:
 
-FastGPT - это мощная платформа на основе LLM, которая позволяет легко разрабатывать и развертывать сложные системы ответов на вопросы без необходимости настройки или конфигурации. Этот проект идеально подходит для координации многоагентных потоков, добавления воронок использования инструментов и стандартизации памяти агентов. Благодаря своей высокой готовности к производству и сильному сообществу, FastGPT является привлекательной альтернативой для организации сложных задач AI/ML.
+FastGPT - это открытое исходное кода решение для платформы базированной на LLMs, позволяющее легко разрабатывать и развертывать сложные системы вопрос-ответа без необходимости глубокой настройки или конфигурации. Благодаря своей гибкости, FastGPT позволяет координировать сложные рабочие процессы, добавлять в них инструменты и.standardизировать память агентов. Этот проект готов к production на высоком уровне, с активным сообществом, регулярными обновлениями и сильным экосистемным потенциалом.
 
 ### 中文
 
-**项目简介**
+**简短介绍**
 
-labring/FastGPT 是一个基于大语言模型 (LLMs) 的知识平台，提供了一系列出厂配置的功能，包括数据处理、RAG检索和可视化 AI 工作流orchestration。它使您可以轻松开发和部署复杂的问答系统，无需进行繁琐的设置或配置。
+FastGPT 是一个基于 LLMs 的知识平台，提供了数据处理、RAG 检索和可视化 AI 工作流orchestration等一系列功能，让您可以轻松地开发和部署复杂的问答系统，无需进行繁琐的设置或配置。
 
 **价值**
 
-labring/FastGPT 的价值在于，它可以帮助您将孤立的提示和工具转化为可重复的代理工作流。通过使用它，您可以：
-
-* 协调多个代理工作流
-* 添加工具使用管道
-* 标准化代理内存
+labring/FastGPT 帮助将孤立的提示和工具转化为可重复的代理工作流，简化了多代理工作流的协调、工具使用管道的添加和代理记忆的标准化。
 
 **典型接入方式**
 
-labring/FastGPT 提供了 API/SDK/CLI 的实现信号，使其易于评估和接入。您可以通过以下方式接入：
+FastGPT 提供了 API、SDK 和 CLI 等实现信号，使其容易评估和接入。您可以通过以下方式接入：
 
-* 使用 API 调用
-* 使用 SDK 进行集成
-* 使用 CLI 进行交互
+1. API：通过 API 调用 FastGPT 的功能。
+2. SDK：使用 FastGPT 的 SDK 来集成其功能。
+3. CLI：使用 FastGPT 的 CLI 来执行其功能。
 
 **生产可用性**
 
-labring/FastGPT 的生产可用性较高，主要原因是：
-
-* 最近有活跃的维护
-* 有强大的采用和生态系统信
+FastGPT 的生产可用性非常高，适合用于生产环境。它的强大生态系统、活跃维护者和强大信誉使其成为一个可靠的选择
 
 ## 🧭 Practical evaluation
 
@@ -84,9 +83,9 @@ labring/FastGPT 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 28597 GitHub stars
-- 7168 forks
-- updated 2026-06-23
+- 28613 GitHub stars
+- 7169 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 10 topics
 
@@ -110,4 +109,4 @@ labring/FastGPT 的生产可用性较高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/labring/FastGPT) · [← Back to Orchestration](./README.md)</sub>

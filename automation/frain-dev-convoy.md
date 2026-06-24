@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -28,50 +28,62 @@ Automation · AI/ML · Backend · DevTools · DevOps/Infra
 ### English
 
 **Project Summary:**
-
-frain-dev/convoy is an open-source Cloud Native Webhooks Gateway that automates repetitive manual operations, allowing developers to streamline workflows and connect tools into repeatable flows. This project offers a straightforward evaluation process, with clear implementation signals and recent activity, making it suitable for serious pilots. With 2,820 GitHub stars and strong ecosystem signals, it has a high production readiness.
+Convoy is an open-source, Cloud Native Webhooks Gateway that automates repetitive manual operations in workflows, connecting tools into repeatable flows and scheduling operational tasks. This project offers a high degree of production readiness, making it suitable for serious pilot adoption, with recent activity, strong adoption, and a healthy ecosystem. Its value proposition lies in streamlining workflows and reducing manual labor.
 
 **Value:**
-
-The primary value proposition of frain-dev/convoy lies in its ability to remove repetitive manual operations from a workflow, freeing up developers to focus on more critical tasks. By automating these operations, developers can reduce the likelihood of human error and increase the efficiency of their workflows.
+The primary value of Convoy lies in its ability to automate repetitive tasks, freeing up resources and reducing the likelihood of human error. By connecting tools into repeatable flows, Convoy enables organizations to streamline their workflows, increase efficiency, and improve productivity.
 
 **Practical Adoption Path:**
+To adopt Convoy, users can follow these steps:
 
-To adopt frain-dev/convoy, developers can follow these steps:
+1. Evaluate the project's documentation and API/SDK/CLI offerings to determine its suitability for their specific use case.
+2. Integrate Convoy into their existing workflow by implementing the necessary APIs or SDKs.
+3. Configure Convoy to connect their tools into repeatable flows and schedule operational tasks.
+4. Monitor and refine the Convoy setup as needed to optimize performance and efficiency.
 
-1. Evaluate the project's implementation signals, such as its API, SDK, CLI, and language metadata.
-2. Assess the project's production readiness, considering its recent activity, adoption, and ecosystem signals.
-3. Review the project's license, security posture, and active maintainers to ensure they meet your organization's needs.
-4. Integrate the project into your existing workflows, using its webhooks gateway to automate manual operations.
-5. Schedule operational tasks and connect tools into
+**Production Readiness:**
+Convoy exhibits high production readiness, with a strong ecosystem, recent activity, and adoption signals. Its primary language (Go
 
 ### Русский
 
 Резюме проекта frain-dev/convoy:
 
-frain-dev/convoy - это облачный гейтвей вебхуков, помогающий автоматизировать рабочие процессы и исключать повторяющиеся ручные операции. Этот проект идеально подходит для сценариев, когда необходимо соединить инструменты в повторяющиеся потоки или запланировать операционные задачи. frain-dev/convoy готов к использованию в production, поскольку демонстрирует высокий уровень активности, признание и экосистемные сигналы, что делает его привлекательным кандидатом для серьезного пилотного проекта.
+frain-dev/convoy - это облачный вебхук-шлюз, который помогает автоматизировать повторяющиеся ручные операции в рабочем процессе. Он позволяет свести к минимуму ручную работу, объединяя инструменты в повторяющиеся потоки и расписывая операционные задачи. Проект готов к серьезному пилоту, поскольку демонстрирует высокий уровень готовности к production, обладающий активной деятельностью, принятием, и сильными сигналами экосистемы.
 
 ### 中文
 
 **简短介绍**
 
-frain-dev/convoy 是一个开源项目，提供了一个云原生 Webhooks Gateway。它可以帮助用户移除工作流程中的重复手动操作，提高工作效率。
+frain-dev/convoy 是一个开源项目，提供了一个 Cloud Native Webhooks Gateway。它可以帮助你自动化工作流程，减少重复的 manual 操作。
 
 **价值**
 
-frain-dev/convoy 的价值在于它可以帮助用户移除工作流程中的重复手动操作，提高工作效率。它可以连接工具并使它们成为可重复的流程的一部分，也可以调度运营任务。
+frain-dev/convoy 的价值在于，它可以帮助你:
+
+* 移除工作流程中的重复 manual 操作
+* 连接工具并创建可重复的流程
+* 自动化操作任务
 
 **典型接入方式**
 
-frain-dev/convoy 提供了多种接入方式，包括：
+frain-dev/convoy 支持多种接入方式，包括：
 
-* API：通过 API 接口来访问和操作 Webhooks。
-* SDK：提供了 SDK 来帮助开发者在自己的应用中使用 frain-dev/convoy。
-* CLI：通过命令行界面来操作和管理 frain-dev/convoy。
+* API
+* SDK
+* CLI
+* 语言 metadata
+* 焦点主题
 
 **生产可用性**
 
-frain-dev/convoy 的生产可用性很高。它有活跃的社区，且最近有活跃的开发活动。它的生态系统信号也很强，适合用于生产环境。
+frain-dev/convoy 的生产可用性非常高，理由如下：
+
+* 有 2822 个 GitHub 星标
+* 有 176 个 GitHub fork
+* 最近更新于 2026-06-24
+* 主要编程语言是 Go
+* 支持 18 个主题
+* 有强大的社区支持和 eco-system 信号
 
 ## 🧭 Practical evaluation
 
@@ -89,9 +101,9 @@ frain-dev/convoy 的生产可用性很高。它有活跃的社区，且最近有
 
 **Quality signals**
 
-- 2820 GitHub stars
+- 2822 GitHub stars
 - 176 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: Go
 - 18 topics
 
@@ -115,4 +127,4 @@ frain-dev/convoy 的生产可用性很高。它有活跃的社区，且最近有
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/frain-dev/convoy) · [← Back to Automation](./README.md)</sub>

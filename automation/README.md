@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ToolJet/ToolJet](./tooljet-tooljet.md) | ⭐ 38.1k | JavaScript | 93/100 |
-| 2 | [santifer/career-ops](./santifer-career-ops.md) | ⭐ 55.5k | JavaScript | 91/100 |
+| 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 44.7k | Python | 90/100 |
+| 2 | [frain-dev/convoy](./frain-dev-convoy.md) | ⭐ 2.8k | Go | 87/100 |
+| 3 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.1k | Go | 87/100 |
 
 ---
 

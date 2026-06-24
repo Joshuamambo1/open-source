@@ -27,51 +27,50 @@ MCP · Automation · AI/ML · Frontend · Data
 
 ### English
 
-**Summary:** LobsterAI is an open-source, desktop-grade AI agent that connects AI assistants to real tools and data through the Model Context Protocol. This allows for seamless integration with various applications, enabling tasks such as data analysis, slide creation, and web research. With its strong ecosystem signals and high production readiness, LobsterAI is poised for practical adoption.
+Here's a brief summary of the open-source project:
 
-**Value Proposition:** The primary value of LobsterAI lies in its ability to standardize integrations between AI agents and real tools, making it easier to automate tasks and enhance productivity. By providing a standardized protocol, LobsterAI enables developers to connect AI assistants to a wide range of applications, streamlining workflows and increasing efficiency.
+LobsterAI is an open-source, desktop-grade AI agent that streamlines tasks such as data analysis, research, and content creation by connecting AI assistants to real tools and data through a standard protocol. This project offers a high-value proposition by providing a standardized integration solution for AI agents, making it easier to automate tasks and enhance productivity. With its high production readiness, recent activity, and strong adoption, LobsterAI is a promising candidate for serious pilots and practical adoption.
 
-**Practical Adoption Path:** To adopt LobsterAI, developers can start by evaluating its implementation signals, such as its API, SDK, and CLI. They can also explore its language metadata and focused topics to determine its suitability for their specific use cases. Once familiar with the project, developers can begin integrating LobsterAI with their existing tools and applications, leveraging its capabilities to automate tasks and enhance productivity.
+**Value:**
+LobsterAI's value proposition lies in its ability to standardize integrations between AI agents and real tools and data. This allows users to automate tasks, enhance productivity, and connect AI assistants to a wide range of tools and applications.
 
-**Production Readiness:** With 5,317 GitHub stars, 822 forks, and recent activity, LobsterAI demonstrates a strong ecosystem signal, indicating its potential for practical adoption. Its high production readiness
+**Practical Adoption Path:**
+The practical adoption path for LobsterAI involves integrating the AI agent with existing tools and applications using the Model Context Protocol (MCP). This can be done through API/SDK/CLI implementation, making it a straightforward process for developers and users. The project's recent activity and strong adoption signals indicate that it is a stable and reliable solution for automation and AI integration.
+
+**Production Readiness:**
+LobsterAI has a high production readiness score, indicating that it is suitable
 
 ### Русский
 
 Резюме проекта netease-youdao/LobsterAI:
 
-Проект LobsterAI представляет собой open-source AI-агента, который позволяет выполнять реальные задачи, такие как анализ данных, создание презентаций и документов, видео- и веб-исследования. Это возможен благодаря использованию OpenClaw и возможности запуска инструментов на реальном десктопе и управления ими через телефон с помощью WeChat, Feishu, DingTalk и Telegram.
+Проект netease-youdao/LobsterAI представляет собой открытый-source агент AI, который позволяет выполнять реальные задачи, такие как анализ данных, создание презентаций и документов, поиск в Интернете и видео. Этот агент может принимать команды из телефона через популярные мессенджеры, такие как WeChat, Feishu, DingTalk и Telegram.
 
-Проект предназначен для соединения AI-ассистентов с реальными инструментами и данными через стандартный протокол, что позволяет внедрять его в различные сценарии, такие как интеграция AI-агентов с инструментами, развертывание серверов Model Context Protocol и стандартизация интеграций.
+Проект готов к внедрению в production, поскольку имеет высокий уровень готовности (High) и сильные сигналы экосистемы. Он имеет 5316 звезд на GitHub, 822 форков и регулярно обновляется. Основным языком проекта является TypeScript. 
 
-Проект готов к внедрению в производство, поскольку он демонстрирует высокий уровень готовности, обусловленный активностью, принятием и сигналами экосистемы. Однако перед внедрением необходимо провести окончательный рецензирование в отношении лицензии, безопасности и активных мейнтейнеров
+Проект может быть использован для подключения агентов AI к реальным инструментам и данным через стандартный протокол, что позволяет автоматизировать различные задачи и повышать эффективность работы.
 
 ### 中文
 
-**LobsterAI 的简短介绍**
+**LobsterAI 简介**
 
-LobsterAI 是一个开源的桌面级 AI 代理，让 AI 助手真正能够完成工作 —— 数据分析、幻灯片、文档、视频和网页研究。它基于 OpenClaw 构建，能够在你的真实桌面上运行工具，并从你的手机通过 WeChat、Feishu、DingTalk 和 Telegram 接收命令。
+LobsterAI 是一个开源的桌面级 AI 代理，旨在完成实用的工作，包括数据分析、幻灯片、文档、视频和网页研究。它基于 OpenClaw 构建，能够在你的桌面上运行工具，并通过 WeChat、Feishu、DingTalk 和 Telegram 等应用接收命令。
 
-**LobsterAI 的价值**
+**价值**
 
-LobsterAI 帮助连接 AI 助手到真实的工具和数据通过标准的协议。它使得 AI 助手能够真正地完成工作，让用户能够更高效地完成任务。
+LobsterAI 的核心价值在于连接 AI 辅助器到实用工具和数据的标准协议。它帮助开发者连接 AI 代理到实际工具，实现模型上下文协议服务器的部署，以及标准化集成。
 
 **典型接入方式**
 
-LobsterAI 支持多种接入方式，包括:
+LobsterAI 暴露了 API/SDK/CLI 等实现信号，方便评估。开发者可以通过以下方式接入 LobsterAI：
 
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化集成
+* API：使用 LobsterAI 的 API 来访问其功能和数据。
+* SDK：集成 LobsterAI 的 SDK 来在自己的应用中使用其功能。
+* CLI：使用 LobsterAI 的命令行接口来执行特定任务。
 
 **生产可用性**
 
-LobsterAI 的生产可用性很高，主要原因是：
-* 近期活跃度高
-* 广泛的采用
-* 强大的生态系统信号
-* GitHub 星标数：5317
-* GitHub Fork 数：822
-* 最近更新时间
+LobsterAI 的生产可用性较高，主要原因是其
 
 ## 🧭 Practical evaluation
 
@@ -89,7 +88,7 @@ LobsterAI 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 5317 GitHub stars
+- 5316 GitHub stars
 - 822 forks
 - updated 2026-06-24
 - primary language: TypeScript

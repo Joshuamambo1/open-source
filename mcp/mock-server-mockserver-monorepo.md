@@ -27,54 +27,57 @@ MCP · AI/ML · Backend · DevTools
 
 ### English
 
-**Project Summary**
+**Project Summary:**
 
-MockServer is an open-source, monorepo project that offers an HTTP(S) mock server and proxy for testing, allowing developers to mock APIs, inspect and modify live traffic, and inject failures. This versatile tool supports various protocols, including HTTP/1.1, HTTP/2, gRPC, WebSockets, and TCP, making it a valuable asset for testing and integration purposes. With a strong GitHub presence, MockServer is a production-ready candidate for serious consideration.
+MockServer is an open-source, HTTP(S) mock server and proxy for testing, enabling the mocking of APIs, inspection and modification of live traffic, and injection of failures. It supports various protocols, including HTTP/1.1, HTTP/2, gRPC, WebSockets, and TCP, making it a versatile tool for developers. With a strong ecosystem, recent activity, and high adoption rate, MockServer is a reliable choice for production use.
 
-**Value Proposition**
+**Value:**
 
-The value proposition of MockServer lies in its ability to facilitate the integration of AI assistants with real tools and data through a standard protocol. This enables developers to connect AI agents to various tools, standardize integrations, and ship Model Context Protocol servers more efficiently. By leveraging MockServer, organizations can streamline their testing and integration processes, reducing the complexity and time associated with developing and deploying AI-powered applications.
+MockServer offers a standard protocol for connecting AI assistants to real tools and data, enabling seamless integration and development. Its value proposition lies in its ability to simplify the process of connecting AI agents to various tools and services, making it an essential tool for developers and organizations working with AI and machine learning.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-Adopting MockServer involves integrating it into your testing and development workflows. Here's a step-by-step adoption path:
+To adopt MockServer, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. The project's straightforward integration process and strong ecosystem make it easy to integrate into existing development pipelines. Once evaluated, MockServer can be used to connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations.
 
-1. **Evaluate MockServer**: Assess the project's documentation, community support, and GitHub presence to ensure it meets your needs.
-2. **Choose a Deployment Option**: Select from various deployment options, including a standalone server, Docker
+**Production Readiness:**
+
+MockServer has demonstrated high production readiness, with recent activity,
 
 ### Русский
 
 Резюме проекта mock-server/mockserver-monorepo:
 
-MockServer — это open-source HTTP(S) mock-сервер и прокси для тестирования, позволяющий мокать API, анализировать и модифицировать живую трафик, а также инжектировать сбои. Он поддерживает HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP и многое другое на одном порте, а также дополнительное поддержка HTTP/3, брокеров сообщений и API AI/LLM.
+MockServer - это открытое исходное проект, предназначенное для тестирования и отладки API. Это HTTP(S) mock-сервер и прокси, который позволяет мимикрировать API, инспектировать и модифицировать живую трафик, а также инжектировать сбои. 
 
-MockServer идеально подходит для подключения AI-ассистентов к реальным инструментам и данным через стандартный протокол. Например, он может быть использован для подключения AI-агентов к инструментам, развертывания серверов Model Context Protocol и стандартизации интеграций.
+Проект подойдет для типового сценария внедрения в проектах, требующих интеграции искусственного интеллекта (AI) с реальными инструментами и данными. Это может включать в себя подключение агентов AI к инструментам, развертывание серверов протокола Model Context Protocol и стандартизацию интеграций.
 
-Проект готов к внедрению в production на высоком уровне, поскольку он имеет recent активность, широкое распространение и сильные сигналы экосистемы. Однако требует окончательного обзора лицензии, безопасности и активных мейнтейнеров.
+Проект готов к производственному внедрению на высоком уровне (High), учитывая свежую активность, широкое распространение и сильные сигналы экосистемы. Однако, перед внедрением, следует провести тщательный отбор по таким аспектам, как лицензия, безопасность и активные разработчики.
 
 ### 中文
 
-**MockServer简介**
+**MockServer 简介**
 
-MockServer是一个开源项目，提供了一个HTTP(S) mock 服务器和代理，用于测试和开发。它支持多种协议，包括HTTP/1.1、HTTP/2、gRPC、WebSockets、TCP等，并且可以在单个端口上运行。
+MockServer 是一个开源项目，提供 HTTP(S) 模拟服务器和代理，用于测试和开发。它支持 HTTP/1.1、HTTP/2、gRPC、WebSockets、TCP 和更多协议，能够模拟 API、检查和修改实时流量，以及注入故障。
 
 **价值**
 
-MockServer的价值在于它可以帮助连接人工智能助手到真实工具和数据，通过标准协议来实现这一点。它可以让开发者在测试和开发过程中模拟API请求，检查和修改真实流量，并且可以注入故障。
+MockServer 帮助连接 AI 辅助器到真实的工具和数据，通过标准协议实现这一点。它能够连接 AI 代理到工具，部署 Model Context Protocol 服务器，并标准化整合。
 
 **典型接入方式**
 
-MockServer可以通过以下方式接入：
+ MockServer 支持多种接入方式，包括：
 
-1. API/SDK：MockServer提供了API和SDK，让开发者可以在自己的应用中集成MockServer。
-2. CLI：MockServer提供了命令行接口，让开发者可以通过命令行来管理MockServer。
-3. 语言metadata：MockServer支持多种语言metadata，让开发者可以根据自己的语言需求来集成MockServer。
+* 部署 MockServer 服务器，模拟 API 和检查实时流量
+* 使用 MockServer 的 SDK 或 CLI，实现 API 和工具的整合
+* 利用 MockServer 的标准协议，连接 AI 辅助器到真实的工具和数据
 
 **生产可用性**
 
-MockServer具有高生产可用性，原因包括：
+MockServer 的生产可用性很高，主要原因是：
 
-1. 近期活动：MockServer最近有活跃的维护和更新。
+* 最近有活跃的维护和更新
+* 具有强大生态系统和广泛的采用
+* 有足够的质量信号，包括 4897
 
 ## 🧭 Practical evaluation
 

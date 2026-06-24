@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 249 |
+| ⭐ **Stars** | 250 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
@@ -27,40 +27,38 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-**Summary:** speakeasy-api/gram is an open-source project that enables secure scaling of AI usage across organizations by providing a control plane for building, securing, and monitoring AI agents, Model Context Protocol (MCP) servers, and skills. It facilitates connections between AI assistants and real tools and data through a standard protocol, streamlining integrations and standardizing AI interactions. With a high production readiness score and strong ecosystem signals, speakeasy-api/gram is suitable for serious pilots.
+**Project Summary:**
+Speakeasy-api/gram is an open-source project that enables secure scaling of AI usage across organizations by providing a control plane for building, securing, and monitoring AI agents, Model Context Protocol (MCP) servers, and skills. This project facilitates connectivity between AI assistants and real tools/data through a standard protocol, making it easier to integrate AI capabilities into existing systems. With its high production readiness, strong ecosystem signals, and recent activity, Speakeasy-api/gram is suitable for serious pilots.
 
-**Value Proposition:** The project's value lies in its ability to connect AI agents to real tools and data, enabling organizations to leverage AI capabilities more effectively. By standardizing integrations through the Model Context Protocol, speakeasy-api/gram simplifies the process of building and deploying AI-powered applications.
+**Value Proposition:**
+The primary value of Speakeasy-api/gram lies in its ability to standardize integrations between AI assistants and tools, making it easier for organizations to connect AI capabilities to their existing infrastructure. This standardization enables seamless communication between AI agents and tools, ensuring a more cohesive and efficient AI-powered workflow.
 
 **Practical Adoption Path:**
+To adopt Speakeasy-api/gram, organizations can follow these steps:
 
-1. **Evaluate the project:** Assess the codebase, documentation, and community engagement to ensure it aligns with your organization's needs and goals.
-2. **Integrate with existing tools:** Connect your AI assistants to real tools and data using the standard protocol provided by speakeasy-api/gram.
-3. **Monitor and secure AI agents:** Utilize the control plane to monitor and secure your AI agents, MCP servers, and skills.
-4. **Standardize
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its feasibility for their specific use cases.
+2. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
+3. Review the project's license, security posture, and
 
 ### Русский
 
 Резюме проекта speakeasy-api/gram:
 
-Проект speakeasy-api/gram представляет собой безопасную платформу для масштабирования использования AI-технологий в организации. Он позволяет контролировать процесс создания, обеспечения безопасности и мониторинга агентов, MCP и навыков. Проект предназначен для соединения AI-ассистентов с реальными инструментами и данными посредством стандартизированного протокола.
-
-Типовым сценарием внедрения проекта является подключение AI-агентов к инструментам, развертывание серверов Model Context Protocol и стандартизация интеграций.
-
-Проект готов к производству (production readiness) на высоком уровне, учитывая активность, адопцию и сигналы экосистемы в последнее время. Однако необходимо произвести тщательный отзыв по лицензии, безопасности и активным поддерживающим разработчикам.
+Проект speakeasy-api/gram предлагает безопасное масштабирование использования AI-технологий в организации, обеспечивая централизованную систему управления, безопасности и мониторинга агентов, серверов MCP и навыков. Основное преимущество проекта заключается в возможности подключения AI-ассистентов к реальным инструментам и данным посредством стандартного протокола. Проект готов к пилотному использованию в production, имея высокий уровень готовности, активность и адопцию в сообществе.
 
 ### 中文
 
 **简短介绍**
 
-speakeasy-api/gram 是一个开源项目，用于安全地扩展组织内的 AI 使用。它提供了一个控制平面，用于构建、安全和监控您的代理、MCP 和技能。通过标准协议连接 AI 助手到真实工具和数据。
+speakeasy-api/gram 是一个开源项目，提供了一个控制平面来构建、安全化和监控 AI 代理、MCP 服务器和技能。它通过标准协议连接 AI 助手到真实工具和数据。
 
 **价值**
 
-speakeasy-api/gram 帮助连接 AI 助手到真实工具和数据通过标准协议。它提供了一个标准化的接口，使得开发者可以轻松地将 AI 助手与各种工具和数据源集成。
+speakeasy-api/gram 的价值在于，它帮助连接 AI 助手到真实工具和数据，通过标准协议实现这一目标。它可以连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化集成。
 
 **典型接入方式**
 
-speakeasy-api/gram 提供了以下接入方式：
+典型的接入方式包括：
 
 * 连接 AI 代理到工具
 * 部署 Model Context Protocol 服务器
@@ -68,18 +66,17 @@ speakeasy-api/gram 提供了以下接入方式：
 
 **生产可用性**
 
-speakeasy-api/gram 的生产可用性很高，主要原因是：
+speakeasy-api/gram 具有高生产可用性，适合用于 serious pilot。它具有以下特点：
 
-* 最近的活跃度
-* 广泛的采用
+* 近期活动
+* 迅速的采用
 * 强大的生态系统信号
 * 高评分（86/100）
+* 强大的 GitHub 星数（250）和 Fork 数（31）
+* 主要语言为 Go
+* 支持 14 个主题
 
-但是，仍然需要对以下方面进行最终审查：
-
-* 许可证
-* 安全姿态
-* 主要维护
+但是，需要注意的是，仍然需要对
 
 ## 🧭 Practical evaluation
 
@@ -97,7 +94,7 @@ speakeasy-api/gram 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 249 GitHub stars
+- 250 GitHub stars
 - 31 forks
 - updated 2026-06-24
 - primary language: Go

@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -21,11 +21,12 @@
 | 11 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 53/100 |
 | 12 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 52/100 |
 | 13 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 52/100 |
-| 14 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
-| 15 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
-| 16 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
-| 17 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 18 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
+| 14 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
+| 15 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
+| 16 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 17 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
+| 18 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 19 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
 
 ---
 

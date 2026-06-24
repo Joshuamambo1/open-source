@@ -1,6 +1,6 @@
 # JetBrains/teamcity-cli
 
-[![Stars](https://img.shields.io/github/stars/JetBrains/teamcity-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/teamcity-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/teamcity-cli?style=flat-square&color=blue)](https://github.com/JetBrains/teamcity-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JetBrains/teamcity-cli?style=flat-square&color=yellow)](https://github.com/JetBrains/teamcity-cli/stargazers) [![Forks](https://img.shields.io/github/forks/JetBrains/teamcity-cli?style=flat-square&color=blue)](https://github.com/JetBrains/teamcity-cli/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
 
 > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
 
@@ -8,27 +8,75 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 79 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 107 |
+| 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 77/100 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`agent-skills` `ai-agent` `claude-skills` `cli` `go` `teamcity` `teamcity-agent` `teamcity-rest-api`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · Frontend
+Orchestration · AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary for the JetBrains/teamcity-cli project:
+### English
 
-TeamCity-cli is an open-source command-line interface for managing TeamCity builds, logs, and agents from your terminal or AI assistant. With this tool, you can orchestrate builds, monitor agent terminals, and inspect queues in a streamlined and automated way. This interface offers flexibility and ease of use for developers and DevOps teams working with TeamCity.
+JetBrains/teamcity-cli: JetBrains/teamcity-cli helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+JetBrains/teamcity-cli: open-source проект в категориях Orchestration, AI/ML, Frontend, Backend, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+JetBrains/teamcity-cli：JetBrains/teamcity-cli helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** JetBrains/teamcity-cli helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 107 GitHub stars
+- 13 forks
+- updated 2026-06-24
+- primary language: Go
+- 8 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 29/100 |
+| stars | 43/100 |
+| topics | 100/100 |
+| outlook | 83/100 |
+| quality | 73/100 |
+| recency | 100/100 |
+| adoption | 39/100 |
+| production | 78/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-28 · [View on GitHub](https://github.com/JetBrains/teamcity-cli) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/JetBrains/teamcity-cli) · [← Back to Orchestration](./README.md)</sub>

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **10367** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 💳 **Payments** | 1 | [Browse →](./payments/) |
-| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 3422 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1775 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 969 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 911 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 535 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 464 | [Browse →](./backend/) |
+| 🏷️ **Mcp** | 454 | [Browse →](./mcp/) |
+| ⛓️ **Crypto** | 376 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 282 | [Browse →](./automation/) |
+| 📊 **Data** | 225 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 185 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 161 | [Browse →](./payments/) |
+| 📈 **Trading** | 124 | [Browse →](./trading/) |
+| 📱 **Mobile** | 112 | [Browse →](./mobile/) |
+| 🏷️ **Database** | 107 | [Browse →](./database/) |
+| 🚀 **DevOps & Infra** | 87 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 75 | [Browse →](./security/) |
+| ✨ **Design** | 31 | [Browse →](./design/) |
+| 🏷️ **Observability** | 23 | [Browse →](./observability/) |
+| 🎯 **Product** | 19 | [Browse →](./product/) |
+| 🏷️ **Education** | 18 | [Browse →](./education/) |
+| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 193.9k | Mcp |
-| 2 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.4k | Orchestration |
-| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 39.7k | Orchestration |
-| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.5k | Mcp |
-| 6 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
-| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24.4k | Orchestration |
-| 8 | [googleworkspace/cli](./orchestration/googleworkspace-cli.md) | ⭐ 28.3k | Orchestration |
-| 9 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 10 | [PrefectHQ/fastmcp](./mcp/prefecthq-fastmcp.md) | ⭐ 25.8k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 2 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 4 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 5 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 6 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 7 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 9 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
+| 10 | [yusufkaraaslan/Skill_Seekers](./mcp/yusufkaraaslan-skill-seekers.md) | ⭐ 13.5k | Mcp |
 
 ## 🚀 How it works
 

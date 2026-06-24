@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 717 |
+| ⭐ **Stars** | 721 |
 | 🍴 **Forks** | 55 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
@@ -27,51 +27,56 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ### English
 
-**Project Summary:**
-Zzet/Gortex is an open-source, high-performance code-intelligence engine that supports 257 languages and integrates with AI agents, IDEs, and multiple repositories. It provides a standard protocol for connecting AI assistants to real tools and data, reducing token usage by up to 50 times. With its 100% local design, Gortex offers a secure and efficient solution for developers.
+**Project Summary:** 
+The zzet/gortex project is an open-source, high-performance code-intelligence engine designed to support 257 languages and connect AI agents to real tools and data through a standard protocol. This engine enables AI coding agents to expose only needed information, reducing token usage by up to 50 times, and can be accessed via CLI, MCP Server, and API. With its strong ecosystem signals and recent activity, zzet/gortex is considered highly production-ready.
 
-**Value Proposition:**
-The value proposition of Zzet/Gortex lies in its ability to standardize integrations and connect AI agents to real tools and data, making it an essential component for the development of AI-powered coding assistants. By exposing only needed information, Gortex reduces token usage, making it a cost-effective solution for developers.
+**Value Proposition:** 
+The primary value proposition of zzet/gortex lies in its ability to standardize integrations between AI agents and tools, making it easier to connect AI assistants to real tools and data. This standardization enables more efficient and effective use of AI agents in various applications, such as IDEs and other development tools.
 
 **Practical Adoption Path:**
-To adopt Zzet/Gortex, developers can start by evaluating its implementation signals, such as its API, SDK, and CLI. They can also explore its language metadata and focused topics to determine its suitability for their specific use case. Once adopted, developers can integrate Gortex with their AI agents and tools, taking advantage of its 100% local design and reduced token usage.
+To adopt zzet/gortex, developers can follow these steps:
 
-**Production Readiness:**
-Zzet/Gortex demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable
+1. Evaluate the project's implementation signals, such as its API, SDK, and CLI, to ensure it meets their needs.
+2. Assess the language metadata and focused topics to determine if zzet/gortex supports their required languages and use cases.
+3. Integrate zzet/gortex with their AI agents and tools using the provided protocol.
+4. Test and refine the integration to
 
 ### Русский
 
 Резюме проекта zzet/gortex:
 
-Проект zzet/gortex представляет собой высокопроизводительный движок code-intelligence для агентов AI и IDE, поддерживающий 257 языков и множество репозиториев, основанный на графе. Он обеспечивает доступ через CLI, MCP Server и API, что позволяет соединять агентов AI с реальными инструментами и данными через стандартный протокол. Этот движок идеально подходит для интеграции с существующими системами, сокращая затраты на токены в 50 раз.
-
-Типовой сценарий внедрения: проект zzet/gortex может быть использован для подключения агентов AI к инструментам, развертывания серверов Model Context Protocol и стандартизации интеграций.
-
-Проект готов к производственной эксплуатации на высоком уровне, благодаря активности, адопции и сигналам экосистемы. Однако необходимо провести окончательный отбор по лицензии, безопасности и активным мантейнерам.
+Проект zzet/gortex представляет собой высокопроизводительный движок code-intelligence, предназначенный для интеграции с AI-агентами и IDE, поддерживающий 257 языков и множество репозиториев. Он позволяет существенно сократить использование токенов, что может снизить затраты до 50 раз. Проект готов к внедрению в production, поскольку имеет сильные показатели активности, принятия и эkosистемы, а также высокую оценку готовности к production - 87/100.
 
 ### 中文
 
 **简短介绍**
 
- zzet/gortex 是一个高性能的代码智能引擎，支持 257 种语言，适用于 AI 代理和 IDE，基于图形架构，提供 CLI、MCP 服务器和 API 访问接口。它可以帮助连接 AI 助手到现实工具和数据，通过标准协议。
+zzet/gortex 是一个高性能的代码智能引擎，支持 257 个语言，适用于 AI 代理和 IDE，基于图形结构，提供 CLI、MCP 服务和 API 接入方式。它可以帮助连接 AI 助手到实际工具和数据，通过标准协议实现。
 
 **价值**
 
- zzet/gortex 的价值在于，它可以帮助连接 AI 助手到现实工具和数据，标准化集成，提高 AI 助手的效率和准确性。
+zzet/gortex 的价值在于，它可以帮助连接 AI 代理到实际工具和数据，通过标准协议实现。这样可以让 AI 代理更好地理解和操作代码，提高开发效率和质量。
 
 **典型接入方式**
 
-典型的接入方式包括：
+zzet/gortex 提供以下接入方式：
 
-1. 连接 AI 代理到工具：通过 zzet/gortex，AI 代理可以访问工具的功能和数据。
-2. 部署 Model Context Protocol 服务器：通过 zzet/gortex，用户可以部署 MCP 服务器，提供 AI 代理访问工具和数据的接口。
-3. 标准化集成：通过 zzet/gortex，用户可以标准化 AI 助手和工具的集成，提高集成效率和准确性。
+* CLI（命令行接口）
+* MCP 服务（Model Context Protocol 服务）
+* API（应用程序接口）
 
 **生产可用性**
 
- zzet/gortex 的生产可用性较高，主要原因包括：
+zzet/gortex 的生产可用性高，因为它有以下特点：
 
-1. 近
+* 近期活跃度高
+* Adoption（采用度）强
+* 生态系统信号强
+* GitHub 星标数高（721）
+* forks 数量高（55）
+* 最近更新时间（2026-06-24）
+
+总的来说，zzet/gortex 是一个高性能的代码智能引
 
 ## 🧭 Practical evaluation
 
@@ -89,7 +94,7 @@ Zzet/Gortex demonstrates high production readiness, with recent activity, adopti
 
 **Quality signals**
 
-- 717 GitHub stars
+- 721 GitHub stars
 - 55 forks
 - updated 2026-06-24
 - primary language: Go

@@ -29,49 +29,48 @@ MCP · AI/ML · DevTools · Data · Database
 
 **Project Summary:**
 
-netdata/netdata is an open-source project that enables AI-powered full stack observability by connecting AI assistants to real tools and data through a standard protocol. This project helps teams standardize integrations and connect AI agents to various tools, making it a valuable resource for lean teams. With its recent activity, strong adoption, and robust ecosystem signals, netdata/netdata is highly production-ready for serious pilots.
+Netdata is an open-source project that provides a fastest path to AI-powered full stack observability, making it accessible even to lean teams. It enables the connection of AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This standardization facilitates the integration of AI agents with various tools and data sources, streamlining the process.
 
 **Value Proposition:**
 
-The value of netdata/netdata lies in its ability to standardize integrations between AI assistants and real tools and data. This enables teams to leverage AI-powered observability, even with limited resources, by providing a unified protocol for connecting various tools and data sources.
+The primary value proposition of netdata lies in its ability to bridge the gap between AI assistants and real-world tools and data. By standardizing integrations through the MCP, netdata enables developers to connect their AI agents to a wide range of tools and data sources, making it easier to leverage AI-powered full stack observability.
 
 **Practical Adoption Path:**
 
-To adopt netdata/netdata, teams can start by exploring its standard protocol and evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the project into their existing infrastructure and connect AI agents to various tools, using the provided Model Context Protocol servers. This straightforward evaluation process makes it easy for teams to assess the value of netdata/netdata and integrate it into their workflows.
+The adoption path for netdata appears straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics. Developers can evaluate the project by considering the following steps:
 
-**Production Readiness:**
-
-netdata/netdata is highly production-ready, with strong signals of recent activity,
+1. Evaluate the project's implementation signals to understand its capabilities and limitations.
+2. Explore the available documentation and resources to learn more about the MCP and its applications.
+3. Integrate netdata with their existing tools and data sources to leverage its AI-powered full stack observability features.
+4. Ship Model Context Protocol
 
 ### Русский
 
 Резюме проекта netdata/netdata:
 
-Проект netdata/netdata предоставляет быстрый и эффективный путь к получению полного стека наблюдения с помощью искусственного интеллекта даже для небольших команд. Он позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол. Проект готов к серьезному пилоту, поскольку имеет высокий уровень готовности к производству, регулярную активность и сильную экосистему.
-
-Типовым сценарием внедрения может стать подключение AI-агентов к инструментам, развертывание серверов по протоколу Model Context, а также стандартизация интеграций.
+Проект netdata/netdata предлагает быстрый путь к полной стэк-обзорности с помощью AI, даже для небольших команд. Он помогает соединять интеллектуальные ассистенты с реальными инструментами и данными через стандартный протокол. Проект готов к использованию в производстонных средах (High) и имеет сильные сигналы о своем потенциале, включая активную деятельность, широкую адопцию и сильную экосистему.
 
 ### 中文
 
-**简短介绍**
+**项目简介**
 
-netdata/netdata 是一个开源项目，提供了 AI Powered 全栈可观察性（full stack observability）的快速路径，适合小型团队。它使用标准协议连接 AI 助手与实际工具和数据。
+netdata/netdata 是一个开源项目，提供了最快的路径来实现 AI-powered 全栈可观察性，即使是小型团队也能轻松实现。该项目通过标准协议连接 AI 助手和真实工具和数据。
 
 **价值**
 
-netdata/netdata 的价值在于，它帮助连接 AI 助手与真实的工具和数据，通过标准协议实现这一点。它还提供了 Model Context Protocol 服务器的部署和标准化的集成。
+netdata/netdata 帮助连接 AI 助手和真实工具和数据，通过标准协议实现这一点。它可以帮助连接 AI 代理到工具上，部署 Model Context Protocol 服务器，并标准化集成。
 
 **典型接入方式**
 
-netdata/netdata 的接入方式包括：
+netdata/netdata 提供了多种接入方式，包括：
 
-* 连接 AI 代理到工具
+* 连接 AI 代理到工具上
 * 部署 Model Context Protocol 服务器
 * 标准化集成
 
 **生产可用性**
 
-netdata/netdata 的生产可用性非常高，受到了强烈的采用和生态系统信号，其 GitHub star 数量达到 79389，forks 数量达到 6495，它的代码更新频率较高，使用的主要语言是 Go。因此，netdata/netdata 是一个非常可靠的开源项目，适合用于生产环境。
+netdata/netdata 的生产可用性很高，受到了强大的社区支持，最近的活动和采用率都很强。它的 GitHub 星数高达 79389，fork 数高达 6495。它的主要语言是 Go，支持 20 个主题。
 
 ## 🧭 Practical evaluation
 

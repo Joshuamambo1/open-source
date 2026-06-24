@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [HKUDS/nanobot](./hkuds-nanobot.md) | ⭐ 44.7k | Python | 90/100 |
-| 2 | [frain-dev/convoy](./frain-dev-convoy.md) | ⭐ 2.8k | Go | 87/100 |
-| 3 | [superplanehq/superplane](./superplanehq-superplane.md) | ⭐ 3.1k | Go | 87/100 |
+| 2 | [puppeteer/puppeteer](./puppeteer-puppeteer.md) | ⭐ 95.2k | TypeScript | 88/100 |
+| 3 | [frain-dev/convoy](./frain-dev-convoy.md) | ⭐ 2.8k | Go | 87/100 |
 
 ---
 

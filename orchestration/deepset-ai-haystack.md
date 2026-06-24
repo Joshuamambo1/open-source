@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.6k |
+| ⭐ **Stars** | 25.7k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | MDX |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,45 +27,49 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ### English
 
-**Project Summary:**
+**Summary:** 
+Haystack is an open-source AI orchestration framework that enables developers to build scalable, production-ready applications with Large Language Models (LLMs). It allows for modular pipeline design, explicit control over retrieval, routing, memory, and generation, making it suitable for a wide range of applications such as semantic search, conversational systems, and multimodal applications.
 
-Deepset-ai/haystack is an open-source AI orchestration framework that enables developers to build scalable, context-engineered, and production-ready Large Language Model (LLM) applications. This modular framework provides explicit control over retrieval, routing, memory, and generation, making it suitable for a wide range of use cases, including RAG, multimodal applications, semantic search, and conversational systems. By turning isolated prompts and tools into repeatable agent workflows, haystack helps organizations streamline their AI development processes.
+**Value Proposition:** 
+The primary value proposition of Haystack lies in its ability to transform isolated prompts and tools into repeatable agent workflows. This enables developers to create scalable and production-ready applications with minimal effort, making it an attractive choice for organizations looking to leverage the power of LLMs.
 
-**Value Proposition:**
+**Practical Adoption Path:** 
+To adopt Haystack, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the framework, they can integrate it into their existing infrastructure by designing modular pipelines and workflows. This may involve adding tool-use pipelines, standardizing agent memory, and coordinating multi-agent workflows.
 
-The primary value of haystack lies in its ability to standardize and automate AI development workflows, making it easier for organizations to build and deploy scalable LLM applications. By providing a modular framework for designing agent workflows, haystack enables developers to integrate multiple tools and components, reducing the complexity and time required to build and maintain AI systems.
-
-**Practical Adoption Path:**
-
-To adopt haystack, developers should start by evaluating the framework through a small proof of concept and reviewing the project's README documentation. This will help identify potential integration challenges and ensure that the project meets their specific needs. Once the feasibility of haystack has been established, developers can begin integrating the framework into their existing AI development workflows, starting with small-scale projects and gradually scaling up to more complex
+**Production Readiness:** 
+Haystack is considered production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for serious pilots. Its high production readiness score is further reinforced by its 25658 GitHub stars, 2877 forks, and regular updates. However
 
 ### Русский
 
-Резюме проекта deepset-ai/haystack:
+Резюме:
 
-deepset-ai/haystack - это открытое исходное кода фреймворк для построения контекстно-оптимизированных, готовых к использованию приложений на основе нейронных сетей. Этот фреймворк позволяет создавать модульные потоки и агентные работы с явным контролем над извлечением, маршрутизацией, памятью и генерацией. Deepset-ai/haystack идеально подходит для масштабируемых агентов, RAG, multimodal приложений, семантических поисков и системных диалогов.
+Проект deepset-ai/haystack представляет собой открытый источник фреймворк для оркестровки искусственного интеллекта, позволяющий создавать контекстно-оптимизированные и готовые к производству приложения на основе машинного обучения. deepset-ai/haystack позволяет проектировать модульные потоки и работы агентов с явным контролем над извлечением, маршрутизацией, памятью и генерацией. Это удобно для масштабируемых агентов, RAG, мульти-модальных приложений, семантического поиска и системных диалогов.
 
-Внедрение deepset-ai/haystack может быть полезно для координации многоагентных потоков, добавления воронок инструментов и стандартизации агентной памяти. Фреймворк уже имеет высокий уровень готовности к использованию в production (86/100), что подтверждается его активностью, распространением и экосистемными сигналами.
+deepset-ai/haystack идеален для реализации типового сценария внедрения, когда изолированные команды и инструменты необходимо объединить в повторяемые агентные потоки. Это может быть полезно для координации многоагентных потоков, добавления инструментальных потоков и стандартизации агентной памяти.
 
-Чтобы начать интеграцию, рекомендуется начать с небольшого proof of concept и провер
+Проект ready к production: высокий уровень готовности к производству, обусловленный активностью
 
 ### 中文
 
-**深度学习集成框架：deepset-ai/haystack**
-
-deepset-ai/haystack 是一个开源的 AI 集成框架，用于构建基于上下文的生产级大规模语言模型（LLM）应用。它提供了一个模块化的管道和代理工作流设计，允许用户控制检索、路由、内存和生成。
+**简短介绍**
+deepset-ai/haystack 是一个开源 AI orchestration 框架，用于构建高级 LLM 应用程序。它允许设计模块化的管道和代理工作流程，控制检索、路由、内存和生成。适用于可扩展代理、RAG、多模态应用、语义搜索和对话系统。
 
 **价值**
-
-deepset-ai/haystack 的主要价值在于它可以帮助将孤立的提示和工具转化为可重复的代理工作流，从而提高开发效率和应用可扩展性。
+deepset-ai/haystack 的价值在于，它可以将孤立的提示和工具转换为可重复的代理工作流程。它有助于协调多个代理工作流程、添加工具使用管道和标准化代理内存。
 
 **典型接入方式**
+典型接入方式是：
 
-1. **协调多代理工作流**: 使用 deepset-ai/haystack，可以轻松地在多个代理之间协调工作流，实现更复杂的任务。
-2. **添加工具使用管道**: 可以通过 deepset-ai/haystack 添加工具使用管道，提高工作流的灵活性和可扩展性。
-3. **标准化代理内存**: 使用 deepset-ai/haystack，可以标准化代理内存，从而提高工作流的可靠性和可维护性。
+1. 协调多个代理工作流程
+2. 添加工具使用管道
+3. 标准化代理内存
 
-**生产可用
+**生产可用性**
+deepset-ai/haystack 的生产可用性高，主要原因是：
+
+* 最近活动：最近有活跃的维护和更新。
+* 采用：有强烈的采用和生态系统信号。
+* 评分：86/100 的评分表明它是一个
 
 ## 🧭 Practical evaluation
 
@@ -83,9 +87,9 @@ deepset-ai/haystack 的主要价值在于它可以帮助将孤立的提示和工
 
 **Quality signals**
 
-- 25643 GitHub stars
+- 25658 GitHub stars
 - 2877 forks
-- updated 2026-06-23
+- updated 2026-06-24
 - primary language: MDX
 - 20 topics
 
@@ -109,4 +113,4 @@ deepset-ai/haystack 的主要价值在于它可以帮助将孤立的提示和工
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/deepset-ai/haystack) · [← Back to Orchestration](./README.md)</sub>

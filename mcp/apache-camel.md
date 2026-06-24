@@ -27,64 +27,43 @@ MCP · AI/ML · Backend · Data · Database
 
 ### English
 
-**Apache Camel Overview**
+**Apache Camel: A Standardized Integration Framework**
 
-Apache Camel is an open-source integration framework that enables seamless connections between AI assistants and real tools and data using a standard protocol. With over 350+ connectors and support for languages such as Java, YAML, and XML, Camel makes it easy to write routes and integrate with various technologies.
+Apache Camel is an open-source integration framework that enables seamless connectivity between AI assistants and real-world tools and data through a standardized protocol. With 350+ connectors and support for various programming languages (Java, YAML, XML) and runtimes (Spring Boot, Quarkus, standalone), it provides a flexible and scalable solution for integrating diverse systems.
 
-**Value Proposition**
-
-The value proposition of Apache Camel lies in its ability to standardize integrations between AI agents and tools, making it an essential tool for connecting different systems and facilitating data exchange. By using Camel, developers can create robust and scalable integration pipelines that can be easily maintained and updated.
-
-**Adoption Path**
-
-To adopt Apache Camel, developers can follow these practical steps:
-
-1. **Evaluate the framework**: Review the documentation and codebase to understand the framework's capabilities and limitations.
-2. **Choose a Camel implementation**: Select a suitable Camel implementation, such as Spring Boot or Quarkus, based on your project's requirements.
-3. **Write routes**: Create Camel routes using Java, YAML, or XML to define the integration logic.
-4. **Integrate with tools and data**: Use Camel's connectors to integrate with various tools and data sources.
-5. **Test and deploy**: Test the integration pipeline and deploy it to a production environment.
-
-**Production Readiness**
-
-Apache
+The value proposition of Apache Camel lies in its ability to standardize integrations and facilitate the connection of AI agents to tools, making it an attractive choice for organizations seeking to streamline their data exchange processes. The practical adoption path involves evaluating the framework's implementation signals, language metadata, and focused topics, followed by a thorough review of the license, security posture, and active maintainers. With recent activity, strong adoption, and a robust ecosystem, Apache Camel is considered production-ready, making it a suitable candidate for serious pilots.
 
 ### Русский
 
 Резюме проекта apache/camel:
 
-Apache Camel - это открытое интеграционное решение, предоставляющее более 350 подключений. Оно позволяет создавать маршруты на Java, YAML или XML и запускать их на Spring Boot, Quarkus или в standalone-режиме. Проект под лицензией Apache 2.0.
+Apache Camel - это открытая интеграционная фреймворк, предоставляющий более 350 соединителей для интеграции различных систем и приложений. Он позволяет писать маршруты на Java, YAML или XML и запускать на Spring Boot, Quarkus или standalone. Проект имеет высокий уровень готовности к production и сильное сообщество поддержки.
 
-Проект готов к внедрению в production на высоком уровне, благодаря его активности, широкой адопции и сильному экосистемному сигналу. Типовой сценарий внедрения - это соединение AI-агентов с реальными инструментами и данными через стандартный протокол.
+Проект apache/camel особенно полезен для подключения AI-ассистентов к реальным инструментам и данным через стандартный протокол. Типовой сценарий внедрения - это соединение AI-агентов с инструментами, развертывание серверов Model Context Protocol и стандартизация интеграций.
+
+Проект apache/camel имеет высокий уровень готовности к production, обусловленный активностью разработчиков, широкой адопцией и сильным сообществом поддержки. Однако, как и любой открытый проект, он требует тщательного обзора лицензионных, безопасности и метаданных рисков.
 
 ### 中文
 
 **Apache Camel 简介**
 
-Apache Camel 是一个开源集成框架，提供了 350+ 个连接器。它支持在 Java、YAML 或 XML 中编写路由，并且可以在 Spring Boot、Quarkus 或独立模式下运行。Apache Camel 采用 Apache License 2.0。
+Apache Camel 是一个开源集成框架，支持 350+ 连接器。它允许使用 Java、YAML 或 XML 编写路由，并支持在 Spring Boot、Quarkus 或独立模式下运行。Apache License 2.0 授权。
 
 **价值**
 
-Apache Camel 帮助连接 AI 助手到真实的工具和数据通过标准协议。它使得连接 AI 代理到工具、部署 Model Context Protocol 服务器和标准化集成变得更加容易。
+Apache Camel 帮助连接 AI 助手到真实工具和数据通过标准协议。它使得 AI 代理能够与其他系统进行集成，标准化集成流程。
 
 **典型接入方式**
 
-典型的接入方式包括：
+Apache Camel 的典型接入方式包括：
 
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化集成
+1. 连接 AI 代理到工具：通过 Apache Camel，AI 代理可以与其他系统进行通信，例如数据存储、API 或其他服务。
+2. 部署 Model Context Protocol 服务器：Apache Camel 支持部署 Model Context Protocol 服务器，用于标准化 AI 代理与其他系统之间的通信。
+3. 标准化集成：Apache Camel 提供了一个标准的集成框架，允许开发人员轻松集成 AI 代理到其他系统。
 
 **生产可用性**
 
-Apache Camel 的生产可用性很高，原因包括：
-
-* 最近的活动和采用率
-* 强大的生态系统信号
-* 高评分（90/100）
-* 大量 GitHub 星星和分支（6245 个星星，5134 个分支）
-
-但是，仍然需要进行最终的评估，包括检查许可证、安全态势和活跃维护者。
+Apache Camel 的生产可用性非常高，拥有近 6245 个 GitHub 星星和 5133 个
 
 ## 🧭 Practical evaluation
 
@@ -103,7 +82,7 @@ Apache Camel 的生产可用性很高，原因包括：
 **Quality signals**
 
 - 6245 GitHub stars
-- 5134 forks
+- 5133 forks
 - updated 2026-06-24
 - primary language: Java
 - 16 topics

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 142.8k |
-| 🍴 **Forks** | 20.5k |
+| 🍴 **Forks** | 20.6k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,51 +27,58 @@ MCP · Knowledge/RAG · AI/ML · Frontend · Backend
 
 ### English
 
-**Project Summary**
+**Project Summary:**
 
-Open-webui/open-webui is an open-source, user-friendly AI interface that enables seamless connectivity between AI assistants and real tools and data through a standard protocol called Model Context Protocol (MCP). This platform allows for easy integration of AI agents with various tools, standardizing the process and facilitating widespread adoption. With its high production readiness, open-webui/open-webui is a promising candidate for serious pilot projects.
+open-webui/open-webui is an open-source, user-friendly AI interface that seamlessly connects AI assistants to real tools and data through a standard protocol. This project enables developers to integrate AI agents with various tools, standardize integrations, and ship Model Context Protocol servers. With its high production readiness and strong community adoption, open-webui/open-webui offers a robust foundation for AI-powered applications.
 
-**Value Proposition**
+**Value Proposition:**
 
-The value proposition of open-webui/open-webui lies in its ability to connect AI assistants to real tools and data through a standard protocol, making it easier to integrate AI agents with various applications. This standardization enables developers to focus on building AI-powered applications rather than worrying about the intricacies of AI assistant integrations.
+The open-webui/open-webui project provides a standardized protocol for connecting AI assistants to real tools and data, enabling developers to create more efficient and effective AI-powered applications. This value lies in the ability to:
 
-**Adoption Path**
+* Integrate AI agents with various tools and systems
+* Standardize integrations across different platforms and technologies
+* Leverage the power of AI in real-world applications
 
-The adoption path for open-webui/open-webui is relatively straightforward. Developers can start by evaluating the implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations. The project's recent activity, adoption, and ecosystem signals are strong enough to support serious pilot projects, making it a promising candidate for widespread adoption.
+**Practical Adoption Path:**
 
-**Production Readiness**
+To adopt open-webui/open-webui, developers can follow these steps:
 
-Open-webui/open-webui has a
+1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement to ensure it meets your project's requirements.
+2. **Choose an AI assistant**: Select an AI assistant (e.g., Ollama, OpenAI API) that supports the open-webui/open-webui protocol.
+3. **Implement the integration**: Use the provided
 
 ### Русский
 
 Резюме проекта open-webui/open-webui:
 
-"open-webui/open-webui - это открытый проект интерфейса для взаимодействия с AI-ассистентами, предлагающий стандартный протокол для интеграции с реальными инструментами и данными. Этот проект позволяет соединять AI-агентов с инструментами, упрощая процесс интеграции и стандартизации. Проект имеет высокий уровень готовности к production, с сильными метриками активности, внедрения и экосистемы, и является идеальным выбором для серьезного пилота."
+Проект open-webui/open-webui представляет собой дружественный пользователю интерфейс для взаимодействия с искусственным интеллектом (ИИ), поддерживающий различные платформы, включая Ollama и OpenAI API. Этот проект позволяет соединять ИИ-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его идеальным решением для интеграции ИИ в различные бизнес-процессы. Проект готов к использованию в production (94/100), имеет активное сообщество и сильное экосистемное влияние, что делает его отличным выбором для serious пилота.
 
 ### 中文
 
 **项目简介**
 
-open-webui/open-webui 是一个友好的 AI 接口项目，支持 Ollama、OpenAI API 等。它提供了一种标准协议，让 AI 助手能够连接到真实的工具和数据。
+open-webui/open-webui 是一个友好的 AI 接口，支持 Ollama、OpenAI API 等。它通过标准协议连接 AI 助手与真实工具和数据。
 
 **价值**
 
-open-webui/open-webui 帮助连接 AI 助手到真实的工具和数据，通过标准协议实现。它的价值在于让开发者能够轻松地接入 AI 助手，提高开发效率和体验。
+open-webui/open-webui 帮助连接 AI 助手与真实工具和数据，通过标准协议实现这一点。它提供了一个连接 AI 代理与工具的方法，标准化了集成。
 
 **典型接入方式**
 
 典型接入方式包括：
 
-1. 连接 AI 代理到工具：open-webui/open-webui 提供了一个标准协议，让 AI 代理能够连接到工具和数据。
-2. 部署 Model Context Protocol 服务器：开发者可以部署 Model Context Protocol 服务器，来接入 AI 助手。
-3. 标准化集成：open-webui/open-webui 提供了一个标准化的接口，让开发者能够轻松地集成 AI 助手。
+* 连接 AI 代理到工具
+* 部署 Model Context Protocol 服务器
+* 标准化集成
 
 **生产可用性**
 
-open-webui/open-webui 的生产可用性很高，主要原因包括：
+open-webui/open-webui 具备较高的生产可用性，具有以下特点：
 
-1. 近期活动：项目最近有活跃的开发和
+* 近期活动
+* 广泛的采用
+* 强大的生态系统
+* 高质量的代码（142841 GitHub 星标，20578 个分支）
 
 ## 🧭 Practical evaluation
 
@@ -89,8 +96,8 @@ open-webui/open-webui 的生产可用性很高，主要原因包括：
 
 **Quality signals**
 
-- 142776 GitHub stars
-- 20544 forks
+- 142841 GitHub stars
+- 20578 forks
 - updated 2026-06-24
 - primary language: Python
 - 15 topics

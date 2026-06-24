@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,60 +27,69 @@ Automation · Backend · DevTools
 
 ### English
 
-**Project Overview: Puppeteer**
+**Project Summary**
 
-Puppeteer is an open-source, JavaScript API for automating Chrome and Firefox browsers, allowing developers to remove repetitive manual operations from their workflows. With Puppeteer, users can connect tools into repeatable flows, schedule operational tasks, and automate complex browser interactions.
+Puppeteer is an open-source, JavaScript API for automating Chrome and Firefox browsers, streamlining workflows by removing repetitive manual tasks. This project offers a straightforward integration path, allowing developers to connect tools into repeatable flows and schedule operational tasks. With its high production readiness and strong ecosystem signals, Puppeteer is an attractive solution for automating browser interactions.
 
 **Value Proposition**
 
-The value of Puppeteer lies in its ability to streamline workflows by automating repetitive tasks, freeing up developers to focus on more strategic and creative work. By leveraging Puppeteer, users can increase efficiency, reduce errors, and improve overall productivity.
+The primary value proposition of Puppeteer lies in its ability to automate repetitive manual operations, freeing developers from mundane tasks and increasing productivity. By leveraging Puppeteer, teams can:
+
+* Remove manual work and reduce errors
+* Connect tools into repeatable flows for efficient workflows
+* Schedule operational tasks to run automatically
 
 **Practical Adoption Path**
 
-Adopting Puppeteer is a straightforward process. Here's a step-by-step guide:
+To adopt Puppeteer, developers can follow these steps:
 
-1. **Get started**: Install Puppeteer using npm or yarn.
-2. **Choose a browser**: Select either Chrome or Firefox to automate.
-3. **Write automation scripts**: Use Puppeteer's API to create scripts that automate browser interactions.
-4. **Integrate with tools**: Connect Puppeteer with other tools and services to create repeatable workflows.
-5. **Schedule and run**: Schedule operational tasks and run automation scripts as needed.
+1. **Evaluate and integrate**: Assess Puppeteer's API and SDK to determine its suitability for the project's needs.
+2. **Develop and test**: Write Puppeteer scripts to automate specific tasks and test them thoroughly.
+3. **Refine and optimize**: Continuously refine and optimize Puppeteer scripts to ensure efficiency and reliability.
 
 **Production Readiness**
 
-Puppeteer has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem. With over 95,000 GitHub stars and 9
+Puppeteer boasts a high production readiness score due to its:
+
+* **Recent activity**: Regular updates and maintenance ensure the project remains relevant and effective.
+* **
 
 ### Русский
 
-Резюме:
+Резюме проекта puppeteer/puppeteer:
 
-Пuppeteer - это JavaScript API для автоматизации работы с Chrome и Firefox, которое позволяет упростить и автоматизировать повторяющиеся задачи, избавившись от необходимости ручного входа. Typical сценарий внедрения включает в себя замену ручного труда на автоматизированные процессы, а также интеграцию инструментов в повторяющиеся потоки. Puppeteer полностью готов к внедрению в продакшн, поскольку имеет высокую готовность к использованию, активную поддержку и сильное влияние на экосистему.
+Пuppeteer/puppeteer - это JavaScript API для автоматизации работы с Chrome и Firefox, которое позволяет удалить повторяющиеся ручные операции из потока работы. Этот проект подходит для удаления ручной работы, интеграции инструментов в повторяющиеся потоки и расписания операционных задач. Проект готов к production на высоком уровне, с сильными сигналами активности, внедрения и экосистемы.
 
 ### 中文
 
 **简短介绍**
 
-Puppeteer 是一个用于 Chrome 和 Firefox 的 JavaScript API，帮助开发者自动化重复的操作，使工作流程更加高效。它提供了 API、SDK、CLI 等接入方式，支持 TypeScript 语言。
+Puppeteer 是一个用于 Chrome 和 Firefox 的 JavaScript API，旨在帮助开发者自动化重复的操作，提高工作效率。它可以帮助移除手动操作，连接工具形成可重复的流程，甚至可以定时执行操作。
 
 **价值**
 
-Puppeteer 的价值在于帮助开发者移除重复的手动操作，从而提高工作效率。它可以连接工具和流程，使操作更加自动化，方便地实现重复任务的自动化。
+Puppeteer 的价值在于，它可以帮助开发者：
+
+* 移除重复的手动操作
+* 连接工具形成可重复的流程
+* 定时执行操作
 
 **典型接入方式**
 
-Puppeteer 提供了多种接入方式，包括：
+Puppeteer exposes API/SDK/CLI 等接口，易于评估和集成。开发者可以通过以下方式接入 Puppeteer：
 
-* API：通过 API 来调用 Puppeteer 的功能。
-* SDK：使用 Puppeteer 的 SDK 来整合到自己的应用中。
-* CLI：通过命令行接口来使用 Puppeteer 的功能。
+* 使用 API：直接调用 Puppeteer 的 API
+* 使用 SDK：使用 Puppeteer 的软件开发工具包
+* 使用 CLI：使用 Puppeteer 的命令行接口
 
 **生产可用性**
 
-Puppeteer 的生产可用性很高，主要原因是：
+Puppeteer 的生产可用性非常高，主要原因是：
 
-* 最近的活动和采用率很强。
-* 生态系统的信号强。
-* GitHub 上有 95,210 个星标和 9,464 个分支，表明其受欢迎程度。
-* 最近一次更新是 2026-06-23，表明其开发者仍然积
+* 近期活跃：最近有活跃的开发和维护
+* 大规模采用：有大量的 GitHub 星星和 Fork
+* 强大的生态系统：有强大的生态系统支持，包括 TypeScript 等语言
+* 高质量信
 
 ## 🧭 Practical evaluation
 
@@ -98,9 +107,9 @@ Puppeteer 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 95210 GitHub stars
-- 9464 forks
-- updated 2026-06-23
+- 95216 GitHub stars
+- 9467 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 9 topics
 
@@ -124,4 +133,4 @@ Puppeteer 的生产可用性很高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Automation](./README.md)</sub>

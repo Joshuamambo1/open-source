@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18k |
+| ⭐ **Stars** | 18.1k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,48 +27,66 @@ Orchestration · MCP · AI/ML · Backend · DevTools
 
 ### English
 
-**Summary:** mksglu/context-mode is an open-source project that optimizes context windows for AI coding agents, reducing tool output and persisting session memory while enforcing routing across 17 platforms. This project enables the creation of repeatable agent workflows by coordinating multi-agent workflows, adding tool-use pipelines, and standardizing agent memory. It is production-ready, with strong adoption and ecosystem signals.
+**Project Summary:**
 
-**Value:** The value proposition of mksglu/context-mode lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it an essential tool for AI coding agents. By standardizing agent memory and enforcing routing across multiple platforms, this project enables more efficient and scalable AI coding workflows.
+mksglu/context-mode is an open-source project that optimizes context window management for AI coding agents, reducing tool output by 98% and persisting session memory. It enforces routing across 17 platforms via MCP + hooks, enabling repeatable agent workflows. This project helps turn isolated prompts and tools into standardized agent memory pipelines.
 
-**Practical Adoption Path:** To adopt mksglu/context-mode, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's recent activity, adoption, and ecosystem signals indicate a straightforward evaluation process. Once adopted, developers can integrate the project into their existing workflows, leveraging its features to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory.
+**Value Proposition:**
 
-**Production Readiness:** mksglu/context-mode is considered production-ready, with strong adoption and ecosystem signals. Its recent activity, 18,014 GitHub stars,
+The primary value proposition of mksglu/context-mode lies in its ability to standardize agent memory, making it easier to coordinate multi-agent workflows and add tool-use pipelines. This standardization enables developers to create repeatable agent workflows, reducing errors and increasing productivity.
+
+**Practical Adoption Path:**
+
+To adopt mksglu/context-mode, developers can follow these steps:
+
+1. Evaluate the project's API/SDK/CLI, language metadata, and focused topics to understand its implementation signals.
+2. Assess the project's production readiness, considering its recent activity, adoption, and ecosystem signals.
+3. Review the project's license, security posture, and active maintainers to ensure they meet your organization's requirements.
+4. Integrate mksglu/context-mode into your existing infrastructure, taking advantage of its features such as sandboxing tool output, persisting session memory, and enforcing routing across 17 platforms.
+
+**Production Read
 
 ### Русский
 
 Резюме проекта mksglu/context-mode:
 
-mksglu/context-mode - это open-source проект, который обеспечивает оптимизацию окна контекста для агентов AI-кодирования, сокращая до 98% вывод инструментов в песочницах, сохраняя сессионную память и обеспечивая маршрутизацию на 17 платформах с помощью MCP + hooks. Этот проект особенно полезен для координации многозадачных потоков и стандартизации памяти агентов. Проект имеет высокий уровень готовности к production (94/100), что делает его идеальным кандидатом для серьезного пилота.
+Проект mksglu/context-mode предназначен для оптимизации контекстного окна для агентов кодирования на основе AI, обеспечивая сокращение объема вывода инструментов до 98%, сохранение сессионной памяти и обеспечение маршрутизации данных на 17 платформах. Этот проект особенно полезен для координации многоагентных потоков и стандартизации памяти агента. mksglu/context-mode готов к внедрению в производство, поскольку имеет высокий уровень готовности (94/100), недавнюю активность, широкое принятие и сильные сигналы экосистемы.
 
 ### 中文
 
-**简短介绍**
+**mksglu/context-mode 简介**
 
-mksglu/context-mode 是一个开源项目，旨在优化 AI 编码代理的上下文窗口。它通过沙箱工具输出（减少 98%）、持久会话内存和 MCP + 钩子强制路由来实现。该项目有 94 分，评分高，适合 Orchestration、MCP、AI/ML、Backend 和 DevTools 等类别。
+mksglu/context-mode 是一个开源项目，旨在优化 AI 编码代理的上下文窗口。它通过沙盒工具输出（98% 减少），持久化会话内存，并通过 MCP + 钩子强制路由在 17 个平台上。该项目的价值在于，它可以帮助将孤立的提示和工具转换为可重复的代理工作流程。
 
 **价值**
 
-mksglu/context-mode 帮助将孤立的提示和工具转换为可重复的代理工作流程。它的价值在于：
+mksglu/context-mode 的价值在于，它可以帮助开发者：
 
-* 协调多代理工作流程
+* 协调多代理工作流
 * 添加工具使用管道
 * 标准化代理内存
 
 **典型接入方式**
 
-该项目提供了API/SDK/CLI等实现信号，语言元数据和专注主题， Looks 直观易于评估。您可以通过以下方式接入：
+该项目提供了多种接入方式，包括：
 
-* 使用 API 或 SDK
-* 利用 CLI
-* 导入语言元数据
-* 焦点特定主题
+* API
+* SDK
+* CLI
+* 语言元数据
+* 焦点话题
+
+评估该项目的接入方式似乎比较直接。
 
 **生产可用性**
 
-该项目具有高生产可用性，评分为 94 分。它具有以下特征：
+该项目的生产可用性很高，主要原因是：
 
-* 最近
+* 近期活跃度
+* 广泛的采用
+* 强大的生态系统信号
+* 高分数（94/100）
+* 强大的 GitHub 星标数（
 
 ## 🧭 Practical evaluation
 
@@ -86,9 +104,9 @@ mksglu/context-mode 帮助将孤立的提示和工具转换为可重复的代理
 
 **Quality signals**
 
-- 18014 GitHub stars
-- 1271 forks
-- updated 2026-06-23
+- 18082 GitHub stars
+- 1274 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 20 topics
 
@@ -112,4 +130,4 @@ mksglu/context-mode 帮助将孤立的提示和工具转换为可重复的代理
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/mksglu/context-mode) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/mksglu/context-mode) · [← Back to Orchestration](./README.md)</sub>

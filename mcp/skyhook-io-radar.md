@@ -27,54 +27,54 @@ MCP · Frontend · Backend · Observability · DevOps/Infra
 
 ### English
 
-**Project Summary**
+**Project Summary:**
 
-Radar is an open-source Kubernetes UI that provides a comprehensive platform for topology management, event timelines, service traffic monitoring, resource browsing, and Helm management. It facilitates the connection of AI assistants to real tools and data through a standard protocol, enabling seamless integrations. With its high production readiness, Radar is an ideal candidate for serious pilots.
+Radar is an open-source Kubernetes UI that provides a comprehensive view of cluster topology, event timelines, and service traffic, along with resource browsing and Helm management capabilities. This project is designed to connect AI assistants to real tools and data through a standard protocol, enabling seamless integrations and standardization. With a high production readiness score, Radar is an attractive option for serious pilots and organizations looking to leverage its features.
 
-**Value Proposition**
+**Value Proposition:**
 
-Radar offers a standardized protocol for connecting AI assistants to real tools and data, allowing for streamlined integrations and improved collaboration between humans and AI systems. This value proposition enables businesses to leverage AI more effectively, enhance decision-making, and drive innovation.
+The value proposition of Radar lies in its ability to connect AI assistants to real tools and data through a standard protocol, facilitating seamless integrations and standardization. This enables organizations to leverage the full potential of their AI-powered tools and data, while also promoting a more unified and efficient infrastructure.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-To adopt Radar, follow these steps:
+To adopt Radar, organizations can follow these steps:
 
-1. **Evaluate**: Assess Radar's implementation signals, such as APIs, SDKs, and CLI, to ensure it aligns with your organization's needs.
-2. **Integrate**: Connect your AI agents to Radar and explore its features, including topology management, event timelines, and service traffic monitoring.
-3. **Standardize**: Implement the Model Context Protocol (MCP) to enable standardized integrations with other tools and data sources.
-4. **Pilot**: Run a serious pilot with Radar to test its capabilities, scalability, and performance in your production environment.
-
-**Production Readiness**
-
-Radar
+1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
+3. Review the project's license, security posture, and active maintainers to ensure they meet organizational requirements.
+4. Integrate Radar with existing tools and data sources, using its standard protocol to facilitate seamless connections.
+5. Monitor and optimize Radar's
 
 ### Русский
 
 Резюме проекта skyhook-io/radar:
 
-Skyhook-io/radar - это открытый исходный код проект Kubernetes UI, который предоставляет топологию, ленту событий, трафик сервисов, просмотр ресурсов и управление Helm. Этот проект помогает соединить интеллектуальные помощники с реальными инструментами и данными через стандартный протокол. Skyhook-io/radar готов к производственной эксплуатации и имеет высокий уровень готовности, с сильными сигналами активности, приёма и экосистемы.
+skyhook-io/radar - это открытый исходный код Kubernetes UI, который обеспечивает визуализацию топологии, событийного графика и трафика сервисов, а также позволяет просматривать ресурсы и управлять Helm. Этот проект идеально подходит для подключения AI-ассистентов к реальным инструментам и данным через стандартный протокол. skyhook-io/radar готов к масштабированию в production, поскольку показывает активность, внедрения и сигналы экосистемы, что делает его подходящей опцией для серьезного пилотного проекта.
 
 ### 中文
 
 **简短介绍**
 
-skyhook-io/radar 是一个开源 Kubernetes UI 项目，提供了拓扑图、事件时间线、服务流量等功能，Plus 资源浏览和 Helm 管理。该项目帮助连接 AI 辅助器与真实工具和数据，并通过标准协议实现这一目标。
+skyhook-io/radar 是一个开源 Kubernetes UI，提供了拓扑视图、事件时间线、服务流量监控、资源浏览和 Helm 管理等功能。它帮助连接 AI 助手与真实工具和数据，通过标准协议实现。
 
 **价值**
 
-skyhook-io/radar 的价值在于，它提供了一个标准化的接口，帮助连接 AI 辅助器与真实工具和数据。通过使用该项目，开发者可以更方便地将 AI 辅助器与现有的工具和服务集成。
+skyhook-io/radar 的价值在于，它帮助连接 AI 助手与真实工具和数据，实现标准化的集成。这使得开发者可以更轻松地将 AI 代理连接到工具和数据源中。
 
 **典型接入方式**
 
-该项目提供了 API、SDK 和 CLI 等接口，开发者可以通过这些接口将 AI 辅助器与 skyhook-io/radar 集成。具体来说，开发者可以使用以下方式接入：
+典型的接入方式包括：
 
-* 使用 API 接口将 AI 辅助器与 skyhook-io/radar 集成
-* 使用 SDK 接口将 AI 辅助器与 skyhook-io/radar 集成
-* 使用 CLI 接口将 AI 辅助器与 skyhook-io/radar 集成
+1. 将 Model Context Protocol 服务器部署到生产环境中。
+2. 使用 skyhook-io/radar 的 API、SDK 或 CLI 来连接 AI 代理。
+3. 利用 skyhook-io/radar 的拓扑视图、事件时间线和服务流量监控功能来监控和分析 AI 代理的行为。
 
 **生产可用性**
 
-skyhook-io/radar 的生产可
+skyhook-io/radar 在生产环境中的可用性很高，主要原因包括：
+
+1. 近期的活跃度：项目最近有活跃的维护和更新。
+2. Adoption：项目有较高的
 
 ## 🧭 Practical evaluation
 
@@ -92,7 +92,7 @@ skyhook-io/radar 的生产可
 
 **Quality signals**
 
-- 2465 GitHub stars
+- 2470 GitHub stars
 - 134 forks
 - updated 2026-06-24
 - primary language: Go

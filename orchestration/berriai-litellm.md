@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51.3k |
+| ⭐ **Stars** | 51.4k |
 | 🍴 **Forks** | 9.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 95/100 |
@@ -27,57 +27,48 @@ Orchestration · MCP · AI/ML · Backend · Database
 
 ### English
 
-**Project Summary**
+**Project Summary:**
 
-BerriAI/litellm is an open-source Python SDK and proxy server that enables seamless integration with over 100 Large Language Model (LLM) APIs, providing features such as cost tracking, guardrails, load balancing, and logging. This project helps turn isolated prompts and tools into repeatable agent workflows, making it an ideal solution for coordinating multi-agent workflows and standardizing agent memory. With its high production readiness and strong ecosystem signals, BerriAI/litellm is a promising candidate for serious pilots.
+BerriAI/litellm is an open-source Python SDK that serves as a proxy server for calling over 100 Large Language Model (LLM) APIs. It provides cost tracking, guardrails, load balancing, and logging capabilities, making it an ideal solution for turning isolated prompts and tools into repeatable agent workflows. With its high production readiness, strong adoption, and recent activity, it's an attractive option for serious pilots.
 
-**Value Proposition**
+**Value Proposition:**
 
-The value proposition of BerriAI/litellm lies in its ability to simplify the integration process with various LLM APIs, allowing developers to focus on building workflows rather than handling the complexities of each API individually. By providing a unified interface and features such as cost tracking and guardrails, BerriAI/litellm helps reduce the risk and effort associated with deploying LLM-based applications.
+BerriAI/litellm offers a unified interface to various LLM APIs, enabling users to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory. This SDK helps organizations streamline their AI/ML workflows, reduce costs, and improve overall efficiency.
 
-**Practical Adoption Path**
+**Practical Adoption Path:**
 
-The adoption path for BerriAI/litellm involves the following steps:
+To adopt BerriAI/litellm, users can follow these steps:
 
-1. **Evaluation**: Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its suitability for your use case.
-2. **Integration**: Integrate BerriAI/l
+1. Evaluate the SDK's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. Assess the SDK's production readiness, including its recent activity, adoption, and ecosystem signals.
+3. Review the SDK's license, security posture, and active maintainers to ensure they meet the organization's requirements.
+4. Integrate the SDK into existing workflows, starting with small-scale pilots.
+5
 
 ### Русский
 
-Резюме BerriAI/litellm:
+Резюме проекта BerriAI/litellm:
 
-BerriAI/litellm - это открытый исходный код проект, предоставляющий Python SDK и Proxy Server (AI Gateway) для вызова более 100 API моделей языка (LLM) в формате OpenAI (или native). Это позволяет автоматизировать и координировать сложные агентные потоки, повышая эффективность и уменьшая затраты на развитие и поддержку.
+BerriAI/litellm — это открытый исходный код проект, который представляет собой Python SDK и прокси-сервер (gateway AI) для вызова 100+ API LLM в формате OpenAI (или native). Это позволяет стандартизировать агентные потоки и координировать мульти-агентные работы. 
 
-Типовой сценарий внедрения: координирование многоагентных потоков, интеграция инструментов и стандартизация агентной памяти. BerriAI/litellm идеально подходит для организаций, которые хотят повысить эффективность своих агентных потоков и снизить затраты на разработку и поддержку.
-
-Уровень готовности к production: высокий. Проект имеет сильные показатели активности, приёма и экосистемных сигналов, что делает его готовым к серьёзному пилоту.
+Проект готов к пилотной реализации и имеет высокий уровень готовности к производству, благодаря активной поддержке и сильным сигналам экосистемы.
 
 ### 中文
 
-**简短介绍**
+**BerriAI/litellm 简介**
 
-BerriAI/litellm 是一个开源项目，提供了一个 Python SDK 和代理服务器（AI Gateway），用于调用超过 100 个 LLM API，支持 OpenAI 和原生格式。它还提供了成本跟踪、防护屏障、负载均衡和日志功能。
+BerriAI/litellm 是一个开源项目，提供了一个 Python SDK 和代理服务器（AI Gateway），用于调用超过 100 个 LLM API（例如 OpenAI 或原生格式），并提供成本跟踪、守护rails、负载均衡和日志功能。该项目支持多个 AI 平台，包括 Bedrock、Azure、OpenAI、VertexAI、Cohere、Anthropic、Sagemaker、HuggingFace 和 NVIDIA NIM。
 
 **价值**
 
-BerriAI/litellm 帮助将孤立的提示和工具转换为可重复使用的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道和标准化代理内存。
+BerriAI/litellm 的价值在于，它可以帮助将孤立的提示和工具转化为可重复的代理工作流。通过使用该项目，可以简化多代理工作流的协调、添加工具使用管道和标准化代理内存。
 
 **典型接入方式**
 
-BerriAI/litellm 可以通过以下方式接入：
+BerriAI/litellm 提供了 API/SDK/CLI 等接口，可以方便地与其他系统集成。您可以使用以下方式接入该项目：
 
-* 使用 Python SDK 来调用 LLM API
-* 使用 CLI 来管理代理服务器
-* 集成到现有的管道和工作流中
-
-**生产可用性**
-
-BerriAI/litellm 有很高的生产可用性，理由如下：
-
-* 最近活跃，采用率和生态系统信号强大
-* GitHub 星星数高达 51346，fork 数高达 9119
-* 主要语言是 Python，14 个话题
-* 但仍需要进一步
+* API：通过 API 调用 BerriAI/litellm 的功能。
+* SDK：使用 BerriAI/litellm SDK 在您的应用中集成该项目
 
 ## 🧭 Practical evaluation
 
@@ -95,8 +86,8 @@ BerriAI/litellm 有很高的生产可用性，理由如下：
 
 **Quality signals**
 
-- 51346 GitHub stars
-- 9119 forks
+- 51358 GitHub stars
+- 9122 forks
 - updated 2026-06-24
 - primary language: Python
 - 14 topics

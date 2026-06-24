@@ -27,56 +27,53 @@ Orchestration · Automation · AI/ML · Frontend
 
 ### English
 
-**Summary:** Microsoft Agent Framework is an open-source project that enables developers to build, orchestrate, and deploy AI agents and multi-agent workflows with support for Python and .NET. This framework helps turn isolated prompts and tools into repeatable agent workflows, making it a valuable tool for AI/ML and automation tasks. With its strong adoption, recent activity, and high production readiness, it's a promising candidate for serious pilots.
+**Summary:** 
 
-**Value Proposition:** The value of Microsoft Agent Framework lies in its ability to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows. This allows developers to turn isolated tasks into repeatable workflows, increasing efficiency and productivity.
+Microsoft Agent Framework is an open-source project that enables developers to build, orchestrate, and deploy AI agents and multi-agent workflows with support for Python and .NET. This framework helps turn isolated prompts and tools into repeatable agent workflows, simplifying the process of coordinating complex tasks. With its strong ecosystem signals and high production readiness, it's an attractive choice for serious pilots.
 
-**Practical Adoption Path:**
+**Value Proposition:** 
+The Microsoft Agent Framework offers significant value by providing a standardized way to build and manage AI agents, making it easier to create repeatable workflows and integrate various tools. This framework helps streamline complex tasks, reducing the need for manual intervention and increasing efficiency.
 
-1. **Evaluate the Framework:** Assess the framework's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets your project's requirements.
-2. **Explore Use Cases:** Identify potential use cases, such as coordinating multi-agent workflows or adding tool-use pipelines, to determine how the framework can benefit your project.
-3. **Review Documentation:** Study the framework's documentation to understand its capabilities, limitations, and best practices.
-4. **Pilot the Framework:** Start with a small-scale pilot project to test the framework's functionality and identify any potential issues
+**Practical Adoption Path:** 
+To adopt the Microsoft Agent Framework, developers can follow these steps:
+
+1. **Evaluate**: Assess the framework's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+2. **Explore**: Review the framework's documentation, tutorials, and examples to understand its capabilities and limitations.
+3. **Pilot**: Implement a small-scale project to test the framework's features and ensure it meets the project's requirements.
+4. **Integration**: Integrate the framework with existing tools and workflows, and refine the implementation as needed.
+5. **Deployment**: Deploy the framework in a
 
 ### Русский
 
 Резюме проекта microsoft/agent-framework:
 
-Проект microsoft/agent-framework представляет собой фреймворк для создания, координации и развертывания интеллектуальных агентов и многоагентных потоков, поддерживающий Python и .NET. Он позволяет превратить изолированные команды и инструменты в повторяемые агентные потоки, что делает его идеальным решением для координации многоагентных потоков и стандартизации агентной памяти. Проект готов к эксплуатации на высоком уровне, что делает его подходящей платформой для серьезного пилотного проекта.
+microsoft/agent-framework - это открытый фреймворк для построения, оркестровки и развертывания агентов AI и рабочих процессов с поддержкой Python и .NET. Он позволяет превратить изолированные команды и инструменты в повторяемые рабочие процессы агентов, что делает его идеальным решением для координации сложных рабочих процессов и.standardизации агентной памяти. Фреймворк готов к продакшену на высоком уровне, с сильными сигналами recent activity, adoption и экосистемы, что делает его подходящим кандидатом для серьезного пилота.
 
 ### 中文
 
-**项目简介**
+**Microsoft Agent Framework 简介**
 
-Microsoft/Agent-Framework 是一个开源框架，用于构建、协调和部署 AI 代理和多代理工作流，支持 Python 和 .NET 语言。它可以帮助将孤立的提示和工具转化为可重复的代理工作流。
+Microsoft Agent Framework 是一个开源框架，用于构建、orchestrate 和部署 AI 代理和多代理工作流，支持 Python 和 .NET 语言。
 
 **价值**
 
-Microsoft/Agent-Framework 的价值在于，它可以帮助您：
-
-* 协调多代理工作流
-* 添加工具使用管道
-* 标准化代理内存
+Microsoft Agent Framework 帮助您将孤立的提示和工具转化为可重复的代理工作流，使得您能够更轻松地协调多代理工作流、添加工具使用管道和标准化代理内存。
 
 **典型接入方式**
 
-该框架提供了多种接入方式，包括：
+该框架通过 API、SDK 和 CLI 等接口提供了实现信号，方便评估和集成。具体来说，它支持：
 
-* API
-* SDK
-* CLI
-* 语言元数据
-* 专注主题
+* API：提供 API 接口，方便开发者调用和集成。
+* SDK：提供 SDK，方便开发者快速构建和部署 AI 代理。
+* CLI：提供命令行接口，方便开发者快速操作和管理 AI 代理。
 
 **生产可用性**
 
-该框架的生产可用性很高，主要原因是：
+该框架具有很高的生产可用性，主要原因包括：
 
-* 近期活跃度
-* 良好的采用率
-* 强大的生态系统信号
-
-但是，还需要进一步评估其许可证、安全态势和主管的状态。
+* 近期活跃：框架最近有活跃的维护和更新。
+* Adoption：框架有较高的采用率和生态系统信号。
+* Quality signals：框
 
 ## 🧭 Practical evaluation
 
@@ -94,8 +91,8 @@ Microsoft/Agent-Framework 的价值在于，它可以帮助您：
 
 **Quality signals**
 
-- 11595 GitHub stars
-- 1957 forks
+- 11616 GitHub stars
+- 1960 forks
 - updated 2026-06-24
 - primary language: Python
 - 10 topics
@@ -112,7 +109,7 @@ Microsoft/Agent-Framework 的价值在于，它可以帮助您：
 | production | 84/100 |
 | outlook | 96/100 |
 | adoption | 85/100 |
-| stars | 86/100 |
+| stars | 87/100 |
 | forks | 82/100 |
 | recency | 100/100 |
 | topics | 100/100 |

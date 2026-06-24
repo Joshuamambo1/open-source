@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hey-api/hey-api](./hey-api-hey-api.md) | ⭐ 5k | TypeScript | 93/100 |
+| 1 | [rorkai/App-Store-Connect-CLI](./rorkai-app-store-connect-cli.md) | ⭐ 4.9k | Go | 88/100 |
 
 ---
 

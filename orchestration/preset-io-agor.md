@@ -27,59 +27,52 @@ Orchestration · MCP · AI/ML · DevTools
 
 ### English
 
-**Project Summary:**
+**Project Summary**
 
-preset-io/agor is an open-source project that enables teams to orchestrate AI sessions, manage collaborative workflows, and visualize agent interactions in real-time. This platform helps turn isolated tools and prompts into repeatable workflows, streamlining the development and deployment of AI-powered projects. By leveraging agor, teams can standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows.
+preset-io/agor is an open-source project that enables teams to orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas, streamlining AI-powered workflows and visualizing team collaboration in real-time. This tool helps standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows, making it an essential DevTools for AI/ML teams. With its high production readiness and strong ecosystem signals, agor is an attractive candidate for serious pilots.
 
-**Value Proposition:**
+**Value Proposition**
 
-The value proposition of preset-io/agor lies in its ability to transform isolated tools and prompts into repeatable workflows, making it easier for teams to develop and deploy AI-powered projects. By providing a centralized platform for managing AI sessions, agor enables teams to standardize agent memory, track AI conversations, and visualize team interactions in real-time.
+The value proposition of preset-io/agor lies in its ability to transform isolated prompts and tools into repeatable agent workflows, making it easier for teams to collaborate and achieve more efficient results. By standardizing agent memory and adding tool-use pipelines, teams can improve their productivity and reduce errors.
 
-**Practical Adoption Path:**
+**Practical Adoption Path**
 
-To adopt preset-io/agor, teams can follow these steps:
+The adoption path for preset-io/agor is relatively straightforward. Teams can start by evaluating the project's API/SDK/CLI, language metadata, and focused topics to determine its suitability for their specific use cases. Once the project is selected, teams can integrate it into their existing workflows, using its features to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows.
 
-1. **Evaluate the project**: Assess the project's features, documentation, and community support to ensure it meets their needs.
-2. **Integrate with existing tools**: agor provides API/SDK/CLI implementation signals, making it straightforward to integrate with existing tools and workflows.
-3. **Configure and customize**: Set up and configure agor to suit their specific use case, including adding tool-use pipelines and standardizing agent
+**Production Readiness**
+
+preset-io/agor has a high production readiness, with recent activity
 
 ### Русский
 
-Резюме проекта preset-io/agor:
+Резюме:
 
-Пreset-io/agor - это open-source проект, который позволяет координировать и управлять комплексными агентскими workflow-ами на основе кода, используя функции Code, Codex и Gemini. Это решение идеально подходит для команд, которые хотят стандартизировать агентную память и добавлять инструментальные пайплайны для своих агентов. Проект уже готов к внедрению в production, поскольку имеет высокий уровень готовности (High), недавнюю активность и сильный эkosистемный потенциал.
+Представляем open-source проект preset-io/agor - инструмент для оркестрации Code, Codex и Gemini сессий на мультиплеерной канве. Благодаря этому проекту вы сможете координировать мульти-агентные потоки, добавлять пайплайны использования инструментов и стандартизировать агентный меморий. Представленный проект уже готов к serious пилоту и имеет высокую степень готовности к production.
 
 ### 中文
 
-**preset-io/agor 简介**
+**简短介绍**
 
-preset-io/agor 是一个开源项目，旨在协调 Claude、Codex 和 Gemini 会话，管理 Git 工作树，跟踪 AI 对话，并实时可视化团队的代理工作。
+preset-io/agor 是一个开源项目，旨在协调 Claude、Codex 和 Gemini 会话在多人画布上的执行。它可以管理 Git 工作树、跟踪 AI 会话和实时可视化团队的代理工作。
 
 **价值**
 
-preset-io/agor 帮助将孤立的提示和工具转换为可重复的代理工作流程。它提供了以下价值：
-
-* 协调多代理工作流程
-* 添加工具使用管道
-* 标准化代理记忆
+preset-io/agor 帮助将孤立的提示和工具转化为可重复的代理工作流程，提高了团队的工作效率和协调性。
 
 **典型接入方式**
 
 preset-io/agor 可以通过以下方式接入：
 
-* API/SDK：通过 API 或 SDK 接入preset-io/agor
-* CLI：通过命令行界面接入preset-io/agor
-* 语言元数据：通过语言元数据接入preset-io/agor
+* API/SDK：使用preset-io/agor的API或SDK来协调多代理工作流程。
+* CLI：使用preset-io/agor的命令行工具来管理 Git 工作树和跟踪 AI 会话。
+* 集成：将preset-io/agor与其他工具或平台集成，以提高协调性和工作效率。
 
 **生产可用性**
 
-preset-io/agor 在生产环境中具有高可用性，具备以下特点：
+preset-io/agor 的生产可用性很高，主要原因是：
 
-* 近期活动：项目最近有活动
-* Adoption：项目被广泛采用
-* 生态系统信号：项目有强大的生态系统信号
-* GitHub 星星：1272 个 GitHub 星星
-* 主
+* 最近的活跃度：最近有活跃的开发和维护。
+* 广泛的采用：有 1273 个 GitHub 星和 108 个分叉
 
 ## 🧭 Practical evaluation
 
@@ -97,7 +90,7 @@ preset-io/agor 在生产环境中具有高可用性，具备以下特点：
 
 **Quality signals**
 
-- 1272 GitHub stars
+- 1273 GitHub stars
 - 108 forks
 - updated 2026-06-24
 - primary language: TypeScript

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,55 +27,47 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ### English
 
-Here's a brief summary of the PraisonAI open-source project:
+**Project Summary:**
+PraisonAI is an open-source project that enables users to deploy autonomous, self-improving AI agents with 24/7 capabilities. With a simple 5-line code deployment, PraisonAI allows users to create workflows that research, plan, code, and execute tasks using various Large Language Models (LLMs). This project helps turn isolated prompts and tools into repeatable agent workflows.
 
-PraisonAI is a 24/7 AI workforce that enables users to deploy autonomous self-improving agents with built-in memory, research, planning, coding, and execution capabilities. With a simple 5-line deployment, users can turn isolated prompts and tools into repeatable agent workflows, streamlining their productivity and efficiency. PraisonAI's high production readiness, recent activity, and strong ecosystem signals make it a promising candidate for serious pilots.
+**Value Proposition:**
+PraisonAI's primary value lies in its ability to transform isolated AI tools and prompts into cohesive, repeatable workflows. This enables users to streamline their tasks, improve efficiency, and reduce the need for manual coding. By automating repetitive tasks, users can focus on high-level decision-making and strategy.
 
-**Value:** The value proposition of PraisonAI lies in its ability to turn isolated tools and prompts into repeatable workflows, enabling users to coordinate multi-agent tasks, add tool-use pipelines, and standardize agent memory. This results in increased productivity, efficiency, and automation.
+**Practical Adoption Path:**
+To adopt PraisonAI, users can start by evaluating its API/SDK/CLI implementation and exploring its language metadata and focused topics. The project's straightforward integration process allows users to easily evaluate its capabilities. Once familiar with the project, users can begin to create their own workflows by coordinating multi-agent tasks, adding tool-use pipelines, and standardizing agent memory.
 
-**Practical Adoption Path:** The adoption path for PraisonAI appears straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can start by evaluating the project's GitHub repository, exploring its documentation, and experimenting with its features.
-
-**Production Readiness:** PraisonAI's production readiness is high, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. The project's GitHub stars (8217), forks (1274),
+**Production Readiness:**
+PraisonAI demonstrates high production readiness, with strong signals of recent activity, adoption, and ecosystem adoption. The project's recent update (
 
 ### Русский
 
 Резюме проекта MervinPraison/PraisonAI:
 
-ПраисонАй - это уникальная платформа AI-роботизации, которая позволяет создавать автономные агенты, способные исследовать, планировать, кодировать и выполнять задачи. Это идеальный инструмент для команд, которые хотят повысить эффективность и ускорить процесс разработки, превратив изолированные команды и инструменты в повторяющиеся агентские потоки. 
+ПраисонАЙ - это открытое программное обеспечение, которое позволяет создавать автономные агенты, способные исследовать, планировать, кодировать и выполнять задачи. Это идеальный инструмент для команд, которые хотят повысить эффективность и скорость разработки. Typical сценарий внедрения: установка агентов, координация многоагентных потоков и стандартизация агентной памяти.
 
-Типовым сценарием внедрения PraisonАй является координация сложных задач, требующих совместной работы множества агентов. Например, компания может использовать PraisonАй для автоматизации сложных бизнес-процессов, таких как разработка и тестирование программного обеспечения.
-
-Проект PraisonАй находится на высоком уровне готовности к производству, с сильной активностью, адопцией и сигналами экосистемы. Он имеет более 8 тысяч звезд на GitHub и поддерживает 100+ LLM (Large Language Models). Однако, как и любой другой проект, он требует тщательного обзора
+Проект готов к сериозному пилоту, поскольку имеет сильные сигналы по активности, внедрению и экосистеме, а также хороший уровень готовности к production (87/100).
 
 ### 中文
 
 **简短介绍**
 
-PraisonAI 是一个开源项目，允许您在 5 行代码中部署一个 24/7 的 AI 力量。它支持多种语言模型 (LLMs) 和内置的记忆和 RAG 功能，使您可以轻松创建自我改进的智能代理，负责研究、规划、编码和执行任务。
+PraisonAI 是一个开源项目，提供了一个 24/7 的 AI 力量，帮助开发者快速部署自我完善的智能代理，用于研究、计划、编码和执行任务。它支持 100+ 种语言模型，并且可以在仅 5 行代码中部署。
 
 **价值**
 
-PraisonAI 的主要价值在于帮助您将孤立的提示和工具转换为可重复的代理工作流程。它适用于多种场景，例如：
-
-* 协调多个代理的工作流程
-* 添加工具使用流水线
-* 标准化代理内存
+PraisonAI 的主要价值在于帮助开发者将孤立的提示和工具转换为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道和标准化代理存储。
 
 **典型接入方式**
 
-PraisonAI 提供 API、SDK 和 CLI 等接入方式，使得您可以轻松评估和集成它。具体来说，它暴露了以下实现信号：
+PraisonAI 可以通过以下方式接入：
 
-* API/SDK/CLI
-* 语言元数据
-* 焦点主题
+1. API/SDK：通过 API 或 SDK 接入 PraisonAI 的功能和服务。
+2. CLI：使用 PraisonAI 的命令行界面来管理和控制代理。
+3. 语言元数据：通过语言元数据来了解和使用 PraisonAI 支持的语言模型。
 
 **生产可用性**
 
-PraisonAI 的生产可用性非常高，主要原因包括：
-
-* 近期活跃
-* 广泛的采用
-* 强大的生态系统信号
+PraisonAI 的生产可用性非常高，尤其是考虑到它的最近活跃度、采用率和生态系统信号。它已经获得了 8229 个 GitHub 星
 
 ## 🧭 Practical evaluation
 
@@ -93,9 +85,9 @@ PraisonAI 的生产可用性非常高，主要原因包括：
 
 **Quality signals**
 
-- 8217 GitHub stars
-- 1274 forks
-- updated 2026-06-23
+- 8229 GitHub stars
+- 1276 forks
+- updated 2026-06-24
 - primary language: Python
 - 20 topics
 
@@ -119,4 +111,4 @@ PraisonAI 的生产可用性非常高，主要原因包括：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/MervinPraison/PraisonAI) · [← Back to Orchestration](./README.md)</sub>

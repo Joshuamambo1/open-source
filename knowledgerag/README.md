@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [genkit-ai/genkit](./genkit-ai-genkit.md) | ⭐ 6.1k | TypeScript | 86/100 |
+| 1 | [samchon/nestia](./samchon-nestia.md) | ⭐ 2.2k | TypeScript | 86/100 |
 
 ---
 

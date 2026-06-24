@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 904 |
-| 🍴 **Forks** | 71 |
+| 🍴 **Forks** | 70 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,54 +29,47 @@ MCP · Automation · AI/ML · Frontend · Backend
 
 **Project Summary**
 
-Rheosoph/Flow-Like is an open-source, strongly typed, enterprise-scale workflow solution that enables seamless integration of AI assistants with real tools and data through a standard protocol. This project offers a scalable, fast, and customizable platform for connecting AI agents to tools, standardizing integrations, and shipping Model Context Protocol servers. With its high production readiness and strong ecosystem signals, Flow-Like is an attractive choice for serious pilots and production deployments.
+Rheosoph/Flow-Like is an open-source project that enables strongly typed, enterprise-scale workflows for seamless AI integration and rich customization. This project helps connect AI assistants to real tools and data through a standard protocol, making it easier to standardize integrations and ship Model Context Protocol servers. With its high production readiness and strong ecosystem signals, Rheosoph/Flow-Like is an attractive option for serious pilots.
 
 **Value Proposition**
 
-The primary value proposition of Rheosoph/Flow-Like lies in its ability to connect AI assistants to real tools and data through a standard protocol. This enables organizations to leverage AI capabilities in a more efficient and effective manner, streamlining workflows and improving overall productivity.
+The value of Rheosoph/Flow-Like lies in its ability to connect AI agents to tools and data, streamlining the integration process and enabling businesses to leverage AI more effectively. By providing a standard protocol, this project facilitates communication between AI systems and real-world tools, making it easier to develop and deploy AI-powered applications.
 
 **Practical Adoption Path**
 
-To adopt Rheosoph/Flow-Like, organizations can follow these steps:
+To adopt Rheosoph/Flow-Like, follow these steps:
 
-1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their technical requirements.
-2. Review the project's license, security posture, and active maintainers to assess potential risks.
-3. Evaluate the project's production readiness, considering factors such as recent activity, adoption, and ecosystem signals.
-4. Pilot the project in a controlled environment to test its scalability, speed
+1. **Evaluate the project**: Review the codebase, documentation, and community engagement to ensure it meets your requirements.
+2. **Assess integration signals**: Evaluate the project's API, SDK, CLI, and language metadata to gauge its ease of integration with your existing tools and infrastructure.
+3. **Review license and security posture**: Carefully examine the project's license and security posture to ensure they align with your organization's
 
 ### Русский
 
-Резюме для проекта Rheosoph/flow-like:
+Резюме проекта Rheosoph/flow-like:
 
-Реализуйте масштабируемые и высокоскоростные бизнес-процессы с помощью Rheosoph/flow-like - мощного, типизированного решения для работы с большими объемами данных. Этот проект идеально подходит для интеграции искусственного интеллекта (АИ) с реальными инструментами и данными через стандартный протокол. rheosoph/flow-like позволяет эффективно внедрить АИ в бизнес-процессы, обеспечивая высокую производительность и гибкость.
+Реализуйте сложные бизнес-процессы с помощью Rheosoph/flow-like - мощного, масштабируемого и типизированного решения для работы с потоками. Этот проект позволяет соединять интеллектуальные ассистенты с реальными инструментами и данными через стандартный протокол, упрощая интеграцию и повышая производительность. Проект готов к serious пилоту в production, имея высокий уровень готовности и сильные сигналы экосистемы.
 
 ### 中文
 
-**Rheosoph/flow-like 简介**
+**Rheosoph/flow-like 介绍**
 
-Rheosoph/flow-like 是一个开源项目，旨在提供强类型的企业级工作流管理。它以可扩展性、速度、无缝的 AI 集成和丰富的自定义为特点。
+Rheosoph/flow-like 是一个开源项目，旨在提供强类型的企业级工作流解决方案，集成机器学习和人工智能。它提供了一个标准协议，让AI助手连接到真实的工具和数据。
 
 **价值**
 
-Rheosoph/flow-like 帮助连接 AI 代理到真实的工具和数据通过标准协议，实现 AI 与业务系统的无缝整合。
+Rheosoph/flow-like 的价值在于，它帮助连接AI助手到真实的工具和数据，通过一个标准协议。它可以让开发者连接AI代理到工具，部署Model Context Protocol服务器，标准化集成。
 
 **典型接入方式**
 
-Rheosoph/flow-like 支持多种接入方式，包括：
+Rheosoph/flow-like 提供了多种接入方式，包括：
 
-* API：通过 API 接口连接 AI 代理和工具
-* SDK：通过 SDK 集成 AI 代理和工具
-* CLI：通过命令行界面连接 AI 代理和工具
+* API：通过API接口来访问工作流功能
+* SDK：通过SDK来集成工作流功能到应用中
+* CLI：通过命令行接口来管理工作流
 
 **生产可用性**
 
-Rheosoph/flow-like 已经获得了高生产可用性评分，主要原因是：
-
-* 近期活动：项目最近有活跃更新
-* 采用率：项目有较高的 GitHub 星标和分叉率
-* 生态系统信号：项目有强大的生态系统支持
-
-总的来说，Rheosoph/flow-like 是一个值得信赖的
+Rheosoph/flow-like 的生产可用性很高。它有活跃的开发者社区，常规更新，强大的生态系统信号，是一个值得考虑的开源项目。
 
 ## 🧭 Practical evaluation
 
@@ -95,8 +88,8 @@ Rheosoph/flow-like 已经获得了高生产可用性评分，主要原因是：
 **Quality signals**
 
 - 904 GitHub stars
-- 71 forks
-- updated 2026-06-23
+- 70 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 19 topics
 
@@ -120,4 +113,4 @@ Rheosoph/flow-like 已经获得了高生产可用性评分，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/Rheosoph/flow-like) · [← Back to Mcp](./README.md)</sub>

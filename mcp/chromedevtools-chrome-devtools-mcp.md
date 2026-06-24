@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,51 +27,57 @@ MCP · AI/ML · Backend
 
 ### English
 
-Here's a brief summary of the ChromeDevTools/chrome-devtools-mcp project:
+**Project Summary**
 
-**Summary:**
-ChromeDevTools/chrome-devtools-mcp is an open-source project that enables seamless integration of AI assistants with real tools and data through a standardized protocol, known as the Model Context Protocol (MCP). This project facilitates connections between AI agents and tools, standardizing integrations and making it easier for developers to build and deploy AI-powered applications. With a high production readiness score and strong ecosystem signals, this project is well-suited for serious piloting and adoption.
+ChromeDevTools/chrome-devtools-mcp is an open-source project that enables the connection of AI assistants to real tools and data through a standard protocol, known as the Model Context Protocol (MCP). This project facilitates the integration of AI agents with various tools, allowing for seamless access to data and functionality. With its high production readiness and strong ecosystem signals, this project offers a promising solution for developers looking to standardize integrations and ship MCP servers.
 
-**Value:**
-The value proposition of ChromeDevTools/chrome-devtools-mcp lies in its ability to connect AI assistants to real tools and data, enabling developers to build more sophisticated and integrated AI-powered applications. This standardizes integrations, making it easier for developers to work with AI agents and tools, and reducing the complexity of building and deploying AI-powered applications.
+**Value Proposition**
 
-**Practical Adoption Path:**
-The adoption path for ChromeDevTools/chrome-devtools-mcp is straightforward. Developers can connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations using the exposed implementation signals, such as API/SDK/CLI, language metadata, or focused topics. With recent activity, adoption, and ecosystem
+The ChromeDevTools/chrome-devtools-mcp project offers several key benefits:
+
+* **Standardized Integrations**: By providing a standard protocol for connecting AI assistants to tools and data, this project simplifies the integration process and reduces the risk of errors or compatibility issues.
+* **Increased Efficiency**: With a standardized protocol, developers can focus on building their AI agents and tools, rather than spending time on integration and compatibility issues.
+* **Improved Collaboration**: By enabling AI assistants to interact with real tools and data, this project facilitates collaboration between developers, AI researchers, and other stakeholders.
+
+**Practical Adoption Path**
+
+To adopt ChromeDevTools/chrome-devtools-mcp, developers can follow these steps:
+
+1. **Explore the Project**: Review the project's documentation, codebase, and examples to understand its
 
 ### Русский
 
-Резюме проекта ChromeDevTools/chrome-devtools-mcp:
+Резюме:
 
-ChromeDevTools/chrome-devtools-mcp - это открытый-source проект, который позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол. Этот проект особенно полезен в сценариях, когда необходимо интегрировать AI-агентов с другими системами, например, для автоматизации задач или улучшения пользовательского интерфейса. Проект готов к внедрению на производственный уровень, обладая высокими показателями активности, внедрения и экосистемных сигналов, что делает его идеальным кандидатом для серьезного пилотного проекта.
+"ChromeDevTools/chrome-devtools-mcp - это открытое исходное кодовое решение, которое соединяет AI-ассистентов с реальными инструментами и данными посредством стандартного протокола. Это позволяет разработчикам подключать AI-агентов к инструментам и стандартизировать интеграции. Проект готов к сериозному пилотажу, с высоким уровнем готовности к production, благодаря активной деятельностью, широкой адоптации и сильным сигналам экосистемы."
 
 ### 中文
 
-**ChromeDevTools/chrome-devtools-mcp 简介**
+**ChromeDevTools/chrome-devtools-mcp 项目简介**
 
-ChromeDevTools/chrome-devtools-mcp 是一个开源项目，旨在连接编程代理（AI 辅助工具）与现实工具和数据。它提供了一个标准协议，让 AI 辅助工具能够与其他工具和数据进行交互。
+ChromeDevTools/chrome-devtools-mcp 是一个开源项目，旨在为编码代理提供 Chrome DevTools。它通过标准协议连接 AI 辅助工具与真实数据。
 
 **价值**
 
-ChromeDevTools/chrome-devtools-mcp 的价值在于，它帮助连接 AI 辅助工具与现实工具和数据，从而使得 AI 辅助工具能够更好地进行协作和交互。它还提供了一个标准协议，让不同工具和数据之间能够进行标准化的集成。
+ChromeDevTools/chrome-devtools-mcp 帮助连接 AI 辅助工具与真实数据，提供标准化的协议和工具集。它的价值在于简化了 AI 辅助工具与其他工具和数据的集成。
 
 **典型接入方式**
 
-典型接入方式包括：
+接入方式包括：
 
-* 连接 AI 辅助工具到工具中
+* 连接 AI 辅助工具到真实工具
 * 部署 Model Context Protocol 服务器
 * 标准化集成
 
 **生产可用性**
 
-ChromeDevTools/chrome-devtools-mcp 的生产可用性很高，主要原因是：
+项目的生产可用性非常高，它有:
 
-* 有强烈的社区支持和活跃维护
-* 有大量的 GitHub Star 和 Fork
-* 使用 TypeScript 语言，具有高质量的代码
-* 有强烈的生态系统信号
+* 近期活跃的开发活动
+* 强大的采用和生态系统信号
+* 高质量的代码和维护者
 
-但是，还
+总的来说，ChromeDevTools/chrome-devtools-mcp 是一个有价值的开源项目，具有高生产可用性和强大的生态系统支持。
 
 ## 🧭 Practical evaluation
 
@@ -89,9 +95,9 @@ ChromeDevTools/chrome-devtools-mcp 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 44258 GitHub stars
-- 2861 forks
-- updated 2026-06-23
+- 44307 GitHub stars
+- 2864 forks
+- updated 2026-06-24
 - primary language: TypeScript
 - 8 topics
 
@@ -115,4 +121,4 @@ ChromeDevTools/chrome-devtools-mcp 的生产可用性很高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/ChromeDevTools/chrome-devtools-mcp) · [← Back to Mcp](./README.md)</sub>

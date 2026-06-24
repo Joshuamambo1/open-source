@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-24 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -29,56 +29,58 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · DevTools
 
 **Project Summary:**
 
-HKUDS/DeepTutor is an open-source project that enables the creation of personalized tutoring workflows for agents. By turning isolated prompts and tools into repeatable workflows, DeepTutor facilitates coordination, standardization, and automation of agent interactions. This innovative solution has a high production readiness score, making it suitable for serious pilot adoption.
+HKUDS/DeepTutor is an open-source project that enables the creation of personalized, agent-native tutoring workflows. This project helps integrate isolated tools and prompts into repeatable workflows, making it easier to coordinate multi-agent interactions and standardize agent memory. With its Python implementation and high production readiness, DeepTutor is suitable for piloting and adoption.
 
 **Value Proposition:**
 
-The primary value of HKUDS/DeepTutor lies in its ability to streamline agent workflows, making it easier to integrate multiple tools and prompts into cohesive processes. By standardizing agent memory and enabling tool-use pipelines, DeepTutor enhances the efficiency and effectiveness of agent interactions. This, in turn, can lead to improved outcomes in various domains, such as education, customer support, and research.
+The value of HKUDS/DeepTutor lies in its ability to streamline the process of creating agent workflows, making it more efficient and effective. By turning isolated prompts and tools into repeatable workflows, users can:
+
+* Coordinate multi-agent interactions with ease
+* Add tool-use pipelines to enhance automation
+* Standardize agent memory for better consistency
 
 **Practical Adoption Path:**
 
-To adopt HKUDS/DeepTutor, users can start by:
+To adopt HKUDS/DeepTutor, users can follow these steps:
 
-1. Evaluating the project's implementation signals, including API/SDK/CLI, language metadata, and focused topics.
-2. Reviewing the project's documentation and community resources to understand its capabilities and limitations.
-3. Integrating DeepTutor into their existing workflows, starting with small-scale pilots to test its feasibility and effectiveness.
-4. Collaborating with the project maintainers and community to contribute to the
+1. Evaluate the project's implementation signals, such as APIs, SDKs, and CLI tools.
+2. Review the project's language metadata and focused topics to ensure alignment with their needs.
+3. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
+4. Conduct a final review of the project's license, security posture, and active maintainers to ensure they meet the user's requirements
 
 ### Русский
 
-Резюме проекта HKUDS/DeepTutor:
+Резюме:
 
-HKUDS/DeepTutor — это открытое исходное решение для агент-ориентированной персонализированной обучения, которое позволяет превращать изолированные команды и инструменты в повторяемые агентные потоки. Этот проект особенно полезен для координации многоагентных потоков, добавления пайплайнов использования инструментов и стандартизации агентной памяти. HKUDS/DeepTutor имеет высокую готовность к production, что делает его привлекательным кандидатом для серьезного пилотного проекта.
+HKUDS/DeepTutor - это open-source проект, который предоставляет Agent-native Personalized Tutoring (DeepTutor). Он помогает превратить изолированные команды и инструменты в повторяемые потоки работы агента, что делает его идеальным решением для координации мульти-агентных потоков, добавления пайплайнов использования инструментов и стандартизации памяти агента.
+
+Типичный сценарий внедрения: DeepTutor может быть полезен в сценариях, когда необходимо автоматизировать и оптимизировать работу агентов, координируя их действия и стандартизируя использование инструментов.
+
+Уровень готовности к production: DeepTutor имеет высокий уровень готовности к production, подтвержденный активностью разработчиков, адопцией и сигналами экосистемы, что делает его достойным кандидатом для серьезного пилота.
 
 ### 中文
 
-**HKUDS/DeepTutor 简介**
+**简短介绍**
 
-HKUDS/DeepTutor 是一个开源项目，旨在帮助开发者将孤立的命令和工具整合成为可重复的代理工作流程。它提供了 Agent-native 个人化指导的功能，可以协调多代理工作流程、添加工具使用管道和标准化代理内存。
+HKUDS/DeepTutor 是一个开源项目，旨在帮助开发者将孤立的指令和工具转化为可重复的代理工作流。它通过协调多代理工作流、添加工具使用管道和标准化代理记忆来实现这一目标。
 
 **价值**
 
-HKUDS/DeepTutor 的主要价值在于：
-
-* 协调多代理工作流程，提高效率
-* 添加工具使用管道，简化流程
-* 标准化代理内存，提高安全性
+HKUDS/DeepTutor 的价值在于它可以帮助开发者提高工作效率，通过自动化代理工作流和标准化代理记忆来减少开发和维护成本。
 
 **典型接入方式**
 
-HKUDS/DeepTutor 可以通过以下方式接入：
+典型的接入方式包括：
 
-* API：通过 API 来调用 DeepTutor 的功能
-* SDK：通过 SDK 来集成 DeepTutor 的功能
-* CLI：通过命令行接口来使用 DeepTutor 的功能
+1. API/SDK/CLI：通过暴露 API/SDK/CLI 接口，开发者可以使用 HKUDS/DeepTutor 来协调多代理工作流和添加工具使用管道。
+2. 语言元数据：通过提供语言元数据，开发者可以使用 HKUDS/DeepTutor 来标准化代理记忆。
 
 **生产可用性**
 
 HKUDS/DeepTutor 的生产可用性较高，主要原因是：
 
-* 有 24932 个 GitHub star 和 3374 个 forks
-* 最近有活动，且有强大的生态系统支持
-* 使用 Python
+1. 近期活动：HKUDS/DeepTutorRecently 有活跃的开发者社区和维护者。
+2. 广泛采用
 
 ## 🧭 Practical evaluation
 
@@ -96,9 +98,9 @@ HKUDS/DeepTutor 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 24932 GitHub stars
-- 3374 forks
-- updated 2026-06-23
+- 24946 GitHub stars
+- 3377 forks
+- updated 2026-06-24
 - primary language: Python
 - 9 topics
 
@@ -122,4 +124,4 @@ HKUDS/DeepTutor 的生产可用性较高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/HKUDS/DeepTutor) · [← Back to Orchestration](./README.md)</sub>

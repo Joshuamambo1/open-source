@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 822 |
+| 🍴 **Forks** | 823 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,59 +27,15 @@ MCP · Automation · AI/ML · Frontend · Data
 
 ### English
 
-**Summary**
-
-LobsterAI is an open-source, desktop-grade AI agent that enables real work to be done by connecting AI assistants to real tools and data through a standard protocol. Built on OpenClaw, it allows for seamless integration with various tools and services, including data analysis, slide creation, and web research. With strong ecosystem signals and recent activity, LobsterAI is ready for serious pilot adoption.
-
-**Value Proposition**
-
-The primary value proposition of LobsterAI lies in its ability to connect AI agents to real tools and data through a standard protocol, making it easier to integrate AI assistants into existing workflows. This standardization enables developers to build more efficient and effective AI-powered solutions.
-
-**Practical Adoption Path**
-
-To adopt LobsterAI, developers can follow these steps:
-
-1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
-3. Review the license, security posture, and active maintainers to ensure they meet the project's requirements.
-4. Integrate LobsterAI with existing tools and services using its standard protocol.
-5. Test and refine the integration to ensure seamless interaction between AI assistants and real tools.
-
-**Production
+netease-youdao/LobsterAI: netease-youdao/LobsterAI helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта netease-youdao/LobsterAI:
-
-Проект LobsterAI представляет собой открытое программное обеспечение, которое позволяет создавать полноценных AI-агентов для выполнения реальных задач, таких как анализ данных, создание презентаций и документов, поиск в Интернете и видео. Этот проект предлагает стандартную протокол для подключения AI-ассистентов к реальным инструментам и данным.
-
-Типовой сценарий внедрения: проект может быть использован для подключения AI-агентов к различным инструментам и системам, например, для автоматизации задач по анализу данных или созданию документов.
-
-Уровень готовности к production: проект демонстрирует высокий уровень готовности к внедрению в производство, благодаря активности разработчиков, широкому использованию и сильному экосистемному потенциалу.
+netease-youdao/LobsterAI: open-source проект в категориях MCP, Automation, AI/ML, Frontend, Data. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**LobsterAI 简介**
-
-LobsterAI 是一个开源的桌面级 AI 代理，能够执行实用的任务，例如数据分析、幻灯片、文档、视频和网页研究。它基于 OpenClaw 构建，能够在您的桌面上运行工具，并通过 WeChat、Feishu、DingTalk 和 Telegram 等应用程序接收命令。
-
-**价值**
-
-LobsterAI 的主要价值在于连接 AI 助手到真实的工具和数据，通过标准协议提供服务。它帮助开发者连接 AI 代理到工具，部署 Model Context Protocol 服务器，标准化整合。
-
-**典型接入方式**
-
-LobsterAI 可以通过以下方式接入：
-
-1. API/SDK：暴露 API 或 SDK 让开发者可以使用 LobsterAI 的功能。
-2. CLI：提供命令行界面让开发者可以通过命令控制 LobsterAI。
-3. WeChat、Feishu、DingTalk 和 Telegram 等应用程序：通过这些应用程序接收命令和控制 LobsterAI。
-
-**生产可用性**
-
-LobsterAI 的生产可用性较高，理由如下：
-
-1. 近期活动
+netease-youdao/LobsterAI：netease-youdao/LobsterAI helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -97,8 +53,8 @@ LobsterAI 的生产可用性较高，理由如下：
 
 **Quality signals**
 
-- 5316 GitHub stars
-- 822 forks
+- 5317 GitHub stars
+- 823 forks
 - updated 2026-06-24
 - primary language: TypeScript
 - 17 topics

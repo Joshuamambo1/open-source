@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.5k |
-| 🍴 **Forks** | 3.4k |
+| ⭐ **Stars** | 49.6k |
+| 🍴 **Forks** | 3.5k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 97/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,52 +27,15 @@ Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ### English
 
-**Summary:** Headroom is an open-source project that optimizes the performance of Large Language Models (LLMs) by compressing tool outputs, logs, files, and Retrieval-Augmented Generation (RAG) chunks before they reach the LLM. This results in a significant reduction of tokens (60-95%) while maintaining accurate answers. The project provides a library, proxy, and MCP server to facilitate its integration.
-
-**Value Proposition:** Headroom offers several benefits, including:
-
-1. **Improved LLM performance**: By compressing data before it reaches the LLM, Headroom reduces the computational resources required, making it more efficient and cost-effective.
-2. **Standardized agent memory**: Headroom helps standardize agent memory, making it easier to manage and maintain complex workflows.
-3. **Repeatable agent workflows**: The project enables the creation of repeatable agent workflows, allowing for easier coordination of multi-agent tasks.
-
-**Practical Adoption Path:** To adopt Headroom, follow these steps:
-
-1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. **Integrate with your tools**: Integrate Headroom with your existing tools and workflows to compress data before it reaches the LLM.
-3
+headroomlabs-ai/headroom: headroomlabs-ai/headroom helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта headroomlabs-ai/headroom:
-
-Проект headroomlabs-ai/headroom представляет собой инструмент для сжатия выводов, логов, файлов и фрагментов RAG до тех пор, пока они не достигнут LLM, что приводит к сокращению количества токенов на 60-95% без изменения ответов. Это библиотека, прокси и сервер MCP, который помогает превратить изолированные команды и инструменты в повторяемые агентные потоки.
-
-Проект headroomlabs-ai/headroom готов к внедрению в production и имеет высокий уровень готовности, обусловленный недавней активностью, принятием и сигналами экосистемы. Это идеальный вариант для координации мультиагентных потоков, добавления пайплайнов для инструментов и стандартизации агентной памяти.
+headroomlabs-ai/headroom: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**项目简介**
-
-Headroom Labs 的 Headroom 是一个开源项目，旨在通过压缩工具输出、日志、文件和 RAG 块来减少 LLM 的 token 数量，同样保留答案。该项目提供了库、代理和 MCP 服务器。
-
-**价值**
-
-Headroom Labs 的 Headroom 帮助将孤立的提示和工具转化为可重复的代理工作流程。它可以协调多个代理工作流程、添加工具使用管道以及标准化代理内存。
-
-**典型接入方式**
-
-Headroom 提供了 API、SDK 和 CLI 等接入信号，用户可以根据自己的需求选择合适的接入方式。用户可以评估接入的实现信号，包括语言元数据或聚焦话题。
-
-**生产可用性**
-
-Headroom Labs 的 Headroom 有很高的生产可用性，主要原因是：
-
-* 最近有活动和采用
-* 项目的生态信号强大
-* GitHub 的星数和 fork 数较高（49462 和 3448）
-* 最近更新时间（2026-06-24）
-* 主要语言是 Python
-* 有 20
+headroomlabs-ai/headroom：headroomlabs-ai/headroom helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -90,8 +53,8 @@ Headroom Labs 的 Headroom 有很高的生产可用性，主要原因是：
 
 **Quality signals**
 
-- 49462 GitHub stars
-- 3448 forks
+- 49583 GitHub stars
+- 3464 forks
 - updated 2026-06-24
 - primary language: Python
 - 20 topics

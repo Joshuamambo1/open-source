@@ -27,49 +27,15 @@ Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
 
 ### English
 
-**Summary:** 
-Haystack is an open-source AI orchestration framework that enables developers to build scalable, production-ready applications with Large Language Models (LLMs). It allows for modular pipeline design, explicit control over retrieval, routing, memory, and generation, making it suitable for a wide range of applications such as semantic search, conversational systems, and multimodal applications.
-
-**Value Proposition:** 
-The primary value proposition of Haystack lies in its ability to transform isolated prompts and tools into repeatable agent workflows. This enables developers to create scalable and production-ready applications with minimal effort, making it an attractive choice for organizations looking to leverage the power of LLMs.
-
-**Practical Adoption Path:** 
-To adopt Haystack, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the framework, they can integrate it into their existing infrastructure by designing modular pipelines and workflows. This may involve adding tool-use pipelines, standardizing agent memory, and coordinating multi-agent workflows.
-
-**Production Readiness:** 
-Haystack is considered production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for serious pilots. Its high production readiness score is further reinforced by its 25658 GitHub stars, 2877 forks, and regular updates. However
+deepset-ai/haystack: deepset-ai/haystack helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме:
-
-Проект deepset-ai/haystack представляет собой открытый источник фреймворк для оркестровки искусственного интеллекта, позволяющий создавать контекстно-оптимизированные и готовые к производству приложения на основе машинного обучения. deepset-ai/haystack позволяет проектировать модульные потоки и работы агентов с явным контролем над извлечением, маршрутизацией, памятью и генерацией. Это удобно для масштабируемых агентов, RAG, мульти-модальных приложений, семантического поиска и системных диалогов.
-
-deepset-ai/haystack идеален для реализации типового сценария внедрения, когда изолированные команды и инструменты необходимо объединить в повторяемые агентные потоки. Это может быть полезно для координации многоагентных потоков, добавления инструментальных потоков и стандартизации агентной памяти.
-
-Проект ready к production: высокий уровень готовности к производству, обусловленный активностью
+deepset-ai/haystack: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-deepset-ai/haystack 是一个开源 AI orchestration 框架，用于构建高级 LLM 应用程序。它允许设计模块化的管道和代理工作流程，控制检索、路由、内存和生成。适用于可扩展代理、RAG、多模态应用、语义搜索和对话系统。
-
-**价值**
-deepset-ai/haystack 的价值在于，它可以将孤立的提示和工具转换为可重复的代理工作流程。它有助于协调多个代理工作流程、添加工具使用管道和标准化代理内存。
-
-**典型接入方式**
-典型接入方式是：
-
-1. 协调多个代理工作流程
-2. 添加工具使用管道
-3. 标准化代理内存
-
-**生产可用性**
-deepset-ai/haystack 的生产可用性高，主要原因是：
-
-* 最近活动：最近有活跃的维护和更新。
-* 采用：有强烈的采用和生态系统信号。
-* 评分：86/100 的评分表明它是一个
+deepset-ai/haystack：deepset-ai/haystack helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -87,8 +53,8 @@ deepset-ai/haystack 的生产可用性高，主要原因是：
 
 **Quality signals**
 
-- 25658 GitHub stars
-- 2877 forks
+- 25685 GitHub stars
+- 2878 forks
 - updated 2026-06-24
 - primary language: MDX
 - 20 topics

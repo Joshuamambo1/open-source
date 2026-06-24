@@ -27,43 +27,15 @@ Orchestration · MCP · Knowledge/RAG · AI/ML · Backend
 
 ### English
 
-Here's a brief summary and an explanation of the project's value, adoption path, and production readiness:
-
-**Summary:** MARM-Systems is an open-source project that enables persistent memory, context sharing, and workflow orchestration for AI models, allowing users to create repeatable agent workflows and streamline multi-agent interactions.
-
-**Value Proposition:** MARM-Systems helps users turn isolated prompts and tools into efficient, repeatable workflows by providing features such as persistent memory, cross-agent context sharing, and write queues. This enables users to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows.
-
-**Practical Adoption Path:** To adopt MARM-Systems, users can start by evaluating its implementation signals, such as its API, SDK, and CLI, as well as its language metadata and focused topics. The project's recent activity, adoption, and ecosystem signals suggest that it is production-ready, making it a viable candidate for serious pilots. Users can integrate MARM-Systems with their existing AI models, such as Claude, Codex, Grok, and Gemini, to create repeatable workflows and streamline their AI interactions.
-
-**Production Readiness:** MARM-Systems has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating that it is a stable and reliable
+Lyellr88/MARM-Systems: Lyellr88/MARM-Systems helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта Lyellr88/MARM-Systems:
-
-Проект Lyellr88/MARM-Systems предлагает решение для управления памятью и контекстом агентов в системах искусственного интеллекта и машинного обучения. Он позволяет координировать мультиагентные процессы, добавлять воронки инструментов и стандартизировать агентную память. Проект готов к внедрению в производственную среду, обладает высоким уровнем готовности к production и активной поддержкой сообщества.
-
-Типовой сценарий внедрения: Lyellr88/MARM-Systems может быть использован для оптимизации процессов в системах искусственного интеллекта и машинного обучения, где требуется координация мультиагентных процессов и стандартизация агентной памяти.
-
-Уровень готовности к production: Проект имеет высокий уровень готовности к production, подтвержденный активной поддержкой сообщества, последними обновлениями и сильными сигналами экосистемы.
+Lyellr88/MARM-Systems: open-source проект в категориях Orchestration, MCP, Knowledge/RAG, AI/ML, Backend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**项目简介**
-
-Lyellr88/MARM-Systems 是一个开源项目，旨在简化与 AI 的交互。它提供了持久性内存、跨代理上下文共享、写入队列、群体就绪预设和压缩功能，确保 AI 工作流程的可靠和高效。同时，项目附带了一个实时的 Web 控制台，用于管理记忆、日志和会话。
-
-**价值**
-
-Lyellr88/MARM-Systems 的价值在于，它可以帮助将孤立的提示和工具转化为可重复的代理工作流程。通过使用此项目，开发者可以更轻松地协调多个代理工作流程、添加工具使用流水线和标准化代理记忆。
-
-**典型接入方式**
-
-该项目提供了几种接入方式，包括：
-
-* API：项目暴露了 API 接口，允许开发者通过 HTTP 或 STDIO 与 MCP 进行通信。
-* SDK：项目提供了 SDK，允许开发者在自己的应用中集成 MCP。
-* CLI：项目提供了 CLI 工具，允许开发者通过命令行与 MCP
+Lyellr88/MARM-Systems：Lyellr88/MARM-Systems helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 

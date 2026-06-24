@@ -27,58 +27,15 @@ Automation · AI/ML · Backend
 
 ### English
 
-**Project Summary:**
-Skyvern-AI/skyvern is an open-source project that utilizes AI to automate browser-based workflows, eliminating repetitive manual operations and increasing efficiency. This project offers a straightforward integration process, with API/SDK/CLI exposure and a strong Python foundation. With over 21,000 GitHub stars and recent activity, Skyvern-AI/skyvern is highly production-ready, making it an attractive candidate for serious pilots.
-
-**Value Proposition:**
-The primary value of Skyvern-AI/skyvern lies in its ability to automate repetitive manual operations within workflows, freeing up time and resources for more strategic tasks. This is achieved by connecting tools into repeatable flows and scheduling operational tasks, making it an ideal solution for businesses looking to streamline their processes.
-
-**Practical Adoption Path:**
-To adopt Skyvern-AI/skyvern, users can start by evaluating the project's API/SDK/CLI exposure, which provides a clear understanding of the implementation signals. The project's recent activity, adoption, and ecosystem signals indicate a strong and supportive community, making it easier to integrate and troubleshoot any issues. With a primary language of Python, users can leverage their existing knowledge and skills to get started quickly.
-
-**Production Readiness:**
-Skyvern-AI/skyvern is highly
+Skyvern-AI/skyvern: Skyvern-AI/skyvern helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта Skyvern-AI/skyvern:
-
-Skyvern-AI/skyvern - это открытый источник проект, который позволяет автоматизировать браузерные потоки с помощью искусственной интеллекты. Этот проект особенно полезен для удаления повторяющихся ручных операций из процесса и создания повторяемых потоков соединения инструментов. Skyvern-AI/skyvern полностью готов к внедрению в производственную среду, с высоким уровнем активности, принятия и экосистемными сигналами, что делает его идеальным кандидатом для серьезного пилота.
+Skyvern-AI/skyvern: open-source проект в категориях Automation, AI/ML, Backend. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**Skyvern-AI/skyvern 简介**
-
-Skyvern-AI/skyvern 是一个开源项目，利用人工智能（AI）来自动化基于浏览器的工作流程。它可以帮助用户移除重复的手动操作，从而提高工作效率。
-
-**价值**
-
-Skyvern-AI/skyvern 的价值在于，它可以帮助用户：
-
-* 移除重复的手动操作
-* 连接工具形成可重复的流程
-* 定期执行操作任务
-
-**典型接入方式**
-
-Skyvern-AI/skyvern 提供了多种接入方式，包括：
-
-* API（应用编程接口）
-* SDK（软件开发工具包）
-* CLI（命令行接口）
-* 语言元数据
-
-**生产可用性**
-
-Skyvern-AI/skyvern 的生产可用性非常高，理由如下：
-
-* 近期活跃度高
-* 采用率高
-* 生态系统信号强
-* GitHub 上有 21987 个星标和 2054 个分支
-* 最近一次更新是 2026-06-24
-
-总之，Skyvern-AI/skyvern 是
+Skyvern-AI/skyvern：Skyvern-AI/skyvern helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -96,8 +53,8 @@ Skyvern-AI/skyvern 的生产可用性非常高，理由如下：
 
 **Quality signals**
 
-- 21987 GitHub stars
-- 2054 forks
+- 21996 GitHub stars
+- 2053 forks
 - updated 2026-06-24
 - primary language: Python
 - 16 topics

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.3k |
-| 🍴 **Forks** | 899 |
+| 🍴 **Forks** | 901 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 92/100 |
 | 🗓️ **Last push** | 2026-06-24 |
@@ -27,44 +27,15 @@ Orchestration · MCP · Automation · AI/ML · Frontend
 
 ### English
 
-**Summary:** The strands-agents/harness-sdk is an open-source SDK for production AI agents, enabling users to build and control agent harnesses end-to-end with Python and TypeScript. This SDK helps turn isolated prompts and tools into repeatable agent workflows, facilitating coordination of multi-agent workflows and standardizing agent memory. With a high production readiness score and strong ecosystem signals, this project is suitable for serious pilot adoption.
-
-**Value Proposition:** The main value proposition of strands-agents/harness-sdk lies in its ability to streamline AI agent development and deployment. By providing a standardized framework for building and controlling agent harnesses, this SDK enables users to create repeatable workflows, integrate multiple tools, and standardize agent memory. This leads to increased efficiency, reduced errors, and improved overall AI agent performance.
-
-**Practical Adoption Path:** To adopt strands-agents/harness-sdk, users can start by evaluating its API/SDK/CLI implementation signals and language metadata. They can then explore the SDK's features, such as tool-use pipelines and agent memory standardization, to gauge its suitability for their specific use cases. As the SDK is open-source, users can also contribute to its development, help identify potential issues, and collaborate with the maintainers to improve the project.
-
-**Production Readiness:** With a high
+strands-agents/harness-sdk: strands-agents/harness-sdk helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта strands-agents/harness-sdk:
-
-Проект strands-agents/harness-sdk представляет собой открытое SDK для управления производственными агентами AI в Python и TypeScript, позволяющее создавать повторяющиеся потоки работы агентов. Это решение особенно полезно для координации многоагентных потоков, добавления инструментальных пайплайнов и стандартизации памяти агентов. Проект готов к масштабированию в production, с сильными сигналами активности, адопции и экосистемы.
+strands-agents/harness-sdk: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**项目简介**
-
-名称：strands-agents/harness-sdk
-描述：一个开源 SDK，用来构建和控制 AI 代理，支持 Python 和 TypeScript 两种语言，适用于任何模型和云平台。
-
-**价值**
-
-这个 SDK 帮助将孤立的命令和工具转化为可重复的代理工作流程，方便开发者协调多个代理工作流程，添加工具使用管道，并标准化代理内存。
-
-**典型接入方式**
-
-该 SDK 可以通过 API、SDK 或 CLI 等方式接入，开发者可以根据需要选择合适的接入方式。
-
-**生产可用性**
-
-该 SDK 具有高生产可用性，主要原因是：
-
-* 近期活跃度较高
-* 广泛的采用和生态系统信号
-* 强大的社区支持
-
-但是，需要注意的是，仍然需要对许可证、安全态势和活跃维护者进行最终审查。
+strands-agents/harness-sdk：strands-agents/harness-sdk helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -82,8 +53,8 @@ Orchestration · MCP · Automation · AI/ML · Frontend
 
 **Quality signals**
 
-- 6261 GitHub stars
-- 899 forks
+- 6262 GitHub stars
+- 901 forks
 - updated 2026-06-24
 - primary language: Python
 - 20 topics

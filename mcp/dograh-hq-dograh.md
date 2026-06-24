@@ -27,59 +27,15 @@ MCP · Automation · AI/ML · Frontend · Backend
 
 ### English
 
-**Project Summary**
-
-dograh is an open-source voice AI platform that enables self-hosting and BYOK (Bring Your Own Key) across various speech and language capabilities. This platform provides a visual workflow builder, native support for Model Context Protocol (MCP), and telephony support, making it a valuable alternative to commercial solutions like Vapi and Retell. With its strong adoption and ecosystem signals, dograh is a promising candidate for serious pilot projects.
-
-**Value Proposition**
-
-The value proposition of dograh lies in its ability to standardize integrations between AI assistants and real tools and data through the Model Context Protocol (MCP). This enables developers to connect AI agents to various tools and data sources, making it a versatile and flexible solution for a wide range of use cases.
-
-**Practical Adoption Path**
-
-Adopting dograh involves a relatively straightforward process:
-
-1. Evaluate the platform's implementation signals, such as its API, SDK, and CLI, to ensure it meets your requirements.
-2. Explore the platform's language metadata and focused topics to determine its suitability for your use case.
-3. Review the platform's license, security posture, and maintainers to ensure they align with your organization's needs.
-4. Deploy the platform and test its capabilities with your chosen tools and data sources.
+dograh-hq/dograh: dograh-hq/dograh helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта dograh-hq/dograh:
-
-dograh-hq/dograh - это open-source платформа голосового AI, которая позволяет создавать自гохранимые альтернативы существующим решениям, таких как Vapi и Retell. Это платформа предоставляет стандартный протокол для подключения AI-ассистентов к реальным инструментам и данным, что делает ее идеальной для соединения AI-агентов с инструментами и стандартизации интеграций. dograh-hq/dograh готов к production, поскольку она имеет высокий уровень готовности к production (High) и сильные сигналы ориентированной на production активности и приему.
+dograh-hq/dograh: open-source проект в категориях MCP, Automation, AI/ML, Frontend, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-
-dograh-hq/dograh 是一个开源语音 AI 平台，提供自主托管的替代方案，支持 Vapi 和 Retell 等产品的功能。它提供了标准协议，帮助连接 AI 助手到实时工具和数据。
-
-**价值**
-
-dograh-hq/dograh 的价值在于，它帮助连接 AI 助手到实时工具和数据，提供了标准协议，简化了 AI 应用程序的开发和部署。
-
-**典型接入方式**
-
-dograh-hq/dograh 支持多种接入方式，包括：
-
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化集成
-
-**生产可用性**
-
-dograh-hq/dograh 的生产可用性非常高，具有以下特点：
-
-* 近期活跃
-* 强大的采用和生态系统信号
-* 4617 个 GitHub 星标
-* 1009 个分支
-* 更新于 2026 年 6 月 24 日
-* 主要语言：Python
-
-总的来说，dograh-hq/dograh 是一个强大且可靠的开
+dograh-hq/dograh：dograh-hq/dograh helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -97,8 +53,8 @@ dograh-hq/dograh 的生产可用性非常高，具有以下特点：
 
 **Quality signals**
 
-- 4617 GitHub stars
-- 1009 forks
+- 4621 GitHub stars
+- 1013 forks
 - updated 2026-06-24
 - primary language: Python
 - 20 topics

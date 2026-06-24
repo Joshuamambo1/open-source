@@ -27,52 +27,15 @@ MCP · AI/ML · Frontend · Backend · DevTools
 
 ### English
 
-Here is a brief summary of the PrefectHQ/fastmcp open-source project:
-
-**Summary:** PrefectHQ/fastmcp is an open-source project that provides a fast and Pythonic way to build Model Context Protocol (MCP) servers and clients, enabling seamless connections between AI assistants and real tools and data through a standard protocol. This project offers a straightforward integration process and is suitable for connecting AI agents to tools, shipping MCP servers, and standardizing integrations. With a high production readiness score of 92/100, it is a promising candidate for serious pilot projects.
-
-**Value:** The value of PrefectHQ/fastmcp lies in its ability to facilitate standard integrations between AI assistants and real tools and data, making it easier to connect AI agents to tools and data. This standardization enables more efficient and effective AI-powered workflows, ultimately driving business growth and innovation.
-
-**Practical Adoption Path:**
-
-1. **Evaluation:** Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets your project's requirements.
-2. **Integration:** Follow the straightforward integration process to connect your AI agents to tools and data using the MCP protocol.
-3. **Testing:** Thoroughly test the integration to ensure seamless communication
+PrefectHQ/fastmcp: PrefectHQ/fastmcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта PrefectHQ/fastmcp:
-
-Проект PrefectHQ/fastmcp предлагает быстрый и удобный способ построения серверов и клиентов по протоколу Model Context Protocol (MCP). Он позволяет соединить искусственных интеллектов с реальными инструментами и данными, обеспечивая стандартную протоколу взаимодействия. Предоставляемый проект готов к внедрению в production, поскольку имеет высокий уровень активности, широкое распространение и сильную экосистему поддержки.
+PrefectHQ/fastmcp: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**项目简介**
-
-PrefectHQ/fastmcp 是一个用于构建 MCP 服务器和客户端的快速、Pythonic 的开源项目。它帮助连接 AI 助手到真实的工具和数据通过一个标准的协议。
-
-**价值**
-
-PrefectHQ/fastmcp 的价值在于，它让开发者能够通过一个标准的协议连接 AI 助手到真实的工具和数据，从而实现更好的 AI 整合和应用。
-
-**典型接入方式**
-
-典型的接入方式包括：
-
-* 连接 AI 代理到工具
-* 部署 Model Context Protocol 服务器
-* 标准化整合
-
-**生产可用性**
-
-PrefectHQ/fastmcp 的生产可用性较高，主要原因是：
-
-* 近期活动和采用度较高
-* 生态系统信号强大
-* GitHub 星标数高达 25,774
-* 主要语言是 Python
-
-但是，还需要进一步评估项目的许可证、安全性和维护人员情况。
+PrefectHQ/fastmcp：PrefectHQ/fastmcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -90,8 +53,8 @@ PrefectHQ/fastmcp 的生产可用性较高，主要原因是：
 
 **Quality signals**
 
-- 25774 GitHub stars
-- 2083 forks
+- 25775 GitHub stars
+- 2084 forks
 - updated 2026-06-24
 - primary language: Python
 - 9 topics

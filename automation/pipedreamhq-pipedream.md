@@ -54,7 +54,7 @@ PipedreamHQ/pipedream：PipedreamHQ/pipedream helps remove repetitive manual ope
 **Quality signals**
 
 - 11500 GitHub stars
-- 5707 forks
+- 5708 forks
 - updated 2026-06-24
 - primary language: JavaScript
 - 19 topics

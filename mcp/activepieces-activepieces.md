@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 23k |
-| 🍴 **Forks** | 3.9k |
+| 🍴 **Forks** | 3.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
 | 🗓️ **Last push** | 2026-06-25 |
@@ -53,8 +53,8 @@ activepieces/activepieces：activepieces/activepieces helps connect AI assistant
 
 **Quality signals**
 
-- 22984 GitHub stars
-- 3850 forks
+- 22985 GitHub stars
+- 3849 forks
 - updated 2026-06-25
 - primary language: TypeScript
 - 13 topics

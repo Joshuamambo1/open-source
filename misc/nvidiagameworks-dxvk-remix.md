@@ -1,6 +1,6 @@
 # NVIDIAGameWorks/dxvk-remix
 
-[![Stars](https://img.shields.io/github/stars/NVIDIAGameWorks/dxvk-remix?style=flat-square&color=yellow)](https://github.com/NVIDIAGameWorks/dxvk-remix/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIAGameWorks/dxvk-remix?style=flat-square&color=blue)](https://github.com/NVIDIAGameWorks/dxvk-remix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVIDIAGameWorks/dxvk-remix?style=flat-square&color=yellow)](https://github.com/NVIDIAGameWorks/dxvk-remix/stargazers) [![Forks](https://img.shields.io/github/forks/NVIDIAGameWorks/dxvk-remix?style=flat-square&color=blue)](https://github.com/NVIDIAGameWorks/dxvk-remix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 404 |
-| 🍴 **Forks** | 115 |
+| ⭐ **Stars** | 411 |
+| 🍴 **Forks** | 120 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 45/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 51/100 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,55 @@ Misc
 
 ## 📝 Summary
 
-The dxvk-remix project, developed by NVIDIA's GameWorks team, is an open-source initiative to create a highly customizable and optimized version of the DXVK Vulkan translation layer. This project aims to provide a flexible solution for gamers and developers, allowing them to fine-tune performance and features on various systems and hardware configurations. By leveraging community feedback and contributions, dxvk-remix seeks to enhance the overall gaming experience on Linux and other platforms.
+### English
+
+NVIDIAGameWorks/dxvk-remix: NVIDIAGameWorks/dxvk-remix may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+NVIDIAGameWorks/dxvk-remix: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+NVIDIAGameWorks/dxvk-remix：NVIDIAGameWorks/dxvk-remix may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** NVIDIAGameWorks/dxvk-remix may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 411 GitHub stars
+- 120 forks
+- updated 2026-06-25
+- primary language: C++
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 52/100 |
+| stars | 56/100 |
+| topics | 0/100 |
+| outlook | 67/100 |
+| quality | 65/100 |
+| recency | 100/100 |
+| adoption | 55/100 |
+| production | 67/100 |
+| usefulness | 42/100 |
+| integration | 18/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-05 · [View on GitHub](https://github.com/NVIDIAGameWorks/dxvk-remix) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/NVIDIAGameWorks/dxvk-remix) · [← Back to Misc](./README.md)</sub>

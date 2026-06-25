@@ -53,7 +53,7 @@ YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflo
 
 **Quality signals**
 
-- 7544 GitHub stars
+- 7545 GitHub stars
 - 683 forks
 - updated 2026-06-25
 - primary language: Go

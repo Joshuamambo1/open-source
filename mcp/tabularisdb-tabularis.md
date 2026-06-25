@@ -1,17 +1,17 @@
 # TabularisDB/tabularis
 
-[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.
+> Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 211 |
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 214 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 91/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
@@ -53,8 +53,8 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 **Quality signals**
 
-- 3340 GitHub stars
-- 211 forks
+- 3370 GitHub stars
+- 214 forks
 - updated 2026-06-25
 - primary language: TypeScript
 - 20 topics
@@ -67,8 +67,8 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 |---|---:|
 | usefulness | 100/100 |
 | quality | 87/100 |
-| integration | 94/100 |
-| production | 86/100 |
+| integration | 78/100 |
+| production | 83/100 |
 | outlook | 93/100 |
 | adoption | 70/100 |
 | stars | 75/100 |

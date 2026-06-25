@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 🗂️ **Total projects** | **10992** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,36 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 🧩 **Orchestration** | 9 | [Browse →](./orchestration/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🤖 **AI/ML** | 3584 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1873 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1017 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 967 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 568 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 506 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 492 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 392 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 322 | [Browse →](./automation/) |
+| 📊 **Data** | 240 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 208 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 173 | [Browse →](./payments/) |
+| 📈 **Trading** | 130 | [Browse →](./trading/) |
+| 🏷️ **Database** | 122 | [Browse →](./database/) |
+| 📱 **Mobile** | 121 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 91 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 79 | [Browse →](./security/) |
+| ✨ **Design** | 32 | [Browse →](./design/) |
+| 🏷️ **Observability** | 25 | [Browse →](./observability/) |
+| 🎯 **Product** | 19 | [Browse →](./product/) |
+| 🏷️ **Education** | 19 | [Browse →](./education/) |
+| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.5k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 50.8k | Orchestration |
-| 3 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.1k | Mcp |
-| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.6k | Orchestration |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.9k | Mcp |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.6k | Mcp |
-| 7 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 8 | [farion1231/cc-switch](./mcp/farion1231-cc-switch.md) | ⭐ 108.4k | Mcp |
-| 9 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
-| 10 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
 
 ## 🚀 How it works
 

@@ -53,7 +53,7 @@ campfirein/byterover-cli：campfirein/byterover-cli helps connect AI assistants 
 
 **Quality signals**
 
-- 4878 GitHub stars
+- 4879 GitHub stars
 - 453 forks
 - updated 2026-06-25
 - primary language: TypeScript

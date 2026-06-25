@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.7k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 96/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ PipedreamHQ/pipedream：PipedreamHQ/pipedream helps remove repetitive manual ope
 
 **Quality signals**
 
-- 11500 GitHub stars
-- 5708 forks
-- updated 2026-06-24
+- 11501 GitHub stars
+- 5709 forks
+- updated 2026-06-25
 - primary language: JavaScript
 - 19 topics
 
@@ -79,4 +79,4 @@ PipedreamHQ/pipedream：PipedreamHQ/pipedream helps remove repetitive manual ope
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/PipedreamHQ/pipedream) · [← Back to Automation](./README.md)</sub>

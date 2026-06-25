@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ Marve10s/Better-Fullstack：Marve10s/Better-Fullstack helps integrate monetizati
 
 - 671 GitHub stars
 - 46 forks
-- updated 2026-06-24
+- updated 2026-06-25
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ Marve10s/Better-Fullstack：Marve10s/Better-Fullstack helps integrate monetizati
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/Marve10s/Better-Fullstack) · [← Back to Payments](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/Marve10s/Better-Fullstack) · [← Back to Payments](./README.md)</sub>

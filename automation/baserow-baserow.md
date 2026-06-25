@@ -53,7 +53,7 @@ baserow/baserow：baserow/baserow helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 5151 GitHub stars
+- 5153 GitHub stars
 - 645 forks
 - updated 2026-06-25
 - primary language: Python

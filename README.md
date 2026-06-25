@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10496** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3454 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1800 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 981 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 921 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 542 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 471 | [Browse →](./backend/) |
-| 🏷️ **Mcp** | 459 | [Browse →](./mcp/) |
-| ⛓️ **Crypto** | 381 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 292 | [Browse →](./automation/) |
-| 📊 **Data** | 231 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 188 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 163 | [Browse →](./payments/) |
-| 📈 **Trading** | 124 | [Browse →](./trading/) |
-| 📱 **Mobile** | 113 | [Browse →](./mobile/) |
-| 🏷️ **Database** | 110 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 88 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 75 | [Browse →](./security/) |
-| ✨ **Design** | 31 | [Browse →](./design/) |
-| 🏷️ **Observability** | 23 | [Browse →](./observability/) |
-| 🎯 **Product** | 19 | [Browse →](./product/) |
-| 🏷️ **Education** | 18 | [Browse →](./education/) |
-| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 20 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 4 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 5 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 6 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 7 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
-| 9 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
-| 10 | [yusufkaraaslan/Skill_Seekers](./mcp/yusufkaraaslan-skill-seekers.md) | ⭐ 13.5k | Mcp |
+| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.5k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 50k | Orchestration |
+| 3 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194k | Mcp |
+| 4 | [wshobson/agents](./orchestration/wshobson-agents.md) | ⭐ 37.1k | Orchestration |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.9k | Mcp |
+| 6 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 142.9k | Mcp |
+| 7 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.5k | Mcp |
+| 8 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 9 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16.6k | Orchestration |
+| 10 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24.4k | Orchestration |
 
 ## 🚀 How it works
 

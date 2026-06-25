@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10752** |
+| 🗂️ **Total projects** | **10792** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,17 +18,17 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3519 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1836 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 999 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 947 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 554 | [Browse →](./devtools/) |
-| 🏷️ **Mcp** | 490 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 482 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 386 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 307 | [Browse →](./automation/) |
-| 📊 **Data** | 236 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 197 | [Browse →](./knowledgerag/) |
+| 🤖 **AI/ML** | 3531 | [Browse →](./aiml/) |
+| 📦 **Misc** | 1846 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1001 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 951 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 557 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 491 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 485 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 387 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 309 | [Browse →](./automation/) |
+| 📊 **Data** | 237 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 198 | [Browse →](./knowledgerag/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
 | 📈 **Trading** | 126 | [Browse →](./trading/) |
 | 📱 **Mobile** | 119 | [Browse →](./mobile/) |
@@ -46,15 +46,15 @@
 | # | Project | Stars | Category |
 |---|---|---|---|
 | 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 4 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 5 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 6 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 7 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 8 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
-| 9 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
-| 10 | [yusufkaraaslan/Skill_Seekers](./mcp/yusufkaraaslan-skill-seekers.md) | ⭐ 13.5k | Mcp |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 8 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 10 | [rocketride-org/rocketride-server](./orchestration/rocketride-org-rocketride-server.md) | ⭐ 2.4k | Orchestration |
 
 ## 🚀 How it works
 

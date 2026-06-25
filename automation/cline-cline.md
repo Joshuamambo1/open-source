@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 63.8k |
+| ⭐ **Stars** | 63.9k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ cline/cline：cline/cline helps remove repetitive manual operations from a workf
 
 **Quality signals**
 
-- 63842 GitHub stars
-- 6769 forks
-- updated 2026-06-24
+- 63857 GitHub stars
+- 6773 forks
+- updated 2026-06-25
 - primary language: TypeScript
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
@@ -78,4 +78,4 @@ cline/cline：cline/cline helps remove repetitive manual operations from a workf
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/cline/cline) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/cline/cline) · [← Back to Automation](./README.md)</sub>

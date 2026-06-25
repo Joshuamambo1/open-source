@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ skyhook-io/radar：skyhook-io/radar helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 2470 GitHub stars
+- 2471 GitHub stars
 - 134 forks
-- updated 2026-06-24
+- updated 2026-06-25
 - primary language: Go
 - 12 topics
 
@@ -79,4 +79,4 @@ skyhook-io/radar：skyhook-io/radar helps connect AI assistants to real tools an
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/skyhook-io/radar) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/skyhook-io/radar) · [← Back to Mcp](./README.md)</sub>

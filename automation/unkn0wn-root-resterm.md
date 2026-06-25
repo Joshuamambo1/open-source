@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ unkn0wn-root/resterm：unkn0wn-root/resterm helps remove repetitive manual opera
 
 - 1771 GitHub stars
 - 47 forks
-- updated 2026-06-24
+- updated 2026-06-25
 - primary language: Go
 - 10 topics
 
@@ -79,4 +79,4 @@ unkn0wn-root/resterm：unkn0wn-root/resterm helps remove repetitive manual opera
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/unkn0wn-root/resterm) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/unkn0wn-root/resterm) · [← Back to Automation](./README.md)</sub>

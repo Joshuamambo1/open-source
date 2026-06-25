@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10559** |
+| 🗂️ **Total projects** | **10599** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,22 +18,22 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3472 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 3484 | [Browse →](./aiml/) |
 | 📦 **Misc** | 1812 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 986 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 925 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 544 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 472 | [Browse →](./backend/) |
-| 🏷️ **Mcp** | 467 | [Browse →](./mcp/) |
-| ⛓️ **Crypto** | 381 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 297 | [Browse →](./automation/) |
-| 📊 **Data** | 232 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 190 | [Browse →](./knowledgerag/) |
+| 🎨 **Frontend** | 987 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 930 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 545 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 475 | [Browse →](./backend/) |
+| 🏷️ **Mcp** | 474 | [Browse →](./mcp/) |
+| ⛓️ **Crypto** | 382 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 299 | [Browse →](./automation/) |
+| 📊 **Data** | 233 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 192 | [Browse →](./knowledgerag/) |
 | 💳 **Payments** | 164 | [Browse →](./payments/) |
-| 📈 **Trading** | 125 | [Browse →](./trading/) |
-| 📱 **Mobile** | 114 | [Browse →](./mobile/) |
-| 🏷️ **Database** | 111 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 88 | [Browse →](./devopsinfra/) |
+| 📈 **Trading** | 126 | [Browse →](./trading/) |
+| 📱 **Mobile** | 116 | [Browse →](./mobile/) |
+| 🏷️ **Database** | 112 | [Browse →](./database/) |
+| 🚀 **DevOps & Infra** | 89 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 76 | [Browse →](./security/) |
 | ✨ **Design** | 31 | [Browse →](./design/) |
 | 🏷️ **Observability** | 23 | [Browse →](./observability/) |

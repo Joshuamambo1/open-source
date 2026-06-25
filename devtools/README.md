@@ -116,8 +116,8 @@
 | 106 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 107 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 108 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 109 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
-| 110 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 109 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 110 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
 | 111 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 112 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 113 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |

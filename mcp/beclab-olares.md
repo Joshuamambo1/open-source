@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 293 |
+| 🍴 **Forks** | 295 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-06-25 |
@@ -53,8 +53,8 @@ beclab/Olares：beclab/Olares helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 4923 GitHub stars
-- 293 forks
+- 4924 GitHub stars
+- 295 forks
 - updated 2026-06-25
 - primary language: Go
 - 14 topics

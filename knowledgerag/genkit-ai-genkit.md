@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 773 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ genkit-ai/genkit：genkit-ai/genkit helps make internal knowledge searchable and
 
 - 6139 GitHub stars
 - 773 forks
-- updated 2026-06-24
+- updated 2026-06-25
 - primary language: TypeScript
 - 8 topics
 
@@ -79,4 +79,4 @@ genkit-ai/genkit：genkit-ai/genkit helps make internal knowledge searchable and
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/genkit-ai/genkit) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/genkit-ai/genkit) · [← Back to Knowledgerag](./README.md)</sub>

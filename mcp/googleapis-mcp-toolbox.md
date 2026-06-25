@@ -53,7 +53,7 @@ googleapis/mcp-toolbox：googleapis/mcp-toolbox helps connect AI assistants to r
 
 **Quality signals**
 
-- 15703 GitHub stars
+- 15710 GitHub stars
 - 1615 forks
 - updated 2026-06-25
 - primary language: Go

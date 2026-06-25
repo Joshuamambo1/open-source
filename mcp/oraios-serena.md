@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 25.7k |
+| ⭐ **Stars** | 25.8k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,48 +27,15 @@ MCP · Knowledge/RAG · AI/ML · Backend · Mobile
 
 ### English
 
-**Project Summary:**
-Serena is an open-source Model Context Protocol (MCP) toolkit that enables seamless connections between AI assistants and real tools and data through a standardized protocol. This powerful MCP toolkit provides semantic retrieval and editing capabilities, making it an ideal Integrated Development Environment (IDE) for AI agents. With its high production readiness and strong ecosystem signals, Serena is poised for serious adoption and integration.
-
-**Value Proposition:**
-The primary value of Serena lies in its ability to connect AI assistants to real tools and data, standardizing integrations and facilitating the development of more intelligent and autonomous systems. By providing a standardized protocol, Serena enables the creation of more robust and efficient AI agents that can interact with various tools and data sources.
-
-**Practical Adoption Path:**
-To adopt Serena, developers can follow these steps:
-
-1. **Explore the documentation**: Familiarize yourself with Serena's API, SDK, and CLI, as well as its language metadata and focused topics.
-2. **Evaluate the toolkit**: Assess Serena's capabilities and limitations based on its implementation signals.
-3. **Integrate with AI agents**: Use Serena to connect AI assistants to real tools and data, leveraging its semantic retrieval and editing capabilities.
-4. **Ship Model Context Protocol servers**: Deploy Serena servers to enable standardized integrations and
+oraios/serena: oraios/serena helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта oraios/serena:
-
-Ораиос/Серена - мощный инструментарий для разработки MCP, предоставляющий семантическое поиск и редактирование функциональности, идеальный вариант для агентов AI. Этот проект помогает соединить помощников AI с реальными инструментами и данными посредством стандартного протокола, что позволяет подключать агентов AI к инструментам и стандартизировать интеграции. Проект готов к продакшену на высоком уровне, с сильными сигналами активности, адопции и экосистемы, что делает его подходящей базой для серьезной пилотной версии.
+oraios/serena: open-source проект в категориях MCP, Knowledge/RAG, AI/ML, Backend, Mobile. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-
-oraios/serena 是一个强大的 MCP 工具包，提供语义检索和编辑能力，帮助连接 AI 助手与真实工具和数据。它通过标准协议帮助 AI 代理连接工具，实现模型上下文协议服务器的部署和标准化集成。
-
-**价值**
-
-oraios/serena 的主要价值在于帮助连接 AI 代理与真实工具和数据，通过标准协议实现集成，简化 AI 代理的开发和部署。
-
-**典型接入方式**
-
-oraios/serena 提供了 API、SDK 和 CLI 等接入方式，开发者可以根据需求选择合适的接入方式来连接 AI 代理与工具。
-
-**生产可用性**
-
-oraios/serena 的生产可用性较高，具有以下特点：
-
-* 近期活动：最近有活动和更新。
-* 广泛采用：拥有 25722 个 GitHub 星和 1716 个 fork。
-* 强大生态系统：有 12 个主题和 Python 为主要语言。
-* 高风险：虽然没有发现重大元数据风险，但仍需要进一步审查许可、安全和维护人员。
+oraios/serena：oraios/serena helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -86,9 +53,9 @@ oraios/serena 的生产可用性较高，具有以下特点：
 
 **Quality signals**
 
-- 25722 GitHub stars
-- 1716 forks
-- updated 2026-06-24
+- 25784 GitHub stars
+- 1717 forks
+- updated 2026-06-25
 - primary language: Python
 - 12 topics
 
@@ -112,4 +79,4 @@ oraios/serena 的生产可用性较高，具有以下特点：
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/oraios/serena) · [← Back to Mcp](./README.md)</sub>

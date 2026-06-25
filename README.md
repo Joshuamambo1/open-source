@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **10912** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3559 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1859 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1008 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 962 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 566 | [Browse →](./devtools/) |
-| 🏷️ **Mcp** | 503 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 490 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 390 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 317 | [Browse →](./automation/) |
-| 📊 **Data** | 240 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 207 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 173 | [Browse →](./payments/) |
-| 📈 **Trading** | 129 | [Browse →](./trading/) |
-| 📱 **Mobile** | 119 | [Browse →](./mobile/) |
-| 🏷️ **Database** | 116 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 91 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 76 | [Browse →](./security/) |
-| ✨ **Design** | 32 | [Browse →](./design/) |
-| 🏷️ **Observability** | 25 | [Browse →](./observability/) |
-| 🎯 **Product** | 19 | [Browse →](./product/) |
-| 🏷️ **Education** | 19 | [Browse →](./education/) |
-| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 11 | [Browse →](./orchestration/) |
+| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 50.7k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194k | Mcp |
+| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.5k | Orchestration |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.6k | Mcp |
+| 5 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.7k | Mcp |
+| 6 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 24.6k | Orchestration |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 10 | [mock-server/mockserver-monorepo](./mcp/mock-server-mockserver-monorepo.md) | ⭐ 4.9k | Mcp |
 
 ## 🚀 How it works
 

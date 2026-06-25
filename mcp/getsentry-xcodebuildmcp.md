@@ -53,7 +53,7 @@ getsentry/XcodeBuildMCP：getsentry/XcodeBuildMCP helps connect AI assistants to
 
 **Quality signals**
 
-- 5977 GitHub stars
+- 5978 GitHub stars
 - 298 forks
 - updated 2026-06-25
 - primary language: TypeScript

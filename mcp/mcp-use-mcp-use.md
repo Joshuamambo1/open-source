@@ -53,7 +53,7 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 10146 GitHub stars
+- 10145 GitHub stars
 - 1348 forks
 - updated 2026-06-25
 - primary language: TypeScript

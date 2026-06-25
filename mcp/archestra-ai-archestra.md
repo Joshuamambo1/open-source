@@ -54,7 +54,7 @@ archestra-ai/archestra：archestra-ai/archestra helps connect AI assistants to r
 **Quality signals**
 
 - 3879 GitHub stars
-- 1055 forks
+- 1057 forks
 - updated 2026-06-25
 - primary language: TypeScript
 - 20 topics

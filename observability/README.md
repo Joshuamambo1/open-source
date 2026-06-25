@@ -2,7 +2,7 @@
 
 > 
 
-**24 projects** in this category.
+**25 projects** in this category.
 
 ## Projects
 
@@ -23,15 +23,16 @@
 | 13 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 612 | JavaScript | 63/100 |
 | 14 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.4k | C | 63/100 |
 | 15 | [ElYusubov/AWESOME-Azure-Bicep](./elyusubov-awesome-azure-bicep.md) | ⭐ 424 | — | 63/100 |
-| 16 | [ShadowsocksR-Live/overtls](./shadowsocksr-live-overtls.md) | ⭐ 448 | Rust | 62/100 |
-| 17 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
-| 18 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 59/100 |
-| 19 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
-| 20 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
-| 21 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
-| 22 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
-| 23 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 24 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 16 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.6k | Rust | 62/100 |
+| 17 | [ShadowsocksR-Live/overtls](./shadowsocksr-live-overtls.md) | ⭐ 448 | Rust | 62/100 |
+| 18 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
+| 19 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 59/100 |
+| 20 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
+| 21 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
+| 22 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
+| 23 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
+| 24 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 25 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 
 
-**115 projects** in this category.
+**116 projects** in this category.
 
 ## Projects
 
@@ -84,45 +84,46 @@
 | 74 | [b-editor/beutl](./b-editor-beutl.md) | ⭐ 1.2k | C# | 58/100 |
 | 75 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
 | 76 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
-| 77 | [voku/portable-ascii](./voku-portable-ascii.md) | ⭐ 576 | PHP | 57/100 |
-| 78 | [GoogleCloudPlatform/scion](./googlecloudplatform-scion.md) | ⭐ 1.6k | Go | 57/100 |
-| 79 | [envoyproxy/nighthawk](./envoyproxy-nighthawk.md) | ⭐ 410 | C++ | 57/100 |
-| 80 | [TwilitRealm/dusklight](./twilitrealm-dusklight.md) | ⭐ 3.6k | C++ | 57/100 |
-| 81 | [Couchers-org/couchers](./couchers-org-couchers.md) | ⭐ 522 | Python | 57/100 |
-| 82 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
-| 83 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
-| 84 | [form-dev/form](./form-dev-form.md) | ⭐ 1.2k | C | 55/100 |
-| 85 | [git-moss/ConvertWithMoss](./git-moss-convertwithmoss.md) | ⭐ 399 | Java | 55/100 |
-| 86 | [facebook/ktfmt](./facebook-ktfmt.md) | ⭐ 1.3k | Kotlin | 55/100 |
-| 87 | [uutils/findutils](./uutils-findutils.md) | ⭐ 577 | Rust | 55/100 |
-| 88 | [sedwards2009/dinky](./sedwards2009-dinky.md) | ⭐ 32 | Go | 55/100 |
-| 89 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
-| 90 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
-| 91 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 54/100 |
-| 92 | [infrablocks/ruby_terraform](./infrablocks-ruby-terraform.md) | ⭐ 112 | Ruby | 54/100 |
-| 93 | [hardwood-hq/hardwood](./hardwood-hq-hardwood.md) | ⭐ 273 | Java | 54/100 |
-| 94 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 385 | Rust | 54/100 |
-| 95 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
-| 96 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
-| 97 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
-| 98 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
-| 99 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
-| 100 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
-| 101 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
-| 102 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
-| 103 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 104 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 105 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 77 | [commoncrawl/news-crawl](./commoncrawl-news-crawl.md) | ⭐ 375 | Java | 57/100 |
+| 78 | [voku/portable-ascii](./voku-portable-ascii.md) | ⭐ 576 | PHP | 57/100 |
+| 79 | [GoogleCloudPlatform/scion](./googlecloudplatform-scion.md) | ⭐ 1.6k | Go | 57/100 |
+| 80 | [envoyproxy/nighthawk](./envoyproxy-nighthawk.md) | ⭐ 410 | C++ | 57/100 |
+| 81 | [TwilitRealm/dusklight](./twilitrealm-dusklight.md) | ⭐ 3.6k | C++ | 57/100 |
+| 82 | [Couchers-org/couchers](./couchers-org-couchers.md) | ⭐ 522 | Python | 57/100 |
+| 83 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
+| 84 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
+| 85 | [form-dev/form](./form-dev-form.md) | ⭐ 1.2k | C | 55/100 |
+| 86 | [git-moss/ConvertWithMoss](./git-moss-convertwithmoss.md) | ⭐ 399 | Java | 55/100 |
+| 87 | [facebook/ktfmt](./facebook-ktfmt.md) | ⭐ 1.3k | Kotlin | 55/100 |
+| 88 | [uutils/findutils](./uutils-findutils.md) | ⭐ 577 | Rust | 55/100 |
+| 89 | [sedwards2009/dinky](./sedwards2009-dinky.md) | ⭐ 32 | Go | 55/100 |
+| 90 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
+| 91 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
+| 92 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 54/100 |
+| 93 | [infrablocks/ruby_terraform](./infrablocks-ruby-terraform.md) | ⭐ 112 | Ruby | 54/100 |
+| 94 | [hardwood-hq/hardwood](./hardwood-hq-hardwood.md) | ⭐ 273 | Java | 54/100 |
+| 95 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 385 | Rust | 54/100 |
+| 96 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
+| 97 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
+| 98 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
+| 99 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
+| 100 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
+| 101 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
+| 102 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
+| 103 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
+| 104 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
+| 105 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 106 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 107 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
-| 108 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
-| 109 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
-| 110 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 111 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 112 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 113 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 114 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 115 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 107 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 108 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
+| 109 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
+| 110 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
+| 111 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 112 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 113 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 114 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 115 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 116 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 

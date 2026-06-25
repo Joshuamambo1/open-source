@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ googleapis/mcp-toolbox：googleapis/mcp-toolbox helps connect AI assistants to r
 
 **Quality signals**
 
-- 15700 GitHub stars
+- 15701 GitHub stars
 - 1615 forks
-- updated 2026-06-24
+- updated 2026-06-25
 - primary language: Go
 - 20 topics
 

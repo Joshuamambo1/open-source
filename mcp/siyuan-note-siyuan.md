@@ -53,7 +53,7 @@ siyuan-note/siyuan：siyuan-note/siyuan helps connect AI assistants to real tool
 
 **Quality signals**
 
-- 44592 GitHub stars
+- 44598 GitHub stars
 - 2844 forks
 - updated 2026-06-25
 - primary language: TypeScript

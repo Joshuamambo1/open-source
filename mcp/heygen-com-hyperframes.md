@@ -1,6 +1,6 @@
 # heygen-com/hyperframes
 
-[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heygen-com/hyperframes?style=flat-square&color=yellow)](https://github.com/heygen-com/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/heygen-com/hyperframes?style=flat-square&color=blue)](https://github.com/heygen-com/hyperframes/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
 > Write HTML. Render video. Built for agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31.1k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 86/100 |
+| 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
@@ -53,8 +53,8 @@ heygen-com/hyperframes：heygen-com/hyperframes helps connect AI assistants to r
 
 **Quality signals**
 
-- 31078 GitHub stars
-- 2895 forks
+- 31107 GitHub stars
+- 2899 forks
 - updated 2026-06-25
 - primary language: TypeScript
 - 11 topics

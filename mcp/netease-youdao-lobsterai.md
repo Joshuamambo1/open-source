@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.3k |
-| 🍴 **Forks** | 823 |
+| 🍴 **Forks** | 824 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-25 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps connect AI assistants 
 
 **Quality signals**
 
-- 5317 GitHub stars
-- 823 forks
-- updated 2026-06-24
+- 5321 GitHub stars
+- 824 forks
+- updated 2026-06-25
 - primary language: TypeScript
 - 17 topics
 
@@ -70,7 +70,7 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps connect AI assistants 
 | integration | 62/100 |
 | production | 82/100 |
 | outlook | 94/100 |
-| adoption | 77/100 |
+| adoption | 78/100 |
 | stars | 79/100 |
 | forks | 73/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/netease-youdao/LobsterAI) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/netease-youdao/LobsterAI) · [← Back to Mcp](./README.md)</sub>

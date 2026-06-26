@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 744 |
-| 🍴 **Forks** | 57 |
+| ⭐ **Stars** | 749 |
+| 🍴 **Forks** | 58 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-26 |
@@ -53,8 +53,8 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 **Quality signals**
 
-- 744 GitHub stars
-- 57 forks
+- 749 GitHub stars
+- 58 forks
 - updated 2026-06-26
 - primary language: Go
 - 20 topics

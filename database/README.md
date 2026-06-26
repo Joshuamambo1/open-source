@@ -2,7 +2,7 @@
 
 > 
 
-**130 projects** in this category.
+**131 projects** in this category.
 
 ## Projects
 
@@ -90,54 +90,55 @@
 | 80 | [b-editor/beutl](./b-editor-beutl.md) | ⭐ 1.2k | C# | 58/100 |
 | 81 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 58/100 |
 | 82 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 548 | Kotlin | 58/100 |
-| 83 | [KDE/kdeconnect-kde](./kde-kdeconnect-kde.md) | ⭐ 3.8k | C++ | 57/100 |
-| 84 | [tbeu/matio](./tbeu-matio.md) | ⭐ 392 | C | 57/100 |
-| 85 | [commoncrawl/news-crawl](./commoncrawl-news-crawl.md) | ⭐ 375 | Java | 57/100 |
-| 86 | [voku/portable-ascii](./voku-portable-ascii.md) | ⭐ 576 | PHP | 57/100 |
-| 87 | [GoogleCloudPlatform/scion](./googlecloudplatform-scion.md) | ⭐ 1.6k | Go | 57/100 |
-| 88 | [envoyproxy/nighthawk](./envoyproxy-nighthawk.md) | ⭐ 410 | C++ | 57/100 |
-| 89 | [TwilitRealm/dusklight](./twilitrealm-dusklight.md) | ⭐ 3.6k | C++ | 57/100 |
-| 90 | [Couchers-org/couchers](./couchers-org-couchers.md) | ⭐ 522 | Python | 57/100 |
-| 91 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
-| 92 | [PortAudio/portaudio](./portaudio-portaudio.md) | ⭐ 2.1k | C | 56/100 |
-| 93 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
-| 94 | [Jorman/Scripts](./jorman-scripts.md) | ⭐ 361 | Python | 55/100 |
-| 95 | [form-dev/form](./form-dev-form.md) | ⭐ 1.2k | C | 55/100 |
-| 96 | [git-moss/ConvertWithMoss](./git-moss-convertwithmoss.md) | ⭐ 399 | Java | 55/100 |
-| 97 | [facebook/ktfmt](./facebook-ktfmt.md) | ⭐ 1.3k | Kotlin | 55/100 |
-| 98 | [uutils/findutils](./uutils-findutils.md) | ⭐ 577 | Rust | 55/100 |
-| 99 | [sedwards2009/dinky](./sedwards2009-dinky.md) | ⭐ 32 | Go | 55/100 |
-| 100 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
-| 101 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
-| 102 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 54/100 |
-| 103 | [infrablocks/ruby_terraform](./infrablocks-ruby-terraform.md) | ⭐ 112 | Ruby | 54/100 |
-| 104 | [hardwood-hq/hardwood](./hardwood-hq-hardwood.md) | ⭐ 273 | Java | 54/100 |
-| 105 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 385 | Rust | 54/100 |
-| 106 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
-| 107 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
-| 108 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
-| 109 | [Gelbpunkt/tokio-websockets](./gelbpunkt-tokio-websockets.md) | ⭐ 150 | Rust | 50/100 |
-| 110 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
-| 111 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
-| 112 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
-| 113 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
-| 114 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
-| 115 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 116 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 117 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 83 | [fossasia/voxbento](./fossasia-voxbento.md) | ⭐ 1.5k | Python | 57/100 |
+| 84 | [KDE/kdeconnect-kde](./kde-kdeconnect-kde.md) | ⭐ 3.8k | C++ | 57/100 |
+| 85 | [tbeu/matio](./tbeu-matio.md) | ⭐ 392 | C | 57/100 |
+| 86 | [commoncrawl/news-crawl](./commoncrawl-news-crawl.md) | ⭐ 375 | Java | 57/100 |
+| 87 | [voku/portable-ascii](./voku-portable-ascii.md) | ⭐ 576 | PHP | 57/100 |
+| 88 | [GoogleCloudPlatform/scion](./googlecloudplatform-scion.md) | ⭐ 1.6k | Go | 57/100 |
+| 89 | [envoyproxy/nighthawk](./envoyproxy-nighthawk.md) | ⭐ 410 | C++ | 57/100 |
+| 90 | [TwilitRealm/dusklight](./twilitrealm-dusklight.md) | ⭐ 3.6k | C++ | 57/100 |
+| 91 | [Couchers-org/couchers](./couchers-org-couchers.md) | ⭐ 522 | Python | 57/100 |
+| 92 | [kokkos/kokkos-kernels](./kokkos-kokkos-kernels.md) | ⭐ 383 | C++ | 57/100 |
+| 93 | [PortAudio/portaudio](./portaudio-portaudio.md) | ⭐ 2.1k | C | 56/100 |
+| 94 | [tsz-org/tsz](./tsz-org-tsz.md) | ⭐ 512 | Rust | 56/100 |
+| 95 | [Jorman/Scripts](./jorman-scripts.md) | ⭐ 361 | Python | 55/100 |
+| 96 | [form-dev/form](./form-dev-form.md) | ⭐ 1.2k | C | 55/100 |
+| 97 | [git-moss/ConvertWithMoss](./git-moss-convertwithmoss.md) | ⭐ 399 | Java | 55/100 |
+| 98 | [facebook/ktfmt](./facebook-ktfmt.md) | ⭐ 1.3k | Kotlin | 55/100 |
+| 99 | [uutils/findutils](./uutils-findutils.md) | ⭐ 577 | Rust | 55/100 |
+| 100 | [sedwards2009/dinky](./sedwards2009-dinky.md) | ⭐ 32 | Go | 55/100 |
+| 101 | [tianocore/edk2-platforms](./tianocore-edk2-platforms.md) | ⭐ 640 | C | 55/100 |
+| 102 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 55/100 |
+| 103 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 258 | Rust | 54/100 |
+| 104 | [infrablocks/ruby_terraform](./infrablocks-ruby-terraform.md) | ⭐ 112 | Ruby | 54/100 |
+| 105 | [hardwood-hq/hardwood](./hardwood-hq-hardwood.md) | ⭐ 273 | Java | 54/100 |
+| 106 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 385 | Rust | 54/100 |
+| 107 | [fables-tales/rubyfmt](./fables-tales-rubyfmt.md) | ⭐ 1.2k | Rust | 54/100 |
+| 108 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
+| 109 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
+| 110 | [Gelbpunkt/tokio-websockets](./gelbpunkt-tokio-websockets.md) | ⭐ 150 | Rust | 50/100 |
+| 111 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
+| 112 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
+| 113 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
+| 114 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
+| 115 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
+| 116 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
+| 117 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 118 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 119 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
-| 120 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
-| 121 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
-| 122 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
-| 123 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
-| 124 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
-| 125 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 126 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 127 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 128 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 129 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 130 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 119 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 120 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
+| 121 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
+| 122 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
+| 123 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
+| 124 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
+| 125 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
+| 126 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 127 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 128 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 129 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 130 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 131 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 

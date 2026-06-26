@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.6k |
-| 🍴 **Forks** | 360 |
+| 🍴 **Forks** | 368 |
 | 💻 **Language** | C++ |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-26 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,53 +27,15 @@ MCP · AI/ML · Backend
 
 ### English
 
-**Project Summary:**
-
-Lemonade is an open-source project that enables users to discover and run local AI applications by serving optimized Large Language Models (LLMs) directly from their own GPUs and NPUs. This standard protocol helps connect AI assistants to real tools and data, facilitating seamless integrations and standardizing interactions. With its recent activity, strong adoption, and robust ecosystem, Lemonade is highly production-ready for serious pilots.
-
-**Value Proposition:**
-
-The value of Lemonade lies in its ability to bridge the gap between AI assistants and real-world tools and data, making it easier to integrate AI agents with various applications. This standard protocol ensures consistency and ease of use, enabling developers to focus on building innovative applications rather than worrying about complex integrations.
-
-**Practical Adoption Path:**
-
-To adopt Lemonade, developers can start by evaluating its API, SDK, and CLI implementations, as well as its language metadata and focused topics. The project provides a straightforward integration process, making it accessible to a wide range of developers. Once integrated, developers can leverage Lemonade's optimized LLMs to power their AI applications, connecting them to real tools and data.
-
-**Production Readiness:**
-
-Lemonade's production readiness is high, thanks to its recent activity, strong adoption, and robust ecosystem signals
+lemonade-sdk/lemonade: lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта lemonade-sdk/lemonade:
-
-Лемонейд (Lemonade) - это открытый источник проект, который позволяет пользователям обнаруживать и запускать локальные приложения АИ, используя оптимизированные LLM прямо на их собственных GPU и NPU. 
-
-Проект предлагает стандартный протокол для подключения АИ-ассистентов к реальным инструментам и данным. Типовой сценарий внедрения - это подключение АИ-агентов к инструментам, развертывание серверов по протоколу Model Context Protocol и стандартизация интеграций. 
-
-Проект демонстрирует высокий уровень готовности к production, с последней активностью в 2026 году, сильной адопцией и экосистемными сигналами.
+lemonade-sdk/lemonade: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-
-Lemonade 是一个开源项目，旨在帮助用户发现和运行本地 AI 应用程序。它通过将优化的 LLM 直接部署在用户自己的 GPU 和 NPU 上，提供了一个高效的 AI 应用程序执行环境。
-
-**价值**
-
-Lemonade 的价值在于，它帮助连接 AI 助手与真实的工具和数据，通过标准协议实现这一点。它使得 AI 代理能够与各种工具和数据源进行集成，提高 AI 应用程序的实用性和可用性。
-
-**典型接入方式**
-
-Lemonade 提供了多种接入方式，包括：
-
-* 连接 AI 代理到工具：通过 Lemonade SDK，可以轻松连接 AI 代理到各种工具和数据源。
-* 部署 Model Context Protocol 服务器：Lemonade 支持部署 Model Context Protocol 服务器，方便 AI 代理与其他系统进行通信。
-* 标准化集成：Lemonade 提供了一套标准化的接口，方便开发者集成 AI 代理到各种系统中。
-
-**生产可用性**
-
-Lemonade 的生产可用性非常高，因为它具有
+lemonade-sdk/lemonade：lemonade-sdk/lemonade helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -91,9 +53,9 @@ Lemonade 的生产可用性非常高，因为它具有
 
 **Quality signals**
 
-- 4606 GitHub stars
-- 360 forks
-- updated 2026-06-24
+- 4638 GitHub stars
+- 368 forks
+- updated 2026-06-26
 - primary language: C++
 - 19 topics
 
@@ -117,4 +79,4 @@ Lemonade 的生产可用性非常高，因为它具有
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/lemonade-sdk/lemonade) · [← Back to Mcp](./README.md)</sub>

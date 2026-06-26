@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 250 |
+| ⭐ **Stars** | 251 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 86/100 |
@@ -53,7 +53,7 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 
 **Quality signals**
 
-- 250 GitHub stars
+- 251 GitHub stars
 - 31 forks
 - updated 2026-06-26
 - primary language: Go

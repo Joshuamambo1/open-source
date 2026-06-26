@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.2k |
-| 🍴 **Forks** | 737 |
+| 🍴 **Forks** | 738 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-26 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 
 **Quality signals**
 
-- 6207 GitHub stars
-- 737 forks
-- updated 2026-06-25
+- 6212 GitHub stars
+- 738 forks
+- updated 2026-06-26
 - primary language: TypeScript
 - 9 topics
 
@@ -79,4 +79,4 @@ wonderwhy-er/DesktopCommanderMCP：wonderwhy-er/DesktopCommanderMCP helps connec
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [← Back to Mcp](./README.md)</sub>

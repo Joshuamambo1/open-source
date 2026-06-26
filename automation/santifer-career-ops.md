@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55.7k |
+| ⭐ **Stars** | 55.8k |
 | 🍴 **Forks** | 11k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-26 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai-agent` `anthropic` `automation` `career` `careerops` `claude` `claude-code` `cli` `golang` `interview-prep` `job-search` `open-source`
+`ai-agent` `anthropic` `automation` `beginner-friendly` `career` `careerops` `claude` `claude-code` `cli` `first-timers-only` `golang` `good-first-issue`
 
 ## 🎯 Categories
 
@@ -53,11 +53,11 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Quality signals**
 
-- 55707 GitHub stars
-- 10999 forks
-- updated 2026-06-25
+- 55817 GitHub stars
+- 11014 forks
+- updated 2026-06-26
 - primary language: JavaScript
-- 13 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -79,4 +79,4 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>

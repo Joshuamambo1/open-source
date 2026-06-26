@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 457 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-26 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ BlazeUp-AI/Observal：BlazeUp-AI/Observal helps prototype or inspect blockchain 
 
 - 2123 GitHub stars
 - 457 forks
-- updated 2026-06-25
+- updated 2026-06-26
 - primary language: Python
 - 18 topics
 
@@ -79,4 +79,4 @@ BlazeUp-AI/Observal：BlazeUp-AI/Observal helps prototype or inspect blockchain 
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/BlazeUp-AI/Observal) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/BlazeUp-AI/Observal) · [← Back to Crypto](./README.md)</sub>

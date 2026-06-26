@@ -53,8 +53,8 @@ heygen-com/hyperframes：heygen-com/hyperframes helps connect AI assistants to r
 
 **Quality signals**
 
-- 31433 GitHub stars
-- 2920 forks
+- 31442 GitHub stars
+- 2922 forks
 - updated 2026-06-26
 - primary language: TypeScript
 - 11 topics

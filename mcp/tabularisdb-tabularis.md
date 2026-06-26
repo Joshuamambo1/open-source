@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 217 |
+| 🍴 **Forks** | 218 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
 | 🗓️ **Last push** | 2026-06-26 |
@@ -53,8 +53,8 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 **Quality signals**
 
-- 3399 GitHub stars
-- 217 forks
+- 3406 GitHub stars
+- 218 forks
 - updated 2026-06-26
 - primary language: TypeScript
 - 20 topics
@@ -70,9 +70,9 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 | integration | 78/100 |
 | production | 83/100 |
 | outlook | 93/100 |
-| adoption | 70/100 |
+| adoption | 71/100 |
 | stars | 75/100 |
-| forks | 58/100 |
+| forks | 59/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

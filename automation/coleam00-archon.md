@@ -53,7 +53,7 @@ coleam00/Archon：coleam00/Archon helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 22583 GitHub stars
+- 22586 GitHub stars
 - 3398 forks
 - updated 2026-06-26
 - primary language: TypeScript

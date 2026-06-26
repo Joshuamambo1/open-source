@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10.1k |
+| ⭐ **Stars** | 10.2k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 93/100 |
@@ -53,7 +53,7 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 10149 GitHub stars
+- 10150 GitHub stars
 - 1348 forks
 - updated 2026-06-26
 - primary language: TypeScript

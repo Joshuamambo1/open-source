@@ -53,7 +53,7 @@ ComposioHQ/composio：ComposioHQ/composio helps connect AI assistants to real to
 
 **Quality signals**
 
-- 28967 GitHub stars
+- 28969 GitHub stars
 - 4638 forks
 - updated 2026-06-26
 - primary language: TypeScript

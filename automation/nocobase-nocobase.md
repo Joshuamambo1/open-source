@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.7k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-26 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ nocobase/nocobase：nocobase/nocobase helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 23089 GitHub stars
-- 2702 forks
-- updated 2026-06-25
+- 23099 GitHub stars
+- 2707 forks
+- updated 2026-06-26
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ nocobase/nocobase：nocobase/nocobase helps remove repetitive manual operations 
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/nocobase/nocobase) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/nocobase/nocobase) · [← Back to Automation](./README.md)</sub>

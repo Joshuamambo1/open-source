@@ -53,7 +53,7 @@ BlazeUp-AI/Observal：BlazeUp-AI/Observal helps prototype or inspect blockchain 
 
 **Quality signals**
 
-- 2123 GitHub stars
+- 2124 GitHub stars
 - 457 forks
 - updated 2026-06-26
 - primary language: Python

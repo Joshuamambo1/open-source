@@ -208,8 +208,8 @@
 | 198 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 261 | Rust | 56/100 |
 | 199 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
 | 200 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
-| 201 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 202 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 201 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 202 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
 | 203 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 204 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 205 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |

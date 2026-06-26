@@ -2,7 +2,7 @@
 
 > 
 
-**22 projects** in this category.
+**23 projects** in this category.
 
 ## Projects
 
@@ -27,9 +27,10 @@
 | 17 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
 | 18 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
 | 19 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 20 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 21 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 22 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 20 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 21 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 22 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 23 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

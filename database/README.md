@@ -34,8 +34,8 @@
 | 24 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 25 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 26 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 27 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 28 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 27 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 28 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 29 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.1k | Java | 64/100 |
 | 30 | [google/copybara](./google-copybara.md) | ⭐ 2.8k | Java | 64/100 |
 | 31 | [FriesI23/mhabit](./friesi23-mhabit.md) | ⭐ 1.4k | Dart | 64/100 |
@@ -81,8 +81,8 @@
 | 71 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 72 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 73 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 74 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
-| 75 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 74 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
+| 75 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
 | 76 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 77 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 78 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -130,9 +130,9 @@
 | 120 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 121 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 122 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 123 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 124 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 125 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 123 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 124 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 125 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 126 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 41/100 |
 | 127 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
 | 128 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |

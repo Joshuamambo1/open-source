@@ -143,8 +143,8 @@
 | 133 | [braintree/braintree_android](./braintree-braintree-android.md) | ⭐ 424 | Kotlin | 55/100 |
 | 134 | [Adyen/adyen-web](./adyen-adyen-web.md) | ⭐ 246 | TypeScript | 55/100 |
 | 135 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 54/100 |
-| 136 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
-| 137 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 136 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 54/100 |
+| 137 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 54/100 |
 | 138 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 54/100 |
 | 139 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 54/100 |
 | 140 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 53/100 |

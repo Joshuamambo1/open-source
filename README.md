@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **11144** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3626 | [Browse →](./aiml/) |
-| 📦 **Misc** | 1905 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1036 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 977 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 572 | [Browse →](./devtools/) |
-| 🏷️ **Mcp** | 514 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 499 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 396 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 328 | [Browse →](./automation/) |
-| 📊 **Data** | 242 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 212 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 173 | [Browse →](./payments/) |
-| 📈 **Trading** | 130 | [Browse →](./trading/) |
-| 🏷️ **Database** | 128 | [Browse →](./database/) |
-| 📱 **Mobile** | 125 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 91 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 80 | [Browse →](./security/) |
-| ✨ **Design** | 32 | [Browse →](./design/) |
-| 🏷️ **Observability** | 26 | [Browse →](./observability/) |
-| 🎯 **Product** | 20 | [Browse →](./product/) |
-| 🏷️ **Education** | 20 | [Browse →](./education/) |
-| 🏷️ **Marketing** | 12 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 14 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 1 | [sickn33/antigravity-awesome-skills](./orchestration/sickn33-antigravity-awesome-skills.md) | ⭐ 41.7k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.1k | Mcp |
+| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 51k | Orchestration |
+| 4 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 51.6k | Orchestration |
+| 6 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.9k | Mcp |
+| 7 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143k | Mcp |
+| 8 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.6k | Mcp |
+| 9 | [farion1231/cc-switch](./mcp/farion1231-cc-switch.md) | ⭐ 108.5k | Mcp |
+| 10 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.1k | Mcp |
 
 ## 🚀 How it works
 

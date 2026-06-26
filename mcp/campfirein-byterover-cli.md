@@ -79,4 +79,4 @@ campfirein/byterover-cli：campfirein/byterover-cli helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/campfirein/byterover-cli) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/campfirein/byterover-cli) · [← Back to Mcp](./README.md)</sub>

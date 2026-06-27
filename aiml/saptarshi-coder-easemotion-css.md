@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 151 |
-| 🍴 **Forks** | 565 |
+| ⭐ **Stars** | 139 |
+| 🍴 **Forks** | 530 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 70/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-22 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ SAPTARSHI-coder/EaseMotion-css：SAPTARSHI-coder/EaseMotion-css helps add AI cap
 
 **Quality signals**
 
-- 151 GitHub stars
-- 565 forks
-- updated 2026-06-27
+- 139 GitHub stars
+- 530 forks
+- updated 2026-06-22
 - primary language: HTML
 - 16 topics
 
@@ -65,18 +65,18 @@ SAPTARSHI-coder/EaseMotion-css：SAPTARSHI-coder/EaseMotion-css helps add AI cap
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
-| adoption | 53/100 |
+| forks | 68/100 |
 | stars | 46/100 |
-| forks | 69/100 |
-| recency | 100/100 |
 | topics | 100/100 |
+| outlook | 83/100 |
+| quality | 78/100 |
+| recency | 100/100 |
+| adoption | 52/100 |
+| production | 76/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/SAPTARSHI-coder/EaseMotion-css) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-22 · [View on GitHub](https://github.com/SAPTARSHI-coder/EaseMotion-css) · [← Back to AI/ML](./README.md)</sub>

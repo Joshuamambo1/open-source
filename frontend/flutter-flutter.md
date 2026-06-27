@@ -1,6 +1,6 @@
 # flutter/flutter
 
-[![Stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&color=yellow)](https://github.com/flutter/flutter/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter?style=flat-square&color=blue)](https://github.com/flutter/flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/flutter/flutter?style=flat-square&color=yellow)](https://github.com/flutter/flutter/stargazers) [![Forks](https://img.shields.io/github/forks/flutter/flutter?style=flat-square&color=blue)](https://github.com/flutter/flutter/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 177.6k |
-| 🍴 **Forks** | 30.6k |
+| ⭐ **Stars** | 176.2k |
+| 🍴 **Forks** | 30.3k |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 73/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 64/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Frontend · Database · Mobile · Design
+Frontend · Mobile · Design
 
 ## 📝 Summary
 
 ### English
 
-flutter/flutter: flutter/flutter helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+flutter/flutter: flutter/flutter helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-flutter/flutter: open-source проект в категориях Frontend, Database, Mobile, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+flutter/flutter: open-source проект в категориях Frontend, Mobile, Design. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-flutter/flutter：flutter/flutter helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+flutter/flutter：flutter/flutter helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ flutter/flutter：flutter/flutter helps ship user-facing interfaces with less cu
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 177577 GitHub stars
-- 30568 forks
-- updated 2026-06-27
+- 176212 GitHub stars
+- 30331 forks
+- updated 2026-05-07
 - primary language: Dart
 - 19 topics
 
@@ -66,17 +66,17 @@ flutter/flutter：flutter/flutter helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 100/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 81/100 |
-| outlook | 92/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/flutter/flutter) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/flutter/flutter) · [← Back to Frontend](./README.md)</sub>

@@ -1,6 +1,6 @@
 # pandas-dev/pandas
 
-[![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&color=yellow)](https://github.com/pandas-dev/pandas/stargazers) [![Forks](https://img.shields.io/github/forks/pandas-dev/pandas?style=flat-square&color=blue)](https://github.com/pandas-dev/pandas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&color=yellow)](https://github.com/pandas-dev/pandas/stargazers) [![Forks](https://img.shields.io/github/forks/pandas-dev/pandas?style=flat-square&color=blue)](https://github.com/pandas-dev/pandas/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 49.1k |
-| 🍴 **Forks** | 20k |
+| ⭐ **Stars** | 48.7k |
+| 🍴 **Forks** | 19.9k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 61/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ Data
 
 ### English
 
-pandas-dev/pandas: pandas-dev/pandas helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pandas-dev/pandas: pandas-dev/pandas helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-pandas-dev/pandas: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+pandas-dev/pandas: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-pandas-dev/pandas：pandas-dev/pandas helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+pandas-dev/pandas：pandas-dev/pandas helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ pandas-dev/pandas：pandas-dev/pandas helps convert raw data into searchable, an
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 49088 GitHub stars
-- 20041 forks
-- updated 2026-06-27
+- 48684 GitHub stars
+- 19912 forks
+- updated 2026-05-07
 - primary language: Python
 - 6 topics
 
@@ -66,17 +66,17 @@ pandas-dev/pandas：pandas-dev/pandas helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 96/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 82/100 |
-| outlook | 86/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/pandas-dev/pandas) · [← Back to Data](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/pandas-dev/pandas) · [← Back to Data](./README.md)</sub>

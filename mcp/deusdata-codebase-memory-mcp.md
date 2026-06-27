@@ -1,6 +1,6 @@
 # DeusData/codebase-memory-mcp
 
-[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&color=yellow)](https://github.com/DeusData/codebase-memory-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/DeusData/codebase-memory-mcp?style=flat-square&color=blue)](https://github.com/DeusData/codebase-memory-mcp/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.7k |
-| 🍴 **Forks** | 1.1k |
+| ⭐ **Stars** | 15.9k |
+| 🍴 **Forks** | 1.2k |
 | 💻 **Language** | C |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
@@ -53,8 +53,8 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps connect AI ass
 
 **Quality signals**
 
-- 15662 GitHub stars
-- 1146 forks
+- 15920 GitHub stars
+- 1173 forks
 - updated 2026-06-27
 - primary language: C
 - 20 topics
@@ -72,7 +72,7 @@ DeusData/codebase-memory-mcp：DeusData/codebase-memory-mcp helps connect AI ass
 | outlook | 96/100 |
 | adoption | 86/100 |
 | stars | 89/100 |
-| forks | 76/100 |
+| forks | 77/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |

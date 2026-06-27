@@ -1,6 +1,6 @@
 # stringer-rss/stringer
 
-[![Stars](https://img.shields.io/github/stars/stringer-rss/stringer?style=flat-square&color=yellow)](https://github.com/stringer-rss/stringer/stargazers) [![Forks](https://img.shields.io/github/forks/stringer-rss/stringer?style=flat-square&color=blue)](https://github.com/stringer-rss/stringer/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-81%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stringer-rss/stringer?style=flat-square&color=yellow)](https://github.com/stringer-rss/stringer/stargazers) [![Forks](https://img.shields.io/github/forks/stringer-rss/stringer?style=flat-square&color=blue)](https://github.com/stringer-rss/stringer/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted, anti-social RSS reader.
 
@@ -9,15 +9,15 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 391 |
+| 🍴 **Forks** | 392 |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 81/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 65/100 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`feed-reader` `feedjira` `rss` `rss-reader` `ruby`
 
 ## 🎯 Categories
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-Stringer is an open-source, self-hosted RSS reader designed to be a private and secure alternative to traditional social media platforms. This anti-social RSS reader allows users to aggregate and manage their feeds without relying on centralized services. By hosting Stringer on one's own infrastructure, individuals can maintain control over their online presence and data.
+### English
+
+stringer-rss/stringer: stringer-rss/stringer may be useful when its README and activity match a concrete workflow.. Use it for Misc. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+stringer-rss/stringer: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+stringer-rss/stringer：stringer-rss/stringer may be useful when its README and activity match a concrete workflow.。适合用于Misc。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** stringer-rss/stringer may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 4116 GitHub stars
+- 392 forks
+- updated 2026-06-27
+- primary language: Ruby
+- 5 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 65/100 |
+| stars | 77/100 |
+| topics | 63/100 |
+| outlook | 81/100 |
+| quality | 82/100 |
+| recency | 100/100 |
+| adoption | 74/100 |
+| production | 75/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-24 · [View on GitHub](https://github.com/stringer-rss/stringer) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/stringer-rss/stringer) · [← Back to Misc](./README.md)</sub>

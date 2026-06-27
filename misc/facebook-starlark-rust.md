@@ -1,6 +1,6 @@
 # facebook/starlark-rust
 
-[![Stars](https://img.shields.io/github/stars/facebook/starlark-rust?style=flat-square&color=yellow)](https://github.com/facebook/starlark-rust/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/starlark-rust?style=flat-square&color=blue)](https://github.com/facebook/starlark-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/starlark-rust?style=flat-square&color=yellow)](https://github.com/facebook/starlark-rust/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/starlark-rust?style=flat-square&color=blue)](https://github.com/facebook/starlark-rust/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A Rust implementation of the Starlark language
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 965 |
-| 🍴 **Forks** | 94 |
+| ⭐ **Stars** | 991 |
+| 🍴 **Forks** | 106 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -25,8 +25,55 @@ Misc
 
 ## 📝 Summary
 
-The starlark-rust project is an open-source implementation of the Starlark language in Rust, a systems programming language known for its performance and reliability. This project allows developers to leverage Rust's capabilities to build high-performance applications that can execute Starlark code, offering a versatile solution for various use cases. By providing a Rust-based Starlark implementation, this project expands the language's reach and potential applications.
+### English
+
+facebook/starlark-rust: facebook/starlark-rust may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+facebook/starlark-rust: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+facebook/starlark-rust：facebook/starlark-rust may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** facebook/starlark-rust may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 991 GitHub stars
+- 106 forks
+- updated 2026-06-27
+- primary language: Rust
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 51/100 |
+| stars | 64/100 |
+| topics | 0/100 |
+| outlook | 68/100 |
+| quality | 67/100 |
+| recency | 100/100 |
+| adoption | 60/100 |
+| production | 70/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-29 · [View on GitHub](https://github.com/facebook/starlark-rust) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/facebook/starlark-rust) · [← Back to Misc](./README.md)</sub>

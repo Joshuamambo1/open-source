@@ -2,7 +2,7 @@
 
 > 
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
@@ -33,7 +33,8 @@
 | 23 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
 | 24 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
 | 25 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 26 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 26 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 27 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

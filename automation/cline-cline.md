@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 63.9k |
+| ⭐ **Stars** | 64k |
 | 🍴 **Forks** | 6.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
@@ -53,8 +53,8 @@ cline/cline：cline/cline helps remove repetitive manual operations from a workf
 
 **Quality signals**
 
-- 63937 GitHub stars
-- 6778 forks
+- 63952 GitHub stars
+- 6782 forks
 - updated 2026-06-27
 - primary language: TypeScript
 

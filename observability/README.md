@@ -2,7 +2,7 @@
 
 > 
 
-**28 projects** in this category.
+**29 projects** in this category.
 
 ## Projects
 
@@ -34,8 +34,9 @@
 | 24 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
 | 25 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
 | 26 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
-| 27 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 28 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 27 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
+| 28 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 29 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

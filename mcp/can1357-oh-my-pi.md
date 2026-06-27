@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.8k |
+| ⭐ **Stars** | 14.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 94/100 |
@@ -53,8 +53,8 @@ can1357/oh-my-pi：can1357/oh-my-pi helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 14844 GitHub stars
-- 1313 forks
+- 14852 GitHub stars
+- 1314 forks
 - updated 2026-06-27
 - primary language: TypeScript
 - 15 topics

@@ -53,7 +53,7 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 **Quality signals**
 
-- 3426 GitHub stars
+- 3429 GitHub stars
 - 218 forks
 - updated 2026-06-27
 - primary language: TypeScript

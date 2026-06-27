@@ -53,7 +53,7 @@ stickerdaniel/linkedin-mcp-server：stickerdaniel/linkedin-mcp-server helps conn
 
 **Quality signals**
 
-- 2524 GitHub stars
+- 2525 GitHub stars
 - 445 forks
 - updated 2026-06-27
 - primary language: Python

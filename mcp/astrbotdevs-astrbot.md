@@ -53,7 +53,7 @@ AstrBotDevs/AstrBot：AstrBotDevs/AstrBot helps connect AI assistants to real to
 
 **Quality signals**
 
-- 35420 GitHub stars
+- 35423 GitHub stars
 - 2450 forks
 - updated 2026-06-27
 - primary language: Python

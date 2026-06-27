@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4.9k |
-| 🍴 **Forks** | 297 |
+| ⭐ **Stars** | 5k |
+| 🍴 **Forks** | 300 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ beclab/Olares：beclab/Olares helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 4948 GitHub stars
-- 297 forks
-- updated 2026-06-26
+- 4965 GitHub stars
+- 300 forks
+- updated 2026-06-27
 - primary language: Go
 - 14 topics
 
@@ -79,4 +79,4 @@ beclab/Olares：beclab/Olares helps connect AI assistants to real tools and data
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/beclab/Olares) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/beclab/Olares) · [← Back to Mcp](./README.md)</sub>

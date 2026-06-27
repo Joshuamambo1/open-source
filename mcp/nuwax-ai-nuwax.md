@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 820 |
-| 🍴 **Forks** | 162 |
+| 🍴 **Forks** | 163 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ nuwax-ai/nuwax：nuwax-ai/nuwax helps connect AI assistants to real tools and da
 **Quality signals**
 
 - 820 GitHub stars
-- 162 forks
-- updated 2026-06-24
+- 163 forks
+- updated 2026-06-27
 - primary language: TypeScript
 - 13 topics
 
@@ -79,4 +79,4 @@ nuwax-ai/nuwax：nuwax-ai/nuwax helps connect AI assistants to real tools and da
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/nuwax-ai/nuwax) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/nuwax-ai/nuwax) · [← Back to Mcp](./README.md)</sub>

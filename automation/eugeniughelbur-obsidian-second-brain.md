@@ -1,6 +1,6 @@
 # eugeniughelbur/obsidian-second-brain
 
-[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eugeniughelbur/obsidian-second-brain?style=flat-square&color=yellow)](https://github.com/eugeniughelbur/obsidian-second-brain/stargazers) [![Forks](https://img.shields.io/github/forks/eugeniughelbur/obsidian-second-brain?style=flat-square&color=blue)](https://github.com/eugeniughelbur/obsidian-second-brain/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-91%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-CLI skill for Obsidian: turn your vault into a living AI-first second brain across Claude Code, Codex, Gemini, and OpenCode. 43 commands - now with /obsidian-architect to document your codebase, key-less web research, Google Calendar, and self-rewriting notes.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 323 |
+| ⭐ **Stars** | 2.8k |
+| 🍴 **Forks** | 325 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 90/100 |
+| 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
@@ -53,8 +53,8 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 2738 GitHub stars
-- 323 forks
+- 2751 GitHub stars
+- 325 forks
 - updated 2026-06-27
 - primary language: Python
 - 20 topics

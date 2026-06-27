@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22.6k |
+| ⭐ **Stars** | 22.7k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
@@ -53,8 +53,8 @@ promptfoo/promptfoo：promptfoo/promptfoo helps make internal knowledge searchab
 
 **Quality signals**
 
-- 22645 GitHub stars
-- 2011 forks
+- 22651 GitHub stars
+- 2013 forks
 - updated 2026-06-27
 - primary language: TypeScript
 - 18 topics

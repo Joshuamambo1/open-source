@@ -53,8 +53,8 @@ n8n-io/n8n：n8n-io/n8n helps connect AI assistants to real tools and data throu
 
 **Quality signals**
 
-- 194263 GitHub stars
-- 58881 forks
+- 194272 GitHub stars
+- 58885 forks
 - updated 2026-06-27
 - primary language: TypeScript
 - 20 topics

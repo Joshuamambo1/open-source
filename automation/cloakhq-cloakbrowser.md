@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27k |
-| 🍴 **Forks** | 2.1k |
+| ⭐ **Stars** | 27.3k |
+| 🍴 **Forks** | 2.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-24 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,63 +27,15 @@ Automation · AI/ML · Backend · DevTools
 
 ### English
 
-**Project Summary:**
-CloakHQ/CloakBrowser is an open-source project that offers a stealthy Chromium browser, designed to pass every bot detection test. This project is particularly useful for automating repetitive tasks, allowing users to remove manual work and connect tools into repeatable workflows. With its high production readiness and strong ecosystem signals, CloakHQ/CloakBrowser is a promising solution for streamlining workflows.
-
-**Value Proposition:**
-The value proposition of CloakHQ/CloakBrowser lies in its ability to automate tasks, saving time and effort. By removing repetitive manual operations, users can focus on higher-level tasks and improve overall productivity.
-
-**Practical Adoption Path:**
-To adopt CloakHQ/CloakBrowser, users can follow these steps:
-
-1. Evaluate the project's implementation signals, such as its API, SDK, and CLI.
-2. Assess the project's language metadata and focused topics to ensure it aligns with their needs.
-3. Review the project's quality signals, such as GitHub stars and forks, to gauge its adoption and community support.
-4. Conduct a final review of the project's license, security posture, and active maintainers to ensure it meets their requirements.
-
-**Production Readiness:**
-CloakHQ/CloakBrowser has high production readiness
+CloakHQ/CloakBrowser: CloakHQ/CloakBrowser helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме проекта CloakHQ/CloakBrowser:
-
-CloakHQ/CloakBrowser - это бесплатный и открытое программное обеспечение, которое позволяет автоматизировать повторяющиеся задачи в рабочем процессе. Этот проект предназначен для замены Playwright и обеспечивает stealth-браузер, который может пройти любые тесты на обнаружение ботов. CloakHQ/CloakBrowser готов к использованию в production, поскольку имеет высокий уровень готовности к внедрению, активных пользователей и сильную экосистему.
+CloakHQ/CloakBrowser: open-source проект в категориях Automation, AI/ML, Backend, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-
-CloakHQ/CloakBrowser 是一个开源项目，基于 Chromium，能够在所有机器人检测测试中通过。它是一种 Playwright 的替代品，可以直接替换源代码中的指纹识别代码。该项目通过自动化流程，帮助减少重复的操作工作。
-
-**价值**
-
-CloakHQ/CloakBrowser 的主要价值在于，它可以帮助你自动化流程，减少重复的操作工作。通过使用此项目，你可以：
-
-* 移除重复的操作
-* 连接工具到可重复的流程中
-* 计划操作任务
-
-**典型接入方式**
-
-CloakHQ/CloakBrowser 提供了多种接入方式，例如：
-
-* API
-* SDK
-* CLI
-* 语言元数据
-* 焦点主题
-
-**生产可用性**
-
-CloakHQ/CloakBrowser 的生产可用性非常高，具有以下特点：
-
-* 最近活动：项目最近更新于 2026-06-24
-* 广泛采用：27004 个 GitHub Star，2131 个 Fork
-* 强大生态系统
-* 高质量信号
-
-但是，
+CloakHQ/CloakBrowser：CloakHQ/CloakBrowser helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -101,9 +53,9 @@ CloakHQ/CloakBrowser 的生产可用性非常高，具有以下特点：
 
 **Quality signals**
 
-- 27004 GitHub stars
-- 2131 forks
-- updated 2026-06-24
+- 27281 GitHub stars
+- 2159 forks
+- updated 2026-06-27
 - primary language: Python
 - 20 topics
 
@@ -127,4 +79,4 @@ CloakHQ/CloakBrowser 的生产可用性非常高，具有以下特点：
 
 ---
 
-<sub>🔭 Discovered 2026-06-24 · [View on GitHub](https://github.com/CloakHQ/CloakBrowser) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/CloakHQ/CloakBrowser) · [← Back to Automation](./README.md)</sub>

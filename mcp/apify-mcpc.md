@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 693 |
+| ⭐ **Stars** | 694 |
 | 🍴 **Forks** | 65 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
@@ -53,7 +53,7 @@ apify/mcpc：apify/mcpc helps connect AI assistants to real tools and data throu
 
 **Quality signals**
 
-- 693 GitHub stars
+- 694 GitHub stars
 - 65 forks
 - updated 2026-06-27
 - primary language: TypeScript

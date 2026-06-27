@@ -53,7 +53,7 @@ promptfoo/promptfoo：promptfoo/promptfoo helps make internal knowledge searchab
 
 **Quality signals**
 
-- 22651 GitHub stars
+- 22653 GitHub stars
 - 2013 forks
 - updated 2026-06-27
 - primary language: TypeScript

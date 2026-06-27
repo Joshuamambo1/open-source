@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 157 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ thClaws/thClaws：thClaws/thClaws helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 1130 GitHub stars
+- 1131 GitHub stars
 - 157 forks
-- updated 2026-06-26
+- updated 2026-06-27
 - primary language: Rust
 - 20 topics
 
@@ -79,4 +79,4 @@ thClaws/thClaws：thClaws/thClaws helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to Mcp](./README.md)</sub>

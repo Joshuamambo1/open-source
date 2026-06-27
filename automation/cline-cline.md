@@ -54,7 +54,7 @@ cline/cline：cline/cline helps remove repetitive manual operations from a workf
 **Quality signals**
 
 - 63952 GitHub stars
-- 6782 forks
+- 6784 forks
 - updated 2026-06-27
 - primary language: TypeScript
 

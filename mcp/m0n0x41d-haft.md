@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 103 |
+| 🍴 **Forks** | 104 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ m0n0x41d/haft：m0n0x41d/haft helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 1352 GitHub stars
-- 103 forks
-- updated 2026-06-25
+- 1357 GitHub stars
+- 104 forks
+- updated 2026-06-27
 - primary language: Go
 - 17 topics
 
@@ -72,11 +72,11 @@ m0n0x41d/haft：m0n0x41d/haft helps connect AI assistants to real tools and data
 | outlook | 91/100 |
 | adoption | 62/100 |
 | stars | 67/100 |
-| forks | 50/100 |
+| forks | 51/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/m0n0x41d/haft) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/m0n0x41d/haft) · [← Back to Mcp](./README.md)</sub>

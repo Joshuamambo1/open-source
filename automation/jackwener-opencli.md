@@ -53,7 +53,7 @@ jackwener/OpenCLI：jackwener/OpenCLI helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 25439 GitHub stars
+- 25449 GitHub stars
 - 2527 forks
 - updated 2026-06-27
 - primary language: JavaScript

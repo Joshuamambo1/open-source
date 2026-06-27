@@ -1,6 +1,6 @@
 # superplanehq/superplane
 
-[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/superplanehq/superplane?style=flat-square&color=yellow)](https://github.com/superplanehq/superplane/stargazers) [![Forks](https://img.shields.io/github/forks/superplanehq/superplane?style=flat-square&color=blue)](https://github.com/superplanehq/superplane/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-88%2F100-brightgreen?style=flat-square)](#)
 
 > The open source control plane for agentic engineering.
 
@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 328 |
+| 🍴 **Forks** | 336 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 📈 **Score** | 88/100 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 
 **Quality signals**
 
-- 3177 GitHub stars
-- 328 forks
-- updated 2026-06-26
+- 3248 GitHub stars
+- 336 forks
+- updated 2026-06-27
 - primary language: Go
 - 12 topics
 
@@ -68,9 +68,9 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 | usefulness | 100/100 |
 | quality | 87/100 |
 | integration | 78/100 |
-| production | 83/100 |
+| production | 84/100 |
 | outlook | 93/100 |
-| adoption | 71/100 |
+| adoption | 72/100 |
 | stars | 75/100 |
 | forks | 63/100 |
 | recency | 100/100 |
@@ -79,4 +79,4 @@ superplanehq/superplane：superplanehq/superplane helps remove repetitive manual
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/superplanehq/superplane) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/superplanehq/superplane) · [← Back to Automation](./README.md)</sub>

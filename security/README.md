@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**85 projects** in this category.
+**86 projects** in this category.
 
 ## Projects
 
@@ -74,25 +74,26 @@
 | 64 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 863 | JavaScript | 51/100 |
 | 65 | [Luzifer/ots](./luzifer-ots.md) | ⭐ 753 | Go | 51/100 |
 | 66 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 51/100 |
-| 67 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 149 | Rust | 51/100 |
-| 68 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
-| 69 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 49/100 |
-| 70 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 48/100 |
-| 71 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
-| 72 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
-| 73 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 47/100 |
-| 74 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
-| 75 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 47/100 |
-| 76 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
-| 77 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
-| 78 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
-| 79 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
-| 80 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
-| 81 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
-| 82 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 83 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
-| 84 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
-| 85 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
+| 67 | [thepartly/gatehouse](./thepartly-gatehouse.md) | ⭐ 342 | Rust | 51/100 |
+| 68 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 149 | Rust | 51/100 |
+| 69 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 250 | Rust | 50/100 |
+| 70 | [ssh-vault/ssh-vault](./ssh-vault-ssh-vault.md) | ⭐ 505 | Rust | 49/100 |
+| 71 | [null8626/decancer](./null8626-decancer.md) | ⭐ 127 | Rust | 48/100 |
+| 72 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 48/100 |
+| 73 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 48/100 |
+| 74 | [microsoft/litebox](./microsoft-litebox.md) | ⭐ 2.6k | Rust | 47/100 |
+| 75 | [CriticalPathSecurity/Zeek-Intelligence-Feeds](./criticalpathsecurity-zeek-intelligence-feeds.md) | ⭐ 398 | Zeek | 47/100 |
+| 76 | [linux-credentials/libwebauthn](./linux-credentials-libwebauthn.md) | ⭐ 540 | Rust | 47/100 |
+| 77 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
+| 78 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
+| 79 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
+| 80 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
+| 81 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
+| 82 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
+| 83 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 84 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 85 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 86 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 

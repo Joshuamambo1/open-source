@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ Skyvern-AI/skyvern：Skyvern-AI/skyvern helps remove repetitive manual operation
 
 - 22013 GitHub stars
 - 2055 forks
-- updated 2026-06-26
+- updated 2026-06-27
 - primary language: Python
 - 16 topics
 
@@ -79,4 +79,4 @@ Skyvern-AI/skyvern：Skyvern-AI/skyvern helps remove repetitive manual operation
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/Skyvern-AI/skyvern) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/Skyvern-AI/skyvern) · [← Back to Automation](./README.md)</sub>

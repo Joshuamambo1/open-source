@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ airbytehq/airbyte：airbytehq/airbyte helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 21539 GitHub stars
+- 21538 GitHub stars
 - 5240 forks
-- updated 2026-06-26
+- updated 2026-06-27
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ airbytehq/airbyte：airbytehq/airbyte helps remove repetitive manual operations 
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/airbytehq/airbyte) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/airbytehq/airbyte) · [← Back to Automation](./README.md)</sub>

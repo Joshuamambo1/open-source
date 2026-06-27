@@ -79,4 +79,4 @@ speakeasy-api/gram：speakeasy-api/gram helps connect AI assistants to real tool
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/speakeasy-api/gram) · [← Back to Mcp](./README.md)</sub>

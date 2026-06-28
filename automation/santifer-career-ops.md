@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55.9k |
-| 🍴 **Forks** | 11k |
+| ⭐ **Stars** | 56.3k |
+| 🍴 **Forks** | 11.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 91/100 |
-| 🗓️ **Last push** | 2026-06-26 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Quality signals**
 
-- 55933 GitHub stars
-- 11038 forks
-- updated 2026-06-26
+- 56303 GitHub stars
+- 11111 forks
+- updated 2026-06-28
 - primary language: JavaScript
 - 16 topics
 
@@ -79,4 +79,4 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 ---
 
-<sub>🔭 Discovered 2026-06-26 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/santifer/career-ops) · [← Back to Automation](./README.md)</sub>

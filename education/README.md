@@ -2,7 +2,7 @@
 
 > 
 
-**28 projects** in this category.
+**29 projects** in this category.
 
 ## Projects
 
@@ -26,16 +26,17 @@
 | 16 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
 | 17 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
 | 18 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
-| 19 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
-| 20 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
-| 21 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 22 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 23 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 24 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 25 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 26 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 27 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 28 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 19 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
+| 20 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
+| 21 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
+| 22 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
+| 23 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
+| 24 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 25 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 26 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 27 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 28 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 29 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **12625** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 17 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
-| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 🤖 **AI/ML** | 3996 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2211 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1178 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1079 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 636 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 634 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 564 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 437 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 397 | [Browse →](./automation/) |
+| 📊 **Data** | 272 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 261 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 185 | [Browse →](./payments/) |
+| 🏷️ **Database** | 168 | [Browse →](./database/) |
+| 📱 **Mobile** | 149 | [Browse →](./mobile/) |
+| 📈 **Trading** | 141 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 96 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 89 | [Browse →](./security/) |
+| ✨ **Design** | 35 | [Browse →](./design/) |
+| 🏷️ **Observability** | 33 | [Browse →](./observability/) |
+| 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🎯 **Product** | 21 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.4k | Mcp |
-| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 7.2k | Mcp |
-| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15k | Mcp |
-| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 5 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 6 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.2k | Orchestration |
-| 7 | [PrefectHQ/fastmcp](./mcp/prefecthq-fastmcp.md) | ⭐ 25.8k | Mcp |
-| 8 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 56.3k | Automation |
-| 9 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 61.9k | Orchestration |
-| 10 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 75.2k | Orchestration |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
 
 ## 🚀 How it works
 

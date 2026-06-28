@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usabl
 
 **Quality signals**
 
-- 17952 GitHub stars
+- 17955 GitHub stars
 - 2070 forks
-- updated 2026-06-27
+- updated 2026-06-28
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ arc53/DocsGPT：arc53/DocsGPT helps make internal knowledge searchable and usabl
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to Knowledgerag](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/arc53/DocsGPT) · [← Back to Knowledgerag](./README.md)</sub>

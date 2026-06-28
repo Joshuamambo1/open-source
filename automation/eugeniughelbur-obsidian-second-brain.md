@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 327 |
+| 🍴 **Forks** | 332 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | 2026-06-28 |
@@ -53,8 +53,8 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 2765 GitHub stars
-- 327 forks
+- 2781 GitHub stars
+- 332 forks
 - updated 2026-06-28
 - primary language: Python
 - 20 topics

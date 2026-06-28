@@ -53,7 +53,7 @@ activepieces/activepieces：activepieces/activepieces helps connect AI assistant
 
 **Quality signals**
 
-- 23024 GitHub stars
+- 23026 GitHub stars
 - 3863 forks
 - updated 2026-06-28
 - primary language: TypeScript

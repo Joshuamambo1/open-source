@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 73.1k |
+| ⭐ **Stars** | 73.2k |
 | 🍴 **Forks** | 7.3k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 84/100 |
@@ -53,8 +53,8 @@ safishamsi/graphify：safishamsi/graphify helps make internal knowledge searchab
 
 **Quality signals**
 
-- 73103 GitHub stars
-- 7337 forks
+- 73159 GitHub stars
+- 7339 forks
 - updated 2026-06-28
 - primary language: Python
 - 11 topics

@@ -53,7 +53,7 @@ onecli/onecli：onecli/onecli helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 2420 GitHub stars
+- 2426 GitHub stars
 - 128 forks
 - updated 2026-06-28
 - primary language: TypeScript

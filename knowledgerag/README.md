@@ -244,8 +244,8 @@
 | 234 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 22 | TypeScript | 55/100 |
 | 235 | [bitmask-stack/carbonado](./bitmask-stack-carbonado.md) | ⭐ 117 | Rust | 54/100 |
 | 236 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
-| 237 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 238 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 237 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 238 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
 | 239 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 240 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 241 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |

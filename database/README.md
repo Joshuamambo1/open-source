@@ -159,9 +159,9 @@
 | 149 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 150 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 151 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 152 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 153 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 154 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 152 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 153 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 154 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 155 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
 | 156 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
 | 157 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |

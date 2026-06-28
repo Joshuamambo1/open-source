@@ -53,8 +53,8 @@ CloakHQ/CloakBrowser：CloakHQ/CloakBrowser helps remove repetitive manual opera
 
 **Quality signals**
 
-- 27287 GitHub stars
-- 2160 forks
+- 27325 GitHub stars
+- 2167 forks
 - updated 2026-06-28
 - primary language: Python
 - 20 topics

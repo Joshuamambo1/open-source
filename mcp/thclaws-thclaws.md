@@ -79,4 +79,4 @@ thClaws/thClaws：thClaws/thClaws helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/thClaws/thClaws) · [← Back to Mcp](./README.md)</sub>

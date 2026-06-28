@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 6.5k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ netdata/netdata：netdata/netdata helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 79423 GitHub stars
-- 6498 forks
-- updated 2026-06-27
+- 79432 GitHub stars
+- 6501 forks
+- updated 2026-06-28
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ netdata/netdata：netdata/netdata helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/netdata/netdata) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/netdata/netdata) · [← Back to Mcp](./README.md)</sub>

@@ -53,7 +53,7 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 **Quality signals**
 
-- 2753 GitHub stars
+- 2754 GitHub stars
 - 326 forks
 - updated 2026-06-27
 - primary language: Python
@@ -79,4 +79,4 @@ eugeniughelbur/obsidian-second-brain：eugeniughelbur/obsidian-second-brain help
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) · [← Back to Automation](./README.md)</sub>

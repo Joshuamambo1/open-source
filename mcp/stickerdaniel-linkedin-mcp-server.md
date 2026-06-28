@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 445 |
+| 🍴 **Forks** | 447 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ stickerdaniel/linkedin-mcp-server：stickerdaniel/linkedin-mcp-server helps conn
 
 **Quality signals**
 
-- 2526 GitHub stars
-- 445 forks
-- updated 2026-06-27
+- 2531 GitHub stars
+- 447 forks
+- updated 2026-06-28
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ stickerdaniel/linkedin-mcp-server：stickerdaniel/linkedin-mcp-server helps conn
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/stickerdaniel/linkedin-mcp-server) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/stickerdaniel/linkedin-mcp-server) · [← Back to Mcp](./README.md)</sub>

@@ -1,6 +1,6 @@
 # eracle/OpenOutreach
 
-[![Stars](https://img.shields.io/github/stars/eracle/OpenOutreach?style=flat-square&color=yellow)](https://github.com/eracle/OpenOutreach/stargazers) [![Forks](https://img.shields.io/github/forks/eracle/OpenOutreach?style=flat-square&color=blue)](https://github.com/eracle/OpenOutreach/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eracle/OpenOutreach?style=flat-square&color=yellow)](https://github.com/eracle/OpenOutreach/stargazers) [![Forks](https://img.shields.io/github/forks/eracle/OpenOutreach?style=flat-square&color=blue)](https://github.com/eracle/OpenOutreach/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-84%2F100-brightgreen?style=flat-square)](#)
 
 > Linkedin Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 247 |
+| ⭐ **Stars** | 2.3k |
+| 🍴 **Forks** | 433 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 📈 **Score** | 84/100 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Crypto · AI/ML · Backend
+Crypto · Automation · AI/ML · Backend · Marketing
 
 ## 📝 Summary
 
 ### English
 
-OpenOutreach is an open‑source LinkedIn automation platform that leverages AI to discover and qualify sales leads for users. Targeted at professionals and businesses seeking to streamline prospecting—especially in crypto, AI/ML, and other tech sectors—the tool automates profile searches, connection requests, and outreach messaging. Its backend‑focused architecture enables easy integration and customization for developers building their own lead‑generation pipelines.
+eracle/OpenOutreach: eracle/OpenOutreach helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-OpenOutreach — это open‑source инструмент автоматизации LinkedIn, который с помощью искусственного интеллекта ищет и собирает целевые лиды для вашего бизнеса. Продукт ориентирован на крипто‑сообщество, AI/ML‑разработчиков и backend‑команды, желающие ускорить процесс поиска потенциальных партнёров и клиентов. Благодаря гибкой архитектуре и полностью открытому коду проект легко интегрируется в существующие рабочие процессы и масштабируется под любые задачи.
+eracle/OpenOutreach: open-source проект в категориях Crypto, Automation, AI/ML, Backend, Marketing. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-eracle/OpenOutreach：eracle/OpenOutreach helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+eracle/OpenOutreach：eracle/OpenOutreach helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ eracle/OpenOutreach：eracle/OpenOutreach helps prototype or inspect blockchain 
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 1546 GitHub stars
-- 247 forks
-- updated 2026-05-09
+- 2261 GitHub stars
+- 433 forks
+- updated 2026-06-28
 - primary language: Python
 - 19 topics
 
@@ -66,17 +66,17 @@ eracle/OpenOutreach：eracle/OpenOutreach helps prototype or inspect blockchain 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 86/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 70/100 |
-| adoption | 66/100 |
-| stars | 68/100 |
-| forks | 60/100 |
-| recency | 40/100 |
+| production | 81/100 |
+| outlook | 92/100 |
+| adoption | 70/100 |
+| stars | 71/100 |
+| forks | 66/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/eracle/OpenOutreach) · [← Back to Crypto](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/eracle/OpenOutreach) · [← Back to Crypto](./README.md)</sub>

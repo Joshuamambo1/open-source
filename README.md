@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12512** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 3970 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2189 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1165 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1070 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 630 | [Browse →](./devtools/) |
-| 🏷️ **Mcp** | 623 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 558 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 437 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 394 | [Browse →](./automation/) |
-| 📊 **Data** | 270 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 256 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 184 | [Browse →](./payments/) |
-| 🏷️ **Database** | 166 | [Browse →](./database/) |
-| 📱 **Mobile** | 146 | [Browse →](./mobile/) |
-| 📈 **Trading** | 140 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 96 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 89 | [Browse →](./security/) |
-| ✨ **Design** | 34 | [Browse →](./design/) |
-| 🏷️ **Observability** | 33 | [Browse →](./observability/) |
-| 🏷️ **Education** | 27 | [Browse →](./education/) |
-| 🎯 **Product** | 21 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 19 | [Browse →](./mcp/) |
+| 🎨 **Frontend** | 18 | [Browse →](./frontend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 🧩 **Orchestration** | 8 | [Browse →](./orchestration/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 3 | [Browse →](./crypto/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.3k | Mcp |
+| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 7.1k | Mcp |
+| 3 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 14.9k | Mcp |
+| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
+| 5 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.2k | Orchestration |
+| 6 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 7 | [iii-hq/iii](./aiml/iii-hq-iii.md) | ⭐ 18.4k | AI/ML |
+| 8 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 61.8k | Orchestration |
+| 9 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 75.1k | Orchestration |
+| 10 | [HKUDS/nanobot](./automation/hkuds-nanobot.md) | ⭐ 44.8k | Automation |
 
 ## 🚀 How it works
 

@@ -41,8 +41,8 @@
 | 31 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 32 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 33 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 34 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
-| 35 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 34 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 35 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
 | 36 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.1k | Java | 64/100 |
 | 37 | [google/copybara](./google-copybara.md) | ⭐ 2.8k | Java | 64/100 |
 | 38 | [FriesI23/mhabit](./friesi23-mhabit.md) | ⭐ 1.4k | Dart | 64/100 |
@@ -159,8 +159,8 @@
 | 149 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 150 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 151 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 152 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 153 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 152 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 153 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 154 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
 | 155 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |
 | 156 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 41/100 |

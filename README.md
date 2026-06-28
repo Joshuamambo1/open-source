@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **12670** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
+| 🤖 **AI/ML** | 4008 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2222 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1184 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1082 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 640 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 634 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 565 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 438 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 399 | [Browse →](./automation/) |
+| 📊 **Data** | 272 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 261 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 187 | [Browse →](./payments/) |
+| 🏷️ **Database** | 169 | [Browse →](./database/) |
+| 📱 **Mobile** | 150 | [Browse →](./mobile/) |
+| 📈 **Trading** | 142 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 96 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 89 | [Browse →](./security/) |
+| ✨ **Design** | 35 | [Browse →](./design/) |
+| 🏷️ **Observability** | 33 | [Browse →](./observability/) |
+| 🏷️ **Education** | 29 | [Browse →](./education/) |
+| 🎯 **Product** | 21 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 53k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.4k | Mcp |
-| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 7.3k | Mcp |
-| 4 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 5 | [mksglu/context-mode](./orchestration/mksglu-context-mode.md) | ⭐ 18.3k | Orchestration |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15k | Mcp |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
-| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.2k | Orchestration |
-| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
 
 ## 🚀 How it works
 

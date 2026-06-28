@@ -74,8 +74,8 @@
 | 64 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 939 | Python | 72/100 |
 | 65 | [rust-nostr/nostr](./rust-nostr-nostr.md) | ⭐ 627 | Rust | 72/100 |
 | 66 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 137 | Shell | 72/100 |
-| 67 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
-| 68 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 67 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 68 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
 | 69 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
 | 70 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 71 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |

@@ -1,6 +1,6 @@
 # spacebarchat/server
 
-[![Stars](https://img.shields.io/github/stars/spacebarchat/server?style=flat-square&color=yellow)](https://github.com/spacebarchat/server/stargazers) [![Forks](https://img.shields.io/github/forks/spacebarchat/server?style=flat-square&color=blue)](https://github.com/spacebarchat/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spacebarchat/server?style=flat-square&color=yellow)](https://github.com/spacebarchat/server/stargazers) [![Forks](https://img.shields.io/github/forks/spacebarchat/server?style=flat-square&color=blue)](https://github.com/spacebarchat/server/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 303 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 309 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 62/100 |
+| 🗓️ **Last push** | 2026-06-27 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`discord` `instant-messaging` `real-time-communication` `spacebarchat`
 
 ## 🎯 Categories
 
@@ -25,8 +25,58 @@ Frontend · Backend
 
 ## 📝 Summary
 
-Spacebar server is an open-source project that reimplements the Discord.com backend using Typescript, aiming to provide a similar experience through a community-driven approach. This project focuses on replicating the functionality of the popular Discord platform, offering a reimagined alternative for users. By leveraging open-source development, the Spacebar server project encourages collaboration and innovation in the development of its backend infrastructure.
+### English
+
+spacebarchat/server: spacebarchat/server helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+spacebarchat/server: open-source проект в категориях Frontend, Backend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+spacebarchat/server：spacebarchat/server helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** spacebarchat/server helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 2178 GitHub stars
+- 309 forks
+- updated 2026-06-27
+- primary language: TypeScript
+- 4 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 62/100 |
+| stars | 71/100 |
+| topics | 50/100 |
+| outlook | 76/100 |
+| quality | 78/100 |
+| recency | 100/100 |
+| adoption | 69/100 |
+| production | 76/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/spacebarchat/server) · [← Back to Frontend](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/spacebarchat/server) · [← Back to Frontend](./README.md)</sub>

@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**88 projects** in this category.
+**89 projects** in this category.
 
 ## Projects
 
@@ -89,13 +89,14 @@
 | 79 | [ossf/malicious-packages](./ossf-malicious-packages.md) | ⭐ 503 | Go | 47/100 |
 | 80 | [aquasecurity/vuln-list](./aquasecurity-vuln-list.md) | ⭐ 456 | — | 43/100 |
 | 81 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 42/100 |
-| 82 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
-| 83 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
-| 84 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
-| 85 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
-| 86 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
-| 87 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
-| 88 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
+| 82 | [EgglezosHub/DepGuard](./egglezoshub-depguard.md) | ⭐ — | — | 41/100 |
+| 83 | [sgkdev/packet_edit_meme](./sgkdev-packet-edit-meme.md) | ⭐ — | — | 41/100 |
+| 84 | [josephtui767-cloud/MII](./josephtui767-cloud-mii.md) | ⭐ — | — | 41/100 |
+| 85 | [mattybellx/Ansede](./mattybellx-ansede.md) | ⭐ — | — | 41/100 |
+| 86 | [jetnoir/poppy](./jetnoir-poppy.md) | ⭐ — | — | 41/100 |
+| 87 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 41/100 |
+| 88 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 41/100 |
+| 89 | [GnomeMan4201/r4b1t](./gnomeman4201-r4b1t.md) | ⭐ — | — | 39/100 |
 
 ---
 

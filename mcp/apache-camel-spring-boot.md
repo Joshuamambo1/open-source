@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 200 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-25 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ apache/camel-spring-boot：apache/camel-spring-boot helps connect AI assistants 
 
 - 188 GitHub stars
 - 200 forks
-- updated 2026-06-25
+- updated 2026-06-28
 - primary language: Java
 - 15 topics
 
@@ -79,4 +79,4 @@ apache/camel-spring-boot：apache/camel-spring-boot helps connect AI assistants 
 
 ---
 
-<sub>🔭 Discovered 2026-06-25 · [View on GitHub](https://github.com/apache/camel-spring-boot) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/apache/camel-spring-boot) · [← Back to Mcp](./README.md)</sub>

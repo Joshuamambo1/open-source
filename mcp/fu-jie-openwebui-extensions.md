@@ -79,4 +79,4 @@ Fu-Jie/openwebui-extensions：Fu-Jie/openwebui-extensions helps connect AI assis
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/Fu-Jie/openwebui-extensions) · [← Back to Mcp](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.5k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ jackwener/OpenCLI：jackwener/OpenCLI helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 25456 GitHub stars
+- 25472 GitHub stars
 - 2527 forks
-- updated 2026-06-27
+- updated 2026-06-28
 - primary language: JavaScript
 - 7 topics
 
@@ -79,4 +79,4 @@ jackwener/OpenCLI：jackwener/OpenCLI helps remove repetitive manual operations 
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/jackwener/OpenCLI) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/jackwener/OpenCLI) · [← Back to Automation](./README.md)</sub>

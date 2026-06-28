@@ -53,7 +53,7 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 6041 GitHub stars
+- 6040 GitHub stars
 - 242 forks
 - updated 2026-06-28
 - primary language: Go

@@ -53,7 +53,7 @@ puppeteer/puppeteer：puppeteer/puppeteer helps remove repetitive manual operati
 
 **Quality signals**
 
-- 95259 GitHub stars
+- 95258 GitHub stars
 - 9471 forks
 - updated 2026-06-28
 - primary language: TypeScript

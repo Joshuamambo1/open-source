@@ -2,7 +2,7 @@
 
 > 
 
-**30 projects** in this category.
+**32 projects** in this category.
 
 ## Projects
 
@@ -33,11 +33,13 @@
 | 23 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 59/100 |
 | 24 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
 | 25 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
-| 26 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
-| 27 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
-| 28 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
-| 29 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 30 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 26 | [alphaonex86/Ultracopier](./alphaonex86-ultracopier.md) | ⭐ 479 | C++ | 57/100 |
+| 27 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
+| 28 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
+| 29 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
+| 30 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 31 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 32 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

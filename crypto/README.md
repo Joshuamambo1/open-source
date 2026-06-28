@@ -75,8 +75,8 @@
 | 65 | [bitcart/bitcart](./bitcart-bitcart.md) | ⭐ 939 | Python | 72/100 |
 | 66 | [rust-nostr/nostr](./rust-nostr-nostr.md) | ⭐ 627 | Rust | 72/100 |
 | 67 | [Fr-e-d/GAAI-framework](./fr-e-d-gaai-framework.md) | ⭐ 137 | Shell | 72/100 |
-| 68 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
-| 69 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 68 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 71/100 |
+| 69 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 71/100 |
 | 70 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 71/100 |
 | 71 | [noxxix/AgenticDeFi-Trainer](./noxxix-agenticdefi-trainer.md) | ⭐ 46 | Python | 71/100 |
 | 72 | [PayRam/payram-mcp](./payram-payram-mcp.md) | ⭐ 155 | TypeScript | 71/100 |
@@ -127,8 +127,8 @@
 | 117 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 118 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 119 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 120 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
-| 121 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 120 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
+| 121 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
 | 122 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 123 | [bitcoindevkit/bdk-cli](./bitcoindevkit-bdk-cli.md) | ⭐ 136 | Rust | 66/100 |
 | 124 | [wormhole-foundation/wormhole](./wormhole-foundation-wormhole.md) | ⭐ 1.9k | TypeScript | 66/100 |

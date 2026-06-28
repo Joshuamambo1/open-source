@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 286 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 84/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-28 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ yvgude/lean-ctx：yvgude/lean-ctx helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 2976 GitHub stars
+- 2986 GitHub stars
 - 286 forks
-- updated 2026-06-27
+- updated 2026-06-28
 - primary language: Rust
 - 19 topics
 
@@ -79,4 +79,4 @@ yvgude/lean-ctx：yvgude/lean-ctx helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/yvgude/lean-ctx) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/yvgude/lean-ctx) · [← Back to Mcp](./README.md)</sub>

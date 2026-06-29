@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 174 |
+| 🍴 **Forks** | 176 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 **Quality signals**
 
-- 1585 GitHub stars
-- 174 forks
-- updated 2026-06-27
+- 1611 GitHub stars
+- 176 forks
+- updated 2026-06-29
 - primary language: Rust
 - 20 topics
 
@@ -79,4 +79,4 @@ MCP · Knowledge/RAG · AI/ML · Backend · DevTools
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/0xMassi/webclaw) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/0xMassi/webclaw) · [← Back to Mcp](./README.md)</sub>

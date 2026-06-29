@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 199 |
+| 🍴 **Forks** | 200 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ metalbear-co/mirrord：metalbear-co/mirrord helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 5155 GitHub stars
-- 199 forks
-- updated 2026-06-28
+- 5165 GitHub stars
+- 200 forks
+- updated 2026-06-29
 - primary language: Rust
 - 20 topics
 
@@ -79,4 +79,4 @@ metalbear-co/mirrord：metalbear-co/mirrord helps turn isolated prompts and tool
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/metalbear-co/mirrord) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/metalbear-co/mirrord) · [← Back to Orchestration](./README.md)</sub>

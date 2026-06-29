@@ -53,7 +53,7 @@ metalbear-co/mirrord：metalbear-co/mirrord helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 5169 GitHub stars
+- 5170 GitHub stars
 - 200 forks
 - updated 2026-06-29
 - primary language: Rust

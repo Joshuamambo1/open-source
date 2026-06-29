@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56.4k |
-| 🍴 **Forks** | 11.1k |
+| ⭐ **Stars** | 56.5k |
+| 🍴 **Forks** | 11.2k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 91/100 |
 | 🗓️ **Last push** | 2026-06-29 |
@@ -53,8 +53,8 @@ santifer/career-ops：santifer/career-ops helps remove repetitive manual operati
 
 **Quality signals**
 
-- 56381 GitHub stars
-- 11135 forks
+- 56466 GitHub stars
+- 11158 forks
 - updated 2026-06-29
 - primary language: JavaScript
 - 16 topics

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ ggozad/haiku.rag：ggozad/haiku.rag helps connect AI assistants to real tools an
 
 - 541 GitHub stars
 - 35 forks
-- updated 2026-06-28
+- updated 2026-06-29
 - primary language: Python
 - 8 topics
 
@@ -79,4 +79,4 @@ ggozad/haiku.rag：ggozad/haiku.rag helps connect AI assistants to real tools an
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/ggozad/haiku.rag) · [← Back to Mcp](./README.md)</sub>

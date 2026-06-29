@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | Java |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ apache/camel：apache/camel helps connect AI assistants to real tools and data t
 
 **Quality signals**
 
-- 6247 GitHub stars
+- 6248 GitHub stars
 - 5133 forks
-- updated 2026-06-27
+- updated 2026-06-29
 - primary language: Java
 - 16 topics
 
@@ -79,4 +79,4 @@ apache/camel：apache/camel helps connect AI assistants to real tools and data t
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/apache/camel) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/apache/camel) · [← Back to Mcp](./README.md)</sub>

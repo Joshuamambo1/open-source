@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 143 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-23 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,47 +27,15 @@ MCP · Frontend · Backend · Mobile
 
 ### English
 
-**Project Summary**
-
-The kubb project is an open-source, meta framework for code generation that automates the conversion of OpenAPI specifications to type-safe TypeScript, Zod, and TanStack Query. This framework enables developers to connect AI assistants to real tools and data through a standard protocol, making it easier to integrate AI agents with various tools and systems. With its modular, plugin-based engine, kubb offers a flexible and scalable solution for developers.
-
-**Value Proposition**
-
-The primary value proposition of kubb lies in its ability to standardize integrations between AI assistants and tools, making it easier to connect and interact with various systems. This standardization enables developers to focus on building applications rather than creating custom integrations, thereby increasing productivity and reducing development time.
-
-**Practical Adoption Path**
-
-To adopt kubb, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once they have a good understanding of the framework's capabilities and limitations, they can begin by using kubb to connect their AI agents to tools or ship Model Context Protocol servers. The adoption path is relatively straightforward, and the framework's production readiness makes it a suitable choice for serious pilots.
-
-**Production Readiness**
-
-The kubb project has strong production readiness, with recent
+kubb-labs/kubb: kubb-labs/kubb helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Резюме:
-
-kubb-labs/kubb - это мета-фреймворк для автоматизации кодогенерации, позволяющий синхронизировать OpenAPI с безопасным типизированным TypeScript, Zod и TanStack Query. Этот проект помогает соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол, что делает его идеальным решением для интеграции AI-агентов с инструментами. kubb-labs/kubb готов к production и имеет высокий уровень готовности, с 1742 GitHub звездами, 19 темами и активными разработчиками, что делает его надежным выбором для серьезного пилота.
+kubb-labs/kubb: open-source проект в категориях MCP, Frontend, Backend, Mobile. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-**简短介绍**
-kubb 是一个开源项目，旨在为代码生成提供一个元框架。它可以自动将 OpenAPI 转换为安全的 TypeScript、Zod 和 TanStack Query 代码，并且具有模块化、可插拔的引擎。
-
-**价值**
-kubb 的价值在于，它可以帮助连接 AI 助手到真实的工具和数据通过一个标准协议。它可以连接 AI 代理到工具、部署 Model Context Protocol 服务器、标准化集成。
-
-**典型接入方式**
-kubb 可以通过以下方式接入：
-- 连接 AI 代理到工具
-- 部署 Model Context Protocol 服务器
-- 标准化集成
-
-**生产可用性**
-kubb 的生产可用性很高，主要原因是：
-- 最近有活跃的开发活动
-- 有强大的采用和生态系统信号
-- GitHub 上有 1742 个星标和 143 个分叉
+kubb-labs/kubb：kubb-labs/kubb helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -85,9 +53,9 @@ kubb 的生产可用性很高，主要原因是：
 
 **Quality signals**
 
-- 1742 GitHub stars
+- 1748 GitHub stars
 - 143 forks
-- updated 2026-06-23
+- updated 2026-06-29
 - primary language: TypeScript
 - 19 topics
 
@@ -111,4 +79,4 @@ kubb 的生产可用性很高，主要原因是：
 
 ---
 
-<sub>🔭 Discovered 2026-06-23 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Mcp](./README.md)</sub>

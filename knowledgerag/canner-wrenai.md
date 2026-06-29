@@ -53,8 +53,8 @@ Canner/WrenAI：Canner/WrenAI helps make internal knowledge searchable and usabl
 
 **Quality signals**
 
-- 15662 GitHub stars
-- 1786 forks
+- 15669 GitHub stars
+- 1787 forks
 - updated 2026-06-29
 - primary language: Python
 - 17 topics

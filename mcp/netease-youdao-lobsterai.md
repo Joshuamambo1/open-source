@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.4k |
-| 🍴 **Forks** | 832 |
+| 🍴 **Forks** | 833 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-06-29 |
@@ -53,8 +53,8 @@ netease-youdao/LobsterAI：netease-youdao/LobsterAI helps connect AI assistants 
 
 **Quality signals**
 
-- 5387 GitHub stars
-- 832 forks
+- 5388 GitHub stars
+- 833 forks
 - updated 2026-06-29
 - primary language: TypeScript
 - 17 topics

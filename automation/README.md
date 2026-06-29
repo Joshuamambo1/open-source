@@ -2,7 +2,7 @@
 
 > 
 
-**422 projects** in this category.
+**423 projects** in this category.
 
 ## Projects
 
@@ -389,47 +389,48 @@
 | 379 | [moveit/moveit2](./moveit-moveit2.md) | ⭐ 1.9k | C++ | 57/100 |
 | 380 | [Genshin-bots/gsuid_core](./genshin-bots-gsuid-core.md) | ⭐ 327 | Python | 57/100 |
 | 381 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 57/100 |
-| 382 | [bobboteck/JoyStick](./bobboteck-joystick.md) | ⭐ 413 | JavaScript | 56/100 |
-| 383 | [spatie/laravel-markdown-response](./spatie-laravel-markdown-response.md) | ⭐ 76 | PHP | 56/100 |
-| 384 | [mukiwu/orbit-agents](./mukiwu-orbit-agents.md) | ⭐ 44 | TypeScript | 56/100 |
-| 385 | [adrgs/requestrepo](./adrgs-requestrepo.md) | ⭐ 524 | Rust | 56/100 |
-| 386 | [Pedal-Intelligence/saypi-userscript](./pedal-intelligence-saypi-userscript.md) | ⭐ 24 | TypeScript | 56/100 |
-| 387 | [NatLabRockies/EnergyPlus](./natlabrockies-energyplus.md) | ⭐ 1.5k | C++ | 56/100 |
-| 388 | [focus-trap/focus-trap](./focus-trap-focus-trap.md) | ⭐ 1.5k | JavaScript | 56/100 |
-| 389 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 779 | JavaScript | 56/100 |
-| 390 | [testomatio/explorbot](./testomatio-explorbot.md) | ⭐ 46 | TypeScript | 56/100 |
-| 391 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
-| 392 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
-| 393 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
-| 394 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
-| 395 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
-| 396 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
-| 397 | [rfresh2/ZenithProxy](./rfresh2-zenithproxy.md) | ⭐ 396 | Java | 53/100 |
-| 398 | [calcmogul/controls-engineering-in-frc](./calcmogul-controls-engineering-in-frc.md) | ⭐ 344 | TeX | 52/100 |
-| 399 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
-| 400 | [atomgit-atomcode/atomcode](./atomgit-atomcode-atomcode.md) | ⭐ 144 | Rust | 51/100 |
-| 401 | [ohad6k/VibeRaven](./ohad6k-viberaven.md) | ⭐ — | — | 49/100 |
-| 402 | [stepfun-ai/gelab-zero](./stepfun-ai-gelab-zero.md) | ⭐ — | — | 49/100 |
-| 403 | [Alfredvc/aharness](./alfredvc-aharness.md) | ⭐ — | — | 49/100 |
-| 404 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
-| 405 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
-| 406 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
-| 407 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
-| 408 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
-| 409 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
-| 410 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
-| 411 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
-| 412 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
-| 413 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
-| 414 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
-| 415 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
-| 416 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
-| 417 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
-| 418 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
-| 419 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
-| 420 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
-| 421 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
-| 422 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
+| 382 | [pschlan/cron-job.org](./pschlan-cron-job.org.md) | ⭐ 2k | JavaScript | 56/100 |
+| 383 | [bobboteck/JoyStick](./bobboteck-joystick.md) | ⭐ 413 | JavaScript | 56/100 |
+| 384 | [spatie/laravel-markdown-response](./spatie-laravel-markdown-response.md) | ⭐ 76 | PHP | 56/100 |
+| 385 | [mukiwu/orbit-agents](./mukiwu-orbit-agents.md) | ⭐ 44 | TypeScript | 56/100 |
+| 386 | [adrgs/requestrepo](./adrgs-requestrepo.md) | ⭐ 524 | Rust | 56/100 |
+| 387 | [Pedal-Intelligence/saypi-userscript](./pedal-intelligence-saypi-userscript.md) | ⭐ 24 | TypeScript | 56/100 |
+| 388 | [NatLabRockies/EnergyPlus](./natlabrockies-energyplus.md) | ⭐ 1.5k | C++ | 56/100 |
+| 389 | [focus-trap/focus-trap](./focus-trap-focus-trap.md) | ⭐ 1.5k | JavaScript | 56/100 |
+| 390 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 779 | JavaScript | 56/100 |
+| 391 | [testomatio/explorbot](./testomatio-explorbot.md) | ⭐ 46 | TypeScript | 56/100 |
+| 392 | [tickstem/python](./tickstem-python.md) | ⭐ — | — | 56/100 |
+| 393 | [allenai/molmospaces](./allenai-molmospaces.md) | ⭐ 323 | Python | 55/100 |
+| 394 | [ModernRelay/omnigraph](./modernrelay-omnigraph.md) | ⭐ 199 | Rust | 55/100 |
+| 395 | [mindeng/nom-exif](./mindeng-nom-exif.md) | ⭐ 105 | Rust | 55/100 |
+| 396 | [nix-community/nix-ld](./nix-community-nix-ld.md) | ⭐ 1.6k | Rust | 55/100 |
+| 397 | [visionworkbench/visionworkbench](./visionworkbench-visionworkbench.md) | ⭐ 502 | C++ | 54/100 |
+| 398 | [rfresh2/ZenithProxy](./rfresh2-zenithproxy.md) | ⭐ 396 | Java | 53/100 |
+| 399 | [calcmogul/controls-engineering-in-frc](./calcmogul-controls-engineering-in-frc.md) | ⭐ 344 | TeX | 52/100 |
+| 400 | [sly-codechum/chum-mem](./sly-codechum-chum-mem.md) | ⭐ 35 | Rust | 52/100 |
+| 401 | [atomgit-atomcode/atomcode](./atomgit-atomcode-atomcode.md) | ⭐ 144 | Rust | 51/100 |
+| 402 | [ohad6k/VibeRaven](./ohad6k-viberaven.md) | ⭐ — | — | 49/100 |
+| 403 | [stepfun-ai/gelab-zero](./stepfun-ai-gelab-zero.md) | ⭐ — | — | 49/100 |
+| 404 | [Alfredvc/aharness](./alfredvc-aharness.md) | ⭐ — | — | 49/100 |
+| 405 | [swenyai/sweny](./swenyai-sweny.md) | ⭐ — | — | 49/100 |
+| 406 | [aadya940/orbit-ui](./aadya940-orbit-ui.md) | ⭐ — | — | 49/100 |
+| 407 | [HoraDomu/Vypl](./horadomu-vypl.md) | ⭐ — | — | 48/100 |
+| 408 | [telegraf-hardened/telegraf-hardened](./telegraf-hardened-telegraf-hardened.md) | ⭐ — | — | 48/100 |
+| 409 | [kapbit/kapbit-go](./kapbit-kapbit-go.md) | ⭐ — | — | 48/100 |
+| 410 | [botcircuits-ai/botcircuits-argus](./botcircuits-ai-botcircuits-argus.md) | ⭐ — | — | 45/100 |
+| 411 | [RobertBateman/thoughttree-framework](./robertbateman-thoughttree-framework.md) | ⭐ — | — | 45/100 |
+| 412 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ — | — | 45/100 |
+| 413 | [mjn298/drawbar](./mjn298-drawbar.md) | ⭐ — | — | 45/100 |
+| 414 | [hatsu38/ghtrack](./hatsu38-ghtrack.md) | ⭐ — | — | 45/100 |
+| 415 | [sermakarevich/sddw](./sermakarevich-sddw.md) | ⭐ — | — | 45/100 |
+| 416 | [insitro/redun](./insitro-redun.md) | ⭐ — | — | 45/100 |
+| 417 | [resources/github-actions-preventing-pwn-requests](./resources-github-actions-preventing-pwn-requests.md) | ⭐ — | — | 45/100 |
+| 418 | [empostigo/n8n-compose-field-guide](./empostigo-n8n-compose-field-guide.md) | ⭐ — | — | 44/100 |
+| 419 | [SphericalCowww/CubicDoggo](./sphericalcowww-cubicdoggo.md) | ⭐ — | — | 44/100 |
+| 420 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ — | — | 42/100 |
+| 421 | [ostenjap/LLM-Agent-generated-Quadcopter-Prop](./ostenjap-llm-agent-generated-quadcopter-prop.md) | ⭐ — | — | 41/100 |
+| 422 | [adshao/flounder](./adshao-flounder.md) | ⭐ — | — | 41/100 |
+| 423 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 41/100 |
 
 ---
 

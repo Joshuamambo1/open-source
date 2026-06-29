@@ -41,8 +41,8 @@
 | 31 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 32 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 33 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 34 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
-| 35 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 34 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
+| 35 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
 | 36 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.1k | Java | 64/100 |
 | 37 | [google/copybara](./google-copybara.md) | ⭐ 2.8k | Java | 64/100 |
 | 38 | [FriesI23/mhabit](./friesi23-mhabit.md) | ⭐ 1.4k | Dart | 64/100 |
@@ -98,8 +98,8 @@
 | 88 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 89 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 90 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 91 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
-| 92 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 91 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 92 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
 | 93 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 94 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 95 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -160,9 +160,9 @@
 | 150 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 151 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 152 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 153 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 153 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 154 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 155 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 155 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 156 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
 | 157 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
 | 158 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |

@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **12822** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4044 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2256 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1201 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1087 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 649 | [Browse →](./devtools/) |
-| 🏷️ **Mcp** | 644 | [Browse →](./mcp/) |
-| ⚙️ **Backend** | 570 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 442 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 405 | [Browse →](./automation/) |
-| 📊 **Data** | 275 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 264 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 189 | [Browse →](./payments/) |
-| 🏷️ **Database** | 175 | [Browse →](./database/) |
-| 📱 **Mobile** | 151 | [Browse →](./mobile/) |
-| 📈 **Trading** | 147 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 96 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 89 | [Browse →](./security/) |
-| 🏷️ **Observability** | 37 | [Browse →](./observability/) |
-| ✨ **Design** | 36 | [Browse →](./design/) |
-| 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🎯 **Product** | 21 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 14 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 3 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 5 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 6 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 7 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 8 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 9 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
-| 10 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.2k | Orchestration |
+| 1 | [google-gemini/gemini-cli](./mcp/google-gemini-gemini-cli.md) | ⭐ 105.6k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 53.2k | Orchestration |
+| 3 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 4 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17k | AI/ML |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 7.5k | Mcp |
+| 6 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.4k | Mcp |
+| 7 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15k | Mcp |
+| 8 | [ThinkInAIXYZ/deepchat](./orchestration/thinkinaixyz-deepchat.md) | ⭐ 6.1k | Orchestration |
+| 9 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.3k | Orchestration |
+| 10 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.7k | Knowledgerag |
 
 ## 🚀 How it works
 

@@ -53,7 +53,7 @@ preset-io/agor：preset-io/agor helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 1283 GitHub stars
+- 1284 GitHub stars
 - 109 forks
 - updated 2026-06-29
 - primary language: TypeScript

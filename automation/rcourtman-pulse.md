@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6k |
-| 🍴 **Forks** | 242 |
+| 🍴 **Forks** | 243 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 6040 GitHub stars
-- 242 forks
-- updated 2026-06-28
+- 6049 GitHub stars
+- 243 forks
+- updated 2026-06-29
 - primary language: Go
 - 19 topics
 
@@ -79,4 +79,4 @@ rcourtman/Pulse：rcourtman/Pulse helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/rcourtman/Pulse) · [← Back to Automation](./README.md)</sub>

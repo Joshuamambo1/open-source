@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 🗂️ **Total projects** | **13245** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,36 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 13 | [Browse →](./mcp/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 🤖 **AI/ML** | 4157 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2350 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1227 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1112 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 678 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 667 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 589 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 460 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 424 | [Browse →](./automation/) |
+| 📊 **Data** | 283 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 274 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 193 | [Browse →](./payments/) |
+| 🏷️ **Database** | 185 | [Browse →](./database/) |
+| 📱 **Mobile** | 159 | [Browse →](./mobile/) |
+| 📈 **Trading** | 152 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 89 | [Browse →](./security/) |
+| ✨ **Design** | 40 | [Browse →](./design/) |
+| 🏷️ **Observability** | 37 | [Browse →](./observability/) |
+| 🏷️ **Education** | 34 | [Browse →](./education/) |
+| 🎯 **Product** | 22 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 53.8k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.5k | Mcp |
-| 3 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
-| 4 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17k | AI/ML |
-| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52k | Orchestration |
-| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.1k | Mcp |
-| 7 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.5k | Mcp |
-| 8 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40k | Orchestration |
-| 9 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
-| 10 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.3k | Orchestration |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
 
 ## 🚀 How it works
 

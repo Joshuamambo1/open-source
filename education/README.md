@@ -2,7 +2,7 @@
 
 > 
 
-**30 projects** in this category.
+**31 projects** in this category.
 
 ## Projects
 
@@ -25,19 +25,20 @@
 | 15 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 339 | Python | 60/100 |
 | 16 | [google-deepmind/kfac-jax](./google-deepmind-kfac-jax.md) | ⭐ 327 | Python | 60/100 |
 | 17 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
-| 18 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
-| 19 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
-| 20 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
-| 21 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
-| 22 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
-| 23 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 24 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 25 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 26 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 27 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 28 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 29 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 30 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 18 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 59/100 |
+| 19 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
+| 20 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
+| 21 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
+| 22 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
+| 23 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
+| 24 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
+| 25 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
+| 26 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 27 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 28 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 29 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 30 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 31 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

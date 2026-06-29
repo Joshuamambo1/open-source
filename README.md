@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13139** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4127 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2323 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1218 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1109 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 669 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 663 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 585 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 458 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 421 | [Browse →](./automation/) |
-| 📊 **Data** | 281 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 271 | [Browse →](./knowledgerag/) |
-| 💳 **Payments** | 192 | [Browse →](./payments/) |
-| 🏷️ **Database** | 183 | [Browse →](./database/) |
-| 📱 **Mobile** | 157 | [Browse →](./mobile/) |
-| 📈 **Trading** | 150 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 89 | [Browse →](./security/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Observability** | 37 | [Browse →](./observability/) |
-| 🏷️ **Education** | 32 | [Browse →](./education/) |
-| 🎯 **Product** | 21 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 15 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 53.7k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.5k | Mcp |
+| 3 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52k | Orchestration |
+| 5 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.4k | Mcp |
+| 6 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.2k | Mcp |
+| 7 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.3k | Orchestration |
+| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 62k | Orchestration |
 
 ## 🚀 How it works
 

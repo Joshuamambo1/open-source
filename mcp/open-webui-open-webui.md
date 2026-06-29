@@ -53,8 +53,8 @@ open-webui/open-webui：open-webui/open-webui helps connect AI assistants to rea
 
 **Quality signals**
 
-- 143431 GitHub stars
-- 20676 forks
+- 143435 GitHub stars
+- 20677 forks
 - updated 2026-06-29
 - primary language: Python
 - 15 topics

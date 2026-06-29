@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **16** |
+| 🗂️ **Total projects** | **13288** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,37 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 15 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| 💳 **Payments** | 2 | [Browse →](./payments/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
-| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 1 | [Browse →](./automation/) |
+| 🤖 **AI/ML** | 4165 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2362 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1228 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1113 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 680 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 669 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 593 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 462 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 427 | [Browse →](./automation/) |
+| 📊 **Data** | 286 | [Browse →](./data/) |
+| 🏷️ **Knowledgerag** | 275 | [Browse →](./knowledgerag/) |
+| 💳 **Payments** | 194 | [Browse →](./payments/) |
+| 🏷️ **Database** | 186 | [Browse →](./database/) |
+| 📱 **Mobile** | 160 | [Browse →](./mobile/) |
+| 📈 **Trading** | 152 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 98 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 89 | [Browse →](./security/) |
+| ✨ **Design** | 40 | [Browse →](./design/) |
+| 🏷️ **Observability** | 37 | [Browse →](./observability/) |
+| 🏷️ **Education** | 34 | [Browse →](./education/) |
+| 🎯 **Product** | 22 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 16 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 53.9k | Orchestration |
-| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.5k | Mcp |
-| 3 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52k | Orchestration |
-| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 7.9k | Mcp |
-| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.2k | Mcp |
-| 6 | [D4Vinci/Scrapling](./mcp/d4vinci-scrapling.md) | ⭐ 67.1k | Mcp |
-| 7 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
-| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.3k | Orchestration |
-| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 62.1k | Orchestration |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
 
 ## 🚀 How it works
 

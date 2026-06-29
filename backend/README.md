@@ -490,8 +490,8 @@
 | 480 | [OSPanel/OpenServerPanel](./ospanel-openserverpanel.md) | ⭐ 497 | Rich Text Format | 53/100 |
 | 481 | [ripytide/metapac](./ripytide-metapac.md) | ⭐ 290 | Rust | 53/100 |
 | 482 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 134 | Rust | 53/100 |
-| 483 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
-| 484 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 483 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
+| 484 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
 | 485 | [nodiscc/xsrv](./nodiscc-xsrv.md) | ⭐ 400 | Jinja | 53/100 |
 | 486 | [brettchalupa/usagi](./brettchalupa-usagi.md) | ⭐ 105 | Rust | 53/100 |
 | 487 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 53/100 |

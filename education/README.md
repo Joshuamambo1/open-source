@@ -2,7 +2,7 @@
 
 > 
 
-**29 projects** in this category.
+**30 projects** in this category.
 
 ## Projects
 
@@ -22,21 +22,22 @@
 | 12 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 321 | SRecode Template | 63/100 |
 | 13 | [shedskin/shedskin](./shedskin-shedskin.md) | ⭐ 986 | Python | 61/100 |
 | 14 | [cardmagic/classifier](./cardmagic-classifier.md) | ⭐ 717 | Ruby | 61/100 |
-| 15 | [google-deepmind/kfac-jax](./google-deepmind-kfac-jax.md) | ⭐ 327 | Python | 60/100 |
-| 16 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
-| 17 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
-| 18 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
-| 19 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
-| 20 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
-| 21 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
-| 22 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 23 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 24 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 25 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 26 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 27 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 28 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 29 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 15 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 339 | Python | 60/100 |
+| 16 | [google-deepmind/kfac-jax](./google-deepmind-kfac-jax.md) | ⭐ 327 | Python | 60/100 |
+| 17 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
+| 18 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
+| 19 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
+| 20 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
+| 21 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
+| 22 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
+| 23 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
+| 24 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
+| 25 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 26 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 27 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 28 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 29 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 30 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

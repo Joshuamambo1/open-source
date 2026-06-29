@@ -1,6 +1,6 @@
 # FlowiseAI/Flowise
 
-[![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&color=yellow)](https://github.com/FlowiseAI/Flowise/stargazers) [![Forks](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&color=blue)](https://github.com/FlowiseAI/Flowise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat-square&color=yellow)](https://github.com/FlowiseAI/Flowise/stargazers) [![Forks](https://img.shields.io/github/forks/FlowiseAI/Flowise?style=flat-square&color=blue)](https://github.com/FlowiseAI/Flowise/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > Build AI Agents, Visually
 
@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.1k |
-| 🍴 **Forks** | 24.6k |
+| ⭐ **Stars** | 52.6k |
+| 🍴 **Forks** | 24.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 📈 **Score** | 78/100 |
+| 🗓️ **Last push** | 2026-05-07 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Orchestration · Knowledge/RAG · Automation · AI/ML · Frontend
+Orchestration · AI/ML · Frontend
 
 ## 📝 Summary
 
 ### English
 
-FlowiseAI/Flowise: FlowiseAI/Flowise helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+FlowiseAI/Flowise: FlowiseAI/Flowise helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-FlowiseAI/Flowise: open-source проект в категориях Orchestration, Knowledge/RAG, Automation, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+FlowiseAI/Flowise: open-source проект в категориях Orchestration, AI/ML, Frontend. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-FlowiseAI/Flowise：FlowiseAI/Flowise helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+FlowiseAI/Flowise：FlowiseAI/Flowise helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,13 +49,13 @@ FlowiseAI/Flowise：FlowiseAI/Flowise helps turn isolated prompts and tools into
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
-- 54107 GitHub stars
-- 24609 forks
-- updated 2026-06-29
+- 52616 GitHub stars
+- 24284 forks
+- updated 2026-05-07
 - primary language: TypeScript
 - 17 topics
 
@@ -66,17 +66,17 @@ FlowiseAI/Flowise：FlowiseAI/Flowise helps turn isolated prompts and tools into
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 100/100 |
+| quality | 85/100 |
 | integration | 46/100 |
-| production | 84/100 |
-| outlook | 100/100 |
+| production | 64/100 |
+| outlook | 79/100 |
 | adoption | 100/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/FlowiseAI/Flowise) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-05-07 · [View on GitHub](https://github.com/FlowiseAI/Flowise) · [← Back to Orchestration](./README.md)</sub>

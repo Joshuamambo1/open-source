@@ -53,7 +53,7 @@ nocobase/nocobase：nocobase/nocobase helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 23129 GitHub stars
+- 23131 GitHub stars
 - 2712 forks
 - updated 2026-06-29
 - primary language: TypeScript

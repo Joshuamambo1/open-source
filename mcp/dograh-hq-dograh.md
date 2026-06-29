@@ -53,8 +53,8 @@ dograh-hq/dograh：dograh-hq/dograh helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 4687 GitHub stars
-- 1038 forks
+- 4693 GitHub stars
+- 1040 forks
 - updated 2026-06-29
 - primary language: Python
 - 20 topics

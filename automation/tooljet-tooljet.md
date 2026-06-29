@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 5.1k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ ToolJet/ToolJet：ToolJet/ToolJet helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 38089 GitHub stars
-- 5145 forks
-- updated 2026-06-27
+- 38109 GitHub stars
+- 5148 forks
+- updated 2026-06-29
 - primary language: JavaScript
 - 19 topics
 
@@ -68,7 +68,7 @@ ToolJet/ToolJet：ToolJet/ToolJet helps remove repetitive manual operations from
 | usefulness | 100/100 |
 | quality | 98/100 |
 | integration | 78/100 |
-| production | 87/100 |
+| production | 88/100 |
 | outlook | 99/100 |
 | adoption | 96/100 |
 | stars | 97/100 |
@@ -79,4 +79,4 @@ ToolJet/ToolJet：ToolJet/ToolJet helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/ToolJet/ToolJet) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/ToolJet/ToolJet) · [← Back to Automation](./README.md)</sub>

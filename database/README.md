@@ -172,8 +172,8 @@
 | 162 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 163 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
 | 164 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 165 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 166 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 165 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 166 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 167 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
 | 168 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
 | 169 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |

@@ -170,8 +170,8 @@
 | 160 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 161 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 162 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 163 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 164 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 163 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 164 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 165 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 166 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
 | 167 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |

@@ -1,34 +1,82 @@
 # router-for-me/CLIProxyAPI
 
-[![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=yellow)](https://github.com/router-for-me/CLIProxyAPI/stargazers) [![Forks](https://img.shields.io/github/forks/router-for-me/CLIProxyAPI?style=flat-square&color=blue)](https://github.com/router-for-me/CLIProxyAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-97%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&color=yellow)](https://github.com/router-for-me/CLIProxyAPI/stargazers) [![Forks](https://img.shields.io/github/forks/router-for-me/CLIProxyAPI?style=flat-square&color=blue)](https://github.com/router-for-me/CLIProxyAPI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
-> Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API
+> Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 30.7k |
-| 🍴 **Forks** | 5.1k |
+| ⭐ **Stars** | 38.6k |
+| 🍴 **Forks** | 6.4k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 97/100 |
-| 🗓️ **Last push** | — |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-_no topics_
+`antigravity` `claude-code` `cluade` `codex` `gemini` `openai`
 
 ## 🎯 Categories
 
-AI/ML · Backend · DevTools
+AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
-Here's a brief summary of the CLIProxyAPI project:
+### English
 
-The CLIProxyAPI is an open-source project that provides a user-friendly API service for accessing popular AI models, including Gemini 2.5 Pro, GPT 5, and Claude. By wrapping existing CLI tools like Gemini, Antigravity, ChatGPT Codex, and Claude Code, it streamlines access to these models, making them available through a compatible API. This project enables developers to integrate these AI capabilities into their applications seamlessly.
+router-for-me/CLIProxyAPI: router-for-me/CLIProxyAPI helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+### Русский
+
+router-for-me/CLIProxyAPI: open-source проект в категориях AI/ML, Frontend, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+
+### 中文
+
+router-for-me/CLIProxyAPI：router-for-me/CLIProxyAPI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+## 🧭 Practical evaluation
+
+**Value:** router-for-me/CLIProxyAPI helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+
+**Quality signals**
+
+- 38630 GitHub stars
+- 6380 forks
+- updated 2026-06-29
+- primary language: Go
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 95/100 |
+| integration | 78/100 |
+| production | 86/100 |
+| outlook | 92/100 |
+| adoption | 97/100 |
+| stars | 98/100 |
+| forks | 95/100 |
+| recency | 100/100 |
+| topics | 75/100 |
+| sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-23 · [View on GitHub](https://github.com/router-for-me/CLIProxyAPI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/router-for-me/CLIProxyAPI) · [← Back to AI/ML](./README.md)</sub>

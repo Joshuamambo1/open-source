@@ -79,4 +79,4 @@ devantler-tech/ksail：devantler-tech/ksail helps connect AI assistants to real 
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/devantler-tech/ksail) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/devantler-tech/ksail) · [← Back to Mcp](./README.md)</sub>

@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ JoeanAmier/XHS-Downloader：JoeanAmier/XHS-Downloader helps connect AI assistant
 
 **Quality signals**
 
-- 11726 GitHub stars
-- 1750 forks
-- updated 2026-06-28
+- 11731 GitHub stars
+- 1751 forks
+- updated 2026-06-29
 - primary language: Python
 - 20 topics
 
@@ -79,4 +79,4 @@ JoeanAmier/XHS-Downloader：JoeanAmier/XHS-Downloader helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/JoeanAmier/XHS-Downloader) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/JoeanAmier/XHS-Downloader) · [← Back to Mcp](./README.md)</sub>

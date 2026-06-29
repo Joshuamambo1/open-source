@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 332 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-28 |
+| 🗓️ **Last push** | 2026-06-29 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ superradcompany/microsandbox：superradcompany/microsandbox helps add AI capabil
 
 **Quality signals**
 
-- 6714 GitHub stars
+- 6716 GitHub stars
 - 332 forks
-- updated 2026-06-28
+- updated 2026-06-29
 - primary language: Rust
 - 17 topics
 
@@ -79,4 +79,4 @@ superradcompany/microsandbox：superradcompany/microsandbox helps add AI capabil
 
 ---
 
-<sub>🔭 Discovered 2026-06-28 · [View on GitHub](https://github.com/superradcompany/microsandbox) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/superradcompany/microsandbox) · [← Back to AI/ML](./README.md)</sub>

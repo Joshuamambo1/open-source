@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ preset-io/agor：preset-io/agor helps turn isolated prompts and tools into repea
 
 **Quality signals**
 
-- 1286 GitHub stars
+- 1287 GitHub stars
 - 109 forks
-- updated 2026-06-29
+- updated 2026-06-30
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ preset-io/agor：preset-io/agor helps turn isolated prompts and tools into repea
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/preset-io/agor) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/preset-io/agor) · [← Back to Orchestration](./README.md)</sub>

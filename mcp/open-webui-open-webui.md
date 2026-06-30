@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 20.7k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ open-webui/open-webui：open-webui/open-webui helps connect AI assistants to rea
 
 **Quality signals**
 
-- 143452 GitHub stars
-- 20677 forks
-- updated 2026-06-29
+- 143482 GitHub stars
+- 20678 forks
+- updated 2026-06-30
 - primary language: Python
 - 15 topics
 
@@ -79,4 +79,4 @@ open-webui/open-webui：open-webui/open-webui helps connect AI assistants to rea
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/open-webui/open-webui) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/open-webui/open-webui) · [← Back to Mcp](./README.md)</sub>

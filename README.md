@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13872** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4333 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2462 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1272 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1164 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 724 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 697 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 605 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 479 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 465 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 297 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 293 | [Browse →](./data/) |
-| 🏷️ **Database** | 207 | [Browse →](./database/) |
-| 💳 **Payments** | 197 | [Browse →](./payments/) |
-| 📱 **Mobile** | 166 | [Browse →](./mobile/) |
-| 📈 **Trading** | 163 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 99 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 94 | [Browse →](./security/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Observability** | 39 | [Browse →](./observability/) |
-| 🏷️ **Education** | 35 | [Browse →](./education/) |
-| 🎯 **Product** | 23 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 5 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 📈 **Trading** | 1 | [Browse →](./trading/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 54.6k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.7k | Mcp |
+| 3 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 8.4k | Mcp |
+| 5 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.8k | Mcp |
+| 6 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.6k | Mcp |
+| 7 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.3k | Mcp |
+| 8 | [danny-avila/LibreChat](./orchestration/danny-avila-librechat.md) | ⭐ 40.1k | Orchestration |
+| 9 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
+| 10 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
 
 ## 🚀 How it works
 

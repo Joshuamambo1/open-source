@@ -1,27 +1,27 @@
 # karust/openserp
 
-[![Stars](https://img.shields.io/github/stars/karust/openserp?style=flat-square&color=yellow)](https://github.com/karust/openserp/stargazers) [![Forks](https://img.shields.io/github/forks/karust/openserp?style=flat-square&color=blue)](https://github.com/karust/openserp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/karust/openserp?style=flat-square&color=yellow)](https://github.com/karust/openserp/stargazers) [![Forks](https://img.shields.io/github/forks/karust/openserp?style=flat-square&color=blue)](https://github.com/karust/openserp/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source SERP API for AI, SEO & automation - Google, Yandex, Baidu, Bing, DuckDuckGo, Ecosia 🎉
+> Open-source, self-hosted SERP API for AI, SEO & automation. Browser-rendered Google, Bing, Yandex, Baidu, DuckDuckGo and Ecosia search with page extraction 🎉
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 806 |
+| ⭐ **Stars** | 813 |
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-06-27 |
+| 📈 **Score** | 85/100 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`ai` `baidu` `bing` `duckduckgo` `ecosia` `google` `llm` `openserp` `opensource` `search` `search-engine` `seo`
+`ai` `api` `baidu` `bing` `cli` `duckduckgo` `ecosia` `google` `llm` `openserp` `opensource` `search`
 
 ## 🎯 Categories
 
-Automation · AI/ML · Backend · Marketing
+Automation · AI/ML · Backend · DevTools · Marketing
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ karust/openserp: karust/openserp helps remove repetitive manual operations from 
 
 ### Русский
 
-karust/openserp: open-source проект в категориях Automation, AI/ML, Backend, Marketing. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+karust/openserp: open-source проект в категориях Automation, AI/ML, Backend, DevTools, Marketing. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
@@ -53,11 +53,11 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 806 GitHub stars
+- 813 GitHub stars
 - 109 forks
-- updated 2026-06-27
+- updated 2026-06-30
 - primary language: Go
-- 16 topics
+- 18 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
+| usefulness | 100/100 |
 | quality | 81/100 |
-| integration | 62/100 |
-| production | 79/100 |
-| outlook | 85/100 |
+| integration | 78/100 |
+| production | 81/100 |
+| outlook | 90/100 |
 | adoption | 59/100 |
 | stars | 62/100 |
 | forks | 51/100 |
@@ -79,4 +79,4 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 ---
 
-<sub>🔭 Discovered 2026-06-27 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/karust/openserp) · [← Back to Automation](./README.md)</sub>

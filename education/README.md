@@ -2,7 +2,7 @@
 
 > 
 
-**34 projects** in this category.
+**35 projects** in this category.
 
 ## Projects
 
@@ -40,8 +40,9 @@
 | 30 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
 | 31 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
 | 32 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 33 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 34 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 33 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 34 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 35 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

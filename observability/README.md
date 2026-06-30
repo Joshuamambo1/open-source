@@ -2,7 +2,7 @@
 
 > 
 
-**38 projects** in this category.
+**39 projects** in this category.
 
 ## Projects
 
@@ -24,28 +24,29 @@
 | 14 | [PLFJY/ContextMenuMgr](./plfjy-contextmenumgr.md) | ⭐ 2.7k | C# | 66/100 |
 | 15 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.1k | Mustache | 66/100 |
 | 16 | [elesiuta/picosnitch](./elesiuta-picosnitch.md) | ⭐ 953 | Python | 66/100 |
-| 17 | [dropwizard/metrics](./dropwizard-metrics.md) | ⭐ 7.8k | Java | 65/100 |
-| 18 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 470 | TypeScript | 65/100 |
-| 19 | [istio/proxy](./istio-proxy.md) | ⭐ 891 | C++ | 64/100 |
-| 20 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 612 | JavaScript | 63/100 |
-| 21 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.4k | C | 63/100 |
-| 22 | [ElYusubov/AWESOME-Azure-Bicep](./elyusubov-awesome-azure-bicep.md) | ⭐ 424 | — | 63/100 |
-| 23 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.6k | Rust | 62/100 |
-| 24 | [ShadowsocksR-Live/overtls](./shadowsocksr-live-overtls.md) | ⭐ 448 | Rust | 62/100 |
-| 25 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
-| 26 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 59/100 |
-| 27 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
-| 28 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
-| 29 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 566 | Python | 57/100 |
-| 30 | [alphaonex86/Ultracopier](./alphaonex86-ultracopier.md) | ⭐ 479 | C++ | 57/100 |
-| 31 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
-| 32 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
-| 33 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 56/100 |
-| 34 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
-| 35 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 36 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 37 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 38 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 17 | [Checkmk/checkmk](./checkmk-checkmk.md) | ⭐ 2.3k | Python | 65/100 |
+| 18 | [dropwizard/metrics](./dropwizard-metrics.md) | ⭐ 7.8k | Java | 65/100 |
+| 19 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 470 | TypeScript | 65/100 |
+| 20 | [istio/proxy](./istio-proxy.md) | ⭐ 891 | C++ | 64/100 |
+| 21 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 612 | JavaScript | 63/100 |
+| 22 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.4k | C | 63/100 |
+| 23 | [ElYusubov/AWESOME-Azure-Bicep](./elyusubov-awesome-azure-bicep.md) | ⭐ 424 | — | 63/100 |
+| 24 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.6k | Rust | 62/100 |
+| 25 | [ShadowsocksR-Live/overtls](./shadowsocksr-live-overtls.md) | ⭐ 448 | Rust | 62/100 |
+| 26 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 60/100 |
+| 27 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 59/100 |
+| 28 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 904 | TypeScript | 59/100 |
+| 29 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 58/100 |
+| 30 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 566 | Python | 57/100 |
+| 31 | [alphaonex86/Ultracopier](./alphaonex86-ultracopier.md) | ⭐ 479 | C++ | 57/100 |
+| 32 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
+| 33 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
+| 34 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 56/100 |
+| 35 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
+| 36 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
+| 37 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 38 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 39 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

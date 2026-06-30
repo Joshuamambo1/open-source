@@ -160,8 +160,8 @@
 | 150 | [Agent-Field/agentfield](./agent-field-agentfield.md) | ⭐ 1.6k | Go | 79/100 |
 | 151 | [microsoft/agent-framework](./microsoft-agent-framework.md) | ⭐ 10.2k | Python | 78/100 |
 | 152 | [langchain4j/langchain4j](./langchain4j-langchain4j.md) | ⭐ 11.9k | Java | 78/100 |
-| 153 | [triggerdotdev/trigger.dev](./triggerdotdev-trigger.dev.md) | ⭐ 14.8k | TypeScript | 78/100 |
-| 154 | [langchain-ai/langgraph](./langchain-ai-langgraph.md) | ⭐ 31.4k | Python | 78/100 |
+| 153 | [langchain-ai/langgraph](./langchain-ai-langgraph.md) | ⭐ 31.4k | Python | 78/100 |
+| 154 | [triggerdotdev/trigger.dev](./triggerdotdev-trigger.dev.md) | ⭐ 14.8k | TypeScript | 78/100 |
 | 155 | [FlowiseAI/Flowise](./flowiseai-flowise.md) | ⭐ 52.6k | TypeScript | 78/100 |
 | 156 | [JoakimCarlsson/ai](./joakimcarlsson-ai.md) | ⭐ 31 | Go | 78/100 |
 | 157 | [Insajin/autopus-adk](./insajin-autopus-adk.md) | ⭐ 107 | Go | 78/100 |
@@ -484,8 +484,8 @@
 | 474 | [postrv/forgemax](./postrv-forgemax.md) | ⭐ 148 | Rust | 71/100 |
 | 475 | [letta-ai/letta](./letta-ai-letta.md) | ⭐ 22.7k | Python | 71/100 |
 | 476 | [officecli/officecli](./officecli-officecli.md) | ⭐ 38 | Shell | 71/100 |
-| 477 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
-| 478 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
+| 477 | [nexu-io/html-anything](./nexu-io-html-anything.md) | ⭐ 33 | HTML | 71/100 |
+| 478 | [KarryViber/Orb](./karryviber-orb.md) | ⭐ 60 | JavaScript | 71/100 |
 | 479 | [JudgmentLabs/judgeval](./judgmentlabs-judgeval.md) | ⭐ 1k | Python | 71/100 |
 | 480 | [mathomhaus/guild](./mathomhaus-guild.md) | ⭐ 188 | Go | 71/100 |
 | 481 | [prassanna-ravishankar/repowire](./prassanna-ravishankar-repowire.md) | ⭐ 87 | HTML | 71/100 |
@@ -596,8 +596,8 @@
 | 586 | [yanhua1010/zero-to-ai-fullstack](./yanhua1010-zero-to-ai-fullstack.md) | ⭐ 149 | Python | 69/100 |
 | 587 | [rnett/gradle-mcp](./rnett-gradle-mcp.md) | ⭐ 47 | Kotlin | 69/100 |
 | 588 | [samber/cc-skills](./samber-cc-skills.md) | ⭐ 87 | Shell | 69/100 |
-| 589 | [AlekseiUL/openclaw-superagent](./alekseiul-openclaw-superagent.md) | ⭐ 39 | Shell | 69/100 |
-| 590 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 43 | — | 69/100 |
+| 589 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 43 | — | 69/100 |
+| 590 | [AlekseiUL/openclaw-superagent](./alekseiul-openclaw-superagent.md) | ⭐ 39 | Shell | 69/100 |
 | 591 | [regenrek/peky](./regenrek-peky.md) | ⭐ 144 | Go | 69/100 |
 | 592 | [brainlid/langchain](./brainlid-langchain.md) | ⭐ 1.2k | Elixir | 69/100 |
 | 593 | [samber/cc-skills-golang](./samber-cc-skills-golang.md) | ⭐ 1.6k | Go | 69/100 |
@@ -671,8 +671,8 @@
 | 661 | [THU-MAIC/OpenMAIC](./thu-maic-openmaic.md) | ⭐ 17.2k | TypeScript | 67/100 |
 | 662 | [jaimasih05-commits/swarm-foraging-qlearn](./jaimasih05-commits-swarm-foraging-qlearn.md) | ⭐ 45 | HTML | 67/100 |
 | 663 | [SciTools/iris](./scitools-iris.md) | ⭐ 719 | Python | 67/100 |
-| 664 | [belialberu4-oss/exo-harness-ai-pipeline](./belialberu4-oss-exo-harness-ai-pipeline.md) | ⭐ 27 | HTML | 67/100 |
-| 665 | [aufamubarak/plan-execute-verify-claude-code](./aufamubarak-plan-execute-verify-claude-code.md) | ⭐ 29 | HTML | 67/100 |
+| 664 | [aufamubarak/plan-execute-verify-claude-code](./aufamubarak-plan-execute-verify-claude-code.md) | ⭐ 29 | HTML | 67/100 |
+| 665 | [belialberu4-oss/exo-harness-ai-pipeline](./belialberu4-oss-exo-harness-ai-pipeline.md) | ⭐ 27 | HTML | 67/100 |
 | 666 | [ViryaZheng/promptly-prompt](./viryazheng-promptly-prompt.md) | ⭐ 52 | Python | 67/100 |
 | 667 | [gaasher/Agent-Loop-Skills](./gaasher-agent-loop-skills.md) | ⭐ 113 | Python | 67/100 |
 | 668 | [langchain-ai/agent-chat-ui](./langchain-ai-agent-chat-ui.md) | ⭐ 2.9k | TypeScript | 67/100 |
@@ -798,8 +798,8 @@
 | 788 | [chaitanyagiri/munder-difflin](./chaitanyagiri-munder-difflin.md) | ⭐ 575 | TypeScript | 65/100 |
 | 789 | [martymcenroe/AssemblyZero](./martymcenroe-assemblyzero.md) | ⭐ 103 | Python | 65/100 |
 | 790 | [jal-co/shieldcn](./jal-co-shieldcn.md) | ⭐ 479 | TypeScript | 65/100 |
-| 791 | [martimfasantos/ai-agents-frameworks](./martimfasantos-ai-agents-frameworks.md) | ⭐ 583 | Python | 65/100 |
-| 792 | [emreturkmencom/antigravity-telegram-suite](./emreturkmencom-antigravity-telegram-suite.md) | ⭐ 116 | JavaScript | 65/100 |
+| 791 | [emreturkmencom/antigravity-telegram-suite](./emreturkmencom-antigravity-telegram-suite.md) | ⭐ 116 | JavaScript | 65/100 |
+| 792 | [martimfasantos/ai-agents-frameworks](./martimfasantos-ai-agents-frameworks.md) | ⭐ 583 | Python | 65/100 |
 | 793 | [vicentereig/dspy.rb](./vicentereig-dspy.rb.md) | ⭐ 228 | Ruby | 65/100 |
 | 794 | [voocel/agentcore](./voocel-agentcore.md) | ⭐ 43 | Go | 65/100 |
 | 795 | [dimensionalOS/dimos](./dimensionalos-dimos.md) | ⭐ 3.2k | Python | 65/100 |
@@ -1145,8 +1145,8 @@
 | 1135 | [ZhangHanDong/mempal](./zhanghandong-mempal.md) | ⭐ 142 | Rust | 47/100 |
 | 1136 | [matthart1983/netwatch](./matthart1983-netwatch.md) | ⭐ 1.7k | Rust | 46/100 |
 | 1137 | [ldclabs/anda-hippocampus](./ldclabs-anda-hippocampus.md) | ⭐ 50 | Rust | 46/100 |
-| 1138 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
-| 1139 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
+| 1138 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
+| 1139 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
 | 1140 | [SkillsCat/skillscat](./skillscat-skillscat.md) | ⭐ 43 | TypeScript | 46/100 |
 | 1141 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 45/100 |
 | 1142 | [vinerya/driftGuard](./vinerya-driftguard.md) | ⭐ — | — | 45/100 |

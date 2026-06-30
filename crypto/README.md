@@ -138,8 +138,8 @@
 | 128 | [kairos-io/kairos](./kairos-io-kairos.md) | ⭐ 1.7k | Go | 67/100 |
 | 129 | [digital-asset/daml](./digital-asset-daml.md) | ⭐ 891 | Haskell | 67/100 |
 | 130 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 44 | Shell | 67/100 |
-| 131 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
-| 132 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 131 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 66/100 |
+| 132 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 66/100 |
 | 133 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 66/100 |
 | 134 | [monero-project/monero](./monero-project-monero.md) | ⭐ 10.7k | C++ | 66/100 |
 | 135 | [remix-project-org/remix-project](./remix-project-org-remix-project.md) | ⭐ 3k | TypeScript | 66/100 |

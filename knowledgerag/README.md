@@ -287,8 +287,8 @@
 | 277 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
 | 278 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 279 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 280 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 281 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 280 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 281 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
 | 282 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
 | 283 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
 | 284 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |

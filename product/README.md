@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**23 projects** in this category.
+**24 projects** in this category.
 
 ## Projects
 
@@ -14,23 +14,24 @@
 | 4 | [spring-projects/spring-boot](./spring-projects-spring-boot.md) | ⭐ 80.6k | Java | 61/100 |
 | 5 | [Atarity/deploy-your-own-saas](./atarity-deploy-your-own-saas.md) | ⭐ 9.1k | Python | 61/100 |
 | 6 | [getsentry/responses](./getsentry-responses.md) | ⭐ 4.3k | Python | 61/100 |
-| 7 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 58/100 |
-| 8 | [getsentry/snuba](./getsentry-snuba.md) | ⭐ 406 | Python | 57/100 |
-| 9 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 55/100 |
-| 10 | [getsentry/symbolic](./getsentry-symbolic.md) | ⭐ 536 | Rust | 55/100 |
-| 11 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 54/100 |
-| 12 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 54/100 |
-| 13 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 431 | Rust | 54/100 |
-| 14 | [getsentry/relay](./getsentry-relay.md) | ⭐ 378 | Rust | 54/100 |
-| 15 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 53/100 |
-| 16 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 52/100 |
-| 17 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 52/100 |
-| 18 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
-| 19 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
-| 20 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
-| 21 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
-| 22 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 23 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
+| 7 | [RustCastLabs/rustcast](./rustcastlabs-rustcast.md) | ⭐ 852 | Rust | 59/100 |
+| 8 | [logseq/logseq](./logseq-logseq.md) | ⭐ 42.7k | Clojure | 58/100 |
+| 9 | [getsentry/snuba](./getsentry-snuba.md) | ⭐ 406 | Python | 57/100 |
+| 10 | [git-town/git-town](./git-town-git-town.md) | ⭐ 3.2k | Gherkin | 55/100 |
+| 11 | [getsentry/symbolic](./getsentry-symbolic.md) | ⭐ 536 | Rust | 55/100 |
+| 12 | [LMMS/lmms](./lmms-lmms.md) | ⭐ 9.9k | C++ | 54/100 |
+| 13 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.2k | Rust | 54/100 |
+| 14 | [getsentry/symbolicator](./getsentry-symbolicator.md) | ⭐ 431 | Rust | 54/100 |
+| 15 | [getsentry/relay](./getsentry-relay.md) | ⭐ 378 | Rust | 54/100 |
+| 16 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 6.1k | Swift | 53/100 |
+| 17 | [chapel-lang/chapel](./chapel-lang-chapel.md) | ⭐ 2k | Chapel | 52/100 |
+| 18 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 742 | Java | 52/100 |
+| 19 | [dial9-rs/dial9](./dial9-rs-dial9.md) | ⭐ 387 | Rust | 52/100 |
+| 20 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 48/100 |
+| 21 | [succinctlabs/op-succinct](./succinctlabs-op-succinct.md) | ⭐ 214 | Rust | 43/100 |
+| 22 | [dial9-rs/dial9-tokio-telemetry](./dial9-rs-dial9-tokio-telemetry.md) | ⭐ 318 | Rust | 42/100 |
+| 23 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
+| 24 | [idodekerobo/draft-cli-plugin](./idodekerobo-draft-cli-plugin.md) | ⭐ — | — | 35/100 |
 
 ---
 

@@ -182,8 +182,8 @@
 | 172 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 173 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 174 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 175 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 176 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 175 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 176 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 177 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 178 | [leandromoreira/linux-network-performance-parameters](./leandromoreira-linux-network-performance-parameters.md) | ⭐ — | — | 41/100 |
 | 179 | [raphaelrrcoelho/formal-mathfin](./raphaelrrcoelho-formal-mathfin.md) | ⭐ — | — | 41/100 |

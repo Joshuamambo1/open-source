@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13546** |
+| 🗂️ **Total projects** | **13586** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4224 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2397 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1254 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1137 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 702 | [Browse →](./mcp/) |
+| 🤖 **AI/ML** | 4241 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2404 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1256 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1140 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 703 | [Browse →](./mcp/) |
 | 🔧 **DevTools** | 686 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 597 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 473 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 443 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 598 | [Browse →](./backend/) |
+| ⛓️ **Crypto** | 474 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 447 | [Browse →](./automation/) |
 | 📊 **Data** | 288 | [Browse →](./data/) |
-| 🏷️ **Knowledgerag** | 285 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 287 | [Browse →](./knowledgerag/) |
 | 🏷️ **Database** | 197 | [Browse →](./database/) |
 | 💳 **Payments** | 194 | [Browse →](./payments/) |
 | 📱 **Mobile** | 165 | [Browse →](./mobile/) |
-| 📈 **Trading** | 159 | [Browse →](./trading/) |
+| 📈 **Trading** | 160 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 99 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 93 | [Browse →](./security/) |
 | ✨ **Design** | 40 | [Browse →](./design/) |
 | 🏷️ **Observability** | 39 | [Browse →](./observability/) |
 | 🏷️ **Education** | 34 | [Browse →](./education/) |
 | 🎯 **Product** | 23 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 17 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 

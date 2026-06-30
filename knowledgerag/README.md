@@ -2,7 +2,7 @@
 
 > 
 
-**279 projects** in this category.
+**281 projects** in this category.
 
 ## Projects
 
@@ -177,8 +177,8 @@
 | 167 | [upsidelab/enthusiast](./upsidelab-enthusiast.md) | ⭐ 144 | Python | 66/100 |
 | 168 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 420 | TypeScript | 66/100 |
 | 169 | [jonfairbanks/local-rag](./jonfairbanks-local-rag.md) | ⭐ 750 | Python | 65/100 |
-| 170 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
-| 171 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
+| 170 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
+| 171 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
 | 172 | [DragonFlyBSD/DragonFlyBSD](./dragonflybsd-dragonflybsd.md) | ⭐ 616 | C | 65/100 |
 | 173 | [oakreader/oakreader](./oakreader-oakreader.md) | ⭐ 31 | Swift | 65/100 |
 | 174 | [TheKevJames/coveralls-python](./thekevjames-coveralls-python.md) | ⭐ 570 | Python | 65/100 |
@@ -272,21 +272,23 @@
 | 262 | [asakin/dragoman](./asakin-dragoman.md) | ⭐ — | — | 52/100 |
 | 263 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 264 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 265 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 266 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 267 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
-| 268 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
-| 269 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
-| 270 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
-| 271 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
-| 272 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
-| 273 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
-| 274 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
-| 275 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
-| 276 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
-| 277 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
-| 278 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
-| 279 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
+| 265 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 266 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
+| 267 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 268 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 269 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
+| 270 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
+| 271 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |
+| 272 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 45/100 |
+| 273 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ — | — | 45/100 |
+| 274 | [liamromanis101/DirtyFrag-Detector](./liamromanis101-dirtyfrag-detector.md) | ⭐ — | — | 45/100 |
+| 275 | [mirkobozzetto/flowflow](./mirkobozzetto-flowflow.md) | ⭐ — | — | 45/100 |
+| 276 | [abhishekamralkar/argus](./abhishekamralkar-argus.md) | ⭐ — | — | 45/100 |
+| 277 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
+| 278 | [Gabriele06-local/LocalMind](./gabriele06-local-localmind.md) | ⭐ — | — | 41/100 |
+| 279 | [mat-mgm/kb-prolog](./mat-mgm-kb-prolog.md) | ⭐ — | — | 41/100 |
+| 280 | [l-zhi/pith-wiki](./l-zhi-pith-wiki.md) | ⭐ — | — | 41/100 |
+| 281 | [facebookresearch/tuna-2](./facebookresearch-tuna-2.md) | ⭐ — | — | 41/100 |
 
 ---
 

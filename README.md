@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13409** |
+| 🗂️ **Total projects** | **13459** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4196 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2379 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1241 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1122 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 690 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 676 | [Browse →](./devtools/) |
+| 🤖 **AI/ML** | 4209 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2383 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1246 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1125 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 695 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 681 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 595 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 465 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 435 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 467 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 439 | [Browse →](./automation/) |
 | 📊 **Data** | 287 | [Browse →](./data/) |
 | 🏷️ **Knowledgerag** | 281 | [Browse →](./knowledgerag/) |
+| 🏷️ **Database** | 195 | [Browse →](./database/) |
 | 💳 **Payments** | 194 | [Browse →](./payments/) |
-| 🏷️ **Database** | 192 | [Browse →](./database/) |
-| 📱 **Mobile** | 162 | [Browse →](./mobile/) |
-| 📈 **Trading** | 153 | [Browse →](./trading/) |
+| 📱 **Mobile** | 163 | [Browse →](./mobile/) |
+| 📈 **Trading** | 156 | [Browse →](./trading/) |
 | 🚀 **DevOps & Infra** | 99 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 91 | [Browse →](./security/) |
+| 🔐 **Security** | 92 | [Browse →](./security/) |
 | ✨ **Design** | 40 | [Browse →](./design/) |
 | 🏷️ **Observability** | 38 | [Browse →](./observability/) |
 | 🏷️ **Education** | 34 | [Browse →](./education/) |
 | 🎯 **Product** | 23 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 16 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 17 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 

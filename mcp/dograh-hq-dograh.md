@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ dograh-hq/dograh：dograh-hq/dograh helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 4694 GitHub stars
-- 1041 forks
-- updated 2026-06-29
+- 4702 GitHub stars
+- 1047 forks
+- updated 2026-06-30
 - primary language: Python
 - 20 topics
 
@@ -72,11 +72,11 @@ dograh-hq/dograh：dograh-hq/dograh helps connect AI assistants to real tools an
 | outlook | 94/100 |
 | adoption | 77/100 |
 | stars | 78/100 |
-| forks | 75/100 |
+| forks | 76/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/dograh-hq/dograh) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/dograh-hq/dograh) · [← Back to Mcp](./README.md)</sub>

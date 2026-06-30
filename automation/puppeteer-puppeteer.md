@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 9.5k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ puppeteer/puppeteer：puppeteer/puppeteer helps remove repetitive manual operati
 
 **Quality signals**
 
-- 95269 GitHub stars
-- 9469 forks
-- updated 2026-06-29
+- 95281 GitHub stars
+- 9467 forks
+- updated 2026-06-30
 - primary language: TypeScript
 - 9 topics
 
@@ -79,4 +79,4 @@ puppeteer/puppeteer：puppeteer/puppeteer helps remove repetitive manual operati
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/puppeteer/puppeteer) · [← Back to Automation](./README.md)</sub>

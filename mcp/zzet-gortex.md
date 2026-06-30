@@ -2,17 +2,17 @@
 
 [![Stars](https://img.shields.io/github/stars/zzet/gortex?style=flat-square&color=yellow)](https://github.com/zzet/gortex/stargazers) [![Forks](https://img.shields.io/github/forks/zzet/gortex?style=flat-square&color=blue)](https://github.com/zzet/gortex/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
-> High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local.
+> High-performance code-intelligence engine for AI agents and IDE, supports 257 languages, multi repositories, based on graph, with access via CLI, MCP Server, and API. AI coding agents teammate - expose only needed information, cutting token usage up to 50x. 100% local. Discord: https://discord.gg/ysC2prTGD
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 778 |
-| 🍴 **Forks** | 62 |
+| ⭐ **Stars** | 784 |
+| 🍴 **Forks** | 63 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 **Quality signals**
 
-- 778 GitHub stars
-- 62 forks
-- updated 2026-06-29
+- 784 GitHub stars
+- 63 forks
+- updated 2026-06-30
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ zzet/gortex：zzet/gortex helps connect AI assistants to real tools and data thr
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/zzet/gortex) · [← Back to Mcp](./README.md)</sub>

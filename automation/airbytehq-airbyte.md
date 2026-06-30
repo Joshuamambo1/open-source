@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.5k |
+| ⭐ **Stars** | 21.6k |
 | 🍴 **Forks** | 5.2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 89/100 |
@@ -53,8 +53,8 @@ airbytehq/airbyte：airbytehq/airbyte helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 21548 GitHub stars
-- 5244 forks
+- 21553 GitHub stars
+- 5245 forks
 - updated 2026-06-30
 - primary language: Python
 - 20 topics

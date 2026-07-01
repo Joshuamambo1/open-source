@@ -30,8 +30,8 @@
 | 20 | [readium/swift-toolkit](./readium-swift-toolkit.md) | ⭐ 521 | Swift | 63/100 |
 | 21 | [CollaboraOnline/online](./collaboraonline-online.md) | ⭐ 3.3k | Shell | 63/100 |
 | 22 | [Delta-Icons/android](./delta-icons-android.md) | ⭐ 840 | Python | 63/100 |
-| 23 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
-| 24 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
+| 23 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 62/100 |
+| 24 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 62/100 |
 | 25 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 8.4k | Java | 62/100 |
 | 26 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 62/100 |
 | 27 | [gorules/zen](./gorules-zen.md) | ⭐ 1.8k | Rust | 62/100 |

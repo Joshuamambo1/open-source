@@ -171,8 +171,8 @@
 | 161 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 54/100 |
 | 162 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 54/100 |
 | 163 | [pay-rails/pay](./pay-rails-pay.md) | ⭐ 2.2k | Ruby | 53/100 |
-| 164 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 53/100 |
-| 165 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 53/100 |
+| 164 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 53/100 |
+| 165 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 53/100 |
 | 166 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 53/100 |
 | 167 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 53/100 |
 | 168 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 53/100 |

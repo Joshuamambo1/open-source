@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 491 |
+| 🍴 **Forks** | 494 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
 | 🗓️ **Last push** | 2026-07-01 |
@@ -53,8 +53,8 @@ WenyuChiou/awesome-agentic-ai-zh：WenyuChiou/awesome-agentic-ai-zh helps turn i
 
 **Quality signals**
 
-- 3621 GitHub stars
-- 491 forks
+- 3643 GitHub stars
+- 494 forks
 - updated 2026-07-01
 - primary language: Python
 - 19 topics

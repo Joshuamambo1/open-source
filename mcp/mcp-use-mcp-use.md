@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 93/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 🗓️ **Last push** | 2026-07-01 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 10178 GitHub stars
-- 1354 forks
-- updated 2026-06-30
+- 10190 GitHub stars
+- 1355 forks
+- updated 2026-07-01
 - primary language: TypeScript
 - 20 topics
 
@@ -66,7 +66,7 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 92/100 |
+| quality | 93/100 |
 | integration | 94/100 |
 | production | 88/100 |
 | outlook | 96/100 |
@@ -79,4 +79,4 @@ mcp-use/mcp-use：mcp-use/mcp-use helps connect AI assistants to real tools and 
 
 ---
 
-<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/mcp-use/mcp-use) · [← Back to Mcp](./README.md)</sub>

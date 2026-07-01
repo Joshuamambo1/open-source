@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14101** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4379 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2510 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1297 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1181 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 742 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 711 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 618 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 484 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 482 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 303 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 296 | [Browse →](./data/) |
-| 🏷️ **Database** | 214 | [Browse →](./database/) |
-| 💳 **Payments** | 198 | [Browse →](./payments/) |
-| 📱 **Mobile** | 167 | [Browse →](./mobile/) |
-| 📈 **Trading** | 166 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 100 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 95 | [Browse →](./security/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Observability** | 39 | [Browse →](./observability/) |
-| 🏷️ **Education** | 37 | [Browse →](./education/) |
-| 🎯 **Product** | 24 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 19 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.7k | Mcp |
+| 2 | [ohmyzsh/ohmyzsh](./aiml/ohmyzsh-ohmyzsh.md) | ⭐ 188.2k | AI/ML |
+| 3 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.8k | Mcp |
+| 4 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 5 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
+| 6 | [mcp-use/mcp-use](./mcp/mcp-use-mcp-use.md) | ⭐ 10.2k | Mcp |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.6k | Orchestration |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.4k | Orchestration |
+| 10 | [FlorianBruniaux/claude-code-ultimate-guide](./orchestration/florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 5.3k | Orchestration |
 
 ## 🚀 How it works
 

@@ -289,11 +289,11 @@
 | 279 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ — | — | 48/100 |
 | 280 | [emberian/dregg](./emberian-dregg.md) | ⭐ — | — | 48/100 |
 | 281 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 48/100 |
-| 282 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
-| 283 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 282 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
+| 283 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 46/100 |
 | 284 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 285 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
-| 286 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 285 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
+| 286 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
 | 287 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 288 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 289 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |

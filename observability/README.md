@@ -2,7 +2,7 @@
 
 > 
 
-**39 projects** in this category.
+**40 projects** in this category.
 
 ## Projects
 
@@ -42,11 +42,12 @@
 | 32 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 57/100 |
 | 33 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 57/100 |
 | 34 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 56/100 |
-| 35 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
-| 36 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
-| 37 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
-| 38 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
-| 39 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
+| 35 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 55/100 |
+| 36 | [TsingJyujing/blogs](./tsingjyujing-blogs.md) | ⭐ 328 | Python | 55/100 |
+| 37 | [Endle/fireSeqSearch](./endle-fireseqsearch.md) | ⭐ 108 | Rust | 49/100 |
+| 38 | [cfenollosa/bashblog](./cfenollosa-bashblog.md) | ⭐ — | — | 41/100 |
+| 39 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 41/100 |
+| 40 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 41/100 |
 
 ---
 

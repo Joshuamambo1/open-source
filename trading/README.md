@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**167 projects** in this category.
+**168 projects** in this category.
 
 ## Projects
 
@@ -170,11 +170,12 @@
 | 160 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 46/100 |
 | 161 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
 | 162 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 43/100 |
-| 163 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
-| 164 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
-| 165 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
-| 166 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
-| 167 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
+| 163 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
+| 164 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
+| 165 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
+| 166 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
+| 167 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
+| 168 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
 
 ---
 

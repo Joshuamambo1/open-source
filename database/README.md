@@ -121,8 +121,8 @@
 | 111 | [PastVu/pastvu](./pastvu-pastvu.md) | ⭐ 161 | JavaScript | 59/100 |
 | 112 | [maplibre/maplibre-native](./maplibre-maplibre-native.md) | ⭐ 2k | C++ | 59/100 |
 | 113 | [ExpressionEngine/ExpressionEngine](./expressionengine-expressionengine.md) | ⭐ 501 | PHP | 59/100 |
-| 114 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
-| 115 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 114 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 804 | Ruby | 59/100 |
+| 115 | [stella-emu/stella](./stella-emu-stella.md) | ⭐ 739 | C | 59/100 |
 | 116 | [lukecav/awesome-gravity-forms](./lukecav-awesome-gravity-forms.md) | ⭐ 324 | — | 59/100 |
 | 117 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 59/100 |
 | 118 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 335 | Go | 59/100 |
@@ -196,9 +196,9 @@
 | 186 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 187 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 188 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 189 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 189 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
 | 190 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 191 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 191 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 192 | [thedevilhimselfcodes/CertAlloc](./thedevilhimselfcodes-certalloc.md) | ⭐ — | — | 41/100 |
 | 193 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 41/100 |
 | 194 | [cloudcell/om-core](./cloudcell-om-core.md) | ⭐ — | — | 41/100 |

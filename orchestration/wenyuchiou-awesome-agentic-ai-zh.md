@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 489 |
+| 🍴 **Forks** | 491 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 88/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 🗓️ **Last push** | 2026-07-01 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ WenyuChiou/awesome-agentic-ai-zh：WenyuChiou/awesome-agentic-ai-zh helps turn i
 
 **Quality signals**
 
-- 3615 GitHub stars
-- 489 forks
-- updated 2026-06-30
+- 3621 GitHub stars
+- 491 forks
+- updated 2026-07-01
 - primary language: Python
 - 19 topics
 
@@ -79,4 +79,4 @@ WenyuChiou/awesome-agentic-ai-zh：WenyuChiou/awesome-agentic-ai-zh helps turn i
 
 ---
 
-<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [← Back to Orchestration](./README.md)</sub>

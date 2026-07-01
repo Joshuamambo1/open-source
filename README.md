@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **13979** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4355 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2488 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1281 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1172 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 733 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 703 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 611 | [Browse →](./backend/) |
-| ⛓️ **Crypto** | 481 | [Browse →](./crypto/) |
-| 🏷️ **Automation** | 474 | [Browse →](./automation/) |
-| 🏷️ **Knowledgerag** | 298 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 294 | [Browse →](./data/) |
-| 🏷️ **Database** | 210 | [Browse →](./database/) |
-| 💳 **Payments** | 198 | [Browse →](./payments/) |
-| 📱 **Mobile** | 166 | [Browse →](./mobile/) |
-| 📈 **Trading** | 164 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 100 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 94 | [Browse →](./security/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Observability** | 39 | [Browse →](./observability/) |
-| 🏷️ **Education** | 36 | [Browse →](./education/) |
-| 🎯 **Product** | 24 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 18 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 55 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🧩 **Orchestration** | 18 | [Browse →](./orchestration/) |
+| 🎨 **Frontend** | 15 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [PipedreamHQ/pipedream](./automation/pipedreamhq-pipedream.md) | ⭐ 11.5k | Automation |
+| 2 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.2k | Orchestration |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 8.7k | Mcp |
+| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.4k | Mcp |
+| 5 | [farion1231/cc-switch](./mcp/farion1231-cc-switch.md) | ⭐ 111.4k | Mcp |
+| 6 | [googleapis/mcp-toolbox](./mcp/googleapis-mcp-toolbox.md) | ⭐ 15.8k | Mcp |
+| 7 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
+| 8 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.5k | Orchestration |
+| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.4k | Orchestration |
+| 10 | [bytedance/deer-flow](./orchestration/bytedance-deer-flow.md) | ⭐ 75.7k | Orchestration |
 
 ## 🚀 How it works
 

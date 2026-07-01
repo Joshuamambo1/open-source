@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.1k |
-| 🍴 **Forks** | 392 |
+| 🍴 **Forks** | 395 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-01 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps connect AI assistant
 
 **Quality signals**
 
-- 2073 GitHub stars
-- 392 forks
-- updated 2026-06-29
+- 2093 GitHub stars
+- 395 forks
+- updated 2026-07-01
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps connect AI assistant
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/chrisryugj/korean-law-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/chrisryugj/korean-law-mcp) · [← Back to Mcp](./README.md)</sub>

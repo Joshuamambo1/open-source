@@ -2,7 +2,7 @@
 
 > 
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -38,12 +38,13 @@
 | 28 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
 | 29 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
 | 30 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 31 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 32 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 33 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 34 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 35 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 36 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 31 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
+| 32 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 33 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 34 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 35 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 36 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 37 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
 
 ---
 

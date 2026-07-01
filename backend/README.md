@@ -392,8 +392,8 @@
 | 382 | [svix/svix-webhooks](./svix-svix-webhooks.md) | ⭐ 3.2k | Rust | 60/100 |
 | 383 | [Brooooooklyn/simple-git](./brooooooklyn-simple-git.md) | ⭐ 183 | Rust | 60/100 |
 | 384 | [clojure-lsp/clojure-lsp](./clojure-lsp-clojure-lsp.md) | ⭐ 1.3k | Clojure | 60/100 |
-| 385 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
-| 386 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
+| 385 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 965 | Rust | 60/100 |
+| 386 | [crunchy-labs/crunchyroll-rs](./crunchy-labs-crunchyroll-rs.md) | ⭐ 101 | Rust | 60/100 |
 | 387 | [cokemine/nodestatus](./cokemine-nodestatus.md) | ⭐ 359 | TypeScript | 60/100 |
 | 388 | [ayaka-notes/overleaf-pro](./ayaka-notes-overleaf-pro.md) | ⭐ 412 | JavaScript | 60/100 |
 | 389 | [h2o/h2o](./h2o-h2o.md) | ⭐ 11.5k | C | 60/100 |
@@ -539,8 +539,8 @@
 | 529 | [rust-vmm/vhost-device](./rust-vmm-vhost-device.md) | ⭐ 128 | Rust | 53/100 |
 | 530 | [ripytide/metapac](./ripytide-metapac.md) | ⭐ 290 | Rust | 53/100 |
 | 531 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 134 | Rust | 53/100 |
-| 532 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
-| 533 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
+| 532 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 53/100 |
+| 533 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 53/100 |
 | 534 | [nodiscc/xsrv](./nodiscc-xsrv.md) | ⭐ 400 | Jinja | 53/100 |
 | 535 | [brettchalupa/usagi](./brettchalupa-usagi.md) | ⭐ 105 | Rust | 53/100 |
 | 536 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 53/100 |

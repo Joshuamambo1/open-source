@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**1303 projects** in this category.
+**1304 projects** in this category.
 
 ## Projects
 
@@ -248,8 +248,8 @@
 | 238 | [Automattic/wp-calypso](./automattic-wp-calypso.md) | ⭐ 12.6k | TypeScript | 67/100 |
 | 239 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 67/100 |
 | 240 | [webpack/webpack](./webpack-webpack.md) | ⭐ 65.8k | JavaScript | 67/100 |
-| 241 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 67/100 |
-| 242 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 67/100 |
+| 241 | [nestjs/nest](./nestjs-nest.md) | ⭐ 75.4k | TypeScript | 67/100 |
+| 242 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 60.2k | TypeScript | 67/100 |
 | 243 | [expo/expo](./expo-expo.md) | ⭐ 49.3k | TypeScript | 67/100 |
 | 244 | [bytebase/bytebase](./bytebase-bytebase.md) | ⭐ 14k | Go | 67/100 |
 | 245 | [ClementTsang/bottom](./clementtsang-bottom.md) | ⭐ 13.3k | Rust | 67/100 |
@@ -967,8 +967,8 @@
 | 957 | [justjavac/herlang](./justjavac-herlang.md) | ⭐ 486 | Rust | 54/100 |
 | 958 | [podusowski/walkers](./podusowski-walkers.md) | ⭐ 274 | Rust | 54/100 |
 | 959 | [PathOfBuildingCommunity/PathOfBuilding-PoE2](./pathofbuildingcommunity-pathofbuilding-poe2.md) | ⭐ 1.8k | Lua | 54/100 |
-| 960 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 591 | Rust | 54/100 |
-| 961 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 172 | Rust | 54/100 |
+| 960 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 172 | Rust | 54/100 |
+| 961 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 591 | Rust | 54/100 |
 | 962 | [wxMaxima-developers/wxmaxima](./wxmaxima-developers-wxmaxima.md) | ⭐ 548 | C++ | 54/100 |
 | 963 | [restsend/rsipstack](./restsend-rsipstack.md) | ⭐ 191 | Rust | 54/100 |
 | 964 | [raydium-io/raydium-clmm](./raydium-io-raydium-clmm.md) | ⭐ 386 | Rust | 54/100 |
@@ -1026,8 +1026,8 @@
 | 1016 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 472 | Rust | 53/100 |
 | 1017 | [craftercms/craftercms](./craftercms-craftercms.md) | ⭐ 335 | Shell | 53/100 |
 | 1018 | [Fausto-Korpsvart/Catppuccin-GTK-Theme](./fausto-korpsvart-catppuccin-gtk-theme.md) | ⭐ 746 | SCSS | 53/100 |
-| 1019 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
-| 1020 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 1019 | [getmydia/mydia](./getmydia-mydia.md) | ⭐ 731 | Elixir | 53/100 |
+| 1020 | [gszabi99/War-Thunder-Datamine](./gszabi99-war-thunder-datamine.md) | ⭐ 415 | Squirrel | 53/100 |
 | 1021 | [rikhuijzer/fx](./rikhuijzer-fx.md) | ⭐ 310 | Rust | 53/100 |
 | 1022 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 768 | Rust | 53/100 |
 | 1023 | [micro-manager/micro-manager](./micro-manager-micro-manager.md) | ⭐ 303 | Java | 53/100 |
@@ -1251,66 +1251,67 @@
 | 1241 | [Reviewable/Reviewable](./reviewable-reviewable.md) | ⭐ 198 | CSS | 42/100 |
 | 1242 | [InioX/matugen-themes](./iniox-matugen-themes.md) | ⭐ 369 | CSS | 41/100 |
 | 1243 | [ALT-F4-LLC/vorpal](./alt-f4-llc-vorpal.md) | ⭐ 116 | Rust | 41/100 |
-| 1244 | [ObaidQatan/liquid-glass-component-library](./obaidqatan-liquid-glass-component-library.md) | ⭐ — | — | 41/100 |
-| 1245 | [therepanic/openleetcode](./therepanic-openleetcode.md) | ⭐ — | — | 41/100 |
-| 1246 | [rochus-keller/BUSY](./rochus-keller-busy.md) | ⭐ — | — | 41/100 |
-| 1247 | [diinki/linux-antiquity](./diinki-linux-antiquity.md) | ⭐ — | — | 41/100 |
-| 1248 | [macshome/The-Wisdom-of-Quinn](./macshome-the-wisdom-of-quinn.md) | ⭐ — | — | 41/100 |
-| 1249 | [rcalixte/0afb119cbcc130c21063839f65b53ab7](./rcalixte-0afb119cbcc130c21063839f65b53ab7.md) | ⭐ — | — | 41/100 |
-| 1250 | [Fix3dll/QuicMic](./fix3dll-quicmic.md) | ⭐ — | — | 41/100 |
-| 1251 | [kyuz0/amd-strix-halo-vllm-toolboxes](./kyuz0-amd-strix-halo-vllm-toolboxes.md) | ⭐ — | — | 41/100 |
-| 1252 | [momiji-rs/sasso](./momiji-rs-sasso.md) | ⭐ — | — | 41/100 |
-| 1253 | [kinncj/Heimdall](./kinncj-heimdall.md) | ⭐ — | — | 41/100 |
-| 1254 | [gouwsxander/Reef](./gouwsxander-reef.md) | ⭐ — | — | 41/100 |
-| 1255 | [kylebshr/decant](./kylebshr-decant.md) | ⭐ — | — | 41/100 |
-| 1256 | [ccheney/codex-multi-account](./ccheney-codex-multi-account.md) | ⭐ — | — | 41/100 |
-| 1257 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 41/100 |
-| 1258 | [xgboosted/pandas-ta-classic](./xgboosted-pandas-ta-classic.md) | ⭐ — | — | 41/100 |
-| 1259 | [CalvinSturm/FastPlay](./calvinsturm-fastplay.md) | ⭐ — | — | 41/100 |
-| 1260 | [Kuberwastaken/caffeineOSS](./kuberwastaken-caffeineoss.md) | ⭐ — | — | 41/100 |
-| 1261 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ — | — | 41/100 |
-| 1262 | [onanaxm/libaui](./onanaxm-libaui.md) | ⭐ — | — | 41/100 |
-| 1263 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 41/100 |
-| 1264 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 41/100 |
-| 1265 | [othmarodev/filaxy-herald](./othmarodev-filaxy-herald.md) | ⭐ — | — | 41/100 |
-| 1266 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
+| 1244 | [pedrosousa13/onda](./pedrosousa13-onda.md) | ⭐ — | — | 41/100 |
+| 1245 | [ObaidQatan/liquid-glass-component-library](./obaidqatan-liquid-glass-component-library.md) | ⭐ — | — | 41/100 |
+| 1246 | [therepanic/openleetcode](./therepanic-openleetcode.md) | ⭐ — | — | 41/100 |
+| 1247 | [rochus-keller/BUSY](./rochus-keller-busy.md) | ⭐ — | — | 41/100 |
+| 1248 | [diinki/linux-antiquity](./diinki-linux-antiquity.md) | ⭐ — | — | 41/100 |
+| 1249 | [macshome/The-Wisdom-of-Quinn](./macshome-the-wisdom-of-quinn.md) | ⭐ — | — | 41/100 |
+| 1250 | [rcalixte/0afb119cbcc130c21063839f65b53ab7](./rcalixte-0afb119cbcc130c21063839f65b53ab7.md) | ⭐ — | — | 41/100 |
+| 1251 | [Fix3dll/QuicMic](./fix3dll-quicmic.md) | ⭐ — | — | 41/100 |
+| 1252 | [kyuz0/amd-strix-halo-vllm-toolboxes](./kyuz0-amd-strix-halo-vllm-toolboxes.md) | ⭐ — | — | 41/100 |
+| 1253 | [momiji-rs/sasso](./momiji-rs-sasso.md) | ⭐ — | — | 41/100 |
+| 1254 | [kinncj/Heimdall](./kinncj-heimdall.md) | ⭐ — | — | 41/100 |
+| 1255 | [gouwsxander/Reef](./gouwsxander-reef.md) | ⭐ — | — | 41/100 |
+| 1256 | [kylebshr/decant](./kylebshr-decant.md) | ⭐ — | — | 41/100 |
+| 1257 | [ccheney/codex-multi-account](./ccheney-codex-multi-account.md) | ⭐ — | — | 41/100 |
+| 1258 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 41/100 |
+| 1259 | [xgboosted/pandas-ta-classic](./xgboosted-pandas-ta-classic.md) | ⭐ — | — | 41/100 |
+| 1260 | [CalvinSturm/FastPlay](./calvinsturm-fastplay.md) | ⭐ — | — | 41/100 |
+| 1261 | [Kuberwastaken/caffeineOSS](./kuberwastaken-caffeineoss.md) | ⭐ — | — | 41/100 |
+| 1262 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ — | — | 41/100 |
+| 1263 | [onanaxm/libaui](./onanaxm-libaui.md) | ⭐ — | — | 41/100 |
+| 1264 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 41/100 |
+| 1265 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 41/100 |
+| 1266 | [othmarodev/filaxy-herald](./othmarodev-filaxy-herald.md) | ⭐ — | — | 41/100 |
 | 1267 | [FeroVolar/Decision-Framework-Skill](./ferovolar-decision-framework-skill.md) | ⭐ — | — | 41/100 |
-| 1268 | [DDecoene/WebBaseIII](./ddecoene-webbaseiii.md) | ⭐ — | — | 41/100 |
-| 1269 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
+| 1268 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
+| 1269 | [DDecoene/WebBaseIII](./ddecoene-webbaseiii.md) | ⭐ — | — | 41/100 |
 | 1270 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
-| 1271 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 41/100 |
-| 1272 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
-| 1273 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
-| 1274 | [microsoft/microsoft-ui-xaml](./microsoft-microsoft-ui-xaml.md) | ⭐ — | — | 41/100 |
-| 1275 | [hbbio/nodiff](./hbbio-nodiff.md) | ⭐ — | — | 41/100 |
-| 1276 | [Raathigesh/majestic](./raathigesh-majestic.md) | ⭐ — | — | 41/100 |
-| 1277 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 41/100 |
-| 1278 | [thesysdev/openclaw-os](./thesysdev-openclaw-os.md) | ⭐ — | — | 41/100 |
-| 1279 | [reubenlavin08/bullseye-app](./reubenlavin08-bullseye-app.md) | ⭐ — | — | 41/100 |
-| 1280 | [mathix420/alacritree](./mathix420-alacritree.md) | ⭐ — | — | 41/100 |
-| 1281 | [adembudak/CMakeForImGui](./adembudak-cmakeforimgui.md) | ⭐ — | — | 41/100 |
-| 1282 | [polyphilz/glance](./polyphilz-glance.md) | ⭐ — | — | 41/100 |
-| 1283 | [sslboard/pushover-cloudflare-build-notifications](./sslboard-pushover-cloudflare-build-notifications.md) | ⭐ — | — | 41/100 |
-| 1284 | [basro/stylance-rs](./basro-stylance-rs.md) | ⭐ 145 | Rust | 41/100 |
-| 1285 | [p4ymak/egui_code_editor](./p4ymak-egui-code-editor.md) | ⭐ 123 | Rust | 41/100 |
-| 1286 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
-| 1287 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 40/100 |
-| 1288 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 40/100 |
-| 1289 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
-| 1290 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 37/100 |
-| 1291 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 35/100 |
-| 1292 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 33/100 |
-| 1293 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 33/100 |
-| 1294 | [DenisSergeevitch/chatgpt-portal](./denissergeevitch-chatgpt-portal.md) | ⭐ — | — | 31/100 |
-| 1295 | [wtbates99/pomotuimer](./wtbates99-pomotuimer.md) | ⭐ — | — | 31/100 |
-| 1296 | [o11ylite/o11ylite](./o11ylite-o11ylite.md) | ⭐ — | — | 31/100 |
-| 1297 | [mech-lang/mech](./mech-lang-mech.md) | ⭐ — | — | 31/100 |
-| 1298 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 31/100 |
-| 1299 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 31/100 |
-| 1300 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 31/100 |
-| 1301 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 31/100 |
-| 1302 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
+| 1271 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
+| 1272 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 41/100 |
+| 1273 | [victormasson/QuickAccent](./victormasson-quickaccent.md) | ⭐ — | — | 41/100 |
+| 1274 | [Vadimkomis/onboarding](./vadimkomis-onboarding.md) | ⭐ — | — | 41/100 |
+| 1275 | [microsoft/microsoft-ui-xaml](./microsoft-microsoft-ui-xaml.md) | ⭐ — | — | 41/100 |
+| 1276 | [hbbio/nodiff](./hbbio-nodiff.md) | ⭐ — | — | 41/100 |
+| 1277 | [Raathigesh/majestic](./raathigesh-majestic.md) | ⭐ — | — | 41/100 |
+| 1278 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 41/100 |
+| 1279 | [thesysdev/openclaw-os](./thesysdev-openclaw-os.md) | ⭐ — | — | 41/100 |
+| 1280 | [reubenlavin08/bullseye-app](./reubenlavin08-bullseye-app.md) | ⭐ — | — | 41/100 |
+| 1281 | [mathix420/alacritree](./mathix420-alacritree.md) | ⭐ — | — | 41/100 |
+| 1282 | [adembudak/CMakeForImGui](./adembudak-cmakeforimgui.md) | ⭐ — | — | 41/100 |
+| 1283 | [polyphilz/glance](./polyphilz-glance.md) | ⭐ — | — | 41/100 |
+| 1284 | [sslboard/pushover-cloudflare-build-notifications](./sslboard-pushover-cloudflare-build-notifications.md) | ⭐ — | — | 41/100 |
+| 1285 | [basro/stylance-rs](./basro-stylance-rs.md) | ⭐ 145 | Rust | 41/100 |
+| 1286 | [p4ymak/egui_code_editor](./p4ymak-egui-code-editor.md) | ⭐ 123 | Rust | 41/100 |
+| 1287 | [timasoft/hyprviz](./timasoft-hyprviz.md) | ⭐ 192 | Rust | 41/100 |
+| 1288 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 40/100 |
+| 1289 | [tangramdotdev/tangram](./tangramdotdev-tangram.md) | ⭐ 122 | Rust | 40/100 |
+| 1290 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 39/100 |
+| 1291 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 37/100 |
+| 1292 | [pthom/imgui_bundle](./pthom-imgui-bundle.md) | ⭐ — | — | 35/100 |
+| 1293 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 33/100 |
+| 1294 | [Recticode/python-cli](./recticode-python-cli.md) | ⭐ — | — | 33/100 |
+| 1295 | [DenisSergeevitch/chatgpt-portal](./denissergeevitch-chatgpt-portal.md) | ⭐ — | — | 31/100 |
+| 1296 | [wtbates99/pomotuimer](./wtbates99-pomotuimer.md) | ⭐ — | — | 31/100 |
+| 1297 | [o11ylite/o11ylite](./o11ylite-o11ylite.md) | ⭐ — | — | 31/100 |
+| 1298 | [mech-lang/mech](./mech-lang-mech.md) | ⭐ — | — | 31/100 |
+| 1299 | [imtomt/ymawky](./imtomt-ymawky.md) | ⭐ — | — | 31/100 |
+| 1300 | [vercel-labs/zero-native](./vercel-labs-zero-native.md) | ⭐ — | — | 31/100 |
+| 1301 | [BitPusher16/qwench](./bitpusher16-qwench.md) | ⭐ — | — | 31/100 |
+| 1302 | [skorotkiewicz/nanorust](./skorotkiewicz-nanorust.md) | ⭐ — | — | 31/100 |
 | 1303 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 1304 | [dypsilon/frontend-dev-bookmarks](./dypsilon-frontend-dev-bookmarks.md) | ⭐ — | — | 28/100 |
 
 ---
 

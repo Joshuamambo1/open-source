@@ -53,8 +53,8 @@ oraios/serena：oraios/serena helps connect AI assistants to real tools and data
 
 **Quality signals**
 
-- 25967 GitHub stars
-- 1727 forks
+- 25974 GitHub stars
+- 1726 forks
 - updated 2026-07-01
 - primary language: Python
 - 12 topics

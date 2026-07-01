@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 677 |
+| ⭐ **Stars** | 678 |
 | 🍴 **Forks** | 47 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 88/100 |
@@ -53,7 +53,7 @@ Marve10s/Better-Fullstack：Marve10s/Better-Fullstack helps integrate monetizati
 
 **Quality signals**
 
-- 677 GitHub stars
+- 678 GitHub stars
 - 47 forks
 - updated 2026-07-01
 - primary language: TypeScript

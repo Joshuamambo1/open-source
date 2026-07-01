@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 813 |
+| ⭐ **Stars** | 816 |
 | 🍴 **Forks** | 110 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 🗓️ **Last push** | 2026-07-01 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ karust/openserp：karust/openserp helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 813 GitHub stars
+- 816 GitHub stars
 - 110 forks
-- updated 2026-06-30
+- updated 2026-07-01
 - primary language: Go
 - 18 topics
 

@@ -53,8 +53,8 @@ google-gemini/gemini-cli：google-gemini/gemini-cli helps connect AI assistants 
 
 **Quality signals**
 
-- 105700 GitHub stars
-- 14196 forks
+- 105702 GitHub stars
+- 14192 forks
 - updated 2026-07-01
 - primary language: TypeScript
 - 7 topics

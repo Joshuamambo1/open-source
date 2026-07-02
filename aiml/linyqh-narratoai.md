@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-06-30 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,15 +27,15 @@ AI/ML · Backend · DevTools
 
 ### English
 
-linyqh/NarratoAI: linyqh/NarratoAI helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+linyqh/NarratoAI lets developers instantly add AI‑driven video narration and editing with a single click, eliminating the need to build a model stack from scratch. Its Python‑based API/SDK/CLI makes it easy to prototype AI features, integrate into RAG or agent workflows, and evaluate model tooling before moving to production. With strong recent activity, high GitHub adoption (10k ★, 1.3k forks), and clear integration signals, the project is production‑ready enough for a serious pilot, pending a final license and security review.
 
 ### Русский
 
-linyqh/NarratoAI: open-source проект в категориях AI/ML, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+NarratoAI позволяет за один клик добавить к видео AI‑генерируемую озвучку и автоматический монтаж, избавляя команды от необходимости собирать стек моделей с нуля. Типичный сценарий — быстрое прототипирование AI‑фич, создание RAG‑ или агент‑воркфлоуов и оценка инструментов моделирования в рамках пилотного проекта. Благодаря высокой активности, сильным экосистемным сигналам и готовности к production (недавние обновления, 10 k★, Python‑стек), проект подходит для серьёзного тестирования и последующего внедрения в продакшн‑среды.
 
 ### 中文
 
-linyqh/NarratoAI：linyqh/NarratoAI helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+linyqh/NarratoAI 通过一键调用 AI 大模型实现视频自动解说与剪辑，显著降低从零构建模型栈的门槛，快速为项目注入 AI 能力。它以 Python SDK/CLI/API 的形式暴露接口，开发者可直接在现有代码中集成或通过命令行快速原型验证。凭借近期活跃的更新、较高的 Star/Fork 数以及成熟的生态信号，该项目在 OSS 候选者中具备较高的生产可用性，适合用于原型开发、RAG/agent 工作流评估或小规模生产试点。
 
 ## 🧭 Practical evaluation
 
@@ -53,9 +53,9 @@ linyqh/NarratoAI：linyqh/NarratoAI helps add AI capability without starting fro
 
 **Quality signals**
 
-- 10106 GitHub stars
-- 1381 forks
-- updated 2026-07-02
+- 10077 GitHub stars
+- 1370 forks
+- updated 2026-06-30
 - primary language: Python
 - 6 topics
 
@@ -65,18 +65,18 @@ linyqh/NarratoAI：linyqh/NarratoAI helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 89/100 |
-| integration | 78/100 |
-| production | 84/100 |
-| outlook | 91/100 |
-| adoption | 83/100 |
+| forks | 78/100 |
 | stars | 85/100 |
-| forks | 79/100 |
-| recency | 100/100 |
 | topics | 75/100 |
+| outlook | 91/100 |
+| quality | 89/100 |
+| recency | 100/100 |
+| adoption | 83/100 |
+| production | 84/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/linyqh/NarratoAI) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/linyqh/NarratoAI) · [← Back to AI/ML](./README.md)</sub>

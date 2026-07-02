@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14900** |
+| 🗂️ **Total projects** | **14921** |
 | 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
@@ -18,28 +18,28 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4571 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2670 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1372 | [Browse →](./frontend/) |
+| 🤖 **AI/ML** | 4574 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2674 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1374 | [Browse →](./frontend/) |
 | 🧩 **Orchestration** | 1227 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 808 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 759 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 811 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 760 | [Browse →](./devtools/) |
 | ⚙️ **Backend** | 648 | [Browse →](./backend/) |
 | 🏷️ **Automation** | 531 | [Browse →](./automation/) |
 | ⛓️ **Crypto** | 505 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 327 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 328 | [Browse →](./knowledgerag/) |
 | 📊 **Data** | 314 | [Browse →](./data/) |
-| 🏷️ **Database** | 242 | [Browse →](./database/) |
+| 🏷️ **Database** | 245 | [Browse →](./database/) |
 | 💳 **Payments** | 202 | [Browse →](./payments/) |
 | 📱 **Mobile** | 177 | [Browse →](./mobile/) |
 | 📈 **Trading** | 175 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 108 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 109 | [Browse →](./devopsinfra/) |
 | 🔐 **Security** | 96 | [Browse →](./security/) |
 | 🏷️ **Observability** | 43 | [Browse →](./observability/) |
+| 🏷️ **Education** | 42 | [Browse →](./education/) |
 | ✨ **Design** | 41 | [Browse →](./design/) |
-| 🏷️ **Education** | 40 | [Browse →](./education/) |
 | 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
+| 🏷️ **Marketing** | 20 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 

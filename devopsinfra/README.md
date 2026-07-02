@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**108 projects** in this category.
+**109 projects** in this category.
 
 ## Projects
 
@@ -112,10 +112,11 @@
 | 102 | [Azure/terraform](./azure-terraform.md) | ⭐ 908 | HCL | 47/100 |
 | 103 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 47/100 |
 | 104 | [bytestrix/InfraCanvas](./bytestrix-infracanvas.md) | ⭐ — | — | 47/100 |
-| 105 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
-| 106 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
-| 107 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
-| 108 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
+| 105 | [Tight-Line/ballast](./tight-line-ballast.md) | ⭐ — | — | 44/100 |
+| 106 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ — | — | 44/100 |
+| 107 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ — | — | 44/100 |
+| 108 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ — | — | 44/100 |
+| 109 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 42/100 |
 
 ---
 

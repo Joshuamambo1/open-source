@@ -2,7 +2,7 @@
 
 > 
 
-**19 projects** in this category.
+**20 projects** in this category.
 
 ## Projects
 
@@ -20,13 +20,14 @@
 | 10 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 50/100 |
 | 11 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 50/100 |
 | 12 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 50/100 |
-| 13 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 49/100 |
-| 14 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 48/100 |
-| 15 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
-| 16 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
-| 17 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
-| 18 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
-| 19 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
+| 13 | [bluenote-1577/myloasm](./bluenote-1577-myloasm.md) | ⭐ 156 | Rust | 50/100 |
+| 14 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 49/100 |
+| 15 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 48/100 |
+| 16 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
+| 17 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
+| 18 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
+| 19 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
+| 20 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
 
 ---
 

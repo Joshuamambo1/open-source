@@ -117,8 +117,8 @@
 | 107 | [jeremylongshore/claude-code-plugins-plus-skills](./jeremylongshore-claude-code-plugins-plus-skills.md) | ⭐ 2.1k | Python | 81/100 |
 | 108 | [study8677/antigravity-workspace-template](./study8677-antigravity-workspace-template.md) | ⭐ 1.2k | Python | 81/100 |
 | 109 | [Budibase/budibase](./budibase-budibase.md) | ⭐ 27.9k | TypeScript | 80/100 |
-| 110 | [labring/FastGPT](./labring-fastgpt.md) | ⭐ 27.9k | TypeScript | 80/100 |
-| 111 | [HKUDS/DeepTutor](./hkuds-deeptutor.md) | ⭐ 23.6k | Python | 80/100 |
+| 110 | [HKUDS/DeepTutor](./hkuds-deeptutor.md) | ⭐ 23.6k | Python | 80/100 |
+| 111 | [labring/FastGPT](./labring-fastgpt.md) | ⭐ 27.9k | TypeScript | 80/100 |
 | 112 | [MemTensor/MemOS](./memtensor-memos.md) | ⭐ 8.9k | TypeScript | 80/100 |
 | 113 | [EvoMap/evolver](./evomap-evolver.md) | ⭐ 7.3k | JavaScript | 80/100 |
 | 114 | [hatchet-dev/hatchet](./hatchet-dev-hatchet.md) | ⭐ 7.1k | Go | 80/100 |
@@ -503,8 +503,8 @@
 | 493 | [genai-io/san](./genai-io-san.md) | ⭐ 63 | Go | 71/100 |
 | 494 | [Forward-Future/loop-library](./forward-future-loop-library.md) | ⭐ 1.1k | JavaScript | 71/100 |
 | 495 | [gossipcat-ai/gossipcat-ai](./gossipcat-ai-gossipcat-ai.md) | ⭐ 37 | TypeScript | 71/100 |
-| 496 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 71/100 |
-| 497 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 71/100 |
+| 496 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 71/100 |
+| 497 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 71/100 |
 | 498 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.2k | Java | 71/100 |
 | 499 | [postrv/forgemax](./postrv-forgemax.md) | ⭐ 148 | Rust | 71/100 |
 | 500 | [letta-ai/letta](./letta-ai-letta.md) | ⭐ 22.7k | Python | 71/100 |
@@ -840,8 +840,8 @@
 | 830 | [chaitanyagiri/munder-difflin](./chaitanyagiri-munder-difflin.md) | ⭐ 575 | TypeScript | 65/100 |
 | 831 | [martymcenroe/AssemblyZero](./martymcenroe-assemblyzero.md) | ⭐ 103 | Python | 65/100 |
 | 832 | [jal-co/shieldcn](./jal-co-shieldcn.md) | ⭐ 479 | TypeScript | 65/100 |
-| 833 | [emreturkmencom/antigravity-telegram-suite](./emreturkmencom-antigravity-telegram-suite.md) | ⭐ 116 | JavaScript | 65/100 |
-| 834 | [martimfasantos/ai-agents-frameworks](./martimfasantos-ai-agents-frameworks.md) | ⭐ 583 | Python | 65/100 |
+| 833 | [martimfasantos/ai-agents-frameworks](./martimfasantos-ai-agents-frameworks.md) | ⭐ 583 | Python | 65/100 |
+| 834 | [emreturkmencom/antigravity-telegram-suite](./emreturkmencom-antigravity-telegram-suite.md) | ⭐ 116 | JavaScript | 65/100 |
 | 835 | [vicentereig/dspy.rb](./vicentereig-dspy.rb.md) | ⭐ 228 | Ruby | 65/100 |
 | 836 | [voocel/agentcore](./voocel-agentcore.md) | ⭐ 43 | Go | 65/100 |
 | 837 | [dimensionalOS/dimos](./dimensionalos-dimos.md) | ⭐ 3.2k | Python | 65/100 |
@@ -1205,8 +1205,8 @@
 | 1195 | [ZhangHanDong/mempal](./zhanghandong-mempal.md) | ⭐ 142 | Rust | 47/100 |
 | 1196 | [matthart1983/netwatch](./matthart1983-netwatch.md) | ⭐ 1.7k | Rust | 46/100 |
 | 1197 | [ldclabs/anda-hippocampus](./ldclabs-anda-hippocampus.md) | ⭐ 50 | Rust | 46/100 |
-| 1198 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
-| 1199 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 1198 | [GoogleCloudPlatform/agent-starter-pack](./googlecloudplatform-agent-starter-pack.md) | ⭐ — | — | 46/100 |
+| 1199 | [GoogleCloudPlatform/devrel-demos](./googlecloudplatform-devrel-demos.md) | ⭐ — | — | 46/100 |
 | 1200 | [SkillsCat/skillscat](./skillscat-skillscat.md) | ⭐ 43 | TypeScript | 46/100 |
 | 1201 | [YPares/agent-skills](./ypares-agent-skills.md) | ⭐ 24 | Shell | 45/100 |
 | 1202 | [meltedinhex/analyst-ai-pack](./meltedinhex-analyst-ai-pack.md) | ⭐ — | — | 45/100 |

@@ -2,7 +2,7 @@
 
 > 
 
-**39 projects** in this category.
+**40 projects** in this category.
 
 ## Projects
 
@@ -47,6 +47,7 @@
 | 37 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
 | 38 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
 | 39 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 40 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 

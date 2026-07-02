@@ -53,7 +53,7 @@ airbytehq/airbyte：airbytehq/airbyte helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 21565 GitHub stars
+- 21566 GitHub stars
 - 5244 forks
 - updated 2026-07-02
 - primary language: Python

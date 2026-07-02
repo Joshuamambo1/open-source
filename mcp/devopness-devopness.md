@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/devopness/devopness?style=flat-square&color=yellow)](https://github.com/devopness/devopness/stargazers) [![Forks](https://img.shields.io/github/forks/devopness/devopness?style=flat-square&color=blue)](https://github.com/devopness/devopness/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
-> DevOps Happiness: 1-click or 1-prompt MCP. Deploy apps + infra + CI/CD on your cloud. Happy humans + reliable agents. 🚀
+> Devopness: AI DevOps on your cloud. Deploy apps, infra and CI/CD. Any cloud and any stack, one MCP. Deterministic API, opinionated and fully configurable. No cloud credentials in AI chats. Free plan.
 
 ## 📊 Stats
 
@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-`aws` `ci-cd` `cloud-infrastructure` `deployment` `deployment-automation` `devops` `devops-tools` `digitalocean` `google-cloud` `heroku-alternative` `hetzner` `mcp`
+`aws` `azure` `ci-cd` `cloud-infrastructure` `deployment` `deployment-automation` `devops` `devops-tools` `digitalocean` `google-cloud` `heroku-alternative` `hetzner`
 
 ## 🎯 Categories
 
-MCP · Automation · AI/ML · Backend · DevTools
+MCP · Automation · AI/ML · Backend · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ devopness/devopness: devopness/devopness helps connect AI assistants to real too
 
 ### Русский
 
-devopness/devopness: open-source проект в категориях MCP, Automation, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+devopness/devopness: open-source проект в категориях MCP, Automation, AI/ML, Backend, Database. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
@@ -57,7 +57,7 @@ devopness/devopness：devopness/devopness helps connect AI assistants to real to
 - 155 forks
 - updated 2026-07-02
 - primary language: Python
-- 19 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

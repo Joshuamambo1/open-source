@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14503** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4484 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2580 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1322 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1210 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 783 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 731 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 632 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 517 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 492 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 315 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 305 | [Browse →](./data/) |
-| 🏷️ **Database** | 225 | [Browse →](./database/) |
-| 💳 **Payments** | 201 | [Browse →](./payments/) |
-| 📱 **Mobile** | 175 | [Browse →](./mobile/) |
-| 📈 **Trading** | 169 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 105 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 95 | [Browse →](./security/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Observability** | 40 | [Browse →](./observability/) |
-| 🏷️ **Education** | 38 | [Browse →](./education/) |
-| 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 56 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 16 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 11 | [Browse →](./mcp/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 55.3k | Orchestration |
+| 2 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.8k | Mcp |
+| 3 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 9.7k | Mcp |
+| 4 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.3k | Orchestration |
+| 5 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.5k | Mcp |
+| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
+| 7 | [xerrors/Yuxi](./orchestration/xerrors-yuxi.md) | ⭐ 5.9k | Orchestration |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.4k | Orchestration |
+| 10 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.6k | Orchestration |
 
 ## 🚀 How it works
 

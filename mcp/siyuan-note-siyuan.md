@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ siyuan-note/siyuan：siyuan-note/siyuan helps connect AI assistants to real tool
 
 **Quality signals**
 
-- 44824 GitHub stars
-- 2851 forks
-- updated 2026-07-01
+- 44835 GitHub stars
+- 2855 forks
+- updated 2026-07-02
 - primary language: TypeScript
 - 18 topics
 
@@ -79,4 +79,4 @@ siyuan-note/siyuan：siyuan-note/siyuan helps connect AI assistants to real tool
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/siyuan-note/siyuan) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/siyuan-note/siyuan) · [← Back to Mcp](./README.md)</sub>

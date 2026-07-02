@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 3k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ heygen-com/hyperframes：heygen-com/hyperframes helps connect AI assistants to r
 
 **Quality signals**
 
-- 32552 GitHub stars
+- 32591 GitHub stars
 - 3031 forks
-- updated 2026-07-01
+- updated 2026-07-02
 - primary language: TypeScript
 - 11 topics
 
@@ -79,4 +79,4 @@ heygen-com/hyperframes：heygen-com/hyperframes helps connect AI assistants to r
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/heygen-com/hyperframes) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/heygen-com/hyperframes) · [← Back to Mcp](./README.md)</sub>

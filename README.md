@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14800** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **15** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,36 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4547 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2644 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1356 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1225 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 800 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 753 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 645 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 527 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 503 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 325 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 314 | [Browse →](./data/) |
-| 🏷️ **Database** | 239 | [Browse →](./database/) |
-| 💳 **Payments** | 202 | [Browse →](./payments/) |
-| 📱 **Mobile** | 176 | [Browse →](./mobile/) |
-| 📈 **Trading** | 174 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 108 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 96 | [Browse →](./security/) |
-| 🏷️ **Observability** | 42 | [Browse →](./observability/) |
-| ✨ **Design** | 40 | [Browse →](./design/) |
-| 🏷️ **Education** | 40 | [Browse →](./education/) |
-| 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 53 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 16 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 16 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 14 | [Browse →](./orchestration/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Automation** | 4 | [Browse →](./automation/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🔧 **DevTools** | 2 | [Browse →](./devtools/) |
+| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🏷️ **Knowledgerag** | 1 | [Browse →](./knowledgerag/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.9k | Mcp |
+| 2 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 10.2k | Mcp |
+| 3 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.8k | Mcp |
+| 4 | [microsoft/mcp-for-beginners](./orchestration/microsoft-mcp-for-beginners.md) | ⭐ 16.7k | Orchestration |
+| 5 | [IBM/mcp-context-forge](./mcp/ibm-mcp-context-forge.md) | ⭐ 4k | Mcp |
+| 6 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
+| 7 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 8 | [google/adk-python](./orchestration/google-adk-python.md) | ⭐ 20.4k | Orchestration |
+| 9 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 57.6k | Automation |
+| 10 | [ccxt/ccxt](./crypto/ccxt-ccxt.md) | ⭐ 43.2k | Crypto |
 
 ## 🚀 How it works
 

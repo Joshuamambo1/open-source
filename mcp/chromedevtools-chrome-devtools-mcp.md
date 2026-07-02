@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.9k |
+| ⭐ **Stars** | 45k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
@@ -53,8 +53,8 @@ ChromeDevTools/chrome-devtools-mcp：ChromeDevTools/chrome-devtools-mcp helps co
 
 **Quality signals**
 
-- 44909 GitHub stars
-- 2916 forks
+- 44961 GitHub stars
+- 2922 forks
 - updated 2026-07-02
 - primary language: TypeScript
 - 8 topics

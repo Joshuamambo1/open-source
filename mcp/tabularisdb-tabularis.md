@@ -2,7 +2,7 @@
 
 [![Stars](https://img.shields.io/github/stars/TabularisDB/tabularis?style=flat-square&color=yellow)](https://github.com/TabularisDB/tabularis/stargazers) [![Forks](https://img.shields.io/github/forks/TabularisDB/tabularis?style=flat-square&color=blue)](https://github.com/TabularisDB/tabularis/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
 
-> Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 12+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
+> Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 
 ## 📊 Stats
 
@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 222 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 **Quality signals**
 
-- 3488 GitHub stars
+- 3505 GitHub stars
 - 222 forks
-- updated 2026-07-01
+- updated 2026-07-02
 - primary language: TypeScript
 - 20 topics
 
@@ -79,4 +79,4 @@ TabularisDB/tabularis：TabularisDB/tabularis helps connect AI assistants to rea
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/TabularisDB/tabularis) · [← Back to Mcp](./README.md)</sub>

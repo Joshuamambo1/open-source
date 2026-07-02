@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 143.8k |
+| ⭐ **Stars** | 143.9k |
 | 🍴 **Forks** | 20.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 94/100 |
@@ -53,7 +53,7 @@ open-webui/open-webui：open-webui/open-webui helps connect AI assistants to rea
 
 **Quality signals**
 
-- 143844 GitHub stars
+- 143856 GitHub stars
 - 20770 forks
 - updated 2026-07-02
 - primary language: Python

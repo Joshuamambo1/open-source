@@ -53,8 +53,8 @@ mastra-ai/mastra：mastra-ai/mastra helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 25723 GitHub stars
-- 2341 forks
+- 25727 GitHub stars
+- 2342 forks
 - updated 2026-07-02
 - primary language: TypeScript
 - 13 topics

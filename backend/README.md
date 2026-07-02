@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**643 projects** in this category.
+**644 projects** in this category.
 
 ## Projects
 
@@ -111,8 +111,8 @@
 | 101 | [jellyfin/jellyfin](./jellyfin-jellyfin.md) | ⭐ 51.6k | C# | 73/100 |
 | 102 | [damienbod/AspNetCoreOpenIddict](./damienbod-aspnetcoreopeniddict.md) | ⭐ 389 | C# | 73/100 |
 | 103 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 73/100 |
-| 104 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
-| 105 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 104 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 73/100 |
+| 105 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 73/100 |
 | 106 | [lingrino/vaku](./lingrino-vaku.md) | ⭐ 159 | Go | 73/100 |
 | 107 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 73/100 |
 | 108 | [open-telemetry/opentelemetry-cpp](./open-telemetry-opentelemetry-cpp.md) | ⭐ 1.3k | C++ | 73/100 |
@@ -631,26 +631,27 @@
 | 621 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 310 | Dockerfile | 45/100 |
 | 622 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 44/100 |
 | 623 | [opensearch-project/security](./opensearch-project-security.md) | ⭐ 244 | Java | 44/100 |
-| 624 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ — | — | 44/100 |
-| 625 | [irfanhakim-as/homelab-wiki](./irfanhakim-as-homelab-wiki.md) | ⭐ — | — | 44/100 |
-| 626 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
-| 627 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
-| 628 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 41/100 |
-| 629 | [viktor-silakov/cmux-ssh-here](./viktor-silakov-cmux-ssh-here.md) | ⭐ — | — | 41/100 |
-| 630 | [smarzola/cachebox](./smarzola-cachebox.md) | ⭐ — | — | 41/100 |
-| 631 | [vshakitskiy/armadillo](./vshakitskiy-armadillo.md) | ⭐ — | — | 41/100 |
-| 632 | [cr0hn/slowjson](./cr0hn-slowjson.md) | ⭐ — | — | 41/100 |
-| 633 | [smarzola/ldaplite](./smarzola-ldaplite.md) | ⭐ — | — | 41/100 |
-| 634 | [tsirysndr/smolsonic](./tsirysndr-smolsonic.md) | ⭐ — | — | 41/100 |
-| 635 | [2b2tplace/1m_release](./2b2tplace-1m-release.md) | ⭐ — | — | 41/100 |
-| 636 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
-| 637 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
-| 638 | [orgs/community](./orgs-community.md) | ⭐ — | — | 40/100 |
-| 639 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 39/100 |
-| 640 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
-| 641 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 31/100 |
-| 642 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 31/100 |
-| 643 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 31/100 |
+| 624 | [lklynet/hypermind-swarm](./lklynet-hypermind-swarm.md) | ⭐ — | — | 44/100 |
+| 625 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ — | — | 44/100 |
+| 626 | [irfanhakim-as/homelab-wiki](./irfanhakim-as-homelab-wiki.md) | ⭐ — | — | 44/100 |
+| 627 | [CDrummond/lms-material](./cdrummond-lms-material.md) | ⭐ 399 | JavaScript | 44/100 |
+| 628 | [mempool/electrs](./mempool-electrs.md) | ⭐ 146 | Rust | 42/100 |
+| 629 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 41/100 |
+| 630 | [viktor-silakov/cmux-ssh-here](./viktor-silakov-cmux-ssh-here.md) | ⭐ — | — | 41/100 |
+| 631 | [smarzola/cachebox](./smarzola-cachebox.md) | ⭐ — | — | 41/100 |
+| 632 | [vshakitskiy/armadillo](./vshakitskiy-armadillo.md) | ⭐ — | — | 41/100 |
+| 633 | [cr0hn/slowjson](./cr0hn-slowjson.md) | ⭐ — | — | 41/100 |
+| 634 | [smarzola/ldaplite](./smarzola-ldaplite.md) | ⭐ — | — | 41/100 |
+| 635 | [tsirysndr/smolsonic](./tsirysndr-smolsonic.md) | ⭐ — | — | 41/100 |
+| 636 | [2b2tplace/1m_release](./2b2tplace-1m-release.md) | ⭐ — | — | 41/100 |
+| 637 | [lucianofedericopereira/linknim](./lucianofedericopereira-linknim.md) | ⭐ — | — | 41/100 |
+| 638 | [iliaal/fastchart](./iliaal-fastchart.md) | ⭐ — | — | 41/100 |
+| 639 | [orgs/community](./orgs-community.md) | ⭐ — | — | 40/100 |
+| 640 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 39/100 |
+| 641 | [Devendra116/hum](./devendra116-hum.md) | ⭐ — | — | 39/100 |
+| 642 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 31/100 |
+| 643 | [seregonwar/DiscordServerCloner](./seregonwar-discordservercloner.md) | ⭐ — | — | 31/100 |
+| 644 | [NVlabs/cuda-oxide](./nvlabs-cuda-oxide.md) | ⭐ — | — | 31/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > 
 
-**230 projects** in this category.
+**231 projects** in this category.
 
 ## Projects
 
@@ -50,8 +50,8 @@
 | 40 | [getfider/fider](./getfider-fider.md) | ⭐ 4.4k | Go | 65/100 |
 | 41 | [TabooLib/taboolib](./taboolib-taboolib.md) | ⭐ 383 | Kotlin | 65/100 |
 | 42 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 65/100 |
-| 43 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
-| 44 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 43 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 65/100 |
+| 44 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 65/100 |
 | 45 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 324 | Go | 64/100 |
 | 46 | [C5H12O5/TextGO](./c5h12o5-textgo.md) | ⭐ 311 | Svelte | 64/100 |
 | 47 | [naomiaro/waveform-playlist](./naomiaro-waveform-playlist.md) | ⭐ 1.7k | TypeScript | 64/100 |
@@ -195,49 +195,50 @@
 | 185 | [denzyldick/phanalist](./denzyldick-phanalist.md) | ⭐ 159 | Rust | 53/100 |
 | 186 | [maplibre/maplibre-tile-spec](./maplibre-maplibre-tile-spec.md) | ⭐ 528 | Rust | 53/100 |
 | 187 | [topiary/topiary](./topiary-topiary.md) | ⭐ 836 | Rust | 53/100 |
-| 188 | [todotxt-rs/effitask](./todotxt-rs-effitask.md) | ⭐ 237 | Rust | 52/100 |
-| 189 | [puffyCid/artemis](./puffycid-artemis.md) | ⭐ 113 | Rust | 52/100 |
-| 190 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
-| 191 | [ret2shell/ret2shell](./ret2shell-ret2shell.md) | ⭐ 197 | Rust | 51/100 |
-| 192 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
-| 193 | [Gelbpunkt/tokio-websockets](./gelbpunkt-tokio-websockets.md) | ⭐ 150 | Rust | 50/100 |
-| 194 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
-| 195 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
-| 196 | [pglayers/pglayers](./pglayers-pglayers.md) | ⭐ — | — | 44/100 |
-| 197 | [gkavinrajanCodes/pulseDB](./gkavinrajancodes-pulsedb.md) | ⭐ — | — | 44/100 |
-| 198 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
-| 199 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
-| 200 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
-| 201 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 202 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
-| 203 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
-| 204 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 205 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 41/100 |
-| 206 | [CoderScreen/coderscreen](./coderscreen-coderscreen.md) | ⭐ — | — | 41/100 |
-| 207 | [thedevilhimselfcodes/CertAlloc](./thedevilhimselfcodes-certalloc.md) | ⭐ — | — | 41/100 |
-| 208 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 41/100 |
-| 209 | [cloudcell/om-core](./cloudcell-om-core.md) | ⭐ — | — | 41/100 |
-| 210 | [henryrobbins/open-atp](./henryrobbins-open-atp.md) | ⭐ — | — | 41/100 |
-| 211 | [leandromoreira/linux-network-performance-parameters](./leandromoreira-linux-network-performance-parameters.md) | ⭐ — | — | 41/100 |
-| 212 | [raphaelrrcoelho/formal-mathfin](./raphaelrrcoelho-formal-mathfin.md) | ⭐ — | — | 41/100 |
-| 213 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
-| 214 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
-| 215 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
-| 216 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |
-| 217 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 41/100 |
-| 218 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 41/100 |
-| 219 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
-| 220 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
-| 221 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
-| 222 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
-| 223 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
-| 224 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
-| 225 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
-| 226 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
-| 227 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
-| 228 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
-| 229 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
-| 230 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
+| 188 | [El-EnderJ/NeoCalculator](./el-enderj-neocalculator.md) | ⭐ 321 | C++ | 52/100 |
+| 189 | [todotxt-rs/effitask](./todotxt-rs-effitask.md) | ⭐ 237 | Rust | 52/100 |
+| 190 | [puffyCid/artemis](./puffycid-artemis.md) | ⭐ 113 | Rust | 52/100 |
+| 191 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 52/100 |
+| 192 | [ret2shell/ret2shell](./ret2shell-ret2shell.md) | ⭐ 197 | Rust | 51/100 |
+| 193 | [INCY-DEV/incy-platforms](./incy-dev-incy-platforms.md) | ⭐ 309 | — | 51/100 |
+| 194 | [Gelbpunkt/tokio-websockets](./gelbpunkt-tokio-websockets.md) | ⭐ 150 | Rust | 50/100 |
+| 195 | [olivierlambert/calrs](./olivierlambert-calrs.md) | ⭐ 146 | Rust | 50/100 |
+| 196 | [duckflixapp/duckflix](./duckflixapp-duckflix.md) | ⭐ — | — | 45/100 |
+| 197 | [pglayers/pglayers](./pglayers-pglayers.md) | ⭐ — | — | 44/100 |
+| 198 | [gkavinrajanCodes/pulseDB](./gkavinrajancodes-pulsedb.md) | ⭐ — | — | 44/100 |
+| 199 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 44/100 |
+| 200 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
+| 201 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
+| 202 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
+| 203 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 204 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
+| 205 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
+| 206 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 41/100 |
+| 207 | [CoderScreen/coderscreen](./coderscreen-coderscreen.md) | ⭐ — | — | 41/100 |
+| 208 | [thedevilhimselfcodes/CertAlloc](./thedevilhimselfcodes-certalloc.md) | ⭐ — | — | 41/100 |
+| 209 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 41/100 |
+| 210 | [cloudcell/om-core](./cloudcell-om-core.md) | ⭐ — | — | 41/100 |
+| 211 | [henryrobbins/open-atp](./henryrobbins-open-atp.md) | ⭐ — | — | 41/100 |
+| 212 | [leandromoreira/linux-network-performance-parameters](./leandromoreira-linux-network-performance-parameters.md) | ⭐ — | — | 41/100 |
+| 213 | [raphaelrrcoelho/formal-mathfin](./raphaelrrcoelho-formal-mathfin.md) | ⭐ — | — | 41/100 |
+| 214 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 41/100 |
+| 215 | [isaacgerg/remus-rlf-reader](./isaacgerg-remus-rlf-reader.md) | ⭐ — | — | 41/100 |
+| 216 | [qataruts/monlite](./qataruts-monlite.md) | ⭐ — | — | 41/100 |
+| 217 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 41/100 |
+| 218 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 41/100 |
+| 219 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 41/100 |
+| 220 | [ransomleak/training-security-awareness](./ransomleak-training-security-awareness.md) | ⭐ — | — | 41/100 |
+| 221 | [bollu/fpsan-verification](./bollu-fpsan-verification.md) | ⭐ — | — | 41/100 |
+| 222 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ — | — | 41/100 |
+| 223 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 41/100 |
+| 224 | [Ahmad10611/openwrt-performance-optimizer](./ahmad10611-openwrt-performance-optimizer.md) | ⭐ — | — | 41/100 |
+| 225 | [unidoc/isms](./unidoc-isms.md) | ⭐ — | — | 41/100 |
+| 226 | [dagrigorev/gw-basic-cpp](./dagrigorev-gw-basic-cpp.md) | ⭐ — | — | 41/100 |
+| 227 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 41/100 |
+| 228 | [lateos-ai/npm-scan](./lateos-ai-npm-scan.md) | ⭐ — | — | 41/100 |
+| 229 | [skuznetsov/pg_sorted_heap](./skuznetsov-pg-sorted-heap.md) | ⭐ — | — | 41/100 |
+| 230 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ — | — | 41/100 |
+| 231 | [justjake/sqlite3-parser-js](./justjake-sqlite3-parser-js.md) | ⭐ — | — | 41/100 |
 
 ---
 

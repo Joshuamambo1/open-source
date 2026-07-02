@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**170 projects** in this category.
+**171 projects** in this category.
 
 ## Projects
 
@@ -25,8 +25,8 @@
 | 15 | [YoungCan-Wang/WyckoffTradingAgent](./youngcan-wang-wyckofftradingagent.md) | ⭐ 392 | Python | 75/100 |
 | 16 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 623 | PowerShell | 74/100 |
 | 17 | [xbbg-org/xbbg](./xbbg-org-xbbg.md) | ⭐ 834 | Rust | 74/100 |
-| 18 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
-| 19 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 18 | [gnzsnz/ib-gateway-docker](./gnzsnz-ib-gateway-docker.md) | ⭐ 1.1k | Shell | 74/100 |
+| 19 | [Superior-Trade/superior-skills](./superior-trade-superior-skills.md) | ⭐ 216 | — | 74/100 |
 | 20 | [TradingGoose/TradingGoose-Studio](./tradinggoose-tradinggoose-studio.md) | ⭐ 105 | TypeScript | 74/100 |
 | 21 | [fasiondog/hikyuu](./fasiondog-hikyuu.md) | ⭐ 3.3k | C++ | 74/100 |
 | 22 | [HKUDS/Vibe-Trading](./hkuds-vibe-trading.md) | ⭐ 5.6k | Python | 73/100 |
@@ -159,25 +159,26 @@
 | 149 | [freqtrade/frequi](./freqtrade-frequi.md) | ⭐ 978 | Vue | 50/100 |
 | 150 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 50/100 |
 | 151 | [jjang-ai/jangq](./jjang-ai-jangq.md) | ⭐ 149 | Python | 50/100 |
-| 152 | [Geon97/QuantumTV](./geon97-quantumtv.md) | ⭐ 125 | Rust | 50/100 |
-| 153 | [Julian-dev28/hermes-trader](./julian-dev28-hermes-trader.md) | ⭐ — | — | 50/100 |
-| 154 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 50/100 |
-| 155 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
-| 156 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 50/100 |
-| 157 | [cp2k/cp2k](./cp2k-cp2k.md) | ⭐ 1.1k | Fortran | 49/100 |
-| 158 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 49/100 |
-| 159 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 48/100 |
-| 160 | [deezertidal/QuantumultX-Rewrite](./deezertidal-quantumultx-rewrite.md) | ⭐ 3.2k | JavaScript | 47/100 |
-| 161 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 46/100 |
-| 162 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 46/100 |
-| 163 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
-| 164 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 43/100 |
-| 165 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
-| 166 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
-| 167 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
-| 168 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
-| 169 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
-| 170 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
+| 152 | [open-data-fabric/open-data-fabric](./open-data-fabric-open-data-fabric.md) | ⭐ 144 | Rust | 50/100 |
+| 153 | [Geon97/QuantumTV](./geon97-quantumtv.md) | ⭐ 125 | Rust | 50/100 |
+| 154 | [Julian-dev28/hermes-trader](./julian-dev28-hermes-trader.md) | ⭐ — | — | 50/100 |
+| 155 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 50/100 |
+| 156 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 50/100 |
+| 157 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 50/100 |
+| 158 | [cp2k/cp2k](./cp2k-cp2k.md) | ⭐ 1.1k | Fortran | 49/100 |
+| 159 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 49/100 |
+| 160 | [Kaden-Schutt/hipfire](./kaden-schutt-hipfire.md) | ⭐ 351 | Rust | 48/100 |
+| 161 | [deezertidal/QuantumultX-Rewrite](./deezertidal-quantumultx-rewrite.md) | ⭐ 3.2k | JavaScript | 47/100 |
+| 162 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 46/100 |
+| 163 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 46/100 |
+| 164 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 45/100 |
+| 165 | [quantiota/Raspberry-Pi-AI-Agent-Host](./quantiota-raspberry-pi-ai-agent-host.md) | ⭐ 32 | Python | 43/100 |
+| 166 | [alavicka/pollux](./alavicka-pollux.md) | ⭐ — | — | 41/100 |
+| 167 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 41/100 |
+| 168 | [ynnk-research/A-Lorentzian-CSS-Duality-in-Causal-Diamond-Quantum-Error-Correcting-Codes](./ynnk-research-a-lorentzian-css-duality-in-causal-diamond-quantum-error-correcting-codes.md) | ⭐ — | — | 41/100 |
+| 169 | [pgvector/pgvector](./pgvector-pgvector.md) | ⭐ — | — | 41/100 |
+| 170 | [deepsweet/mlx-eval](./deepsweet-mlx-eval.md) | ⭐ — | — | 41/100 |
+| 171 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 31/100 |
 
 ---
 

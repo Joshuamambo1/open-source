@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 817 |
-| 🍴 **Forks** | 138 |
+| ⭐ **Stars** | 843 |
+| 🍴 **Forks** | 139 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to
 
 **Quality signals**
 
-- 817 GitHub stars
-- 138 forks
-- updated 2026-06-29
+- 843 GitHub stars
+- 139 forks
+- updated 2026-07-02
 - primary language: Python
 - 10 topics
 
@@ -79,4 +79,4 @@ cuga-project/cuga-agent：cuga-project/cuga-agent helps connect AI assistants to
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/cuga-project/cuga-agent) · [← Back to Mcp](./README.md)</sub>

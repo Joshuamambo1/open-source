@@ -53,7 +53,7 @@ chrisryugj/korean-law-mcp：chrisryugj/korean-law-mcp helps connect AI assistant
 
 **Quality signals**
 
-- 2102 GitHub stars
+- 2103 GitHub stars
 - 399 forks
 - updated 2026-07-02
 - primary language: TypeScript

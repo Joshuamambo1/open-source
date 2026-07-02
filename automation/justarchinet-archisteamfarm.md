@@ -53,8 +53,8 @@ JustArchiNET/ArchiSteamFarm：JustArchiNET/ArchiSteamFarm helps remove repetitiv
 
 **Quality signals**
 
-- 13458 GitHub stars
-- 1104 forks
+- 13477 GitHub stars
+- 1105 forks
 - updated 2026-07-02
 - primary language: C#
 - 20 topics

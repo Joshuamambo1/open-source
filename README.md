@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **160** |
-| 📁 **Categories** | **15** |
+| 🗂️ **Total projects** | **14871** |
+| 📁 **Categories** | **22** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,36 +18,43 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
-| 📦 **Misc** | 23 | [Browse →](./misc/) |
-| 🏷️ **Mcp** | 18 | [Browse →](./mcp/) |
-| 🎨 **Frontend** | 17 | [Browse →](./frontend/) |
-| ⚙️ **Backend** | 10 | [Browse →](./backend/) |
-| 🧩 **Orchestration** | 10 | [Browse →](./orchestration/) |
-| 📊 **Data** | 9 | [Browse →](./data/) |
-| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
-| 🏷️ **Automation** | 3 | [Browse →](./automation/) |
-| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
-| ⛓️ **Crypto** | 2 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 2 | [Browse →](./knowledgerag/) |
-| 🔐 **Security** | 1 | [Browse →](./security/) |
-| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
-| ✨ **Design** | 1 | [Browse →](./design/) |
+| 🤖 **AI/ML** | 4569 | [Browse →](./aiml/) |
+| 📦 **Misc** | 2658 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 1367 | [Browse →](./frontend/) |
+| 🧩 **Orchestration** | 1227 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 807 | [Browse →](./mcp/) |
+| 🔧 **DevTools** | 755 | [Browse →](./devtools/) |
+| ⚙️ **Backend** | 648 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 530 | [Browse →](./automation/) |
+| ⛓️ **Crypto** | 504 | [Browse →](./crypto/) |
+| 🏷️ **Knowledgerag** | 326 | [Browse →](./knowledgerag/) |
+| 📊 **Data** | 314 | [Browse →](./data/) |
+| 🏷️ **Database** | 242 | [Browse →](./database/) |
+| 💳 **Payments** | 202 | [Browse →](./payments/) |
+| 📱 **Mobile** | 176 | [Browse →](./mobile/) |
+| 📈 **Trading** | 175 | [Browse →](./trading/) |
+| 🚀 **DevOps & Infra** | 108 | [Browse →](./devopsinfra/) |
+| 🔐 **Security** | 96 | [Browse →](./security/) |
+| 🏷️ **Observability** | 43 | [Browse →](./observability/) |
+| ✨ **Design** | 40 | [Browse →](./design/) |
+| 🏷️ **Education** | 40 | [Browse →](./education/) |
+| 🎯 **Product** | 25 | [Browse →](./product/) |
+| 🏷️ **Marketing** | 19 | [Browse →](./marketing/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 194.9k | Mcp |
-| 2 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.6k | Mcp |
-| 3 | [open-webui/open-webui](./mcp/open-webui-open-webui.md) | ⭐ 143.9k | Mcp |
-| 4 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.7k | Mcp |
-| 5 | [strands-agents/harness-sdk](./orchestration/strands-agents-harness-sdk.md) | ⭐ 6.4k | Orchestration |
-| 6 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
-| 7 | [mock-server/mockserver-monorepo](./mcp/mock-server-mockserver-monorepo.md) | ⭐ 4.9k | Mcp |
-| 8 | [santifer/career-ops](./automation/santifer-career-ops.md) | ⭐ 57.7k | Automation |
-| 9 | [superset-sh/superset](./orchestration/superset-sh-superset.md) | ⭐ 12.2k | Orchestration |
-| 10 | [apache/camel](./mcp/apache-camel.md) | ⭐ 6.3k | Mcp |
+| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
+| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
+| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
+| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
 
 ## 🚀 How it works
 

@@ -218,8 +218,8 @@
 | 208 | [chitchcock/1281611](./chitchcock-1281611.md) | ⭐ — | — | 44/100 |
 | 209 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ — | — | 44/100 |
 | 210 | [janbjorge/pgqueuer](./janbjorge-pgqueuer.md) | ⭐ — | — | 44/100 |
-| 211 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
-| 212 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 211 | [DZakh/sury](./dzakh-sury.md) | ⭐ — | — | 42/100 |
+| 212 | [TypeStrong/ts-expect](./typestrong-ts-expect.md) | ⭐ — | — | 42/100 |
 | 213 | [arktypeio/arktype](./arktypeio-arktype.md) | ⭐ — | — | 42/100 |
 | 214 | [Blackcat-Informatics/purrdf](./blackcat-informatics-purrdf.md) | ⭐ — | — | 41/100 |
 | 215 | [Agrineuro/sentinel](./agrineuro-sentinel.md) | ⭐ — | — | 41/100 |

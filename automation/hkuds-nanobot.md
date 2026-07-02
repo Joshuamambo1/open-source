@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 44.9k |
+| ⭐ **Stars** | 45k |
 | 🍴 **Forks** | 7.9k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 90/100 |
@@ -53,8 +53,8 @@ HKUDS/nanobot：HKUDS/nanobot helps remove repetitive manual operations from a w
 
 **Quality signals**
 
-- 44946 GitHub stars
-- 7925 forks
+- 44954 GitHub stars
+- 7927 forks
 - updated 2026-07-02
 - primary language: Python
 - 13 topics

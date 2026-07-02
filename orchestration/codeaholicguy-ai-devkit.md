@@ -1,41 +1,41 @@
 # codeaholicguy/ai-devkit
 
-[![Stars](https://img.shields.io/github/stars/codeaholicguy/ai-devkit?style=flat-square&color=yellow)](https://github.com/codeaholicguy/ai-devkit/stargazers) [![Forks](https://img.shields.io/github/forks/codeaholicguy/ai-devkit?style=flat-square&color=blue)](https://github.com/codeaholicguy/ai-devkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codeaholicguy/ai-devkit?style=flat-square&color=yellow)](https://github.com/codeaholicguy/ai-devkit/stargazers) [![Forks](https://img.shields.io/github/forks/codeaholicguy/ai-devkit?style=flat-square&color=blue)](https://github.com/codeaholicguy/ai-devkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
-> A universal CLI toolkit for AI agent skills, enabling structured AI-assisted development across tools like Cursor, Claude Code, Codex, and more.
+> The control plane for AI coding agents.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 192 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 239 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 71/100 |
-| 🗓️ **Last push** | 2026-05-09 |
+| 📈 **Score** | 86/100 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
 
-`agent-skills` `ai` `ai-assisted-development` `antigravity` `claude-code` `codex` `cursor` `development` `engineering` `engineering-enablement` `engineering-experience` `prd`
+`agent-framework` `agent-skills` `ai` `ai-agents` `ai-coding` `antigravity` `claude-code` `cli` `codex-cli` `coding-agents` `cursor-ai` `developer-tools`
 
 ## 🎯 Categories
 
-Orchestration · AI/ML · DevTools
+Orchestration · MCP · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-codeaholicguy/ai-devkit is a universal command‑line toolkit that lets developers plug in AI‑agent “skills” to automate and enhance coding workflows. It provides a unified, extensible interface for interacting with various AI coding assistants—such as Cursor, Claude Code, Codex, and others—enabling structured, repeatable AI‑assisted development across different tools. The project falls under orchestration, AI/ML, and developer tools categories.
+codeaholicguy/ai-devkit: codeaholicguy/ai-devkit helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-Кодахоликгай/ai-devkit — это универсальный набор командной строки для создания и управления навыками AI‑агентов, который упрощает структурированную разработку с поддержкой популярных инструментов (Cursor, Claude Code, Codex и др.). Он объединяет оркестрацию, машинное обучение и инструменты для разработчиков, позволяя быстро интегрировать и масштабировать AI‑функциональность в любых проектах.
+codeaholicguy/ai-devkit: open-source проект в категориях Orchestration, MCP, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-codeaholicguy/ai-devkit：codeaholicguy/ai-devkit helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+codeaholicguy/ai-devkit：codeaholicguy/ai-devkit helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,15 +49,15 @@ codeaholicguy/ai-devkit：codeaholicguy/ai-devkit helps turn isolated prompts an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
-- 1186 GitHub stars
-- 192 forks
-- updated 2026-05-09
+- 1539 GitHub stars
+- 239 forks
+- updated 2026-07-02
 - primary language: TypeScript
-- 12 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,18 +65,18 @@ codeaholicguy/ai-devkit：codeaholicguy/ai-devkit helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 68/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 68/100 |
-| adoption | 63/100 |
-| stars | 65/100 |
-| forks | 57/100 |
-| recency | 40/100 |
+| usefulness | 100/100 |
+| quality | 84/100 |
+| integration | 78/100 |
+| production | 83/100 |
+| outlook | 91/100 |
+| adoption | 66/100 |
+| stars | 68/100 |
+| forks | 60/100 |
+| recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-09 · [View on GitHub](https://github.com/codeaholicguy/ai-devkit) · [← Back to Orchestration](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/codeaholicguy/ai-devkit) · [← Back to Orchestration](./README.md)</sub>

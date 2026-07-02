@@ -9,10 +9,10 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 685 |
+| 🍴 **Forks** | 684 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 89/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -54,8 +54,8 @@ YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflo
 **Quality signals**
 
 - 7545 GitHub stars
-- 685 forks
-- updated 2026-07-01
+- 684 forks
+- updated 2026-07-02
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ YaoApp/yao：YaoApp/yao helps remove repetitive manual operations from a workflo
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/YaoApp/yao) · [← Back to Automation](./README.md)</sub>

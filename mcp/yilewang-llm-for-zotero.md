@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 109 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-01 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ yilewang/llm-for-zotero：yilewang/llm-for-zotero helps connect AI assistants to
 
 **Quality signals**
 
-- 2131 GitHub stars
+- 2136 GitHub stars
 - 109 forks
-- updated 2026-07-01
+- updated 2026-07-02
 - primary language: TypeScript
 - 9 topics
 
@@ -68,7 +68,7 @@ yilewang/llm-for-zotero：yilewang/llm-for-zotero helps connect AI assistants to
 | usefulness | 100/100 |
 | quality | 84/100 |
 | integration | 78/100 |
-| production | 82/100 |
+| production | 83/100 |
 | outlook | 91/100 |
 | adoption | 65/100 |
 | stars | 71/100 |
@@ -79,4 +79,4 @@ yilewang/llm-for-zotero：yilewang/llm-for-zotero helps connect AI assistants to
 
 ---
 
-<sub>🔭 Discovered 2026-07-01 · [View on GitHub](https://github.com/yilewang/llm-for-zotero) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/yilewang/llm-for-zotero) · [← Back to Mcp](./README.md)</sub>

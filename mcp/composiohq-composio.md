@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29k |
+| ⭐ **Stars** | 29.1k |
 | 🍴 **Forks** | 4.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | 2026-06-30 |
+| 🗓️ **Last push** | 2026-07-02 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ ComposioHQ/composio：ComposioHQ/composio helps connect AI assistants to real to
 
 **Quality signals**
 
-- 29028 GitHub stars
-- 4637 forks
-- updated 2026-06-30
+- 29056 GitHub stars
+- 4638 forks
+- updated 2026-07-02
 - primary language: TypeScript
 - 17 topics
 
@@ -79,4 +79,4 @@ ComposioHQ/composio：ComposioHQ/composio helps connect AI assistants to real to
 
 ---
 
-<sub>🔭 Discovered 2026-06-30 · [View on GitHub](https://github.com/ComposioHQ/composio) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/ComposioHQ/composio) · [← Back to Mcp](./README.md)</sub>

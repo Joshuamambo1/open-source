@@ -53,7 +53,7 @@ IBM/mcp-context-forge：IBM/mcp-context-forge helps connect AI assistants to rea
 
 **Quality signals**
 
-- 3999 GitHub stars
+- 4009 GitHub stars
 - 735 forks
 - updated 2026-07-03
 - primary language: Python

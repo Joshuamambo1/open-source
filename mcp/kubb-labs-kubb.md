@@ -8,11 +8,11 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 143 |
+| ⭐ **Stars** | 1.8k |
+| 🍴 **Forks** | 146 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 87/100 |
-| 🗓️ **Last push** | 2026-06-29 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ kubb-labs/kubb：kubb-labs/kubb helps connect AI assistants to real tools and da
 
 **Quality signals**
 
-- 1748 GitHub stars
-- 143 forks
-- updated 2026-06-29
+- 1750 GitHub stars
+- 146 forks
+- updated 2026-07-03
 - primary language: TypeScript
 - 19 topics
 
@@ -79,4 +79,4 @@ kubb-labs/kubb：kubb-labs/kubb helps connect AI assistants to real tools and da
 
 ---
 
-<sub>🔭 Discovered 2026-06-29 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/kubb-labs/kubb) · [← Back to Mcp](./README.md)</sub>

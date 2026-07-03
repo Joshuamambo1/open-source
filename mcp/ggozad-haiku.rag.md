@@ -1,6 +1,6 @@
 # ggozad/haiku.rag
 
-[![Stars](https://img.shields.io/github/stars/ggozad/haiku.rag?style=flat-square&color=yellow)](https://github.com/ggozad/haiku.rag/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/haiku.rag?style=flat-square&color=blue)](https://github.com/ggozad/haiku.rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-87%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggozad/haiku.rag?style=flat-square&color=yellow)](https://github.com/ggozad/haiku.rag/stargazers) [![Forks](https://img.shields.io/github/forks/ggozad/haiku.rag?style=flat-square&color=blue)](https://github.com/ggozad/haiku.rag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-86%2F100-brightgreen?style=flat-square)](#)
 
 > Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 541 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 542 |
+| 🍴 **Forks** | 34 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 87/100 |
+| 📈 **Score** | 86/100 |
 | 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
@@ -53,8 +53,8 @@ ggozad/haiku.rag：ggozad/haiku.rag helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 541 GitHub stars
-- 35 forks
+- 542 GitHub stars
+- 34 forks
 - updated 2026-07-03
 - primary language: Python
 - 8 topics

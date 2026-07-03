@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 2.8k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 86/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -53,9 +53,9 @@ nrwl/nx：nrwl/nx helps remove repetitive manual operations from a workflow.。�
 
 **Quality signals**
 
-- 29027 GitHub stars
-- 2754 forks
-- updated 2026-07-02
+- 29033 GitHub stars
+- 2755 forks
+- updated 2026-07-03
 - primary language: TypeScript
 - 17 topics
 
@@ -79,4 +79,4 @@ nrwl/nx：nrwl/nx helps remove repetitive manual operations from a workflow.。�
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/nrwl/nx) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/nrwl/nx) · [← Back to Automation](./README.md)</sub>

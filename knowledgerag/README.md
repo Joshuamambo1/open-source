@@ -325,8 +325,8 @@
 | 315 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 46/100 |
 | 316 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 45/100 |
 | 317 | [busabase/busabase](./busabase-busabase.md) | ⭐ — | — | 45/100 |
-| 318 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
-| 319 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 318 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ — | — | 45/100 |
+| 319 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ — | — | 45/100 |
 | 320 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 45/100 |
 | 321 | [v12-security/pocs](./v12-security-pocs.md) | ⭐ — | — | 45/100 |
 | 322 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 45/100 |

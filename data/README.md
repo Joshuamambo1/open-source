@@ -184,8 +184,8 @@
 | 174 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.5k | Rust | 55/100 |
 | 175 | [apache/datafusion-ballista](./apache-datafusion-ballista.md) | ⭐ 2k | Rust | 55/100 |
 | 176 | [OSGeo/grass](./osgeo-grass.md) | ⭐ 1.1k | C | 55/100 |
-| 177 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
-| 178 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 177 | [DataTables/DataTablesSrc](./datatables-datatablessrc.md) | ⭐ 788 | JavaScript | 55/100 |
+| 178 | [Growstuff/growstuff](./growstuff-growstuff.md) | ⭐ 473 | Ruby | 55/100 |
 | 179 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 55/100 |
 | 180 | [paulstothard/helpful_commands](./paulstothard-helpful-commands.md) | ⭐ 48 | — | 55/100 |
 | 181 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 55/100 |

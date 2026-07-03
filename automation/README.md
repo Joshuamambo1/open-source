@@ -330,8 +330,8 @@
 | 320 | [MasterGroosha/aiogram-3-guide](./mastergroosha-aiogram-3-guide.md) | ⭐ 1.1k | Python | 67/100 |
 | 321 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 66/100 |
 | 322 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 66/100 |
-| 323 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
-| 324 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 323 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 66/100 |
+| 324 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 66/100 |
 | 325 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 66/100 |
 | 326 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 66/100 |
 | 327 | [BulloRosso/etienne](./bullorosso-etienne.md) | ⭐ 32 | TypeScript | 66/100 |

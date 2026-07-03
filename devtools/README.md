@@ -157,8 +157,8 @@
 | 147 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 69/100 |
 | 148 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 69/100 |
 | 149 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 69/100 |
-| 150 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
-| 151 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 150 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 69/100 |
+| 151 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 69/100 |
 | 152 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 69/100 |
 | 153 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 69/100 |
 | 154 | [uralys/fox](./uralys-fox.md) | ⭐ 173 | GDScript | 69/100 |
@@ -186,8 +186,8 @@
 | 176 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 177 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 178 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 179 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
-| 180 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 179 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
+| 180 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
 | 181 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 182 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 183 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -553,8 +553,8 @@
 | 543 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 58/100 |
 | 544 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 149 | Shell | 58/100 |
 | 545 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 546 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
-| 547 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 546 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
+| 547 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
 | 548 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 549 | [codemod/codemod](./codemod-codemod.md) | ⭐ 993 | Rust | 58/100 |
 | 550 | [d-kimuson/claude-code-viewer](./d-kimuson-claude-code-viewer.md) | ⭐ 1.2k | TypeScript | 58/100 |

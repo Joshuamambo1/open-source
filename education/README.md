@@ -2,7 +2,7 @@
 
 > 
 
-**43 projects** in this category.
+**44 projects** in this category.
 
 ## Projects
 
@@ -32,25 +32,26 @@
 | 22 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 339 | Python | 60/100 |
 | 23 | [google-deepmind/kfac-jax](./google-deepmind-kfac-jax.md) | ⭐ 327 | Python | 60/100 |
 | 24 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 348 | Rust | 60/100 |
-| 25 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 59/100 |
-| 26 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
-| 27 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
-| 28 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
-| 29 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
-| 30 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
-| 31 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
-| 32 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
-| 33 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
-| 34 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
-| 35 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
-| 36 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
-| 37 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
-| 38 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
-| 39 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
-| 40 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
-| 41 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
-| 42 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
-| 43 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
+| 25 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 59/100 |
+| 26 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 59/100 |
+| 27 | [jshn9515/deep-learning-notes](./jshn9515-deep-learning-notes.md) | ⭐ 496 | Python | 59/100 |
+| 28 | [deanwampler/programming-scala-book-code-examples](./deanwampler-programming-scala-book-code-examples.md) | ⭐ 648 | Scala | 59/100 |
+| 29 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 58/100 |
+| 30 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 192 | Rust | 58/100 |
+| 31 | [langgenius/dify-plugins](./langgenius-dify-plugins.md) | ⭐ 483 | — | 58/100 |
+| 32 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 152 | Rust | 57/100 |
+| 33 | [alibaba/ROCK](./alibaba-rock.md) | ⭐ 436 | Python | 56/100 |
+| 34 | [ultralytics/inference](./ultralytics-inference.md) | ⭐ 104 | Rust | 55/100 |
+| 35 | [robertknight/rten](./robertknight-rten.md) | ⭐ 321 | Rust | 54/100 |
+| 36 | [CarlosEs9/learn-co-students](./carloses9-learn-co-students.md) | ⭐ 363 | Java | 49/100 |
+| 37 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ — | — | 47/100 |
+| 38 | [ttlequals0/MinusPod](./ttlequals0-minuspod.md) | ⭐ — | — | 45/100 |
+| 39 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 44/100 |
+| 40 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 44/100 |
+| 41 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 44/100 |
+| 42 | [msakai/cpl](./msakai-cpl.md) | ⭐ — | — | 43/100 |
+| 43 | [riccardomusumeci11/meanwhile](./riccardomusumeci11-meanwhile.md) | ⭐ — | — | 41/100 |
+| 44 | [ChrisLamDev/cua-desktop-automation-skills](./chrislamdev-cua-desktop-automation-skills.md) | ⭐ — | — | 41/100 |
 
 ---
 

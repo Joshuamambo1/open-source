@@ -9,8 +9,8 @@
 
 | | |
 |---|---|
-| 🗂️ **Total projects** | **14980** |
-| 📁 **Categories** | **22** |
+| 🗂️ **Total projects** | **160** |
+| 📁 **Categories** | **16** |
 | 🔄 **Auto-sync** | every 30 min via GitHub Actions |
 | 🧠 **Summaries** | LLM-generated (OpenRouter · OpenAI · Anthropic · Gemini · Groq · Z.AI) |
 
@@ -18,43 +18,37 @@
 
 | Category | Projects | |
 |---|---|---|
-| 🤖 **AI/ML** | 4591 | [Browse →](./aiml/) |
-| 📦 **Misc** | 2688 | [Browse →](./misc/) |
-| 🎨 **Frontend** | 1382 | [Browse →](./frontend/) |
-| 🧩 **Orchestration** | 1232 | [Browse →](./orchestration/) |
-| 🏷️ **Mcp** | 815 | [Browse →](./mcp/) |
-| 🔧 **DevTools** | 762 | [Browse →](./devtools/) |
-| ⚙️ **Backend** | 648 | [Browse →](./backend/) |
-| 🏷️ **Automation** | 532 | [Browse →](./automation/) |
-| ⛓️ **Crypto** | 508 | [Browse →](./crypto/) |
-| 🏷️ **Knowledgerag** | 329 | [Browse →](./knowledgerag/) |
-| 📊 **Data** | 314 | [Browse →](./data/) |
-| 🏷️ **Database** | 245 | [Browse →](./database/) |
-| 💳 **Payments** | 202 | [Browse →](./payments/) |
-| 📱 **Mobile** | 179 | [Browse →](./mobile/) |
-| 📈 **Trading** | 177 | [Browse →](./trading/) |
-| 🚀 **DevOps & Infra** | 109 | [Browse →](./devopsinfra/) |
-| 🔐 **Security** | 96 | [Browse →](./security/) |
-| 🏷️ **Observability** | 43 | [Browse →](./observability/) |
-| 🏷️ **Education** | 42 | [Browse →](./education/) |
-| ✨ **Design** | 41 | [Browse →](./design/) |
-| 🎯 **Product** | 25 | [Browse →](./product/) |
-| 🏷️ **Marketing** | 20 | [Browse →](./marketing/) |
+| 🤖 **AI/ML** | 54 | [Browse →](./aiml/) |
+| 📦 **Misc** | 23 | [Browse →](./misc/) |
+| 🎨 **Frontend** | 18 | [Browse →](./frontend/) |
+| 🏷️ **Mcp** | 15 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 13 | [Browse →](./orchestration/) |
+| 📊 **Data** | 9 | [Browse →](./data/) |
+| ⚙️ **Backend** | 9 | [Browse →](./backend/) |
+| 📱 **Mobile** | 7 | [Browse →](./mobile/) |
+| 🏷️ **Knowledgerag** | 3 | [Browse →](./knowledgerag/) |
+| 🚀 **DevOps & Infra** | 2 | [Browse →](./devopsinfra/) |
+| 🏷️ **Automation** | 2 | [Browse →](./automation/) |
+| 🔐 **Security** | 1 | [Browse →](./security/) |
+| 🔧 **DevTools** | 1 | [Browse →](./devtools/) |
+| ✨ **Design** | 1 | [Browse →](./design/) |
+| ⛓️ **Crypto** | 1 | [Browse →](./crypto/) |
+| 💳 **Payments** | 1 | [Browse →](./payments/) |
 
 ## 🔥 Top 10 by score
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 2 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 3 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 4 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 5 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 6 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 7 | [hey-api/hey-api](./payments/hey-api-hey-api.md) | ⭐ 5k | Payments |
-| 8 | [OpenAPITools/openapi-generator](./backend/openapitools-openapi-generator.md) | ⭐ 26.2k | Backend |
-| 9 | [google-antigravity/antigravity-sdk-python](./mcp/google-antigravity-antigravity-sdk-python.md) | ⭐ 2k | Mcp |
-| 10 | [assafelovic/gpt-researcher](./mcp/assafelovic-gpt-researcher.md) | ⭐ 27.9k | Mcp |
+| 1 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 55.9k | Orchestration |
+| 2 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 49.2k | Mcp |
+| 3 | [teng-lin/notebooklm-py](./aiml/teng-lin-notebooklm-py.md) | ⭐ 17.1k | AI/ML |
+| 4 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 10.3k | Mcp |
+| 5 | [BerriAI/litellm](./orchestration/berriai-litellm.md) | ⭐ 52.5k | Orchestration |
+| 6 | [can1357/oh-my-pi](./mcp/can1357-oh-my-pi.md) | ⭐ 15.7k | Mcp |
+| 7 | [esengine/DeepSeek-Reasonix](./orchestration/esengine-deepseek-reasonix.md) | ⭐ 25.8k | Orchestration |
+| 8 | [archestra-ai/archestra](./mcp/archestra-ai-archestra.md) | ⭐ 3.9k | Mcp |
+| 9 | [Canner/WrenAI](./knowledgerag/canner-wrenai.md) | ⭐ 15.7k | Knowledgerag |
+| 10 | [ruvnet/ruflo](./orchestration/ruvnet-ruflo.md) | ⭐ 62.7k | Orchestration |
 
 ## 🚀 How it works
 

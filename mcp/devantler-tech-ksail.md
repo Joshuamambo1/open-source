@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 85/100 |
-| 🗓️ **Last push** | 2026-07-02 |
+| 🗓️ **Last push** | 2026-07-03 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -55,7 +55,7 @@ devantler-tech/ksail：devantler-tech/ksail helps connect AI assistants to real 
 
 - 149 GitHub stars
 - 10 forks
-- updated 2026-07-02
+- updated 2026-07-03
 - primary language: Go
 - 20 topics
 
@@ -79,4 +79,4 @@ devantler-tech/ksail：devantler-tech/ksail helps connect AI assistants to real 
 
 ---
 
-<sub>🔭 Discovered 2026-07-02 · [View on GitHub](https://github.com/devantler-tech/ksail) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-07-03 · [View on GitHub](https://github.com/devantler-tech/ksail) · [← Back to Mcp](./README.md)</sub>

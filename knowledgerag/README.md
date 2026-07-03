@@ -202,8 +202,8 @@
 | 192 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 2.8k | Rust | 65/100 |
 | 193 | [ghc/ghc](./ghc-ghc.md) | ⭐ 3.3k | Haskell | 65/100 |
 | 194 | [jonfairbanks/local-rag](./jonfairbanks-local-rag.md) | ⭐ 750 | Python | 65/100 |
-| 195 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
-| 196 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
+| 195 | [Doragd/Algorithm-Practice-in-Industry](./doragd-algorithm-practice-in-industry.md) | ⭐ 4.5k | HTML | 65/100 |
+| 196 | [FoedusProgramme/Gramophone](./foedusprogramme-gramophone.md) | ⭐ 2.1k | Kotlin | 65/100 |
 | 197 | [DragonFlyBSD/DragonFlyBSD](./dragonflybsd-dragonflybsd.md) | ⭐ 616 | C | 65/100 |
 | 198 | [oakreader/oakreader](./oakreader-oakreader.md) | ⭐ 31 | Swift | 65/100 |
 | 199 | [TheKevJames/coveralls-python](./thekevjames-coveralls-python.md) | ⭐ 570 | Python | 65/100 |
@@ -224,8 +224,8 @@
 | 214 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 64/100 |
 | 215 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 64/100 |
 | 216 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 64/100 |
-| 217 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
-| 218 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
+| 217 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 64/100 |
+| 218 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 64/100 |
 | 219 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 64/100 |
 | 220 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 64/100 |
 | 221 | [sockmaster27/svader](./sockmaster27-svader.md) | ⭐ 458 | Svelte | 64/100 |

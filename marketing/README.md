@@ -2,7 +2,7 @@
 
 > 
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
@@ -16,18 +16,19 @@
 | 6 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 358 | JavaScript | 56/100 |
 | 7 | [tracim/tracim](./tracim-tracim.md) | ⭐ 272 | Python | 55/100 |
 | 8 | [openstudiocoalition/OpenStudioApplication](./openstudiocoalition-openstudioapplication.md) | ⭐ 168 | C++ | 54/100 |
-| 9 | [tafia/calamine](./tafia-calamine.md) | ⭐ 2.3k | Rust | 52/100 |
-| 10 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 50/100 |
-| 11 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 50/100 |
-| 12 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 50/100 |
-| 13 | [bluenote-1577/myloasm](./bluenote-1577-myloasm.md) | ⭐ 156 | Rust | 50/100 |
-| 14 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 49/100 |
-| 15 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 48/100 |
-| 16 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
-| 17 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
-| 18 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
-| 19 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
-| 20 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
+| 9 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 53/100 |
+| 10 | [tafia/calamine](./tafia-calamine.md) | ⭐ 2.3k | Rust | 52/100 |
+| 11 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 50/100 |
+| 12 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 50/100 |
+| 13 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 50/100 |
+| 14 | [bluenote-1577/myloasm](./bluenote-1577-myloasm.md) | ⭐ 156 | Rust | 50/100 |
+| 15 | [PSU3D0/formualizer](./psu3d0-formualizer.md) | ⭐ 123 | Rust | 49/100 |
+| 16 | [reliforp/reli-prof](./reliforp-reli-prof.md) | ⭐ 523 | PHP | 48/100 |
+| 17 | [AbsolutelySkilled/AbsolutelySkilled](./absolutelyskilled-absolutelyskilled.md) | ⭐ 144 | MDX | 46/100 |
+| 18 | [promises-aplus/promises-spec](./promises-aplus-promises-spec.md) | ⭐ — | — | 44/100 |
+| 19 | [kmcheung12/goodshelf](./kmcheung12-goodshelf.md) | ⭐ — | — | 44/100 |
+| 20 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 41/100 |
+| 21 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 41/100 |
 
 ---
 

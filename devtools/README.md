@@ -2,7 +2,7 @@
 
 > Developer productivity, editors, workflow
 
-**766 projects** in this category.
+**767 projects** in this category.
 
 ## Projects
 
@@ -186,8 +186,8 @@
 | 176 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 562 | Makefile | 68/100 |
 | 177 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 68/100 |
 | 178 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 68/100 |
-| 179 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
-| 180 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 179 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 68/100 |
+| 180 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 68/100 |
 | 181 | [vltpkg/vltpkg](./vltpkg-vltpkg.md) | ⭐ 516 | TypeScript | 68/100 |
 | 182 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 68/100 |
 | 183 | [qazbnm456/awesome-web-security](./qazbnm456-awesome-web-security.md) | ⭐ 13.4k | Python | 68/100 |
@@ -553,8 +553,8 @@
 | 543 | [0x61nas/aarty](./0x61nas-aarty.md) | ⭐ 84 | Rust | 58/100 |
 | 544 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 149 | Shell | 58/100 |
 | 545 | [Protryon/klickhouse](./protryon-klickhouse.md) | ⭐ 126 | Rust | 58/100 |
-| 546 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
-| 547 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 546 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 58/100 |
+| 547 | [paulfariello/aparte](./paulfariello-aparte.md) | ⭐ 142 | Rust | 58/100 |
 | 548 | [mos1128/ccg-gateway](./mos1128-ccg-gateway.md) | ⭐ 129 | Rust | 58/100 |
 | 549 | [codemod/codemod](./codemod-codemod.md) | ⭐ 993 | Rust | 58/100 |
 | 550 | [d-kimuson/claude-code-viewer](./d-kimuson-claude-code-viewer.md) | ⭐ 1.2k | TypeScript | 58/100 |
@@ -754,26 +754,27 @@
 | 744 | [Dicklesworthstone/asupersync](./dicklesworthstone-asupersync.md) | ⭐ 165 | Rust | 45/100 |
 | 745 | [PSeitz/lz4_flex](./pseitz-lz4-flex.md) | ⭐ 594 | Rust | 45/100 |
 | 746 | [jdx/hk](./jdx-hk.md) | ⭐ 833 | Rust | 45/100 |
-| 747 | [usetraces/traces](./usetraces-traces.md) | ⭐ — | — | 45/100 |
-| 748 | [mhmmuneef/PenTest-Toolkit-V2](./mhmmuneef-pentest-toolkit-v2.md) | ⭐ — | — | 45/100 |
-| 749 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
-| 750 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 44/100 |
-| 751 | [vanshitahujaa/archaeo](./vanshitahujaa-archaeo.md) | ⭐ — | — | 42/100 |
-| 752 | [pyjeebz/prescale](./pyjeebz-prescale.md) | ⭐ — | — | 41/100 |
-| 753 | [NaiaLorente/data-analyst](./naialorente-data-analyst.md) | ⭐ — | — | 41/100 |
-| 754 | [mooman219/fontdue](./mooman219-fontdue.md) | ⭐ — | — | 41/100 |
-| 755 | [ripienaar/free-for-dev](./ripienaar-free-for-dev.md) | ⭐ — | — | 41/100 |
-| 756 | [AnthonyBeeblebrox/pybench](./anthonybeeblebrox-pybench.md) | ⭐ — | — | 41/100 |
-| 757 | [rsub122/tabsmith-lint](./rsub122-tabsmith-lint.md) | ⭐ — | — | 41/100 |
-| 758 | [asatarin/testing-distributed-systems](./asatarin-testing-distributed-systems.md) | ⭐ — | — | 41/100 |
-| 759 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
-| 760 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
-| 761 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
-| 762 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
-| 763 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
-| 764 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 39/100 |
-| 765 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
-| 766 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 31/100 |
+| 747 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 45/100 |
+| 748 | [usetraces/traces](./usetraces-traces.md) | ⭐ — | — | 45/100 |
+| 749 | [mhmmuneef/PenTest-Toolkit-V2](./mhmmuneef-pentest-toolkit-v2.md) | ⭐ — | — | 45/100 |
+| 750 | [maurice2k/ultrapool](./maurice2k-ultrapool.md) | ⭐ — | — | 44/100 |
+| 751 | [Higangssh/gitcredits](./higangssh-gitcredits.md) | ⭐ — | — | 44/100 |
+| 752 | [vanshitahujaa/archaeo](./vanshitahujaa-archaeo.md) | ⭐ — | — | 42/100 |
+| 753 | [pyjeebz/prescale](./pyjeebz-prescale.md) | ⭐ — | — | 41/100 |
+| 754 | [NaiaLorente/data-analyst](./naialorente-data-analyst.md) | ⭐ — | — | 41/100 |
+| 755 | [mooman219/fontdue](./mooman219-fontdue.md) | ⭐ — | — | 41/100 |
+| 756 | [ripienaar/free-for-dev](./ripienaar-free-for-dev.md) | ⭐ — | — | 41/100 |
+| 757 | [AnthonyBeeblebrox/pybench](./anthonybeeblebrox-pybench.md) | ⭐ — | — | 41/100 |
+| 758 | [rsub122/tabsmith-lint](./rsub122-tabsmith-lint.md) | ⭐ — | — | 41/100 |
+| 759 | [asatarin/testing-distributed-systems](./asatarin-testing-distributed-systems.md) | ⭐ — | — | 41/100 |
+| 760 | [akiomik/mado](./akiomik-mado.md) | ⭐ — | — | 41/100 |
+| 761 | [einenlum/git-shitstorm](./einenlum-git-shitstorm.md) | ⭐ — | — | 41/100 |
+| 762 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ — | — | 41/100 |
+| 763 | [radareorg/r2garlic](./radareorg-r2garlic.md) | ⭐ — | — | 41/100 |
+| 764 | [NVIDIA/open-gpu-kernel-modules](./nvidia-open-gpu-kernel-modules.md) | ⭐ — | — | 41/100 |
+| 765 | [SGavrl/WfmOxide](./sgavrl-wfmoxide.md) | ⭐ — | — | 39/100 |
+| 766 | [jher7/tokenyst](./jher7-tokenyst.md) | ⭐ — | — | 39/100 |
+| 767 | [se7enxweb/symfonyone](./se7enxweb-symfonyone.md) | ⭐ — | — | 31/100 |
 
 ---
 

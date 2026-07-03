@@ -213,8 +213,8 @@
 | 203 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 600 | Go | 69/100 |
 | 204 | [mantinedev/mantine](./mantinedev-mantine.md) | ⭐ 31.3k | TypeScript | 69/100 |
 | 205 | [NG-ZORRO/ng-zorro-antd](./ng-zorro-ng-zorro-antd.md) | ⭐ 9.2k | TypeScript | 69/100 |
-| 206 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
-| 207 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
+| 206 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 69/100 |
+| 207 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 69/100 |
 | 208 | [playcanvas/engine](./playcanvas-engine.md) | ⭐ 16.1k | JavaScript | 69/100 |
 | 209 | [iPlug2/iPlug2](./iplug2-iplug2.md) | ⭐ 2.3k | C | 69/100 |
 | 210 | [gtema/openstack](./gtema-openstack.md) | ⭐ 104 | Rust | 69/100 |
@@ -715,8 +715,8 @@
 | 705 | [vivliostyle/vivliostyle.js](./vivliostyle-vivliostyle.js.md) | ⭐ 751 | TypeScript | 60/100 |
 | 706 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 434 | Dockerfile | 60/100 |
 | 707 | [walkinglabs/awesome-harness-engineering](./walkinglabs-awesome-harness-engineering.md) | ⭐ 2.4k | — | 60/100 |
-| 708 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
-| 709 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 708 | [aspect-build/aspect-cli](./aspect-build-aspect-cli.md) | ⭐ 156 | Rust | 60/100 |
+| 709 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 369 | Kotlin | 60/100 |
 | 710 | [alienator88/Sentinel](./alienator88-sentinel.md) | ⭐ 1.6k | Swift | 60/100 |
 | 711 | [jrsoftware/issrc](./jrsoftware-issrc.md) | ⭐ 5.3k | Pascal | 60/100 |
 | 712 | [opengovsg/FormSG](./opengovsg-formsg.md) | ⭐ 346 | TypeScript | 60/100 |
@@ -1043,8 +1043,8 @@
 | 1033 | [raydium-io/raydium-clmm](./raydium-io-raydium-clmm.md) | ⭐ 386 | Rust | 54/100 |
 | 1034 | [rust-lang/compiler-builtins](./rust-lang-compiler-builtins.md) | ⭐ 498 | Rust | 54/100 |
 | 1035 | [mendrik-private/sqv](./mendrik-private-sqv.md) | ⭐ 151 | Rust | 54/100 |
-| 1036 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
-| 1037 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
+| 1036 | [hyperlight-dev/hyperlight-wasm](./hyperlight-dev-hyperlight-wasm.md) | ⭐ 706 | Rust | 54/100 |
+| 1037 | [BrettMayson/HEMTT](./brettmayson-hemtt.md) | ⭐ 146 | Rust | 54/100 |
 | 1038 | [Gaok1/Raven-RiscV](./gaok1-raven-riscv.md) | ⭐ 101 | Rust | 54/100 |
 | 1039 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 915 | Rust | 54/100 |
 | 1040 | [SofusA/qobine](./sofusa-qobine.md) | ⭐ 216 | Rust | 54/100 |
@@ -1199,9 +1199,9 @@
 | 1189 | [compio-rs/winio](./compio-rs-winio.md) | ⭐ 117 | Rust | 50/100 |
 | 1190 | [buildcores/buildcores-open-db](./buildcores-buildcores-open-db.md) | ⭐ 320 | Shell | 50/100 |
 | 1191 | [facebookincubator/antlir](./facebookincubator-antlir.md) | ⭐ 111 | Rust | 50/100 |
-| 1192 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 1193 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 1194 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1192 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
+| 1193 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 1194 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 1195 | [Hylbert/Mark2TeX](./hylbert-mark2tex.md) | ⭐ — | — | 50/100 |
 | 1196 | [pkulak/matui](./pkulak-matui.md) | ⭐ 108 | Rust | 50/100 |
 | 1197 | [facebook/openbmc](./facebook-openbmc.md) | ⭐ 678 | C | 50/100 |
@@ -1362,8 +1362,8 @@
 | 1352 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ — | — | 41/100 |
 | 1353 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ — | — | 41/100 |
 | 1354 | [othmarodev/filaxy-herald](./othmarodev-filaxy-herald.md) | ⭐ — | — | 41/100 |
-| 1355 | [FeroVolar/Decision-Framework-Skill](./ferovolar-decision-framework-skill.md) | ⭐ — | — | 41/100 |
-| 1356 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
+| 1355 | [larrasket/emacs-liquid-glass](./larrasket-emacs-liquid-glass.md) | ⭐ — | — | 41/100 |
+| 1356 | [FeroVolar/Decision-Framework-Skill](./ferovolar-decision-framework-skill.md) | ⭐ — | — | 41/100 |
 | 1357 | [DDecoene/WebBaseIII](./ddecoene-webbaseiii.md) | ⭐ — | — | 41/100 |
 | 1358 | [a-chacon/procman](./a-chacon-procman.md) | ⭐ — | — | 41/100 |
 | 1359 | [monishmal3375/nova-vad](./monishmal3375-nova-vad.md) | ⭐ — | — | 41/100 |
